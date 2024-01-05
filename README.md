@@ -190,7 +190,7 @@ The desired schema from the transform job:
 
 #### Load job
 
-Read the transformed data from `staging/transformed`, and save it a sqlite database.
+Read the transformed data from `staging/transformed`, and save it to the sqlite database.
 
 
 ### 3. Unit Testing
