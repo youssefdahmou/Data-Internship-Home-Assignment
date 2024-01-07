@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Design Specialist",
+    "industry": "Retail,Design",
+    "description": "&lt;p&gt;\u25aa Drive sales &amp;amp; achieve sales goals per hour, by connecting customers to you and Pottery Barn Kids &lt;/p&gt;&lt;p&gt;\u25aa Inspire associates &amp;amp; customers by connecting them to design trends, inspiration &amp;amp; local resources that reflect the eclectic, creative &amp;amp; modern spirit of the brand &lt;/p&gt;&lt;p&gt;\u25aa Develop &amp;amp; manage relationships with clients, designers, developers, local businesses &amp;amp; artisans&lt;/p&gt;&lt;p&gt;\u25aa Prioritize the customer &amp;amp; collaborate with your team to ensure adequate selling floor coverage during in-store or in-home appointments&lt;/p&gt;&lt;p&gt;\u25aa Discover each customers\u2019 style by sparking conversation, sharing inspiration &amp;amp; consulting with them to learn how to bring their story to life&lt;/p&gt;&lt;p&gt;\u25aa Share decorating expertise &amp;amp; develop thoughtful space plans that fit the customers\u2019 lifestyle&lt;/p&gt;&lt;p&gt;\u25aa Develop vision boards, floorplans &amp;amp; utilize Pinterest to help customers express their personal style at home&lt;/p&gt;",
+    "employment_type": "PART_TIME",
+    "date_posted": "2021-08-20T00:27:19.000Z"
+  },
+  "company": {
+    "name": "Pottery Barn Kids",
+    "link": "https://www.linkedin.com/company/pottery-barn-kids"
+  },
+  "education": {
+    "required_credential": null
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Design Specialist"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Ramon",
+    "region": "CA",
+    "postal_code": "94582",
+    "street_address": null,
+    "latitude": 37.777084,
+    "longitude": -121.96752
+  }
+}

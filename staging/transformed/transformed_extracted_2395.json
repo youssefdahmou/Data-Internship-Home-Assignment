@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "DevOps Engineer",
+    "industry": "Health, Wellness and Fitness",
+    "description": "&lt;p&gt;This position will be responsible for helping with the teams move to automation. This will include both Infrastructure as Code and SecDevOps.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;This individual will be responsible for maintaining existing code, creating new automation and corresponding documentation.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;The position will focus Application Delivery Networking, which includes Load Balancing, Smart DNS and Security Offerings.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Required Qualifications&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;2+ years of development and maintenance experience in Ansible OR Tower.&lt;/li&gt;&lt;li&gt;2+ years of development and maintenance experience in Git.&lt;/li&gt;&lt;li&gt;2+ years of development and maintenance experience in REST Interfaces.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Preferred Qualifications&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;It would be nice if the candidate had experience with Load Balancing, Networking or Private Key Infrastructure.&lt;/li&gt;&lt;li&gt;Experience in:&lt;/li&gt;&lt;li&gt;Cloud platform experience: AWS/AZURE/GCP&lt;/li&gt;&lt;li&gt;Declarative Onboarding using AS3&lt;/li&gt;&lt;li&gt;Database Experience&lt;/li&gt;&lt;li&gt;Octopus&lt;/li&gt;&lt;li&gt;Bash&lt;/li&gt;&lt;li&gt;VSCode\\Python\\PHP&lt;/li&gt;&lt;li&gt;Node.js&lt;/li&gt;&lt;li&gt;React.js&lt;/li&gt;&lt;li&gt;SNOW&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Education&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;A degree in information technology or matching job experience.&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T01:33:47.000Z"
+  },
+  "company": {
+    "name": "CVS Health",
+    "link": "https://www.linkedin.com/company/cvs-health"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": "DevOps Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Hartford",
+    "region": "CT",
+    "postal_code": "06156",
+    "street_address": null,
+    "latitude": 41.765774,
+    "longitude": -72.673355
+  }
+}

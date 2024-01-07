@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "&lt;p&gt;This is your dream position if you love providing actionable insights from sources like media buying platforms and customer journeys through the e-commerce cycle.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;THIS IS POSITION FOR OUR OFFICE IN SALT LAKE CITY, UTAH.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Analyze raw data: assessing quality, cleansing, structuring for downstream processing&lt;/li&gt;&lt;li&gt;Collaborate with the media buyer team to bring analytical insights to the reality&lt;/li&gt;&lt;li&gt;Generate actionable insights for business improvements&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bachelor's degree or equivalent experience in a quantitative field (Statistics, Mathematics, Computer Science, Engineering, information systems.)&lt;/li&gt;&lt;li&gt;At least 1 - 2 years' of experience in analytics&lt;/li&gt;&lt;li&gt;Experience in gathering insights from google ads manager, Facebook, Shopify, Gemini, Acuity, taboola, etc.&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T16:27:40.000Z"
+  },
+  "company": {
+    "name": "Creatably",
+    "link": "https://www.linkedin.com/company/creatably"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": "Data Scientist"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Lindon",
+    "region": "UT",
+    "postal_code": "84042",
+    "street_address": null,
+    "latitude": 40.34469,
+    "longitude": -111.72308
+  }
+}

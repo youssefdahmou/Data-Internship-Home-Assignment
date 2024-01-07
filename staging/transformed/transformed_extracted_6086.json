@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "&lt;strong&gt;&lt;u&gt;Job Description&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;Title: Site Reliability Engineer&lt;br&gt;&lt;br&gt;Location: Beaverton, Oregon (97008) / Remote Option&lt;br&gt;&lt;br&gt;Employment Type: Direct Hire (no c2c or sponsorship available)&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;Job Description&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;EdgeLink is looking for a Site Reliability Engineer (SRE) to join an expanding team focused on connecting business to cloud applications and environments. From a skills perspective we are targeting most of the following:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Bachelor' s degree or equivalent practical experience&lt;/li&gt;&lt;li&gt;Experience supporting development environments that include Linux tools, Bamboo, Puppet, Terraform, AWS, and Azure&lt;/li&gt;&lt;li&gt;Deep understanding of the Unix/Linux operating systems, including kernel networking packet flow&lt;/li&gt;&lt;li&gt;Strong understanding of network fundamentals, including tunneling&lt;/li&gt;&lt;li&gt;Working knowledge of SQL databases&lt;/li&gt;&lt;li&gt;Experience with algorithms and data structures are a nice to have&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;Edgelink would like to thank all applicants, however only those who qualify for an interview will be contacted.&lt;br&gt;&lt;br&gt;EdgeLink is an equal opportunity employer.&lt;br&gt;&lt;br&gt;Job Requirements&lt;br&gt;&lt;br&gt;SRE, DevOps, Site Reliability, CI/CD, Cloud, Azure, AWS, Linux, Bamboo, Puppet, Terraform, Unix, Networking, Tunneling, SQL, Database, Algorithm, Data Structure, VPN&lt;br&gt;&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T03:12:38.000Z"
+  },
+  "company": {
+    "name": "EdgeLink",
+    "link": "https://www.linkedin.com/company/edgelink"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Site Reliability Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Portland",
+    "region": "OR",
+    "postal_code": "97268",
+    "street_address": null,
+    "latitude": 45.516018,
+    "longitude": -122.68143
+  }
+}

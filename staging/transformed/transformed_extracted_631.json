@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Enterprise Software Engineer",
+    "industry": "Computer Software,Automotive,Information Technology and Services",
+    "description": "&lt;strong&gt;&lt;u&gt;Who We Are&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;Argo AI is in the business of building self-driving technology you can trust. With experienced leaders in the field and collaborative partnerships with some of the world\u2019s largest automakers, we\u2019re building self-driving technology that is engineered to scale globally and transform mobility for millions.&lt;br&gt;&lt;br&gt;Talented individuals join our team because they share our purpose to make it safe, easy, and enjoyable for everyone to get around cities. We aspire to impact key industries that move people and goods, from ride hailing to deliveries.&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;Meet The Team&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;You will join a senior development team responsible for the growth and deployment of global tools to support the corporate and production systems. This role will be focused on building new software solutions to provide advanced technology systems across the enterprise. You will have the opportunity to creatively design solutions and solve complex problems with code.&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;What You\u2019ll Do&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Build software based in a variety of common languages, JavaScript, Python, Java&lt;/li&gt;&lt;li&gt;Leverage web based languages and frameworks such as TypeScript, React, and Vue.js to create reports, dashboards, and web-based applications&lt;/li&gt;&lt;li&gt;Collaborate with internal teams and customers to identify new products and services, requirements, features, and interfaces&lt;/li&gt;&lt;li&gt;Be a key contributor to the team\u2019s code base&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;What You'll Need To Succeed&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Degree in Computer Engineering, Computer Science, Electrical Engineering, Robotics or a related field&lt;/li&gt;&lt;li&gt;7+ years experience in software engineering&lt;/li&gt;&lt;li&gt;Experience with TypeScript and/or JavaScript and frontend frameworks (e.g.: React, Vue.js)&lt;/li&gt;&lt;li&gt;Experience with SQL and NoSQL databases, including PostgreSQL and MongoDB&lt;/li&gt;&lt;li&gt;Deep familiarity with several core development languages, JavaScript, Python, Java&lt;/li&gt;&lt;li&gt;Hands on development in Python, Go, or Java to create production level services that incorporate CI/CD&lt;/li&gt;&lt;li&gt;Experience in using infrastructure as code&lt;/li&gt;&lt;li&gt;High level of comfort in Linux and OSX platforms and development tools&lt;/li&gt;&lt;li&gt;Familiarity working in an end to end CI/CD pipeline&lt;/li&gt;&lt;li&gt;Good communication skills -- verbal and written&lt;/li&gt;&lt;li&gt;Excellent documentation process&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Nice To Haves&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Hands on experience with Docker, Kubernetes, Jenkins, Terraform, Ansible, Ansible Tower, Cloud&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;What We Offer You&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;High-quality individual and family medical, dental, and vision insurance&lt;/li&gt;&lt;li&gt;Competitive compensation packages&lt;/li&gt;&lt;li&gt;Employer-matched 401(k) retirement plan with immediate vesting&lt;/li&gt;&lt;li&gt;Employer-paid group term life insurance and the option to elect voluntary life insurance &lt;/li&gt;&lt;li&gt;Paid parental leave &lt;/li&gt;&lt;li&gt;Paid medical leave&lt;/li&gt;&lt;li&gt;Unlimited vacation&lt;/li&gt;&lt;li&gt;Complimentary daily lunches, beverages, and snacks&lt;/li&gt;&lt;li&gt;Pre-tax commuter benefits&lt;/li&gt;&lt;li&gt;Monthly wellness stipend &lt;/li&gt;&lt;li&gt;Professional development reimbursement&lt;/li&gt;&lt;li&gt;Employee assistance program&lt;/li&gt;&lt;li&gt;Discounted programs that include legal services, identity theft protection, pet insurance, and more&lt;/li&gt;&lt;li&gt;Company and team bonding outlets: employee resource groups, quarterly team activity stipend, and wellness initiatives&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Our Background&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;Argo AI was founded in late 2016 by industry experts with extensive experience building robotic systems for commercial applications. Our once-small team has since grown into an over 1,000-person strong company with strategic partnerships with two of the world\u2019s leading automakers: Ford and Volkswagen. Our self-driving system is the first with commercial deployment plans for Europe and the U.S., and thanks to an ability to tap into both automakers\u2019 global reach, our technology platform has the largest geographic deployment potential of any self-driving technology to date.&lt;br&gt;&lt;br&gt;At Argo AI, we believe that embracing differences delivers superior results. We are an equal opportunity employer that is committed to an inclusive environment for all employees.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T18:43:28.000Z"
+  },
+  "company": {
+    "name": "Argo AI",
+    "link": "https://www.linkedin.com/company/argo-ai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": "Enterprise Software Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Pittsburgh",
+    "region": "PA",
+    "postal_code": "15235",
+    "street_address": null,
+    "latitude": 40.44217,
+    "longitude": -79.99496
+  }
+}

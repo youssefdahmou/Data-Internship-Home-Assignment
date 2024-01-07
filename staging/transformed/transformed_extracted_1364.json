@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Naval Aviation Software Engineer",
+    "industry": "Information Technology and Services,Defense &amp; Space,Computer Software",
+    "description": "SOLUTE is a dynamic group of professionals that focus on solving the nation\u2019s hardest technical challenges in software engineering, data analytics, and cyber security. The PAX River team supports the Naval Aviation Systems Command by providing world-class technologists building cutting-edge solutions in an open, innovative environment. Our team is close-knit, values the product we provide to our warfighters, and we like to have fun while delivering high quality results.&lt;br&gt;&lt;br&gt;We are seeking talented and inspired Software Engineers who are interested in a career working with US Navy combat aircraft and supporting aircraft weapon systems. These state-of-the-art systems require on-going software development and revisions to keep pace with emerging technologies, and we are seeking candidates with practical software development experience to assist with these tasks. We have multiple positions that support of a variety of aircraft and associated mission, weapons, and combat systems.&lt;br&gt;&lt;br&gt;Our Software Engineers are intimately involved in the development of software code used for operation and support of naval aircraft in real-world battlefield environments. Responsibilities will include writing, modifying and adapting aviation-related computer code, and performing research on applications for hardware, software and operating systems. Be part of the team that keeps the Navy flying.&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;Requirements&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;strong&gt;Required Skills and Experience&lt;br&gt;&lt;/strong&gt;&lt;ul&gt; &lt;li&gt;Bachelor\u2019s degree in Computer Science, Computer Systems Information Systems Management, Statistics or Mathematics.&lt;/li&gt; &lt;li&gt;One (1) to Three (3) years of practical development experience with DoD systems.&lt;/li&gt; &lt;li&gt;Current Department of Defense SECRET clearance (interim acceptable).&lt;/li&gt; &lt;li&gt; The ability to work at NAS Patuxent River, Lexington Park, MD.&lt;/li&gt; &lt;br&gt;&lt;br&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Preferred Skills And Experience&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt; &lt;li&gt;Familiarity with C/C#/C++/VxWorks real-time data processing and/or familiarity with Java/C#/.NET/Visual Basic software is desired.&lt;/li&gt; &lt;li&gt;Experience with software development on aircraft mission systems, weapon systems, or DoD related programs.&lt;/li&gt; &lt;li&gt;Ada programming expertise.&lt;/li&gt; &lt;br&gt;&lt;br&gt;&lt;/ul&gt;&lt;u&gt;&lt;strong&gt;Benefits&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;/u&gt;Benefits include&lt;br&gt;&lt;br&gt;&lt;li&gt;Medical, Dental and Vision&lt;/li&gt;&lt;li&gt;Life and A&amp;amp;D coverage&lt;/li&gt;&lt;li&gt;Employee Assistance Program (EAP)&lt;/li&gt;&lt;li&gt;401(k) Plan with company matching contributions&lt;/li&gt;&lt;li&gt;Paid Time Off (PTO) and 10 paid Holidays&lt;/li&gt;&lt;li&gt;Educational assistance&lt;br&gt;&lt;br&gt;&lt;/li&gt;SOLUTE is an equal opportunity employer. All applicants will be considered for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, marital status, veteran status or any other applicable legally protected status or characteristic.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-17T03:23:57.000Z"
+  },
+  "company": {
+    "name": "SOLUTE",
+    "link": "https://www.linkedin.com/company/solute-consulting"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": "Naval Aviation Software Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Lexington Park",
+    "region": "MD",
+    "postal_code": "20653",
+    "street_address": null,
+    "latitude": 38.26479,
+    "longitude": -76.45503
+  }
+}

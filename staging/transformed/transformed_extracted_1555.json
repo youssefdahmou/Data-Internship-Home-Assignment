@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "&lt;p&gt;Option Pool Exchange is a Crypto Futures Exchange with a cumulative trading volume of $7.5 billion USD. We offer x7000 times leveraged products and have recently issued our own Rich Otter token, a tokenized insurance fund for our Crypto Derivative Exchange.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;We are currently in the process of relocating our headquarter to New York City, and thus we are looking for software engineers to work at our New York City office. This job offer is on a rolling basis and may close at any time whenever we find the right candidates. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Job description&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Full-time, office in midtown manhattan&lt;/li&gt;&lt;li&gt;$110-220K depending on your market rate (includes stock options &amp;amp; bonus)&lt;/li&gt;&lt;li&gt;Designing highly scalable codes that can handle millions of transactions per second&lt;/li&gt;&lt;li&gt;Meticulous research and development on ultra-low latency applications &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;       (we care about microsecond level latency, which is one-millionth of a second)&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;We don't micromanage our employees, thus you must be highly self-motivated to be successful at our organization.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bachelor's degree or higher in Computer Science or related field &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;        (graduate degree highly preferred)&lt;/p&gt;&lt;ul&gt;&lt;li&gt;At least +3 years of commercial application development experience&lt;/li&gt;&lt;li&gt;Fluency in the following tools: GO, PostgreSQL, Node.js, AWS, EC2, S3, RDS&lt;/li&gt;&lt;li&gt;US work authorization (visa sponsorships will not be generally considered)&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T03:36:13.000Z"
+  },
+  "company": {
+    "name": "OPTION POOL",
+    "link": "https://www.linkedin.com/company/option-pool"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": "Software Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

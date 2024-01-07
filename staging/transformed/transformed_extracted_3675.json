@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Information Services",
+    "description": "&lt;p&gt;&lt;strong&gt;Must Haves:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;6+ years of experience designing, building, deploying, testing, maintaining, monitoring and owning scalable, resilient and distributed machine learning algorithms and systems.&lt;/li&gt;&lt;li&gt;Expertise with Machine Learning algorithms applied to Recommender Systems and Search.&lt;/li&gt;&lt;li&gt;Proficiency in operating machine learning solutions at scale, covering the end-to-end ML workflow.&lt;/li&gt;&lt;li&gt;Experience with offline experimentation and A/B testing.&lt;/li&gt;&lt;li&gt;Deep knowledge of ML tools and frameworks (TensorFlow, Keras, pyTorch, scikit-learn, Spark, ...).&lt;/li&gt;&lt;li&gt;Proficiency in programming languages such as Python or Scala.&lt;/li&gt;&lt;li&gt;Strong understanding of modern approaches to Recommendation or Search (GBDT, CNN, LSTM, GRU, HRNN, transformers, siamese neural networks, variational auto-encoders, ...).&lt;/li&gt;&lt;li&gt;Experience with at least one of Deep Learning, Contextual Multi-Armed Bandits, Reinforcement Learning, Causal Inference.&lt;/li&gt;&lt;li&gt;Familiarity with real-world ML systems (configuration, data collection, data verification, feature extraction, resource and process management, analytics, training, serving, validation, experimentation, monitoring).&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Nice to Haves&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Understanding of batch and streaming data processing techniques.&lt;/li&gt;&lt;li&gt;Obsession for service observability, instrumentation, monitoring and alerting.&lt;/li&gt;&lt;li&gt;Knowledge of AWS or similar cloud platforms.&lt;/li&gt;&lt;li&gt;Familiarity with CI/CD tools (CircleCI, Jenkins or similar) to automate building, testing and deployment of the ML algorithms and to manage the infrastructure (Pulumi, Terraform or CloudFormation).&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T19:52:49.000Z"
+  },
+  "company": {
+    "name": "Majhi Group",
+    "link": "https://www.linkedin.com/company/majhigroup"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": "Data Scientist"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

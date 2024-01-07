@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer Software,Banking,Computer &amp; Network Security",
+    "description": "&lt;p&gt;We are searching for a quality C# developer to develop code and .NET solutions for our business. In this role, you will be required to design, write, and maintain C# coding for our future and ongoing projects. You will also be required to contribute to design and planning sessions as well as formulate approaches for current coding tasks.&lt;/p&gt;&lt;p&gt;To ensure success as a C# developer you must have an excellent grasp of C# and the .NET framework, prolific coding abilities, and be able to problem-solve on a daily basis. A top-quality C# developer will be able to perform full-stack development as well as handle the creation, maintenance, and further development of .NET applications and programs.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;span class=\"ql-cursor\"&gt;&lt;/span&gt;C# Developer Responsibilities:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Developing C# .NET solutions for the organization.&lt;/li&gt;&lt;li&gt;Creating in-house applications using the .NET framework.&lt;/li&gt;&lt;li&gt;Debugging and maintaining written code.&lt;/li&gt;&lt;li&gt;Defining and organizing projects on an ongoing basis.&lt;/li&gt;&lt;li&gt;Reporting and resolving issues related to .NET projects.&lt;/li&gt;&lt;li&gt;Identifying and handling technical risks and issues.&lt;/li&gt;&lt;li&gt;Working in a project team alongside other developers.&lt;/li&gt;&lt;li&gt;Providing technical support to stakeholders in the organization.&lt;/li&gt;&lt;li&gt;Reporting on project statuses and developments to senior team members.&lt;/li&gt;&lt;li&gt;Participating in project meetings with management and other team members.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;C# Developer Requirements:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;A bachelor's degree in computer programming, computer science, or information technology.&lt;/li&gt;&lt;li&gt;C#, .NET 3.5 (or higher), and Microsoft Visual Studio certification and experience.&lt;/li&gt;&lt;li&gt;A minimum of 2 years of experience as a C# programmer or developer.&lt;/li&gt;&lt;li&gt;Knowledge of other coding-languages (PHP, C+, Java, etc).&lt;/li&gt;&lt;li&gt;Ability to write clean, easy to understand code.&lt;/li&gt;&lt;li&gt;Outstanding analytical and problem-solving capabilities.&lt;/li&gt;&lt;li&gt;Excellent written and verbal communication skills.&lt;/li&gt;&lt;li&gt;Ability to work independently and complete projects with minimal supervision.&lt;/li&gt;&lt;li&gt;Sound understanding of coding and development processes.&lt;/li&gt;&lt;li&gt;Experience with working in an agile environment.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-20T00:02:51.000Z"
+  },
+  "company": {
+    "name": "Applied Resource Group",
+    "link": "https://www.linkedin.com/company/applied-resource-group"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": "Software Engineer"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 100000,
+    "max_value": 140000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Alpharetta",
+    "region": "GA",
+    "postal_code": "30022",
+    "street_address": null,
+    "latitude": 34.075615,
+    "longitude": -84.29455
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer, US",
+    "industry": "Information Technology and Services,Computer Software,Hospital &amp; Health Care",
+    "description": "&lt;strong&gt;Data Ingestion Software Engineer, US&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;em&gt;TriNetX is the global health research network that optimizes clinical research and enables discoveries through the generation of real-world evidence. TriNetX combines real-time access to longitudinal clinical data with state-of-the-art analytics to answer complex research questions at the speed of thought.&lt;br&gt;&lt;br&gt;&lt;/em&gt;&lt;em&gt;Currently, TriNetX has access to an international growing patient population of over 300M, representing 10\u2019s of billions of clinical data points. With headquarters in Cambridge, Massachusetts, TriNetX is one of the fastest growing, privately-held companies in the area\u2019s life sciences corridor.&lt;br&gt;&lt;br&gt;&lt;/em&gt;&lt;em&gt;We are looking for an extremely talented, energetic, and motivated individual to join our team as a Data Ingestion Software Engineer. The Data Ingestion Software Engineer will be a member of our Global Data Engineering team and will participate in all aspects of the software development lifecycle for our healthcare data acquisition capabilities and initiatives.&lt;br&gt;&lt;br&gt;&lt;/em&gt;&lt;em&gt;A candidate must have experience developing high level solution designs, in conjunction with IT Architects, and be able to communicate those designs effectively to team members. The individual must effectively work independently and across the team leveraging their broad and deep technical skills and experience to ensure effective, maintainable and quality deliverables are produced, based on requirements.&lt;br&gt;&lt;br&gt;&lt;/em&gt;&lt;strong&gt;Possible Day-to-Day:&lt;br&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Collaborate effectively within TriNetX to define data acquisition solution product requirements based on TriNetX business objectives.&lt;/li&gt;&lt;li&gt;Use best practices for the design, model, development, implementation, validation and optimization of data acquisition solutions using TriNetX technology standards&lt;/li&gt;&lt;li&gt;Conduct testing and issue resolution ensuring data acquisition solutions satisfy operational acceptance criteria across our customer base.&lt;/li&gt;&lt;li&gt;Create solution documentation for internal TriNetX support as well as for external customers.&lt;/li&gt;&lt;li&gt;Contribute to multiple simultaneous customer engagements using effective workload management and prioritization capabilities.&lt;/li&gt;&lt;li&gt;Adhere to healthcare data governance policies including the protection of protected health information (PHI) or personal information (PI) and the reporting of breaches of defined policies.&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;What you bring to the table:&lt;br&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;BS and/or MS degree in Computer Science or equivalent combination of education and experience.&lt;/li&gt;&lt;li&gt;Minimum 3+ years\u2019 software engineering to include significant product development experience with numerous project successes demonstrating a strong aptitude in all aspects of data integration and data warehousing.&lt;/li&gt;&lt;li&gt;Minimum 3+ years\u2019 experience in database concepts, logical modeling, physical design and database configuration, and optimization. &lt;/li&gt;&lt;li&gt;Minimum 3+ years\u2019 experience writing scripting languages in Windows and Unix-based operating systems.&lt;/li&gt;&lt;li&gt;Experience communicating with customers internal and external customers&lt;/li&gt;&lt;li&gt;Experience with automated testing tools&lt;/li&gt;&lt;li&gt;Experience with ETL tool development&lt;/li&gt;&lt;li&gt;Experience with DBMS (like PostreSQL, MIcrosoft SQL and Oracle)&lt;/li&gt;&lt;li&gt;Programming experience developing software using scripts and programming languages to include Python, Java, SQL, Unix shell scripting, Windows batch scripting.&lt;/li&gt;&lt;li&gt;Good understanding of loose coupling and clean coding.&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;Interested in joining our community?&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;em&gt;TriNetX is an Equal Opportunity Employer. All persons are considered for employment without regard to their race, color, creed, religion, national origin, ancestry, citizenship status, age, disability or handicap, sex or gender, marital status, sexual orientation, genetic information, gender identity, veteran status, or any other characteristic or status protected by applicable federal, state or local laws.&lt;br&gt;&lt;br&gt;&lt;/em&gt;&lt;strong&gt;No recruiters or agencies, please. Any candidate(s) submitted through outside agencies will NOT be considered and disqualified. Thank You!&lt;br&gt;&lt;br&gt;&lt;/strong&gt;Powered by JazzHR&lt;br&gt;&lt;br&gt;conlN0cvK8",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T08:30:23.000Z"
+  },
+  "company": {
+    "name": "TriNetX",
+    "link": "https://www.linkedin.com/company/trinetx"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": "Data Engineer, US"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cambridge",
+    "region": "MA",
+    "postal_code": "02239",
+    "street_address": null,
+    "latitude": 42.36525,
+    "longitude": -71.10502
+  }
+}

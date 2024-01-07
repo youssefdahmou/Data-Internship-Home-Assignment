@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "",
+    "description": "Our client is looking for a competent analyst who is experienced in developing and maintaining software applications to improve maintain and help achieve business demands. The company provides very competitive compensation and benefits for employees. Moreover, the working environment is healthy and very encouraging for growth. Grab this spot and secure a bright future!&lt;br&gt;&lt;br&gt;The key function of a Senior Programmer/Analyst&lt;br&gt;&lt;br&gt;- to define, develop, test, analyze, and maintain new software applications in support of the achievement of business requirements.&lt;br&gt;&lt;br&gt;Responsibilities to expect:&lt;br&gt;&lt;br&gt;Collaborate with developers, programmers, and designers to conceptualize and develop new and existing software programs and applications&lt;br&gt;&lt;br&gt;Scoping/estimating stories, and epics&lt;br&gt;&lt;br&gt;Conduct research on emerging application development software products, languages, and standards in support of procurement and development efforts&lt;br&gt;&lt;br&gt;Liaise with network administrators, systems analysts, and software engineers to assist in resolving problems with software products or company software systems - Drive test-first and behavior-driven development practices&lt;br&gt;&lt;br&gt;Manage and/or provide guidance to junior team members&lt;br&gt;&lt;br&gt;Other Duties as assigned&lt;br&gt;&lt;br&gt;Requirements:&lt;br&gt;&lt;br&gt;5 years of software development using OO such as Java or C#&lt;br&gt;&lt;br&gt;Experience with agile methodologies, Scrum specifically&lt;br&gt;&lt;br&gt;Desired: Tomcat, Spring, React, JQuery, Javascript, MySQL/Maria&lt;br&gt;&lt;br&gt;Benefits:&lt;br&gt;&lt;br&gt;Healthy environment&lt;br&gt;Full Healthcare Benefits \u2013 Medical, &lt;br&gt;Dental, Vision, Disability insurance&lt;br&gt;401K with company matching&lt;br&gt;PTO credits&lt;br&gt;Salary:  (DOE)&lt;br&gt;&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T20:11:31.000Z"
+  },
+  "company": {
+    "name": "STAFF CX",
+    "link": "https://www.linkedin.com/company/staffcx"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Senior Software Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Solon",
+    "region": "OH",
+    "postal_code": "44139",
+    "street_address": null,
+    "latitude": 41.36921,
+    "longitude": -81.4156
+  }
+}

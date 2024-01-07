@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Full Stack Software Engineer ",
+    "industry": "Information Technology and Services",
+    "description": "&lt;p&gt;Optomi in partnership with a major sports association who is looking for a junior level Full Stack Developer. This association is looking for someone eager and willing to have all hands on deck. The ideal candidate will work well in a collaborative environment and obtain great communications skills. Join a team of proud, passionate, and caring people that together share their diverse talents and backgrounds to serve the members of the association.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Must Have Skills/ Requirements:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bachelor\u2019s Degree (B.S.) in Computer Programming, Computer Science or related field.&amp;nbsp;&lt;/li&gt;&lt;li&gt;2+ years experience.&lt;/li&gt;&lt;li&gt;Full stack development experience.&lt;/li&gt;&lt;li&gt;Has worked with Ruby on Rails.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Test driven development.&lt;/li&gt;&lt;li&gt;Web frameworks.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;What The Candidate Will Enjoy:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Working for a major sports association to design, develop, test, deploy, maintain and improve software!&lt;/li&gt;&lt;li&gt;Managing individual project priorities, deadlines and deliverables!&lt;/li&gt;&lt;li&gt;Helping build a world-class team and cultivate innovation!&lt;/li&gt;&lt;li&gt;Leading designs of major software components, systems, and features!&lt;/li&gt;&lt;li&gt;Mentoring and training other team members on new technologies, design techniques, and coding standards!&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T13:34:42.000Z"
+  },
+  "company": {
+    "name": "Optomi",
+    "link": "https://www.linkedin.com/company/optomi"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": "Full Stack Software Engineer "
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas-Fort Worth Metroplex",
+    "region": null,
+    "postal_code": "75049",
+    "street_address": null,
+    "latitude": 32.7513,
+    "longitude": -97.08263
+  }
+}

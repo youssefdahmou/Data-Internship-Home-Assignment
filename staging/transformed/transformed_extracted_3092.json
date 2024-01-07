@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "A Site Reliability Engineer ensures the availability of RainFocus applications by constantly improving our monitoring processes, addressing scalability problems, and helping triage production issues.&lt;br&gt;&lt;br&gt;&lt;strong&gt; Essential Responsibilities &lt;br&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Monitor production systems performance to ensure event and feature launches go smoothly.&lt;/li&gt;&lt;li&gt;Debug critical production issues, and provide a Root Cause Analysis after.&lt;/li&gt;&lt;li&gt;Architect and develop tooling as needed to automate or improve monitoring and alerting processes.&lt;/li&gt;&lt;/ul&gt;Required Experience/Skills &amp;amp; Attributes:&lt;br&gt;&lt;ul&gt;&lt;li&gt;3+ years of professional software development experience.&lt;/li&gt;&lt;li&gt;BS in Computer Science, a similar field, or equivalent experience&lt;/li&gt;&lt;li&gt;Experience in Object-Oriented design and programming.&lt;/li&gt;&lt;li&gt;Experience working with a Relational Database Management System, including database design and advanced SQL Queries.&lt;/li&gt;&lt;li&gt;Experience scaling systems in a high traffic environment.&lt;/li&gt;&lt;li&gt;Experience using a variety of technologies to solve problems, and being able to pick the right tool for the job.&lt;/li&gt;&lt;li&gt;Experience with AWS and/or Kubernetes is a plus.&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt; Personal Characteristics &lt;br&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;The best candidates for this position will need to have strong chemistry and a culture fit within RainFocus. They will need to be comfortable working in a fast-paced, challenging, and dynamic environment. Additional personal qualities include:&lt;/li&gt;&lt;li&gt;Team-player&lt;/li&gt;&lt;li&gt;Self-motivated&lt;/li&gt;&lt;li&gt;Strong Communicator&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt; Success Measures &lt;br&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;A good steward of company resources.&lt;/li&gt;&lt;li&gt;Takes ownership of assigned tasks, and sees them through to completion.&lt;/li&gt;&lt;li&gt;Able to communicate across multiple teams and disciplines.&lt;/li&gt;&lt;li&gt;A passion for solving complex problems with custom code and off-the-shelf products.&lt;/li&gt;&lt;/ul&gt; Remote options available. Some travel may be required.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T05:10:32.000Z"
+  },
+  "company": {
+    "name": "RainFocus",
+    "link": "https://www.linkedin.com/company/rainfocus"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": "Site Reliability Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Lehi",
+    "region": "UT",
+    "postal_code": "84043",
+    "street_address": null,
+    "latitude": 40.387875,
+    "longitude": -111.84917
+  }
+}

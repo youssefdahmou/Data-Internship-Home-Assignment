@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Strategy Data Scientist",
+    "industry": "Banking,Financial Services,Investment Banking",
+    "description": "&lt;p&gt;Jefferies is seeking a Data Scientist to join the Data Strategy team within Equity Research.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Responsibilities Will Include&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Work closely with Head of Data Strategy in creation of fundamental models, design of data tools, coordination with global sector team, evaluation of external alternative data vendors and ad-hoc research projects.&lt;/li&gt;&lt;li&gt;Interact with key data partners to communicate business cases, company drivers and other KPI's relevant to fundamental stock evaluation.&lt;/li&gt;&lt;li&gt;Query, transform, combine and expand datasets to assist teams in knowledge extraction.&lt;/li&gt;&lt;li&gt;Interface with data vendors, internal research teams, internal sales and trading personnel, and external institutional investors.&lt;/li&gt;&lt;li&gt;Conceive and executing on differentiated research projects across sectors and data types. &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Key Qualifications&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;4+ years of experience within consulting, data research, data science or similar roles.&lt;/li&gt;&lt;li&gt;Advanced STEM degree such as data science, computer science, engineering or statistics preferred&lt;/li&gt;&lt;li&gt;Prior experience in a strategic, quantitative or risk role is desirable.&lt;/li&gt;&lt;li&gt;Deep knowledge of data science programming languages is required (such as R, Python, SQL, Scala)&lt;/li&gt;&lt;li&gt;Knowledge of cloud computing environments is helpful.&lt;/li&gt;&lt;li&gt;Knowledge of fundamental financial modeling is not a must but helpful.&lt;/li&gt;&lt;li&gt;Keen interest in the \u201cdata economy\u201d within financial services.&lt;/li&gt;&lt;li&gt;Motivated, intelligent, curious, hard-working, team player&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:21:41.000Z"
+  },
+  "company": {
+    "name": "Jefferies",
+    "link": "https://www.linkedin.com/company/jefferies"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": "Data Strategy Data Scientist"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

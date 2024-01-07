@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I (Java/Cloud)",
+    "industry": "Computer Software,Hospital &amp; Health Care",
+    "description": "&lt;p&gt;The successful candidate must be proficient in at least one programming language (i.e., Java/C#), understand OOP and RDBMS concepts. Must be able to learn and directly contribute to the design and delivery of applications.&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;\u2022\tParticipate in the complete software development lifecycle, from requirements through testing.&lt;/p&gt;&lt;p&gt;\u2022\tAssists in the construction, testing, and debugging of programs in accordance with engineering standards.&lt;/p&gt;&lt;p&gt;\u2022\tMaintains and documents programs in accordance with engineering standards.&lt;/p&gt;&lt;p&gt;\u2022\tMaintains technical specifications according to the changes introduced to the code and assist in development of new technical specifications.&lt;/p&gt;&lt;p&gt;\u2022\tSuggest estimates of efforts required to implement assigned tasks according to the schedule defined by technical management.&lt;/p&gt;&lt;p&gt;\u2022\tOther duties as required to support and meet the needs of the organization&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;\u2022\tBachelor\u2019s Degree in process or completed in related field of study or equivalent experience.&lt;/p&gt;&lt;p&gt;\u2022\tUp to 4 years of software development experience.&lt;/p&gt;&lt;p&gt;\u2022\tExperience with Java 8 or above&amp;nbsp;&lt;/p&gt;&lt;p&gt;\u2022\tExperience with 1 or more of the following:&lt;/p&gt;&lt;p&gt;\to\tWeb technologies (HTML5, JavaScript, JQuery, REST).&lt;/p&gt;&lt;p&gt;\u2022\tExperience with one or more RDBMS (I.e., proficient in SQL).&lt;/p&gt;&lt;p&gt;\u2022\tUnderstand OOP and RDBMS concepts.&lt;/p&gt;&lt;p&gt;\u2022\tKnowledge of SDLC.&lt;/p&gt;&lt;p&gt;\u2022\tGood interpersonal, communications skills and ability to work independently.&lt;/p&gt;&lt;p&gt;\u2022\tStrong analytical and problem solving skills and proficient technical writing.&lt;/p&gt;&lt;p&gt;\u2022\tWorking knowledge of Software Version Control systems.&lt;/p&gt;&lt;p&gt;\u2022\tPreferred: Experience with microservices based architecture and AWS&lt;/p&gt;&lt;p&gt;&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T18:40:34.000Z"
+  },
+  "company": {
+    "name": "MEDHOST",
+    "link": "https://www.linkedin.com/company/medhost"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": "Software Engineer I (Java/Cloud)"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Nashville Metropolitan Area",
+    "region": null,
+    "postal_code": "37201",
+    "street_address": null,
+    "latitude": 36.172813,
+    "longitude": -86.78488
+  }
+}

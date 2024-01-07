@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Principal Software Engineer",
+    "industry": "Financial Services,Information Technology and Services,Information Services",
+    "description": "&lt;strong&gt;Job Description&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;strong&gt;The Role&lt;br&gt;&lt;br&gt;&lt;/strong&gt;As customer interactions continue to be pushed farther by technology, our customers' standards for interactions continue to set by their last best experience. Our target customers are being delighted by experiences from Amazon, Google, Apple, and other Digital Native companies that do a phenomenal job at personalizing experiences to the user and offering functionality where the user wants to consume it. The Cognitive Computing group is focused on enabling these experiences by implementing conversational user experiences that learn and grow with the needs of the user.&lt;br&gt;&lt;br&gt;The Expertise and Skills You Bring&lt;br&gt;&lt;ul&gt;&lt;li&gt;1+ years\u2019 experience engineering/developing web enabled applications and some combination of the following:&lt;/li&gt;&lt;li&gt;Experience with 1 or more languages desired&lt;/li&gt;&lt;li&gt;Desire/ability to learn and implement new technologies&lt;/li&gt;&lt;li&gt;Experience/Certification in Cloud-based (AWS, GCP, Azure, etc...) Development / Architecture is beneficial&lt;/li&gt;&lt;li&gt;Experience with NodeJS/Python would be beneficial&lt;/li&gt;&lt;li&gt;Experience with JSON document (swagger doc) would be beneficial&lt;/li&gt;&lt;li&gt;Experience with SOA technology is beneficial&lt;/li&gt;&lt;li&gt;Experience multiple enterprise technologies would be beneficial&lt;/li&gt;&lt;li&gt;Exposure to Agile development methodology is desired&lt;/li&gt;&lt;li&gt;Exposure to front-end UI technologies would be beneficial&lt;/li&gt;&lt;li&gt;You are able to work in a fast paced, highly matrix environment to achieve group goals&lt;/li&gt;&lt;li&gt;You have a desire and aptitude for learning new technologies&lt;/li&gt;&lt;li&gt;You are able to use business requirements to develop technical designs, define architectural strategies and solutions&lt;/li&gt;&lt;li&gt;You are able to perform the coding to deliver polyglot solutions that delight our customers&lt;/li&gt;&lt;li&gt;You are able to partner effectively with your technology business partners&lt;/li&gt;&lt;li&gt;You are able to advise and guide less experienced developers in their work&lt;/li&gt;&lt;li&gt;You are able to describe problems and recommend solutions to project leaders&lt;/li&gt;&lt;li&gt;You have excellent verbal and written communication skills&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;The Value you deliver&lt;br&gt;&lt;ul&gt;&lt;li&gt;Your role will focus on developing/implementing the capabilities of the Cognitive Computing Platform in a Full Stack Developer capacity on an Agile/Scrum team&lt;/li&gt;&lt;li&gt;Daily activities will involve development, automated testing, meeting with technology peers (including architecture) to work through technical designs, supporting other developers on the team with their deliverables, and participating in Agile ceremonies&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;Certifications&lt;br&gt;&lt;br&gt;&lt;/strong&gt;Company Overview&lt;br&gt;&lt;br&gt;At Fidelity Investments, our customers are at the heart of everything we do. As a privately held company with a rich 75-year history, our mission has remained the same since our founding: &lt;em&gt;to strengthen the financial well-being of our clients&lt;/em&gt;. We help people invest and plan for their future. We assist companies and non-profit organizations in delivering benefits to their employees. And we provide institutions and independent advisors with investment and technology solutions to help invest their own clients\u2019 money.&lt;br&gt;&lt;br&gt;Join Us&lt;br&gt;&lt;br&gt;At Fidelity, you\u2019ll find endless opportunities to build a meaningful career that positively impacts peoples\u2019 lives, including yours. You can take advantage of flexible benefits that support you through every stage of your career, empowering you to thrive at work and at home. And you don\u2019t need a finance background to succeed at Fidelity\u2014we offer a range of opportunities for learning and growth so you can build the career you\u2019ve always imagined. We welcome associates from different backgrounds and with different perspectives to help us innovate and make a difference for our customers and our communities.&lt;br&gt;&lt;br&gt;We invite you to &lt;strong&gt;Find Your Fidelity&lt;/strong&gt; at fidelitycareers.com.&lt;br&gt;&lt;br&gt;Fidelity Investments is an equal opportunity employer. We believe that the most effective way to attract, develop and retain a diverse workforce is to build an enduring culture of inclusion and belonging.&lt;br&gt;&lt;br&gt;Fidelity will reasonably accommodate applicants with disabilities who need adjustments to participate in the application or interview process. To initiate a request for an accommodation, contact the HR Leave of Absence/Accommodation Team by sending an email to accommodations @fmr.com, or by calling 800-835-5099, prompt 2, option 2.&lt;br&gt;&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T07:13:26.000Z"
+  },
+  "company": {
+    "name": "Fidelity Investments",
+    "link": "https://www.linkedin.com/company/fidelity-investments"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": "Principal Software Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Covington",
+    "region": "KY",
+    "postal_code": "41012",
+    "street_address": null,
+    "latitude": 39.083702,
+    "longitude": -84.508514
+  }
+}

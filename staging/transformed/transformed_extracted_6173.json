@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Lead Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Semiconductors",
+    "description": "&lt;strong&gt;&lt;strong&gt;At Cadence, we hire and develop leaders and innovators who want to make an impact on the world of technology. &lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;/strong&gt;Cadence is a pivotal leader in electronic design, building upon more than 30 years of computational software expertise. The company applies its underlying Intelligent System Design strategy to deliver software, hardware and IP that turn design concepts into reality.&lt;br&gt;&lt;br&gt;Cadence customers are the world\u2019s most innovative companies, delivering extraordinary electronic products from chips to boards to systems for the most dynamic market applications including consumer, hyperscale computing, 5G communications, automotive, aerospace industrial and health.&lt;br&gt;&lt;br&gt;We are looking for a talented, motivated software engineer to work with the R&amp;amp;D team on developing high-performance software. You will be responsible for design, implementation, and optimization of infrastructure and abstraction layers for running the physical verification software, with the focus on performance, reliability, and distribution.&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;Job Requirements&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;Excellent programming skill in C/C++&lt;br&gt;&lt;br&gt;Must have excellent verbal, written and interpersonal communication skills to work with geographically distributed team.&lt;br&gt;&lt;br&gt;Desire to learn and deliver with highest quality is a must.&lt;br&gt;&lt;br&gt;Knowledge of advanced process and physical verification product (especially LVS - layout vs. schematic) are pluses&lt;br&gt;&lt;br&gt;Experience with scripting languages (Python and/or Tcl, nice to have&lt;br&gt;&lt;br&gt;The position requires Master in Computer Science or Engineering, or equivalent&lt;br&gt;&lt;br&gt;&lt;strong&gt; &lt;strong&gt;We\u2019re doing work that matters. Help us solve what others can\u2019t.&lt;/strong&gt;&lt;/strong&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T05:20:54.000Z"
+  },
+  "company": {
+    "name": "Cadence Design Systems",
+    "link": "https://www.linkedin.com/company/cadence-design-systems"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Lead Software Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Jose",
+    "region": "CA",
+    "postal_code": "95148",
+    "street_address": null,
+    "latitude": 37.334793,
+    "longitude": -121.888145
+  }
+}

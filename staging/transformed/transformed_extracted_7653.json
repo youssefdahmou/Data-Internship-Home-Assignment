@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer - Remote ",
+    "industry": "Information Technology and Services",
+    "description": "&lt;p&gt;Job Description&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Job Summary:&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;InSight is a cutting-edge AI enablement platform that applies industry leading ML tools, including custom models, to classify and extract entities from unstructured content (Document Images, Audio and Video files, other data files and sources).&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;The ML Engineer is responsible for the development/deployment of Machine Learning models and other data processing algorithms for new and existing customer implementations into Insight.&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;The ML engineer works closely with multiple internal Iron Mountain teams to develop tech driven implementation solutions, create/enhance tools for performance improvement.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Essential Job Responsibilities:&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Develop and deploy machine learning solution to perform classification and entity extraction of various forms of digital content (Images, Audio/video, and other digital file formats).&lt;/li&gt;&lt;li&gt;Work with project managers, solution architects and other ML engineers to deliver ML solutions into Iron Mountain Insight Platform.&lt;/li&gt;&lt;li&gt;Perform feasibility analysis and deliver PoCs for various customer requirements associated to the processing of digital content.&lt;/li&gt;&lt;li&gt;Applying effective visualization tools to make descriptive analysis and results intuitive and informative to the team and customers.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Functional Knowledge Skills &amp;amp; Competencies:&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Education:&lt;/strong&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Bachelor or Master's degree in Computer Engineering, Computer Science (Master degree preferred)&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Skills:&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;3 years of professional experience in Python programming.&lt;/li&gt;&lt;li&gt;Minimum of 2 years of experience on Machine Learning and AI techniques.&lt;/li&gt;&lt;li&gt;Experience of cloud technologies and solutions - GCP Preferred.&lt;/li&gt;&lt;li&gt;Some experience with docker container and microservice deployment&lt;/li&gt;&lt;li&gt;Ability to multitask and prioritize issues in a complex environment.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T13:36:44.000Z"
+  },
+  "company": {
+    "name": "Iron Mountain",
+    "link": "https://www.linkedin.com/company/iron-mountain"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": "Machine Learning Engineer - Remote "
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

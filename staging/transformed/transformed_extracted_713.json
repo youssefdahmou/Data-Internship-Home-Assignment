@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist - Operations Research",
+    "industry": "Environmental Services,Information Technology and Services,Staffing and Recruiting",
+    "description": "Mackin is looking for an Operations Research Scientist to work within a larger Analytics &amp;amp; Technology-focused group to deliver innovative insights and solutions for our partners. The ideal candidate has a scientific mindset; has expertise in operations research methods and models; applies a pragmatic approach to building solutions; and enjoys collaborating within a dynamic, global team.&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;Responsibilities&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Apply your expertise in Operations Research, Data Science, and Data Mining to lead analytics projects to inform business operations in programs such as Transportation, Real Estate and Culinary&lt;/li&gt;&lt;li&gt;Build models related to shuttle planning, inventory control systems, capacity planning, and location analytics&lt;/li&gt;&lt;li&gt;Define, optimize and set the constraints for one or more business metrics&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Minimum Qualifications&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Degree in a quantitative field (e.g., Operations Research, Computer Science, Quantitative Finance) or equivalent experience&lt;/li&gt;&lt;li&gt;Experience in communicating model results to leadership and cross-functional team members&lt;/li&gt;&lt;li&gt;Familiarity with classical operations research problems, such as network optimization, facility location, routing, scheduling&lt;/li&gt;&lt;li&gt;Familiarity with algorithms and optimization using solvers such as CPLEX/Gurobi/Xpress or related tools&lt;/li&gt;&lt;li&gt;Strong foundation in statistics, probability, &amp;amp; algorithms (e.g., hypothesis testing, regression, stochastic modeling, Markov Chains)&lt;/li&gt;&lt;li&gt;Proficient in SQL, including some experience with distributed data platforms such as Spark, Presto, Hive&lt;/li&gt;&lt;li&gt;At least 4 years of relevant experience (academic experience also considered)&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Preferred Qualifications&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Advanced degree in a quantitative field with experience in Operations Research&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-18T15:02:50.000Z"
+  },
+  "company": {
+    "name": "Mackin Talent",
+    "link": "https://www.linkedin.com/company/mackintalent"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": "Data Scientist - Operations Research"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

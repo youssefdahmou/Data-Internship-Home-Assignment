@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Music,Computer Software,Entertainment",
+    "description": "&lt;p&gt;We\u2019re looking for a Data Scientist for a music creation platform working to change the way we think about the ecosystem of music creation and production, making it easier and more affordable for anyone at any skill level to create music at the touch of a button.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;This role requires is a specific skillset focused on learning, scale, and agility in the music tech space, but we know you\u2019re out there.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;We're open to candidates from all over the U.S. - ideally, you'd want to relocate to San Diego, but happy to have a conversation about the best scenario.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt; Benefits:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Industry-leading healthcare covering medical, dental, vision, and life paid by the company&lt;/li&gt;&lt;li&gt;Health Savings and Flexible Spending accounts&lt;/li&gt;&lt;li&gt;401K&lt;/li&gt;&lt;li&gt;Unlimited PTO with an employee-focused work approach&lt;/li&gt;&lt;li&gt;Flexible work schedule and a remote-friendly environment&lt;/li&gt;&lt;li&gt;Parental leave&lt;/li&gt;&lt;li&gt;Participation in profit sharing&lt;/li&gt;&lt;li&gt;200% Pay on your Birthday&lt;/li&gt;&lt;li&gt;Employee Referral Bonus Program&lt;/li&gt;&lt;li&gt;Maternity Leave Program&lt;/li&gt;&lt;li&gt;Company outings, retreats, and events (when permissible)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Collect, analyze, and present processed and unprocessed data pertaining to music creation tech to make the business more powerful and increase enterprise opportunities. To be honest, the right person can probably better tell us how this role should work. And we'll happily empower you to do that&lt;/li&gt;&lt;li&gt;Design accurate and scalable prediction algorithms in pertinence to business objectives&lt;/li&gt;&lt;li&gt;Collaborate with the engineering team to bring analytical prototypes to production, make product adjustments, and geek out on product opportunities. GET FIRED UP. (sorry)&lt;/li&gt;&lt;li&gt;Based on the insights you gather, make clear recommendations to improve and work with other department leads to execute&lt;/li&gt;&lt;li&gt;Help design data team hiring roadmaps&lt;/li&gt;&lt;li&gt;Produce regular analytics reports for internal and external stakeholder (board, investor, etc.) purposes.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Requirements and some nice-to-haves:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bachelor's in statistics, comp sci, math, engineering&lt;/li&gt;&lt;li&gt;Deep ML/AI experience (including machine learning modeling and ensemble methodology)&lt;/li&gt;&lt;li&gt;Python expertise (NumPy, SciPy), SQL, MongoDB, C++&lt;/li&gt;&lt;li&gt;Understanding of digital signal processing techniques (filtering, spectral/FFT analysis, convolution, etc.)&lt;/li&gt;&lt;li&gt;Experience with machine learning, especially as it applies to music analysis and/or generation&lt;/li&gt;&lt;li&gt;Experience with the following technologies: Django, Heroku, AWS, S3&lt;/li&gt;&lt;li&gt;Familiarity with python audio processing libraries such as Librosa&lt;/li&gt;&lt;li&gt;Passion for or experience in music - ML, production, and creation&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-12T00:42:42.000Z"
+  },
+  "company": {
+    "name": "KTeam",
+    "link": "https://www.linkedin.com/company/kteam-co"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Data Scientist"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 80000,
+    "max_value": 100000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

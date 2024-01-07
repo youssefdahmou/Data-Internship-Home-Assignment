@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Staffing and Recruiting",
+    "description": "&lt;p&gt;Title: DBA / Data Scientist&lt;/p&gt;&lt;p&gt;Location: Remote (EST)&lt;/p&gt;&lt;p&gt;W2 only, C2C not eligible&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Overview: Seeking someone with experience in: Regression modeling, Machine leaning (Text analytics nice to have), Python and / or R, and Tableau (nice to have).&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt; Ideal Qualifications:&lt;/p&gt;&lt;p&gt;Data Science and Machine Learning Experience \u2013&lt;/p&gt;&lt;p&gt;Needs to manipulate data and building Models&lt;/p&gt;&lt;p&gt;Python and/or R experience(someone with only SAS will not be a fit)&lt;/p&gt;&lt;p&gt;Regression Modeling&lt;/p&gt;&lt;p&gt;VBA development&lt;/p&gt;&lt;p&gt;Database \u2013 Oracle(preferred)&lt;/p&gt;&lt;p&gt;Data warehousing (Snowflake Preferred)&lt;/p&gt;&lt;p&gt;Text Analytics Experience \u2013 NLP (Natural Language Processing)&lt;/p&gt;&lt;p&gt;ODBC&lt;/p&gt;&lt;p&gt;SQL server&amp;nbsp;&lt;/p&gt;&lt;p&gt;ETL&lt;/p&gt;&lt;p&gt;Tableau is nice to have&lt;/p&gt;&lt;p&gt;Excel is also preferred&lt;/p&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-12T14:30:22.000Z"
+  },
+  "company": {
+    "name": "ettain group",
+    "link": "https://www.linkedin.com/company/ettain-group"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Data Scientist"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Raleigh",
+    "region": "NC",
+    "postal_code": "27699",
+    "street_address": null,
+    "latitude": 35.781303,
+    "longitude": -78.64168
+  }
+}

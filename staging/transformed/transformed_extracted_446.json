@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "&lt;strong&gt;&lt;u&gt;What You Will Be Doing&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt; &lt;li&gt;Responsible for working with users and Product Managers to address customer needs by formulating machine learning and artificial intelligence solutions.&lt;/li&gt; &lt;li&gt;Utilize software engineering and data science skills to collaborate with UX/UI teammates on the usability of data-driven product features and assess needs and solutions for large-scale data infrastructure.&lt;/li&gt; &lt;li&gt;Drive the technical delivery of dataset creation, experimentation, prototyping, implementation, testing, deployment, monitoring and continuous improvement.&lt;/li&gt; &lt;li&gt;Application of machine learning technologies to novel problems in the domains of software operations and security.&lt;/li&gt; &lt;li&gt;Require the customization of machine learning models in order to generate useful insights across heterogeneous customer datasets, as well as the design and implementation of production software services to deploy and deliver these models to the customers; and,&lt;/li&gt; &lt;li&gt;Own the uptime and reliability of machine learning-related services and capabilities&lt;/li&gt; &lt;br&gt;&lt;br&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Requirements&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;strong&gt;What we need from you&lt;br&gt;&lt;br&gt;&lt;/strong&gt;Master\u2019s degree or foreign equivalent in Computer Science, Computer Engineering, Information Technology or a related field and two (2) years of experience as a Machine Learning Engineer, Software Engineer or in a related role.&lt;br&gt;&lt;ul&gt; &lt;li&gt;Work experience with:&lt;/li&gt; &lt;li&gt;Object-oriented programming experience in Java, Scala, Ruby, or C++;&lt;/li&gt; &lt;li&gt;Machine learning/statistics;&lt;/li&gt; &lt;li&gt;Software engineering of production-grade services;&lt;/li&gt; &lt;li&gt;Software data related to operations and security; and&lt;/li&gt; &lt;li&gt;Validate Machine Learning models on different platforms.&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-13T09:30:42.000Z"
+  },
+  "company": {
+    "name": "Sumo Logic",
+    "link": "https://www.linkedin.com/company/sumo-logic"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": "Machine Learning Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Redwood City",
+    "region": "CA",
+    "postal_code": "94064",
+    "street_address": null,
+    "latitude": 37.4805,
+    "longitude": -122.21528
+  }
+}

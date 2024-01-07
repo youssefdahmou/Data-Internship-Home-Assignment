@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "&lt;p&gt;As part of the Wild Health Clarity Engineering team, you will be actively involved in building both frontend or backend application features.  As part of a team with diverse skill sets, you will have an opportunity to provide your own unique value while also learning from the senior and architectural mentors on the team.&lt;br&gt; &lt;/p&gt;&lt;br&gt;&lt;p&gt;A candidate will be expected to deliver quality software within spec within a timely manner defined within each sprint. &amp;nbsp; &lt;/p&gt;&lt;br&gt;&lt;p&gt;Each member of the team should possess a willingness to contribute to an overall team goal by not only producing software for their individual tasks, but also assisting teammates in order to move the entire product forward. &lt;/p&gt;&lt;br&gt;&lt;p&gt;&amp;nbsp; &lt;/p&gt;&lt;br&gt;&lt;p&gt;What You Will Enjoy about this Role &lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Delivering the engineering aspect of a professional software development process that starts from stakeholders and product owners &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Collaborate with different teams to build software that not only operates for a specific vision but also fits within a more holistic purpose &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Work closely with product management when new features are being considered by being an advocate for not impacting the performance or quality of the existing product. &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Participate in technical discussions and communicate your ideas or vision to others. Be challenged by discussing sophisticated problems, open to debates and brainstormings. &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Collaborate with the engineering team to estimate and prioritize tasks &lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp; &lt;/p&gt;&lt;p&gt;What You Bring To The Role &lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Interest in building, scaling and operating sophisticated infrastructures. &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Interest in designing well-thought schemas, building efficient client/service layers, and properly using various data structures &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Proficiency in C# .Net Core, Python, RxJS/React, or Node.js &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;An ability to adapt to changing situations where new languages, technologies, or other features will be introduced. &lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp; &lt;/p&gt;&lt;p&gt;Nice To Have &lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Experience with building RESTful API\u2019s or GraphQL is a plus &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Experience with agile development processes, working in a fast-paced environment with scheduled release planning &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Experience working with advanced Business Analytics tools like Looker, Tableau, or DOMO &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Experience scaling efficient relational database configurations and writing efficient SQL views, stored procedures, and functions.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T01:30:53.000Z"
+  },
+  "company": {
+    "name": "Wild Health",
+    "link": "https://www.linkedin.com/company/wildhealth"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Software Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Lexington",
+    "region": "KY",
+    "postal_code": "40484",
+    "street_address": null,
+    "latitude": 38.046356,
+    "longitude": -84.497025
+  }
+}

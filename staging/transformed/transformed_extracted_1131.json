@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr Software Engineer (Support Coordinator)",
+    "industry": "Pharmaceuticals",
+    "description": "&lt;strong&gt;&lt;u&gt;Job Overview&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;Lexi is an application program interface (API) layer that connects all IQVIA applications and data assets using a common vocabulary. Our continued growth has opened up new opportunities.&lt;br&gt;&lt;br&gt;We are looking for a Software Engineer to champion our customer needs and drive towards resolution. We are passionate about our users and our products; help us change the face of enterprise software.&lt;br&gt;&lt;br&gt;Technical Skill&lt;br&gt;&lt;ul&gt;&lt;li&gt;Proficiency with fundamental front end languages such as HTML, CSS and JavaScript.&lt;/li&gt;&lt;li&gt;Proficiency with JavaScript frameworks such as Angular JS, React.&lt;/li&gt;&lt;li&gt;Proficiency with server-side languages such as Python, Ruby, NodeJS, Java and .Net.&lt;/li&gt;&lt;li&gt;Knowledge in Docker Images, Containers, Terraform&lt;/li&gt;&lt;li&gt;Experience in build Automation preferably with GitLab&lt;/li&gt;&lt;li&gt;Familiarity with database technology such as MySQL, Oracle, Redis , DynamoDB&lt;/li&gt;&lt;li&gt;Familiarity with micro services architecture&lt;/li&gt;&lt;li&gt;Knowledge in JIRA, Wiki documentation and Scrum process&lt;/li&gt;&lt;li&gt;Knowledge in various AWS services like Storage Systems, EKS, RDS, Networking, Load Balancers, Auto Scaling etc.&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;Job Functions&lt;br&gt;&lt;ul&gt;&lt;li&gt;Responsible for translating product backlog use cases into functional and non-functional requirement&lt;/li&gt;&lt;li&gt;Contribute to the design and development of new features and applications.&lt;/li&gt;&lt;li&gt;Provide peer support to Software Engineers in the design of new small system components&lt;/li&gt;&lt;li&gt;Unit testing and functional testing of new functionality.&lt;/li&gt;&lt;li&gt;Support internal and external as required to address any questions or resolve any issues related to Lexi.&lt;/li&gt;&lt;li&gt;Help on-board new Software Engineers to the team&lt;/li&gt;&lt;li&gt;Review of functional specifications and other validation deliverables as assigned&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Qualifications&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Bachelor's Degree in related field - Computer Science, Math, Or Master's Degree&lt;/li&gt;&lt;li&gt;6-8 years prior related experience in developing front-end application, back-end micro services, automating build and tests and deployment service using micro services architecture&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;At IQVIA, we believe in pushing the boundaries of human science and data science to make the biggest impact possible \u2013 to help our customers create a healthier world. The advanced analytics, technology solutions and contract research services we provide to the life sciences industry are made possible by our 70,000+ employees around the world who apply their insight, curiosity and intellectual courage every step of the way. Learn more at jobs.iqvia.com.&lt;br&gt;&lt;br&gt;All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other status protected by applicable law.&lt;br&gt;&lt;br&gt;IQVIA, Inc. provides reasonable accommodations for applicants with disabilities. Applicants who require reasonable accommodation to submit an application for employment or otherwise participate in the application process should contact IQVIA\u2019s Talent Acquisition team at workday_recruiting@iqvia.com to arrange for such an accommodation.&lt;br&gt;&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T01:45:53.000Z"
+  },
+  "company": {
+    "name": "IQVIA",
+    "link": "https://www.linkedin.com/company/iqvia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": "Sr Software Engineer (Support Coordinator)"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bridgewater",
+    "region": "NJ",
+    "postal_code": "08807",
+    "street_address": null,
+    "latitude": 40.593002,
+    "longitude": -74.626434
+  }
+}

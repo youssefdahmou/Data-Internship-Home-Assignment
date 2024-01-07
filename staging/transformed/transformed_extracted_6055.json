@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - CES",
+    "industry": "Information Technology and Services,Computer Software,Biotechnology",
+    "description": "Who We Are&lt;br&gt;&lt;br&gt;TetraScience provides the world\u2019s first and only R&amp;amp;D Data Cloud, with a mission to transform life sciences R&amp;amp;D, accelerate discovery, and improve human life. Scientists at global Pharma and Biotech organizations rely on our innovative Tetra Data Platform for easy access to centralized, harmonized, and actionable scientific data to accelerate their digital lab transformation. With best-in-class SaaS performance, a team of industry innovators, and excellent product/market fit, Tetra is positioned to become an iconic life sciences software company.&lt;br&gt;&lt;br&gt;What you are&lt;br&gt;&lt;br&gt;&lt;strong&gt;You thrive on working well with others&lt;/strong&gt;. You make the people around you better. You love to collaborate with fellow team members, customers, field engineers, executives, and inspire them to do their best.&lt;br&gt;&lt;br&gt;&lt;strong&gt;You relentlessly strive to excel in your craft.&lt;/strong&gt; You are passionate about delivering delightful customer experiences. You take ownership of all the aspects of the customer journey from beginning of case creation, to resolution.&lt;br&gt;&lt;br&gt;&lt;strong&gt;You consistently seek understanding and clarity&lt;/strong&gt;. You look at every interaction as an opportunity to learn. You aren\u2019t afraid to ask questions. You have the humility and confidence to not be the smartest person in the room.&lt;br&gt;&lt;br&gt;What You Will Do&lt;br&gt;&lt;ul&gt;&lt;li&gt;Develop tools, scripts, and design processes to improve observability and system resiliency.&lt;/li&gt;&lt;li&gt;80% of your time will be hands-on code fixes - individually or by partnering with engineering teams.&lt;/li&gt;&lt;li&gt;Building, automating, and monitoring infrastructure in AWS to increase product reliability.&lt;/li&gt;&lt;li&gt;You will be the responsible to investigate end-to-end issues and escalations reported by TetraScience customers.&lt;/li&gt;&lt;li&gt;Triage issues, drive to resolution and/or identify workarounds to unblock customers.&lt;/li&gt;&lt;li&gt;You will be the steward of the customer support to the engineering escalation process, increasing efficiency by streamlining communication with customer success, by triaging, extracting, and documenting relevant information&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Requirements&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;3+ years of experience with a proven track record of excellence as Production Support Engineer or Site Reliability Engineer for web application platforms&lt;/li&gt;&lt;li&gt;Coding experience in one or more languages Python, JavaScript, React or Java&lt;/li&gt;&lt;li&gt;Demonstrated experience of debugging software reliability issues in a distributed environment including troubleshooting experience with APIs.&lt;/li&gt;&lt;li&gt;Must have experience with CloudNative(AWS) platforms and applications( Micro-services, Lambda, Docker and Kubernetes deployments, Databases, NoSQL, Kafka/Queueing Service, or Elastic Search)&lt;/li&gt;&lt;li&gt;Must be self-driven, innovative, and willing to take initiative. Good to have startup experience.&lt;/li&gt;&lt;li&gt;Bachelor's degree in engineering, or equivalent&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;u&gt;&lt;strong&gt;Benefits&lt;br&gt;&lt;/strong&gt;&lt;/u&gt;&lt;ul&gt;&lt;li&gt;Competitive Salary and equity in a fast growing company&lt;/li&gt;&lt;li&gt;Supportive, team oriented culture of continuous improvement.&lt;/li&gt;&lt;li&gt;100% employer paid benefits for all eligible employees and immediately family members.&lt;/li&gt;&lt;li&gt;401K&lt;/li&gt;&lt;li&gt;Generous paid time off (PTO)&lt;/li&gt;&lt;li&gt;Flexible working arrangements - Remote work | East Coast Zone + Boston office as needed&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T03:41:03.000Z"
+  },
+  "company": {
+    "name": "TetraScience",
+    "link": "https://www.linkedin.com/company/tetrascience"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": "Software Engineer - CES"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer / Data Scientist",
+    "industry": "",
+    "description": "&lt;p&gt;We are looking for experienced data engineer / data scientist&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;exceptional team, projects, compensation and benefits&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;US CITIZEN only&lt;/p&gt;&lt;p&gt;commutable to DC&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T20:54:59.000Z"
+  },
+  "company": {
+    "name": "Open Health Network",
+    "link": "https://www.linkedin.com/company/open-health-network"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Data Engineer / Data Scientist"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

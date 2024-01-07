@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "Computer Software",
+    "description": "&lt;p&gt;We are looking for highly-motivated engineers who can help us expand the current compliance management offerings with new innovative services that focus on more automation, big data analysis, and third party integration. We are also seeking candidates who seek to eventually transition from an engineer to a PM role within our engineering org.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;You would be creating products, tools and services that help enterprises manage the compliance posture of the services they subscribed from Microsoft or other parties. This service will help automate compliance assessments and significantly reduce the cost of managing compliance across services and applications.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;( Responsibilities )&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Collaborate with other engineers from multiple product teams and disciplines to design data ingestion, data processing and analysis pipelines.&lt;/li&gt;&lt;li&gt;Develop your components and services with a focus on Performance, Reliability, Security and Compliance aspects.&lt;/li&gt;&lt;li&gt;Can work independently with PM to refine the business requirements and convert them into engineering design spec.&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T00:12:48.000Z"
+  },
+  "company": {
+    "name": "Microsoft",
+    "link": "https://www.linkedin.com/company/microsoft"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Senior Software Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Redmond",
+    "region": "WA",
+    "postal_code": "98073",
+    "street_address": null,
+    "latitude": 47.67491,
+    "longitude": -122.12399
+  }
+}

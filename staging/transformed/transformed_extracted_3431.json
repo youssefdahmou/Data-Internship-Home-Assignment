@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "&lt;p&gt;This is an amazing opportunity to join a rapidly growing company that offers great benefits and growth opportunities.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimum Qualifications:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;3+ years of experience developing and applying deep&amp;nbsp;learning&amp;nbsp;models &lt;/li&gt;&lt;li&gt;1+ year programming experience with Python and Python&amp;nbsp;machine&amp;nbsp;learning&amp;nbsp;frameworks (e.g., TensorFlow, PyTorch, Sklearn, NLTK)&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Nice If You Have:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Graduate degree or publication record in a relevant field&amp;nbsp;&lt;/li&gt;&lt;li&gt;Strong knowledge of CS fundamentals (compilation, assembly / low-level programming, operating systems, etc.)&lt;/li&gt;&lt;li&gt;Familiarity with common approaches in NLP (word embeddings, language models, sequence-to-sequence models, syntax parsing, etc.)&lt;/li&gt;&lt;li&gt;Applied research experience&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Clearance / US Citizen:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Active DoD Secret security clearance required&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-12T19:47:13.000Z"
+  },
+  "company": {
+    "name": "StevenDouglas",
+    "link": "https://www.linkedin.com/company/stevendouglashq"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": "Machine Learning Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Arlington",
+    "region": "VA",
+    "postal_code": "22210",
+    "street_address": null,
+    "latitude": 38.890762,
+    "longitude": -77.084755
+  }
+}

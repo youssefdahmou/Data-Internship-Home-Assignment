@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Computer Hardware",
+    "description": "Contract to Hire - $80 - $100 / hour DOE&lt;br&gt;&lt;br&gt;Client is looking to bring in a Machine Learning resource to help with 3 major projects. Need to have a mixture of Programming, Data Engineering/Structures, Probability/Statistics background.&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;Skill Set Required&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;Large project experience with Machine Learning&lt;br&gt;&lt;br&gt;Programming Skills - C / C++ / R / Java / Python&lt;br&gt;&lt;br&gt;Data Engineering/Data Structure experience/knowledge&lt;br&gt;&lt;br&gt;Machine Learning Algorithms/Libraries&lt;br&gt;&lt;br&gt;Consutling background is highly preffered&lt;br&gt;&lt;br&gt;&lt;strong&gt;Other Data I Pulled from ML Skill Sets / Resumes&lt;br&gt;&lt;br&gt;&lt;/strong&gt;Data Visualization&lt;br&gt;&lt;br&gt;Predictive Analysis&lt;br&gt;&lt;br&gt;Statistical Modeling&lt;br&gt;&lt;br&gt;Data Mining&lt;br&gt;&lt;br&gt;Clustering &amp;amp; Classification&lt;br&gt;&lt;br&gt;Data Analytics&lt;br&gt;&lt;br&gt;Quantitative Analysis&lt;br&gt;&lt;br&gt;Web Scraping&lt;br&gt;&lt;br&gt;Model Development",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-24T14:36:31.000Z"
+  },
+  "company": {
+    "name": "Addison Group",
+    "link": "https://www.linkedin.com/company/addisongroup"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Machine Learning Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Houston",
+    "region": "TX",
+    "postal_code": "77208",
+    "street_address": null,
+    "latitude": 29.760803,
+    "longitude": -95.36951
+  }
+}

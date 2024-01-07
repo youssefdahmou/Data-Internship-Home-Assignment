@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "&lt;p&gt;MZ Development (\u201cMZD\u201d) was founded in 2015 by assessment and technology experts with a shared vision for making performance assessment a reality for all. Since then, MZD\u2019s platforms (&lt;strong&gt;OSCAR&lt;/strong&gt;, &lt;strong&gt;OSCAR Classroom&lt;/strong&gt; and &lt;strong&gt;ADAM&lt;/strong&gt;) have been used by forward looking K-12 school districts and leading testing organizations to enhance their assessment programs.&amp;nbsp;Our clients expect us to deliver innovative EdTech solutions that make performance assessment a realistic option for them.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Now we are looking to add to our talented engineering team. This position will be part of a virtual team of engineers who have a love for education and developing technology to improve it. Responsibilities include gathering user requirements, defining system functionality and writing code in various languages.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Ultimately, the role of the Software Engineer is to build high-quality, innovative and fully performing software that complies with coding standards and technical design.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;This position reports to the CTO and will have responsibility for new product development and support. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Responsibilities include:&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Execute full software development life cycle (SDLC)&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Write well-designed, testable code&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Produce specifications and determine operational feasibility&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Integrate software components into a fully functional software system&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Develop software verification plans and quality assurance procedures&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Document and maintain software functionality&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Troubleshoot, debug and upgrade existing systems&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Deploy programs and evaluate user feedback&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Comply with project plans and industry standards&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Ensure software is updated with latest features&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Required Skills and Experience&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;BS degree in Computer Science, Engineering or relevant experience &lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Proven work experience as a Software Engineer or Software Developer (2-4 years)&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Experience with web development (2-4) years&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Familiarity with AWS hosted applications&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Experience using Go, Vue, Python, TensorFlow or MongoDB (desired)&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Experience with test-driven development&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Proficiency in software engineering tools&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Ability to document requirements and specifications&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Ability and desire to work as part of a virtual &lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Experience with GIT or similar VCS tools&amp;nbsp;&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-30T04:19:13.000Z"
+  },
+  "company": {
+    "name": "MZ Development",
+    "link": "https://www.linkedin.com/company/mz-development"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": "Software Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Iowa City",
+    "region": "IA",
+    "postal_code": "52243",
+    "street_address": null,
+    "latitude": 41.66124,
+    "longitude": -91.53013
+  }
+}

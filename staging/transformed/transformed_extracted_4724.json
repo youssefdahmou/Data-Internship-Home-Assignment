@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Network Engineer",
+    "industry": "Information Technology and Services",
+    "description": "&lt;p&gt;A permanent/direct-hire &lt;strong&gt;Network Engineer&lt;/strong&gt; position is available with an IT organization located in Roseville, CA. Only local candidates are currently being considered. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Essential Duties and Responsibilities:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Designing and implementing new network solutions and/or improving the efficiency of current networks&lt;/li&gt;&lt;li&gt;Installing, configuring, and supporting network equipment including routers, proxy servers, switches, WAN accelerators, DNS and DHCP&lt;/li&gt;&lt;li&gt;Configuring firewalls, routing, and switching to maximize network efficiency and security&lt;/li&gt;&lt;li&gt;Maximizing network performance through ongoing monitoring and troubleshooting&lt;/li&gt;&lt;li&gt;Arranging scheduled upgrades&lt;/li&gt;&lt;li&gt;Investigating faults in the network&lt;/li&gt;&lt;li&gt;Updating network equipment to the latest firmware releases&lt;/li&gt;&lt;li&gt;Reporting network status to key stakeholders&lt;/li&gt;&lt;li&gt;Support services for: Microsoft related technologies: Windows Server, Exchange, SQL, O365, etc.; Virtualization technologies: VMware and Hyper-V; Remote access solutions: Fortinet VPN, Duo; DHCP and DNS; Security Suite: FortiNet, Carbon Black, MimeCast&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Knowledge, Skills, and/or Abilities Required: &lt;/p&gt;&lt;ul&gt;&lt;li&gt;3+ years\u2019 experience with Networking and Security&lt;/li&gt;&lt;li&gt;Interpersonal skills: such as telephony skills, communication skills, active listening and customer-care&lt;/li&gt;&lt;li&gt;Ability to multi-task and adapt to changes quickly&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Apply now!&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T00:11:59.000Z"
+  },
+  "company": {
+    "name": "Modis",
+    "link": "https://ch.linkedin.com/company/modis"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": "Network Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Roseville",
+    "region": "CA",
+    "postal_code": "95747",
+    "street_address": null,
+    "latitude": 38.74806,
+    "longitude": -121.2852
+  }
+}

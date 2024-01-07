@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer-React Native-APJS",
+    "industry": "Online Media,Internet,Entertainment",
+    "description": "Our Vision is to change the way the world communicates. Our Mission is to connect people and things.&lt;br&gt;&lt;br&gt;We are reimagining the way people watch TV with services like Sling and AirTV. We are redefining the boundaries of communication and connectivity too, with our planned green field 5G cloud native network build out and the Internet of Things. Nothing is out of our reach, and the opportunity to shape the future of entertainment and technology has never been more tangible.&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;About The Position&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;Our mission is to build a modern, hybrid cloud enterprise platform for all DISH to consume. Our environment is\u2026&lt;br&gt;&lt;ul&gt;&lt;li&gt; Complex &lt;/li&gt;&lt;li&gt; Highly elastic &lt;/li&gt;&lt;li&gt; Based on some of the latest and greatest cloud native technologies &lt;/li&gt;&lt;li&gt; Very fast paced &lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt; Basic Requirements: &lt;br&gt;&lt;br&gt;&lt;/strong&gt;A successful React Native Mobile developer will:&lt;br&gt;&lt;ul&gt;&lt;li&gt; Be available to work onsite out of our American Fork, UT or Englewood, CO offices &lt;/li&gt;&lt;li&gt; Have a 4-year college degree in Computer Science / Information Technology, Master\u2019s degree is preferred or equivalent professional experience &lt;/li&gt;&lt;li&gt; Have 3+ years of relevant experience &lt;/li&gt;&lt;li&gt; Software development experience and minimum mobile apps development experience &lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt; Technologies in our environment: &lt;br&gt;&lt;br&gt;&lt;/strong&gt;Here are some of the key technologies that make up our environment. While we do not expect you to have a detailed understanding of &lt;u&gt;each&lt;/u&gt;, the more of these you are familiar with, the better.&lt;br&gt;&lt;ul&gt;&lt;li&gt; Hands-on experience working on React Native on the front end to create Android/iOS Apps. &lt;/li&gt;&lt;li&gt; Thorough understanding of React Native and its core principles &lt;/li&gt;&lt;li&gt; Strong proficiency in JavaScript, including DOM manipulation and the JavaScript object model &lt;/li&gt;&lt;li&gt; Firm grasp of the JavaScript {{and TypeScript or ClojureScript}} language and its nuances, including ES6+ syntax &lt;/li&gt;&lt;li&gt; Rock solid at working with third-party dependencies and debugging dependency conflicts &lt;/li&gt;&lt;li&gt; Familiarity with native build tools, like XCode, Gradle {{Android Studio, IntelliJ}} &lt;/li&gt;&lt;li&gt; Understanding of REST APIs, the document request model, and offline storage &lt;/li&gt;&lt;li&gt; Experience with popular React workflows (such as Flux or Redux) &lt;/li&gt;&lt;li&gt; Experience creating, optimizing, and integrating Application Programming Interface (API) calls; background in API development preferred. &lt;/li&gt;&lt;li&gt; Create Technical Requirements Documentation based on Product Requirement Documents. &lt;/li&gt;&lt;li&gt; Build high-level user interfaces using rapid prototyping methodologies. &lt;/li&gt;&lt;li&gt; Design application frameworks for use across multiple products. &lt;/li&gt;&lt;li&gt; Work with internal technical teams to identify and build platform elements required to support key mobile product features. &lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;#DICE_CA&lt;br&gt;&lt;br&gt;Compensation: $99,360.00/Yr. - $157,665.00/Yr.&lt;br&gt;&lt;br&gt;From versatile health perks to new career opportunities, check out our benefits on our careers website .&lt;br&gt;&lt;br&gt;Employment is contingent on Successful completion of a pre-employment screen, which may include a drug test.&lt;br&gt;&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T02:04:54.000Z"
+  },
+  "company": {
+    "name": "Sling TV",
+    "link": "https://www.linkedin.com/company/sling-tv"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": "Software Engineer-React Native-APJS"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "American Fork",
+    "region": "UT",
+    "postal_code": "84003",
+    "street_address": null,
+    "latitude": 40.376762,
+    "longitude": -111.79587
+  }
+}

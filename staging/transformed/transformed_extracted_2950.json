@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "&lt;p&gt;At Habitat Energy we bring together exceptionally talented and passionate people in the domains of energy trading, data science, software engineering and an in-depth understanding of flexible energy assets. Our aim is to maximise the value of large-scale flexible energy assets, (e.g. battery storage), so they are attractive investments, are deployed at scale and enable the energy transition.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;We are looking for smart, motivated people to join our team who share our belief that we can outperform the energy sector dinosaurs, have a positive impact on the planet and have fun doing it together.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;We have a vacancy for a&amp;nbsp;&lt;strong&gt;Data Scientist&lt;/strong&gt;&amp;nbsp;to be one of the founding members of our new team in Austin, Texas.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;You will be responsible for:&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Developing and building Habitat Energy\u2019s US market forecasts, building on our existing market forecasting capabilities using machine learning and statistical methods&lt;/li&gt;&lt;li&gt;Designing, building and developing the decision making algorithms which will support the optimisation of our US merchant storage portfolio&lt;/li&gt;&lt;li&gt;Creating systematic trading algorithms for transacting power in the US.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;We\u2019re looking for someone who is a great fit for our company. We want people who take accountability, build trust and are innovative. We encourage you to apply even if you may not meet every requirement in this posting.&amp;nbsp;We value diversity and our environment is supportive, challenging and focused on the consistent delivery of high quality, meaningful work.&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Requirements:&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Independent, entrepreneurial approach to work&lt;/li&gt;&lt;li&gt;A passion for algorithmic decision-making and a desire to apply that within the energy sector&lt;/li&gt;&lt;li&gt;An undergraduate degree in Computer Science, Machine Learning or related technical field&lt;/li&gt;&lt;li&gt;You have experience with Python and its wider numerical ecosystem (Pandas, SciKit-learn, Numpy etc.)&lt;/li&gt;&lt;li&gt;You have at least 3 years of work/educational experience building and delivering production solutions in Machine Learning, Data Science and/or Convex Optimization&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Extra credit if you can demonstrate:&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;MS or PhD degree in Computer Science, Machine Learning, or related technical field&lt;/li&gt;&lt;li&gt;Time series forecasting and mixed integer linear programming&lt;/li&gt;&lt;li&gt;Experience in energy markets or battery systems modelling&lt;/li&gt;&lt;li&gt;Relational and/or non-relational databases (eg, SQL), including time-series databases.&lt;/li&gt;&lt;li&gt;Version control code (Git) including dev, test and production environments&lt;/li&gt;&lt;li&gt;AWS, continuous integration, monitoring and alerting&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;In return, we\u2019ll give you a competitive salary, flexible working arrangements and a lot of personal development opportunities.&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T16:21:16.000Z"
+  },
+  "company": {
+    "name": "Habitat Energy",
+    "link": "https://uk.linkedin.com/company/habitat_energy"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": "Data Scientist"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

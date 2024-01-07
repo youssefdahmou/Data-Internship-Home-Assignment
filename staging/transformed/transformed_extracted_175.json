@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning/3D Computer Vision Software Engineer",
+    "industry": "",
+    "description": "&lt;p&gt;&lt;strong&gt;DEVELOP EMBEDDED COMPUTER VISION APPLICATIONS BY DESIGNING, DEVELOPING, AND TESTING SOFTWARE SOLUTIONS. APPLICATIONS INCLUDE REAL-TIME 3D MODELING AND AR/VR.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Software Engineer Job Duties&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Develop machine learning algorithms and libraries&lt;/li&gt;&lt;li&gt;Develop computer vision algorithms based on both RGB and 3D point cloud data&lt;/li&gt;&lt;li&gt;Create detailed documentation including design concept, flowcharts, layouts, diagrams, charts&lt;/li&gt;&lt;li&gt;Create structured coding with relevant code comments&lt;/li&gt;&lt;li&gt;Work with customers directly to understand requirements and design system specifications, standards, and programming&lt;/li&gt;&lt;li&gt;Develop software solutions by studying information needs; conferring with users; studying systems flow, data usage, and work processes; investigating problem areas; following the software development lifecycle&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Desired Skills and Experience&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Skills:&amp;nbsp;&lt;/strong&gt;&amp;nbsp;Familiarity with Agile Project Management, general programming skills (C, C++, Matlab, Java, Unity development platform), software design, data structures, strong math background with ability to understand algorithms in complex geometry, software debugging, software documentation, software testing, problem solving, teamwork, software development fundamentals, software development process (Jira), strong passion and professional commitment&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Qualifications:&amp;nbsp;&lt;/strong&gt;&amp;nbsp;Applicable degree required with focus on Computer Vision and Machine Learning&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Experience:&amp;nbsp;&lt;/strong&gt;&amp;nbsp;Minimum two years of experience preferred but will consider strong recent graduates.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Residency:&lt;/strong&gt;&amp;nbsp;Must be currently residing in the US.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;We are passionately focused on 3D computer vision. We are experts in using 3D depth sensor technologies, developing innovative 3D computer vision implementations, and processor optimization for mobile devices. If you have the skills and passion for 3D computer vision, come join us!&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-23T16:49:33.000Z"
+  },
+  "company": {
+    "name": "VanGogh Imaging",
+    "link": "https://www.linkedin.com/company/vangogh-imaging"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": "Machine Learning/3D Computer Vision Software Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "McLean",
+    "region": "VA",
+    "postal_code": "22101",
+    "street_address": null,
+    "latitude": 38.93759,
+    "longitude": -77.18378
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Full Stack Software Engineer (Early Career)",
+    "industry": "Consumer Electronics",
+    "description": "&lt;br&gt;&lt;strong&gt;Summary&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Imagine what you could do here. At Apple, new ideas have a way of becoming phenomenal products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish!&lt;br&gt;&lt;br&gt;&lt;br&gt;The Infrastructure Services Software Development team is looking for a hardworking and self-motivated engineer to be part of a diverse, fast paced and high-energy team. You will design and implement tools, services and applications that enable Network and Data Center operation teams to work easily. You will chip in to key and innovative technology which supports major Apple applications, with all the scalability and high-availability requirements that entails. Collaborating with other group\u2019s to lead and deliver best-in-class products in an exciting constantly evolving environment.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Key Qualifications&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Full stack development experience.&lt;br&gt;&lt;br&gt;Strong front-end technology stack including HTML, CSS, JavaScript and React UI Framework.&lt;br&gt;&lt;br&gt;Good website design experience including developing wireframes and UX.&lt;br&gt;&lt;br&gt;Quick prototyping and iterative skills with building REST services and UI-Frontends for proof of concepts.&lt;br&gt;&lt;br&gt;Strong Java Programming skills.&lt;br&gt;&lt;br&gt;Experience with Spring boot based micro-services.&lt;br&gt;&lt;br&gt;Experience with NoSQL databases.&lt;br&gt;&lt;br&gt;Experience writing effective unit tests and debugging skills.&lt;br&gt;&lt;br&gt;Nice to have good troubleshooting production issues.&lt;br&gt;&lt;br&gt;Building applications and products with scale and performance in mind.&lt;br&gt;&lt;br&gt;Customer focused and agile.&lt;br&gt;&lt;br&gt;We seek a self starter, forward-thinking person with strong leadership capabilities.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Description&lt;br&gt;&lt;/strong&gt; &lt;br&gt;You will use your technical expertise to implement new features and improvements. You should be comfortable with rapidly-evolving designs and requirements, and have excellent communication skills. Success depends on influencing other teams that run Apple's infrastructure and datacenter operations. You will have a sense of customer-focused solutions that \"just work,\" and keep this in mind at every stage of development. You will articulate ideas clearly within our team and collaborate with other organizations at Apple.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Education &amp;amp; Experience&lt;br&gt;&lt;/strong&gt; &lt;br&gt;BS/MS in Computer Science or related field, or equivalent work experience.&lt;br&gt;&lt;br&gt; &lt;br&gt;Role Number: 200259183&lt;br&gt;&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-02T15:31:30.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Full Stack Software Engineer (Early Career)"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

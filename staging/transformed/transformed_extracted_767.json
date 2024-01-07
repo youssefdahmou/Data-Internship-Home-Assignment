@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services",
+    "description": "&lt;p&gt;&lt;strong&gt;Machine Learning Engineer:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;About the Position&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;As a&amp;nbsp;member of our Engineering team,&amp;nbsp;you&amp;nbsp;will work with a tight, highly skilled machine learning&amp;nbsp;/ data science&amp;nbsp;team dedicated to the development of&amp;nbsp;proprietary consumer insights.&amp;nbsp;You will be&amp;nbsp;working closely with our Data Scientists,&amp;nbsp;implementing&amp;nbsp;highly available and scalable machine learning&amp;nbsp;pipelines.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;If you are a&amp;nbsp;Software Engineer passionate for technology who wants to&amp;nbsp;work with a mature,&amp;nbsp;intensely skilled team, values total ownership of your work, and can\u2019t imagine a day without coding, we want to speak to you! We're looking for a creative, focused,&amp;nbsp;collaborative,&amp;nbsp;technically curious individual who enjoys both design as well as working hands-on with the code.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;If you are interested in working on cutting edge ML and AI projects at&amp;nbsp;Internet scale and speed this is the job for you!&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Key Responsibilities&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Design and implement ML feature&amp;nbsp;pipelines&amp;nbsp;&lt;/li&gt;&lt;li&gt;Optimize pipelines and processes for model development, experimentation and scaled production&amp;nbsp;scoring&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;li&gt;Implement machine learning algorithms and libraries in service to modeling and production scoring&amp;nbsp;pipelines&amp;nbsp;&lt;/li&gt;&lt;li&gt;Monitor and ensure the quality of machine learning&amp;nbsp;solutions&amp;nbsp;by implementing&amp;nbsp;process&amp;nbsp;and control disciplines&amp;nbsp;as well as&amp;nbsp;tooling&amp;nbsp;to&amp;nbsp;govern&amp;nbsp;&lt;/li&gt;&lt;li&gt;Analyze large and complex data sets to derive valuable insights, inform feature and product&amp;nbsp;development&amp;nbsp;&lt;/li&gt;&lt;li&gt;Apply machine learning and data science techniques and design distributed&amp;nbsp;systems&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Qualifications &amp;amp; Experience Requirements&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Strong&amp;nbsp;Software Engineering background with emphasis in data&amp;nbsp;science and&amp;nbsp;machine&amp;nbsp;learning&amp;nbsp;&lt;/li&gt;&lt;li&gt;Fluent in Java, Python, and/or Scala programming languages&amp;nbsp;&lt;/li&gt;&lt;li&gt;Strong communication skills including the ability to describe complex models and findings to different audiences and stakeholders, from&amp;nbsp;data&amp;nbsp;science peers to business decision-makers&amp;nbsp;&lt;/li&gt;&lt;li&gt;Demonstrated exploratory analysis and visualization abilities in a non-academic&amp;nbsp;settings&amp;nbsp;&lt;/li&gt;&lt;li&gt;Strong bias for action and ability to pivot quickly and act with agility according to the needs of the&amp;nbsp;business&amp;nbsp;&lt;/li&gt;&lt;li&gt;Working knowledge of machine learning frameworks and the data and computation management mechanisms that surround them in a cloud&amp;nbsp;environment&amp;nbsp;(AWS)&amp;nbsp;&lt;/li&gt;&lt;li&gt;Experience designing, implementing, and transitioning to AI/ML&amp;nbsp;cloud based&amp;nbsp;frameworks such as Amazon&amp;nbsp;SageMaker&amp;nbsp;&lt;/li&gt;&lt;li&gt;Experience implementing quality and control&amp;nbsp;disciplines&amp;nbsp;for Machine Learning&amp;nbsp;pipelines&amp;nbsp;through process and&amp;nbsp;tooling&amp;nbsp;&lt;/li&gt;&lt;li&gt;Ability to handle multiple projects simultaneously, meet deadlines, and effectively manage priorities and communicate&amp;nbsp;progress&amp;nbsp;&lt;/li&gt;&lt;li&gt;Fluent in Linux based systems, Docker,&amp;nbsp;and code versioning tooling (Git/CI/CD)&amp;nbsp;&lt;/li&gt;&lt;li&gt;Computer Science or equivalent degree and work experience&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T15:23:52.000Z"
+  },
+  "company": {
+    "name": "1872 Consulting",
+    "link": "https://www.linkedin.com/company/1872-consulting"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Machine Learning Engineer"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 120000,
+    "max_value": 120000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Virginia",
+    "region": "United States",
+    "postal_code": "23038",
+    "street_address": null,
+    "latitude": 37.512905,
+    "longitude": -78.697624
+  }
+}

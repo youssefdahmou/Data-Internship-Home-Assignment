@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Engineer",
+    "industry": "",
+    "description": "Position: ETL Data Engineer with PostgreSQL Experience&lt;br&gt;Duration: Long Term&lt;br&gt;Location: NYC, NY | Lake Mary, FL (Remote work till COVID)&lt;br&gt;No. of positions: 1&lt;br&gt;&lt;br&gt;12 -15 years\u2019 experience working with data (data engineering, Design lead , Building Framework and Solutions etc.) &lt;br&gt;Experience analyzing and working with large datasets and designing solution a must&lt;br&gt;Strong experience in building/designing reusable solution and framework &lt;br&gt;Proficiency with SQL \u2013 10+ years\u2019 experience &lt;br&gt;Strong experience in PostgreSQL, Redshift DB&lt;br&gt;Strong experience in working Cloud framework &lt;br&gt;Strong experience of ETL tools like Informatica PowerCenter -10+ years\u2019 experience&lt;br&gt;Strong experience in IICS . Minimum 2+ years\u2019 experience&lt;br&gt;Strong experience in AWS different components . Must be proficient  in Athena, Redshift, S3,Lamda,Glue etc.&lt;br&gt;Experience using GitHub&lt;br&gt;Must be able to both read &amp; understand code as well as feel comfortable using code as a tool for data analysis &lt;br&gt;Experience using tools like Alteryx&lt;br&gt;Demonstrated Critical thinking ability including the ability to define a problem, frame it for a broad audience and collaborate with others to formulate solutions &lt;br&gt;Excellent communication skills. &lt;br&gt;Ability to work independently and as part of a team with proven ability to influence with impact across functions and disciplines. &lt;br&gt;Must be detail oriented &lt;br&gt;Must be familiar working in agile environment&lt;br&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-14T17:14:42.000Z"
+  },
+  "company": {
+    "name": "Confidential",
+    "link": "https://www.linkedin.com/company/confidentialcompany"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 144,
+    "seniority_level": "Senior Data Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

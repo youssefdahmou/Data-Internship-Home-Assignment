@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Application Engineer",
+    "industry": "Electrical/Electronic Manufacturing,Construction,Mechanical or Industrial Engineering",
+    "description": "&lt;strong&gt;&lt;u&gt;Job Summary&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;Client located just west of Chicago is looking for an Applications engineer in the automation industry. This individual will have experience with automated systems primarily in the Material Handling field. This individual will be the technical liaison between sales and the customer. Salary will be based on experience.&lt;br&gt;&lt;ul&gt; &lt;li&gt;Bachelors in Engineering&lt;/li&gt;&lt;li&gt;Experience designing automated systems&lt;/li&gt;&lt;li&gt;Experienced in Microsoft products&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;location: Melrose Park, Illinois&lt;br&gt;job type: Permanent&lt;br&gt;salary: $70,000 - 100,000 per year&lt;br&gt;work hours: 8am to 4pm&lt;br&gt;education: Bachelors&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;Responsibilities&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt; &lt;li&gt;Develop Automated Systems used in the material handling industry&lt;/li&gt;&lt;li&gt;Create proposal documents that fully describe and define the solution.&lt;/li&gt;&lt;li&gt;Compile, review, and process incoming information and specifications for new projects.&lt;/li&gt;&lt;li&gt;Assist Sales Engineers and our customers by answering technical questions related to our products.&lt;/li&gt;&lt;li&gt;Review and integrate internal documents.&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Qualifications&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt; &lt;li&gt;Experience level: &lt;/li&gt;&lt;li&gt;Education: Bachelors&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Skills&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Electrical Engineering&lt;/li&gt;&lt;li&gt;Electrical Engineering&lt;/li&gt;&lt;li&gt;Controls&lt;/li&gt;&lt;li&gt;Manufacturing&lt;/li&gt;&lt;li&gt;Robotics&lt;/li&gt;&lt;li&gt;PLC&lt;/li&gt;&lt;li&gt;Electrical Engineering&lt;/li&gt;&lt;li&gt;Mechanical Engineering&lt;/li&gt;&lt;li&gt;material handling (1 year of experience is required)&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;Equal Opportunity Employer: Race, Color, Religion, Sex, Sexual Orientation, Gender Identity, National Origin, Age, Genetic Information, Disability, Protected Veteran Status, or any other legally protected group status.&lt;br&gt;&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T06:12:42.000Z"
+  },
+  "company": {
+    "name": "Randstad USA",
+    "link": "https://www.linkedin.com/company/randstadusa"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": "Application Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Melrose Park",
+    "region": "IL",
+    "postal_code": "60164",
+    "street_address": null,
+    "latitude": 41.89343,
+    "longitude": -87.85661
+  }
+}

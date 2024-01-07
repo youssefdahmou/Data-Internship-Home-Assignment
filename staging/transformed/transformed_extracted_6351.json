@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Entertainment",
+    "description": "&lt;strong&gt;&lt;u&gt;Company Overview&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;WarnerMedia is a powerful portfolio of iconic entertainment, news, and sports brands. We bring people, technology, and the world\u2019s best storytellers together to drive culture and meaningful connection. We believe the enduring power of stories can open our eyes to the world, to each other, and to new and different perspectives.&lt;br&gt;&lt;br&gt;Join us. Shape your story here.&lt;br&gt;&lt;br&gt;&lt;strong&gt;The Perks&lt;br&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Exclusive WarnerMedia events and advance screenings&lt;/li&gt;&lt;li&gt;Paid time off every year to volunteer for eligible employees&lt;/li&gt;&lt;li&gt;Access to well-being tools, resources, and freebies&lt;/li&gt;&lt;li&gt;Access to in-house learning and development resources&lt;/li&gt;&lt;li&gt;Part of the WarnerMedia family of powerhouse brands&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;Warner Media, LLC and its subsidiaries are equal opportunity employers. Qualified candidates will receive consideration for employment without regard to race, color, religion, national origin, gender, sexual orientation, gender identity or expression, age, mental or physical disability, and genetic information, marital status, citizenship status, military status, protected veteran status or any other category protected by law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T06:02:46.000Z"
+  },
+  "company": {
+    "name": "WarnerMedia",
+    "link": "https://www.linkedin.com/company/warnermedia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Data Scientist"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Burbank",
+    "region": "CA",
+    "postal_code": "91504",
+    "street_address": null,
+    "latitude": 34.182053,
+    "longitude": -118.30747
+  }
+}

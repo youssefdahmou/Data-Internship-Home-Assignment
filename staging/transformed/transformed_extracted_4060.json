@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer II",
+    "industry": "Electrical/Electronic Manufacturing,Logistics and Supply Chain,Machinery",
+    "description": "In this role, you should have excellent problem-solving skills and thorough knowledge of Android Device Architecture. Communication and documentation are key to this role as you will be working directly with the architecture and management teams.&lt;br&gt;&lt;ul&gt;&lt;li&gt;Understanding of Android Device Architecture. Focused on Kernel, HAL, Debug&lt;/li&gt;&lt;li&gt;Read requirements predominantly related to Hardware peripherals, Integrate, provide HAL interface to Application&lt;/li&gt;&lt;li&gt;We expect at least 50-60% of tasks will be related to coding&lt;/li&gt;&lt;li&gt;Previous knowledge on any device development is a plus&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Preferred Education&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Bachelor's Degree required or equivalent experience&lt;/li&gt;&lt;li&gt;Minimum of 5+ years of experience&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Key Skills And Competencies&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Device Driver and Hardware Abstraction Layer development&lt;/li&gt;&lt;li&gt;Knowledge of Linux Kernel, Bootloaders&lt;/li&gt;&lt;li&gt;Hands on Experience in development using any one of the languages C,C++, JAVA&lt;/li&gt;&lt;li&gt;Excellent communication skills&lt;/li&gt;&lt;li&gt;Experience with Android Development&lt;/li&gt;&lt;li&gt;Demonstrated technical experience&lt;/li&gt;&lt;li&gt;Demonstrated experience working independently and collaboratively on projects&lt;/li&gt;&lt;li&gt;Demonstrated experience trouble shooting&lt;/li&gt;&lt;li&gt;Broad knowledge of applicable IT systems/applications&lt;/li&gt;&lt;li&gt;Experience developing new systems and tools&lt;/li&gt;&lt;li&gt;Experience in documenting and maintaining up to date systems procedures&lt;/li&gt;&lt;li&gt;Advanced analytical skills&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-17T23:18:35.000Z"
+  },
+  "company": {
+    "name": "Zebra Technologies",
+    "link": "https://www.linkedin.com/company/zebra-technologies"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Software Engineer II"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Miramar",
+    "region": "FL",
+    "postal_code": "33004",
+    "street_address": null,
+    "latitude": 25.97377,
+    "longitude": -80.323616
+  }
+}

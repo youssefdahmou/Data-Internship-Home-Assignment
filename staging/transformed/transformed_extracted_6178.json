@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "R&amp;D Engineer - Web Developer",
+    "industry": "Information Technology and Services,Computer Software,Automotive",
+    "description": "&lt;strong&gt;&lt;u&gt;Company Overview&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;Hunter Engineering Company is a world leader in automotive service equipment, offering state-of-the-art wheel alignment systems, wheel balancers, lift racks and more. Hunter equipment is approved and used by vehicle manufacturers, dealers, and automotive service facilities around the world. Hunter is at the forefront of change, thanks to our remarkable people who bring cutting-edge products and services to life.&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;Job Summary&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;A new lead front end developer would focus on sophisticated high quality web page development. The new developer would support the continued advancement of HunterNET with a range of user centered features for the display and analysis of results.&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;Responsibilities&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt; Design and develop web applications and services that integrate with Hunter's products &lt;/li&gt;&lt;li&gt; Collaborate\u202fwith\u202fproduct managers, designers, and engineers\u202fto\u202fprototype and implement features \u202f &lt;/li&gt;&lt;li&gt; Recommend best approaches for front-end architecture, tooling, and processes \u202f &lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Required&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;strong&gt; Qualifications &lt;br&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt; Bachelor\u2019s degree in Computer Science, Software Engineering, or related engineering and technical field. &lt;/li&gt;&lt;li&gt; 3 + years of development experience in front end development &lt;/li&gt;&lt;li&gt; Skilled with HTML , CSS, JS &lt;/li&gt;&lt;li&gt; Basic familiarity with object-oriented programming concepts and technologies \u202f &lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Preferred&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt; Experience with front-end frameworks\u202fsuch as React and Vue \u202f &lt;/li&gt;&lt;li&gt; Experience with Agile development &lt;/li&gt;&lt;li&gt; Some experience with a\u202fmajor cloud provider \u202f such as Azure &lt;/li&gt;&lt;li&gt; Skill in understanding and consuming RESTful APIs \u202f &lt;/li&gt;&lt;li&gt; Knowledge of continuous integration is an advantage.&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T05:24:31.000Z"
+  },
+  "company": {
+    "name": "Hunter Engineering Company",
+    "link": "https://www.linkedin.com/company/hunter-engineering"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": "R&amp;D Engineer - Web Developer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bridgeton",
+    "region": "MO",
+    "postal_code": "63044",
+    "street_address": null,
+    "latitude": 38.755707,
+    "longitude": -90.4183
+  }
+}

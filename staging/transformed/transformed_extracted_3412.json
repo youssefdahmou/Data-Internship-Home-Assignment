@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Remote Machine Learning Engineer",
+    "industry": "Financial Services,Information Technology and Services,Market Research",
+    "description": "&lt;p&gt;Our client,&amp;nbsp;&lt;strong&gt;a well-known global information services company&lt;/strong&gt;,&amp;nbsp;is actively looking for a&amp;nbsp;&lt;strong&gt;Remote Machine Learning Engineer&lt;/strong&gt;&amp;nbsp;to join their team based out of&amp;nbsp;Costa Mesa, CA!&amp;nbsp;*&lt;em&gt;This role will be 100% remote*&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;*This is an 8 month W2 contract with benefits!*&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;You will be working closely with the data science and engineering teams to &lt;strong&gt;provide insights for their US Retail and Online Markets.&lt;/strong&gt; They are looking for someone who is naturally curious in &lt;strong&gt;both technical and US business domains.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Responsibilities:&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Analyze structured and unstructured data sources to determine the key business questions and hypotheses that can be explored with the data sets&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;Evaluate approaches and algorithms based on available data and research objectives&lt;/li&gt;&lt;li&gt;Develop experimental ML models to solve complex data mining problems&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Desired Skills&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Bachelor's degree&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;3+ years of experience&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Knowledge of SQL, Snowflake, Pyspark, and AWS Sagemaker&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-11T15:34:08.000Z"
+  },
+  "company": {
+    "name": "Motion Recruitment",
+    "link": "https://www.linkedin.com/company/motion-recruitment-partners"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": "Remote Machine Learning Engineer"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 44,
+    "max_value": 54,
+    "unit": "HOUR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Costa Mesa",
+    "region": "CA",
+    "postal_code": "92626",
+    "street_address": null,
+    "latitude": 33.663857,
+    "longitude": -117.90476
+  }
+}

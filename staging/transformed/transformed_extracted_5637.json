@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Banking,Financial Services",
+    "description": "&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Understanding the business, payment platforms, and customer flows that generate the source data for the project&lt;/li&gt;&lt;li&gt;Analyzing and understanding the data needed for modeling and platform features&lt;/li&gt;&lt;li&gt;Cleaning the data and ensuring the validity of the data&lt;/li&gt;&lt;li&gt;Preprocessing the data (via shell scripts and a programming language such as Python, Java, Scala, etc)&lt;/li&gt;&lt;li&gt;Iteratively computing features and tuning parameters to improve the quality of the model&lt;/li&gt;&lt;li&gt;Communicating your findings to the project team and client stakeholders&lt;/li&gt;&lt;li&gt;Assisting in decision making and making recommendations on Data Science aspects of the project&lt;/li&gt;&lt;li&gt;Collaborating with key stakeholders (data scientists, engineers, risk managers, users) on the project&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Requirements&lt;/strong&gt;:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Proficient in Machine Learning (training and testing, avoiding overfitting, etc.)&lt;/li&gt;&lt;li&gt;Experience with applying machine learning techniques to predictive modeling&lt;/li&gt;&lt;li&gt;Knowledge of Big Data technologies such as Spark, Hadoop, and related platforms&lt;/li&gt;&lt;li&gt;Proficiency in Bash, Python, and either Java or Scala&lt;/li&gt;&lt;li&gt;Proficient in querying databases (Spark, PySpark, Hive, SQL, Oracle, Cassandra)&lt;/li&gt;&lt;li&gt;Experience with extracting insights from raw data and transforming them into useful features&lt;/li&gt;&lt;li&gt;Knowledge of resource monitoring and runtime optimization (both at JVM and OS level)&lt;/li&gt;&lt;li&gt;Knowledge of statistics or data visualization is a plus&lt;/li&gt;&lt;li&gt;Knowledge of tree-based algorithms (Random Forests, XGBoost, LGBM) is a plus&lt;/li&gt;&lt;li&gt;Knowledge of Deep Learning algorithms is a plus&lt;/li&gt;&lt;li&gt;Ability to communicate your findings in a clear way and prepare stakeholder presentations&lt;/li&gt;&lt;li&gt;Prior client-facing consulting experience is a plus&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-23T17:11:50.000Z"
+  },
+  "company": {
+    "name": "Mindlance",
+    "link": "https://www.linkedin.com/company/mindlance"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Data Scientist"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greenwood Village",
+    "region": "CO",
+    "postal_code": "80018",
+    "street_address": null,
+    "latitude": 39.616886,
+    "longitude": -104.95051
+  }
+}

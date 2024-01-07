@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Junior Site Reliability Engineer-Citi Technology Infrastructure",
+    "industry": "Banking,Financial Services,Investment Banking",
+    "description": "Job Id: 21267690&lt;br&gt;&lt;br&gt;We are looking for a motivated Junior Site Reliability Engineer who prefers to live on the cutting edge of cloud infrastructure management, Application Performance Management (APM), and Infrastructure-as-Code (IaC).&lt;br&gt;&lt;br&gt;An ideal candidate would have both software engineering experience as well as DevOps/Sysadmin experience however we are open to anyone passionate about creating organized, efficient, and scalable cloud infrastructure which is easy to deploy and maintain.&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;Responsibilities:&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Provision new infrastructure and monitor existing one&lt;/li&gt;&lt;li&gt;Set up automated mechanisms that spot issues early&lt;/li&gt;&lt;li&gt;Configure alarms and alerts to find any performance issues&lt;/li&gt;&lt;li&gt;Assist the team with technology selection&lt;/li&gt;&lt;li&gt;Front-line for Production monitoring + response in case of issues&lt;/li&gt;&lt;li&gt;Works on the design of new features / functionality to ensure Security + Resiliency + Monitoring are baked into every release.&lt;/li&gt;&lt;li&gt;Works with the team on releases&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Qualifications:&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;1 year of experience as SRE, software engineer, or systems administrator&lt;/li&gt;&lt;li&gt;Comfortable working with Docker / Containers&lt;/li&gt;&lt;li&gt;Experience with coding in any language&lt;/li&gt;&lt;li&gt;Continuous Integration / Continuous Delivery and APM implementation experience&lt;/li&gt;&lt;li&gt;Consistently demonstrates clear and concise written and verbal communication&lt;/li&gt;&lt;li&gt;Demonstrated problem-solving and decision-making skills&lt;/li&gt;&lt;li&gt;Ability to work under pressure and manage deadlines or unexpected changes in expectations or requirements&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Education:&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Bachelor\u2019s degree/University degree or equivalent experience&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;This job description provides a high-level review of the types of work performed. Other job-related duties may be assigned as required.&lt;br&gt;&lt;br&gt;-------------------------------------------------&lt;br&gt;&lt;br&gt;&lt;strong&gt;Job Family Group: &lt;br&gt;&lt;br&gt;&lt;/strong&gt;Technology&lt;br&gt;&lt;br&gt;-------------------------------------------------&lt;br&gt;&lt;br&gt;&lt;strong&gt;Job Family:&lt;br&gt;&lt;br&gt;&lt;/strong&gt;Applications Development&lt;br&gt;&lt;br&gt;------------------------------------------------------&lt;br&gt;&lt;br&gt;&lt;strong&gt;Time Type:&lt;br&gt;&lt;br&gt;&lt;/strong&gt;------------------------------------------------------&lt;br&gt;&lt;br&gt;Citi is an equal opportunity and affirmative action employer.&lt;br&gt;&lt;br&gt;Qualified applicants will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.&lt;br&gt;&lt;br&gt;Citigroup Inc. and its subsidiaries (\"Citi\u201d) invite all qualified interested applicants to apply for career opportunities. If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review &lt;strong&gt;Accessibility at Citi&lt;/strong&gt;.&lt;br&gt;&lt;br&gt;View the \"&lt;strong&gt;EEO is the Law&lt;/strong&gt;\" poster. View the &lt;strong&gt;EEO is the Law Supplement&lt;/strong&gt;.&lt;br&gt;&lt;br&gt;View the &lt;strong&gt;EEO Policy Statement&lt;/strong&gt;.&lt;br&gt;&lt;br&gt;View the &lt;strong&gt;Pay Transparency Posting&lt;/strong&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-01T15:09:46.000Z"
+  },
+  "company": {
+    "name": "Citi",
+    "link": "https://www.linkedin.com/company/citi"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": "Junior Site Reliability Engineer-Citi Technology Infrastructure"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Irving",
+    "region": "TX",
+    "postal_code": "75063",
+    "street_address": null,
+    "latitude": 32.813877,
+    "longitude": -96.949936
+  }
+}

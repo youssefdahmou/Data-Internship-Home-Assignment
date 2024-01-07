@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Principal Software Engineer, Marketplace Apps",
+    "industry": "Information Technology and Services",
+    "description": "&lt;strong&gt;&lt;u&gt;Overview&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;Top \"Must-Have\" Skills for this job:&lt;br&gt;&lt;ul&gt;&lt;li&gt; 8+ years of professional experience building backend web applications&lt;/li&gt;&lt;li&gt; Strong knowledge and experience with the web request/response lifecycle an API design&lt;/li&gt;&lt;li&gt; Hands-on experience with Node.JS and TypeScript&lt;/li&gt;&lt;li&gt; Software development experience with transactional systems, trading systems, e-commerce, or marketplaces&lt;/li&gt;&lt;li&gt; Experience deploying and monitoring software in the cloud (AWS)&lt;/li&gt;&lt;li&gt; Strong communicator with both technical and non-technical professionals&lt;/li&gt;&lt;li&gt; Bachelor or Master\u2019s Degree in Computer Science, Engineering, or a Related Field&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Selling Points&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt; Full Benefits (Medical, Dental, Vision)&lt;/li&gt;&lt;li&gt; 401K Plan&lt;/li&gt;&lt;li&gt; PTO, Sick Days&lt;/li&gt;&lt;li&gt; Parental Leave&lt;/li&gt;&lt;li&gt; Ability to work Remote&lt;/li&gt;&lt;li&gt; Catered Lunches&lt;/li&gt;&lt;li&gt; And much more!&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T01:48:47.000Z"
+  },
+  "company": {
+    "name": "Healthtalentpro",
+    "link": "https://www.linkedin.com/company/healthtalentpro"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": "Principal Software Engineer, Marketplace Apps"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

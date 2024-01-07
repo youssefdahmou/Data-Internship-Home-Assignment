@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning/Data Engineer",
+    "industry": "Computer Software",
+    "description": "&lt;p&gt;The Role:&amp;nbsp;The machine learning engineer is expected to optimize the section on our commercial application machine learning pipelines. You will be evaluating existing machine learning (ML) processes, performing statistical analysis to resolve data set problems, and enhancing the accuracy of our commercial software's predictive automation capabilities.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;To ensure success as a machine learning engineer, you should demonstrate solid data science knowledge and experience in a related ML role. The machine learning engineer will be someone whose expertise translates into the enhanced performance of predictive automation software.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Machine Learning Engineer Responsibilities:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Consult with product managers to determine and refine machine learning objectives and product requirements.&lt;/li&gt;&lt;li&gt;Design sections of the machine learning pipeline and self-running feature engineering to automate predictive models.&lt;/li&gt;&lt;li&gt;Transform data science teams prototypes and apply appropriate ML algorithms and tools to create near-level production code to be handed off to development for routinization.&lt;/li&gt;&lt;li&gt;Work with the data science team to ensure that algorithms generate accurate product results.&lt;/li&gt;&lt;li&gt;Solve complex problems with multi-layered data sets, as well as optimizing existing machine learning libraries and frameworks.&lt;/li&gt;&lt;li&gt;Develop ML algorithms to analyze huge volumes of historical data to assist the product make predictions on the data sets. Data sets are customer and non-customer data.&lt;/li&gt;&lt;li&gt;Run tests, performing statistical analysis, and interpreting test results.&lt;/li&gt;&lt;li&gt;Document machine learning processes.&lt;/li&gt;&lt;li&gt;Keep abreast of developments in machine learning.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Machine Learning Engineer Requirements:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bachelor's degree in computer science, data science, mathematics, or a related field.&lt;/li&gt;&lt;li&gt;Master\u2019s degree in computational linguistics, data analytics, or similar will be advantageous.&lt;/li&gt;&lt;li&gt;At least two years' experience as a machine learning engineer.&lt;/li&gt;&lt;li&gt;Advanced proficiency with Python code writing.&lt;/li&gt;&lt;li&gt;Extensive knowledge of ML frameworks, libraries, data structures, data modeling, and software architecture.&lt;/li&gt;&lt;li&gt;In-depth knowledge of mathematics, statistics, and algorithms.&lt;/li&gt;&lt;li&gt;Superb analytical and problem-solving abilities.&lt;/li&gt;&lt;li&gt;Great communication and collaboration skills.&lt;/li&gt;&lt;li&gt;Excellent time management and organizational abilities.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-22T20:21:21.000Z"
+  },
+  "company": {
+    "name": "Symphony AyasdiAI",
+    "link": "https://www.linkedin.com/company/ayasdi"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": "Machine Learning/Data Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

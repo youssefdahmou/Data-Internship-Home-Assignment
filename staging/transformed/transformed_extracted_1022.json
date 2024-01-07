@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services",
+    "description": "&lt;p&gt;Client located headquartered in Denver, Colorado is seeking a 100% remote Data Scientist for a long term contract position.&amp;nbsp;This position will participate on a small team that&amp;nbsp;will work with medical, claims, and policy related data that comes in a variety of formats \u2013 structured and unstructured - to generate insights and embed artificial intelligence into applications.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Required:&lt;/p&gt;&lt;p&gt;-Python.&lt;/p&gt;&lt;p&gt;-Strong modeling skills.&lt;/p&gt;&lt;p&gt;-Knowledge of BASH.&lt;/p&gt;&lt;p&gt;-SQL coding.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Desired:&lt;/p&gt;&lt;p&gt;-Data library experience (spaCy, Pandas, NumPy, Scikit-learn, XGBoost, Tensorflow, PyTorch, Keras, etc.).&lt;/p&gt;&lt;p&gt;-Experience working with insurance data (medical records, insurance claims, policy data).&lt;/p&gt;&lt;p&gt;-API development.&lt;/p&gt;&lt;p&gt;-Google Cloud Platform.&lt;/p&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-19T15:40:01.000Z"
+  },
+  "company": {
+    "name": "Compri Consulting",
+    "link": "https://www.linkedin.com/company/compri-consulting"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Data Scientist"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 70,
+    "max_value": 80,
+    "unit": "HOUR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Denver Metropolitan Area",
+    "region": null,
+    "postal_code": "80205",
+    "street_address": null,
+    "latitude": 39.756443,
+    "longitude": -104.99415
+  }
+}

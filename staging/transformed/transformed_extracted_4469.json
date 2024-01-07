@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Data Engineer",
+    "industry": "Computer Software",
+    "description": "&lt;p&gt;&lt;strong&gt;Machine Learning Data Engineer&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Austin, TX&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Long term &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Job Summary:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;As a part of our Decision Sciences group, you will work with our clients to help define solutions for institutionalizing data-driven decision making in a cost effective and scalable manner. The focus is not only in driving analytical outcomes but defining approaches to automate the operationalizing of the predictions within our client applications. The Machine Learning (ML) Engineer, with an interest in a variety of disciplines, will strive to build frameworks and supporting utilities to enhance the experience of our data scientists.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Develop and support a platform that enables data scientists to rapidly develop, train, and experiment with machine learning models. Collaborate with other engineers and data scientists to design high performance architectures to support development of machine learning models, data wrangling and data provisioning pipelines and metadata rich data lake repositories.&lt;/p&gt;&lt;p&gt;Implement POCs and make recommendations for new ML accelerator tools&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;span class=\"ql-cursor\"&gt;&lt;/span&gt;Required Skills:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Strong programming experience building data integration frameworks using Python (on-prem)&lt;/p&gt;&lt;p&gt;Strong experience with ETL patterns to support data science is required&lt;/p&gt;&lt;p&gt;Experience with AWS or Azure ML stack is desired&lt;/p&gt;&lt;p&gt;Industry experience as a Machine Learning Engineer&lt;/p&gt;&lt;p&gt;Statistical background is a nice to have&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bachelor\u2019s Degree or foreign equivalent in Computer Science, Electrical Engineering, Mathematics, Computer Applications, Information Systems or Engineering is required.&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-18T18:16:23.000Z"
+  },
+  "company": {
+    "name": "ConnectTel, Inc.",
+    "link": "https://www.linkedin.com/company/connecttel"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Machine Learning Data Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

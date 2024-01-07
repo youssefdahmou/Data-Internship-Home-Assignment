@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "",
+    "description": "&lt;p&gt;Senior Machine Learning/AI Engineer&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Experience:- 7-10 Years&lt;/p&gt;&lt;p&gt;Location :- Bangalore&lt;/p&gt;&lt;p&gt;Salary :- 30-35 Lacs&lt;/p&gt;&lt;p&gt;Immediate Joiner or those who are serving Notice Period can apply.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Overview (With Technical Skills):&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;SAS Platform (Programming/ Developer)&lt;/p&gt;&lt;p&gt;\u25aa Have 7+ years of professional experience in machine learning or quantitative analysis or have a Ph.D. in Computer Science, Statistics, Mathematics, or Physics.&lt;/p&gt;&lt;p&gt;\u25aa Have excellent programming and algorithmic skills.&lt;/p&gt;&lt;p&gt;\u25aa Are proficient with Python and experience with data processing tools (e.g., SciPy, NumPy, Pandas, PyTorch, and Apache Spark).&lt;/p&gt;&lt;p&gt;\u25aa Have an in-depth understanding of supervised and unsupervised machine learning algorithms. Knowledge of engineering causal models and convolutional neural networks a big plus.&lt;/p&gt;&lt;p&gt;\u25aa Have proven track record of deploying learning algorithms in a production system.&lt;/p&gt;&lt;p&gt;\u25aa Have demonstrated end-to-end ownership of projects&lt;/p&gt;&lt;p&gt;\u25aa Have stellar listening and explanation skills&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Key Responsibilities:&lt;/p&gt;&lt;p&gt;\u27a2 Deliver state-of-the-art, causal algorithms to production for optimizing consumer product metrics&lt;/p&gt;&lt;p&gt;\u27a2 Build and maintain the infrastructure for data and model management&lt;/p&gt;&lt;p&gt;\u27a2 Work closely with the Turing design and engineering teams for machine learning-adjacent components, such as visualization, ad-hoc data analysis, and data processing&lt;/p&gt;&lt;p&gt;\u27a2 Give talks, write blog posts, and produce peer-reviewed publications&lt;/p&gt;&lt;p&gt;\u27a2 Define and lead the development of longer-term Turing Platform capabilities.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Compensation &amp;amp; Perks:&lt;/p&gt;&lt;p&gt;\u2022 Remote-friendly work environment&lt;/p&gt;&lt;p&gt;\u2022 Collaborative culture&lt;/p&gt;&lt;p&gt;\u2022 Mentorship from machine learning pioneers&lt;/p&gt;&lt;p&gt;\u2022 Competitive salary with generous equity. You get to join the company at the most advantageous stage&lt;/p&gt;&lt;p&gt;\u2022 Directly impact the growth of the company&lt;/p&gt;&lt;p&gt;\u2022 Play a significant role in strategizing the product roadmap&lt;/p&gt;&lt;p&gt;\u2022 Reimbursement of home-office setup&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T18:56:22.000Z"
+  },
+  "company": {
+    "name": "Aviation Indeed\u2122\ufe0f",
+    "link": "https://in.linkedin.com/company/aviation-indeed"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": "Machine Learning Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "IN",
+    "locality": "Bangalore Urban district",
+    "region": null,
+    "postal_code": "577566",
+    "street_address": null,
+    "latitude": 12.970214,
+    "longitude": 77.56029
+  }
+}

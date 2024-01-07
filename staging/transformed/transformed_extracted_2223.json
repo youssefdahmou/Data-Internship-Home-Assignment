@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Internet",
+    "description": "&lt;p&gt;Sift Media is looking for a proven software developer with excellent data science skills.&amp;nbsp; Our bidder makes buying decisions on over 50 billion ad requests per day.&amp;nbsp; Our data science helps us bid on the right users at the right time.&amp;nbsp; Targeting is crucial, but the methods implemented must be performant enough to execute in real-time.&amp;nbsp; If you enjoy cutting-edge technology, *massive* amounts of data, and being part of the small team powering one of the fastest-growing companies in North Carolina, you\u2019ll probably find this interesting.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;QUALIFICATIONS&lt;/p&gt;&lt;ul&gt;&lt;li&gt;BS or MS in Computer Science, Mathematics or equivalent work experience&lt;/li&gt;&lt;li&gt;Practical Data Science experience&lt;/li&gt;&lt;li&gt;Experience with machine learning frameworks such as Amazon ML&lt;/li&gt;&lt;li&gt;Software development experience preferably with a JVM based language (Java, Scala, Clojure)&lt;/li&gt;&lt;li&gt;Solid experience with query languages&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T21:46:35.000Z"
+  },
+  "company": {
+    "name": "Sift Media",
+    "link": "https://www.linkedin.com/company/siftmedia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Machine Learning Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Raleigh-Durham-Chapel Hill Area",
+    "region": null,
+    "postal_code": "27603",
+    "street_address": null,
+    "latitude": 35.817448,
+    "longitude": -78.27004
+  }
+}

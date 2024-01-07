@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Remote Senior Data Engineer/ Data Scientist",
+    "industry": "Information Technology and Services,Computer Software",
+    "description": "&lt;strong&gt;Unlimited PTO, every other Fridays off, consistently voted best places to work!&lt;br&gt;&lt;br&gt;&lt;/strong&gt;This Jobot Job is hosted by Amber Heigerick&lt;br&gt;&lt;br&gt;Are you a fit? Easy Apply now by clicking the \"Apply\" button and sending us your resume.&lt;br&gt;&lt;br&gt;Salary $120,000 - $160,000 per year&lt;br&gt;&lt;br&gt;&lt;strong&gt;A Bit About Us&lt;br&gt;&lt;br&gt;&lt;/strong&gt;We are a well established Technology company consistently voted best places to work!&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;Why join us?&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;/strong&gt;We believe that everyone deserves to thrive at the company they are part of! We treat our employees like our clients, without you we wouldn't have a company! We give our employees unlimited PTO, flexible work hours, and every other Fridays off. These are just some of our perks. We have very low turn-over, because we have happy employees. We like to promote from with in whenever possible and 90% of the time, are able to do that. Come join a company that you can learn, grow, have fun, and create memories and experiences that will last a lifetime!&lt;br&gt;&lt;br&gt;&lt;strong&gt;Job Details&lt;br&gt;&lt;br&gt;&lt;/strong&gt;As a Senior Data Engineer / Data Scientist you will be collaborating with product engineers and software architects to help lead and grow our initiatives.&lt;br&gt;&lt;br&gt;You should know the following&lt;br&gt;&lt;br&gt;5+ years as a Data Engineer, Data Scientist, or Machine Learning Engineer&lt;br&gt;&lt;br&gt;Proven experience in Machine Learning techniques&lt;br&gt;&lt;br&gt;2+ years deploying data science features in production and working with tools such as Python, Spark, and SQL.&lt;br&gt;&lt;br&gt;Experience working with unlabled and unstructured data&lt;br&gt;&lt;br&gt;Interested in hearing more? Easy Apply now by clicking the \"Apply\" button.&lt;br&gt;&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-19T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Jobot",
+    "link": "https://www.linkedin.com/company/jobot"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Remote Senior Data Engineer/ Data Scientist"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

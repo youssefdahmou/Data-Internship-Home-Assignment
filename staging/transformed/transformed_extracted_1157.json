@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "ServiceNow Developer",
+    "industry": "",
+    "description": "We are currently accepting resumes for a ServiceNow/ATF Developer in Columbus, OH.&lt;br&gt;&lt;br&gt;Required Skills and Experience:&lt;br&gt;&lt;br&gt;- Bachelor\u2019s degree in computer science, management information science, or related field&lt;br&gt;6-8 years\u2019 experience&lt;br&gt; &lt;br&gt;ServiceNow Developer skillset: Flow designer, Service Portal,CSM&lt;br&gt;ATF Developer - all the above plus ATF&lt;br&gt;&lt;br&gt;Must have a strong CSM and Service Portal skillset&lt;br&gt;ServiceNow Contractor with Specialty experience with Customer Service Mgmt (CSM Module).&lt;br&gt;Experience and knowledge of CSM and how it interacts with platform modules&lt;br&gt;Angular, Javascript&lt;br&gt;CSM&lt;br&gt;CSM Portal (external and internal)&lt;br&gt;Agent Workspace&lt;br&gt;Major Case&lt;br&gt;Natural Language&lt;br&gt;Customer Mobile&lt;br&gt;Service Catalog/Service Request&lt;br&gt;&lt;br&gt;UNICON International, Inc. is an Equal Opportunity Employer.&lt;br&gt;&lt;br&gt;If you are interested in working for an organization where honesty, integrity and quality are among the core principles then click apply today!&lt;br&gt;&lt;br&gt;Keywords: ServiceNow, ATF, CSM, Angular, Javascript, Agent Workspace, Major Case, Natural Language, Customer Mobile, Service Catalog/Service Request",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-21T01:55:03.000Z"
+  },
+  "company": {
+    "name": "UNICON International",
+    "link": "https://www.linkedin.com/company/unicon-international"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": "ServiceNow Developer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Columbus",
+    "region": "Ohio Metropolitan Area",
+    "postal_code": "43206",
+    "street_address": null,
+    "latitude": 39.978302,
+    "longitude": -82.99313
+  }
+}

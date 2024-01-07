@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist 2 (Remote)",
+    "industry": "Insurance",
+    "description": "&lt;strong&gt;&lt;u&gt;Description&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;The Data Scientist 2 uses mathematics, statistics, modeling, business analysis, and technology to transform high volumes of complex data into advanced analytic solutions. The Data Scientist 2 work assignments are varied and frequently require interpretation and independent determination of the appropriate courses of action.&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;Responsibilities&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;The Data Scientist 2 develops, maintains, and collects structured and unstructured data sets for analysis and reporting. Creates reports, projections, models, and presentations to support business strategy and tactics. Understands department, segment, and organizational strategy and operating objectives, including their linkages to related areas. Makes decisions regarding own work methods, occasionally in ambiguous situations, and requires minimal direction and receives guidance where needed. Follows established guidelines/procedures.&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;Required Qualifications&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Bachelor's Degree&lt;/li&gt;&lt;li&gt;4 years technical experience&lt;/li&gt;&lt;li&gt;Experience in developing, maintaining, and collecting structured and unstructured data sets for analysis and reporting&lt;/li&gt;&lt;li&gt;Experience in creating reports, projections, models, and presentations to support business&lt;/li&gt;&lt;li&gt;Experience in using mathematics, statistics, modeling, business analysis, and technology to transform high volumes of complex data into advanced analytic solutions&lt;/li&gt;&lt;li&gt;Possesses an understanding of department, segment, and organizational strategy and operating objectives, including their linkages to related areas&lt;/li&gt;&lt;li&gt;Capable of making decisions regarding own work methods, occasionally in ambiguous situations&lt;/li&gt;&lt;li&gt;Must be passionate about contributing to an organization focused on continuously improving consumer experiences&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Preferred Qualifications&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Master's Degree&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;Scheduled Weekly Hours&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;40",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Humana",
+    "link": "https://www.linkedin.com/company/humana"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": "Data Scientist 2 (Remote)"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Irving",
+    "region": "TX",
+    "postal_code": "75063",
+    "street_address": null,
+    "latitude": 32.813877,
+    "longitude": -96.949936
+  }
+}

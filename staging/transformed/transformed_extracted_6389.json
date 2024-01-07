@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Engineer",
+    "industry": "Information Technology and Services",
+    "description": "&lt;p&gt;&lt;strong&gt;**This is a fulltime role and doesn't sponsor**&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;REQUIREMENTS/CHARACTERISTICS:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;10 years\u2019 experience&amp;nbsp;building large scale, real-time distributed systems&amp;nbsp;with solid coding,problem-solving, and design skills&lt;/li&gt;&lt;li&gt;Experience working in highly collaborative teams&lt;/li&gt;&lt;li&gt;Ability to demonstrate a team-first attitude towards software development&lt;/li&gt;&lt;li&gt;Hands on Experience with Python, Java, SQL&lt;/li&gt;&lt;li&gt;Experience working with various&amp;nbsp;data&amp;nbsp;stores: SQL, NoSQL, and/or key-value store&lt;/li&gt;&lt;li&gt;Mature&amp;nbsp;engineering&amp;nbsp;practices (CI/CD, testing, secure coding, etc)&lt;/li&gt;&lt;li&gt;Experience with, or willingness to learn:&lt;/li&gt;&lt;li&gt;Event-driven architecture and messaging frameworks (Pub/Sub, Kafka, and/or&amp;nbsp;RabbitMQ)&lt;/li&gt;&lt;li&gt;Cloud infrastructure (Google Cloud Platform, AWS, and/or Azure)&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-31T00:19:36.000Z"
+  },
+  "company": {
+    "name": "Innovative Systems Group",
+    "link": "https://www.linkedin.com/company/innovative-systems-group"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": "Senior Data Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Mateo",
+    "region": "CA",
+    "postal_code": "94406",
+    "street_address": null,
+    "latitude": 37.54715,
+    "longitude": -122.3144
+  }
+}

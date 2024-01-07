@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "&lt;p&gt;Role 1 : Software Engineer&lt;/p&gt;&lt;p&gt;Individual Contributor &lt;/p&gt;&lt;p&gt;Full Time Temporary Position :  12 months duration &lt;/p&gt;&lt;p&gt;Work Location: At Customer Site , USA &lt;/p&gt;&lt;p&gt;Skills:&amp;nbsp;C/C++, Python, Java, Spring Framework, RabbitMQ, MQTT,&amp;nbsp;Ubuntu Linux, Bash,&amp;nbsp;&lt;/p&gt;&lt;p&gt;Visa Status : US Nationals / Green Card Holders / Valid H1B Visa &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;\t&amp;nbsp;&lt;/p&gt;&lt;p&gt;Role 2 : Software Engineer&lt;/p&gt;&lt;p&gt;Individual Contributor &lt;/p&gt;&lt;p&gt;Full Time Temporary Position  :12 months duration &lt;/p&gt;&lt;p&gt;Work Location: At Customer site , USA &lt;/p&gt;&lt;p&gt;Skills: Android, RxJava, Java, Kotlin, RabbitMQ, MQTT, Junit, Git, Gradle&lt;/p&gt;&lt;p&gt;Visa Status : US Nationals / Green Card Holders / Valid H1B Visa&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Industry : Aviation / Aerospace&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T10:16:46.000Z"
+  },
+  "company": {
+    "name": "ASCEND NeXTGEN Technologies",
+    "link": "https://in.linkedin.com/company/ascend-nextgen-technologies"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Software Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

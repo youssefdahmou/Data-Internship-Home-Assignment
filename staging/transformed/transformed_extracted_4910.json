@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer",
+    "industry": "",
+    "description": "&lt;ul&gt;&lt;li&gt;Big Data, Hadoop on Data Warehousing or Data Integration projects.&lt;/li&gt;&lt;li&gt;Analysis, Design, development, support and Enhancements of ETL/ELT in data warehouse environment with Cloudera Bigdata Technologies&lt;/li&gt;&lt;li&gt;Writing Hadoop/Hive/Impala scripts for gathering stats on table post data loads.&lt;/li&gt;&lt;li&gt;Development experience creating Sqoop scripts, PySpark programs, HDFS commands, HDFS file formats, StreamSets pipeline creation, jobs scheduling, etc.&lt;/li&gt;&lt;li&gt;Strong SQL experience (Oracle and Hadoop (Hive/Impala etc.)).&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T22:36:40.000Z"
+  },
+  "company": {
+    "name": "American Business Solutions Inc.",
+    "link": "https://www.linkedin.com/company/american-business-solutions-inc."
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Data Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Columbus",
+    "region": "Ohio Metropolitan Area",
+    "postal_code": "43206",
+    "street_address": null,
+    "latitude": 39.978302,
+    "longitude": -82.99313
+  }
+}

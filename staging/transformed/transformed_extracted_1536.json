@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "&lt;p&gt;https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Portland/Software-Development-Engineer-4_R112174-1&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-22T04:27:47.000Z"
+  },
+  "company": {
+    "name": "Adobe Marketo",
+    "link": "https://www.linkedin.com/company/adobemarketoengage"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Software Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Portland",
+    "region": "OR",
+    "postal_code": "97268",
+    "street_address": null,
+    "latitude": 45.516018,
+    "longitude": -122.68143
+  }
+}

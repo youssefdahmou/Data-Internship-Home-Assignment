@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Staff Machine Learning Engineer",
+    "industry": "Marketing and Advertising,Internet,Retail",
+    "description": "The Staff Machine Learning Engineer will set the technical direction of their team to build and deploy machine learning solutions. They will work closely with Product and Engineering partners in the development of the solution.&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;What You Get To Do Every Day&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt; Design and test machine learning models to create highly accurate systems used in operations &lt;/li&gt;&lt;li&gt; Write production quality code &lt;/li&gt;&lt;li&gt; Take ownership of key components, ensuring that they meet the needs of the business. &lt;/li&gt;&lt;li&gt; Collaborate with senior management, product management, and other engineers in the development of product &lt;/li&gt;&lt;li&gt; Mentor team members to build the company\u2019s overall expertise &lt;/li&gt;&lt;li&gt; Work to make The RealReal an innovator in the space by bringing passion and new ideas to work every day &lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;What You Bring To The Role&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt; Quantitative degree &lt;/li&gt;&lt;li&gt; 5+ years experience in building and evaluating machine learning &amp;amp; deep learning models &lt;/li&gt;&lt;li&gt; 5+ years experience putting machine learning models into production &lt;/li&gt;&lt;li&gt; 2+ years experience designing computer vision models in a commercial setting &lt;/li&gt;&lt;li&gt; Experience with big data tools (Apache Beam, Spark, etc) &lt;/li&gt;&lt;li&gt; Experience with cloud technologies such as AWS/GCP &lt;/li&gt;&lt;li&gt; High degree of familiarity with: Sklearn, Tensorflow/Keras, Pytorch &lt;/li&gt;&lt;li&gt; Fluency in Python &lt;br&gt;&lt;/li&gt;&lt;/ul&gt;The RealReal is the world\u2019s largest online marketplace for authenticated, resale luxury goods, with more than 20 million members. With a rigorous authentication process overseen by experts, The RealReal provides a safe and reliable platform for consumers to buy and sell their luxury items. We have hundreds of in-house gemologists, horologists and brand authenticators who inspect thousands of items each day. As a sustainable company, we give new life to pieces by thousands of brands across numerous categories\u2014including women's and men's fashion, fine jewelry and watches, art and home\u2014in support of the circular economy. We make selling effortless with free virtual appointments, in-home pickup, drop-off and direct shipping. We do all of the work for consignors, including authenticating, using AI and machine learning to determine optimal pricing, photographing and listing their items, as well as handling shipping and customer service. At our 13 retail locations, including our eight shoppable stores, customers can sell, meet with our experts and receive free valuations.&lt;br&gt;&lt;br&gt;The RealReal is committed to providing an equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or expression, or Veteran status. We will consider qualified applicants for a position regardless of arrest or conviction records, consistent with legal requirements.&lt;br&gt;&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T04:09:23.000Z"
+  },
+  "company": {
+    "name": "The RealReal",
+    "link": "https://www.linkedin.com/company/the-realreal"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Staff Machine Learning Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

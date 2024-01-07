@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Computer Software",
+    "description": "&lt;p&gt;Position:&amp;nbsp;Site Reliability Engineer&lt;/p&gt;&lt;p&gt;Location: Remote till Covid, Weehawken, NJ&lt;/p&gt;&lt;p&gt;Type of job: Contract&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;JOB Description&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;location: the initially remote post that Weehawken US once situation normalize.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Primary skills for a new&amp;nbsp;SRE:&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Linux administration&lt;/li&gt;&lt;li&gt;Bash shell scripting&lt;/li&gt;&lt;li&gt;Experience with Azure or another cloud provider&lt;/li&gt;&lt;li&gt;Docker and Kubernetes&lt;/li&gt;&lt;li&gt;Experience with Application performance monitoring tools.&lt;/li&gt;&lt;li&gt;Experience with any languages for querying log data \u2013 search processing language (Splunk), Kusto (Azure), Kibana query language (Elasticsearch)&lt;/li&gt;&lt;li&gt;SQL&lt;/li&gt;&lt;li&gt;Understanding of&amp;nbsp;SRE&amp;nbsp;concepts.&lt;/li&gt;&lt;li&gt;Git&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Additional skills:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Python&lt;/li&gt;&lt;li&gt;Infrastructure as code (Terraform, Puppet, Chef or Ansible)&lt;/li&gt;&lt;li&gt;DevOps build automation and CI/CD (Gerrit, Maven, Jenkins, Nexus, Artifactory, Selenium)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Thanks&amp;nbsp;&lt;/p&gt;&lt;p&gt;Ashwini&lt;/p&gt;&lt;p&gt;4085569096&lt;/p&gt;&lt;p&gt;ashwini@tsourceinc.net&lt;/p&gt;&lt;p&gt;&lt;/p&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-16T17:16:49.000Z"
+  },
+  "company": {
+    "name": "TechSource Inc.",
+    "link": "https://www.linkedin.com/company/tsourceinc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Senior Site Reliability Engineer"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 65,
+    "max_value": 70,
+    "unit": "HOUR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Weehawken",
+    "region": "NJ",
+    "postal_code": "07086",
+    "street_address": null,
+    "latitude": 40.770782,
+    "longitude": -74.01762
+  }
+}

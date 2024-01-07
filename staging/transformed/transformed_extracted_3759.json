@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer / Node / 100% Remote",
+    "industry": "Computer Software,Information Services,Information Technology and Services",
+    "description": "&lt;p&gt;We are Actively seeking a Software Engineer/Node to join our team on a permanent basis. In this position you will work on SCRUM team that is creating APIs written as microservices via NodeJS as AWS Lambda functions within a serverless architecture.&amp;nbsp;We offer 100% remote work, 100% paid health care, 401K with Match, Bonus, and an excellent opportunity for advancement.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Desired Skills&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;3+ years of Software Engineering experience&lt;/li&gt;&lt;li&gt;Proficiency in JavaScript and TypeScript running on Node.js&lt;/li&gt;&lt;li&gt;Ability to create APIs written as microservices via NodeJS as AWS Lambda functions within a serverless architecture&lt;/li&gt;&lt;li&gt;Strong experience with SQL, MySQL or NoSQL database design and implementation?&lt;/li&gt;&lt;li&gt;Strong understanding of building and using REST APIs&lt;/li&gt;&lt;li&gt;Interest in moving into API architecture and design&lt;/li&gt;&lt;li&gt;Experience working in an agile development environment with remote team members&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T18:54:27.000Z"
+  },
+  "company": {
+    "name": "firstPRO 360",
+    "link": "https://www.linkedin.com/company/firstpro360"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": "Software Engineer / Node / 100% Remote"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 120000,
+    "max_value": 130000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

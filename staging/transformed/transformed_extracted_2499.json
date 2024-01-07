@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Financial Services,Banking",
+    "description": "&lt;p&gt;Greetings from Photon!&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;We have an opportunity for a&amp;nbsp;&lt;strong&gt;Machine Learning Engineer - Python&lt;/strong&gt;&amp;nbsp;with one of our direct clients.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Role is Remote to start but eventually onsite in New York, NY / McLean VA/ Richmond VA.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Who are We?&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;For the past 20 years, we have powered many Digital Experiences for the Fortune 500 (for example, if you bank with Chase or Citi, you are likely to use what we have built for them). Since 1999, we have grown from a few people to more than 4000 team members across the globe that are engaged in various Digital Modernization. For a brief 1 minute video about us, you can check&amp;nbsp;&lt;u&gt;https://youtu.be/uJWBWQZEA6o&lt;/u&gt;.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;What we are looking for:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Skill Should have:&lt;/p&gt;&lt;p&gt;Python, ML, NLP&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Skill nice to have:&lt;/p&gt;&lt;p&gt;Cloud (particularly AWS) experience&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T16:21:56.000Z"
+  },
+  "company": {
+    "name": "Photon",
+    "link": "https://uk.linkedin.com/company/photon-interactive"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Machine Learning Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

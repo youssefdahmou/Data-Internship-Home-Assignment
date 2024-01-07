@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Java Software Engineer",
+    "industry": "Information Technology and Services",
+    "description": "&lt;p&gt;Looking for a Candidate in Ohio or Delaware who is:&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Proficient in Core Java development skills as well as multiple design techniques&lt;/li&gt;&lt;li&gt;Working proficiency in Core Java development toolset to design, develop, test, deploy, maintain and improve software&lt;/li&gt;&lt;li&gt;Strong understanding of Agile methodologies with ability to work in at least one of the common frameworks&lt;/li&gt;&lt;li&gt;Strong understanding of techniques such as Continuous Integration, Continuous Delivery, Test Driven Development, Cloud Development, application resiliency and security&lt;/li&gt;&lt;li&gt;Proficiency in one or more general purpose programming languages&lt;/li&gt;&lt;li&gt;Working proficiency in a portion of software engineering disciplines and demonstrates understanding of overall software skills including business analysis, development, testing, deployment, maintenance and improvement of software&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;At this time no Corp to Corp relationships will be considered for this opportunity.&lt;/strong&gt;&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T17:48:17.000Z"
+  },
+  "company": {
+    "name": "ACS Solutions",
+    "link": "https://www.linkedin.com/company/acs-solutions-corp"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Java Software Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Columbus",
+    "region": "OH",
+    "postal_code": "43272",
+    "street_address": null,
+    "latitude": 39.96276,
+    "longitude": -82.99629
+  }
+}

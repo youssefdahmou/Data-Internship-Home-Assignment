@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning / Signal Processing Engineer (Fully Remote)",
+    "industry": "",
+    "description": "&lt;p&gt;&lt;strong&gt;Who We Are&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;AmberBox is the industry leader in gunshot detection and response technology. We help Fortune 100 corporations, schools, hospitals, government departments and airports protect their staff and visitors from the threat of workplace violence, automating the emergency response process in an incident. AmberBox is a Silicon Valley VC-backed, rapidly scaling company, and we are looking for individuals that share our vision and experimentative approach.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;About The Job&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;As a Machine Learning / Signal Processing Engineer, you will be responsible for researching and developing algorithms capable of accurately detecting gunshots from audio and visual queues. This is an important part of how we detect and respond to emergency incidents.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Skills/experience:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Signal processing background (familiar with FFTs, DFTs and DTFTs, also FIR and IIR filters)&lt;/p&gt;&lt;p&gt;- Neural Network experience (DNN, CNN, RNN)&amp;nbsp;&lt;/p&gt;&lt;p&gt;- Python&lt;/p&gt;&lt;p&gt;- Must have an appetite for live testing the system!&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Nice to have:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Speech recognition experience&lt;/p&gt;&lt;p&gt;- C/C++&lt;/p&gt;&lt;p&gt;- Experience working with/building Linux.&lt;/p&gt;&lt;p&gt;- Statistical pattern processing background (Wiener filters, Support Vector Machines)&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T15:56:22.000Z"
+  },
+  "company": {
+    "name": "AmberBox Gunshot Detection",
+    "link": "https://www.linkedin.com/company/ambrbox"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Machine Learning / Signal Processing Engineer (Fully Remote)"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer Intern",
+    "industry": "Computer Hardware,Computer Software,Semiconductors",
+    "description": "Role&lt;br&gt;&lt;br&gt;The Software Engineer Intern will aid in gathering new neural network frozen graphs, assembling data sets for each graph, and helping to isolate various blocks within the graphs. As part of these roles, you will be expected to work with machine learning frameworks and associated tools. You will be joining a small team in a dynamic startup environment, where each member is expected to take on a wide range of responsibilities and to learn and grow with the company.&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;Responsibilities&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Gather frozen graphs for open-source DNNs and associated data sets&lt;/li&gt;&lt;li&gt;Modify existing graphical tools to isolate various component sub-graphs&lt;/li&gt;&lt;li&gt;Aid in \u201clowering\u201d the sub-graphs through our toolchain &lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Requirements&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Pursuing a degree in Computer Engineering or Computer Science&lt;/li&gt;&lt;li&gt;Illustrates a strong programming background with Python and Javascript&lt;/li&gt;&lt;li&gt;Proficiency with version control software, such as Git&lt;/li&gt;&lt;li&gt;Self-driven debugger who loves digging deeper to determine a root cause&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;Nice to haves&lt;br&gt;&lt;ul&gt;&lt;li&gt;Experience with Deep Neural Networks&lt;/li&gt;&lt;li&gt;Experience with Electron&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;Expected Outcomes in 4 months&lt;br&gt;&lt;ul&gt;&lt;li&gt;Collected 3-5 DNN frozen graphs and associated data sets&lt;/li&gt;&lt;li&gt;Developed a graphical tool to isolate repeated sub-graphs&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "INTERN",
+    "date_posted": "2021-09-04T06:22:09.000Z"
+  },
+  "company": {
+    "name": "quadric.io",
+    "link": "https://www.linkedin.com/company/quadric.io"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Software Engineer Intern"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Burlingame",
+    "region": "CA",
+    "postal_code": "94012",
+    "street_address": null,
+    "latitude": 37.584194,
+    "longitude": -122.366264
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Computer Vision / Machine Learning Senior Engineer",
+    "industry": "Consumer Electronics",
+    "description": "&lt;br&gt;&lt;strong&gt;Summary&lt;br&gt;&lt;/strong&gt; &lt;br&gt;The ACVML R&amp;amp;D team at ARKit is looking for an Excellent CVML Engineer to work on Real Time Visual Place recognition systems. Our team provides an environment with a good balance between pragmatism and technical expertise applied to real problems. The main goal of this position is to support relocalization for inside-outside SLAM systems on multiple platforms with different HW specs. This is an exciting role where the candidate will have the opportunity to interact with interdisciplinary teams and top researchers to achieve the best quality and performance.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Key Qualifications&lt;br&gt;&lt;/strong&gt; &lt;br&gt;-  Excellent CV foundations. Able to resolve problems involving Multiple View Geometry&lt;br&gt;&lt;br&gt;&lt;br&gt;-  Excellent ML foundations for vision based patter Recognition and visual perception problems&lt;br&gt;&lt;br&gt;&lt;br&gt;-  Proven expertise on Visual Place Recognition for localization systems is a plus&lt;br&gt;&lt;br&gt;&lt;br&gt;-  Proven expertise in developing Real Time systems&lt;br&gt;&lt;br&gt;&lt;br&gt;-  Knowledge of DL Frameworks such Caffe, PyTorch or TensorFlow&lt;br&gt;&lt;br&gt;&lt;br&gt;-  Experience with C / C++ / Python /&lt;br&gt;&lt;br&gt;&lt;br&gt;-  Solid knowledge of Public Apple frameworks such CoreML, Metal is a plus&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Description&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Computer Vision, Vision for Robotics / AR. Or at least 3 years of validated expertise on similar roles / projects&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Education &amp;amp; Experience&lt;br&gt;&lt;/strong&gt; &lt;br&gt;PhD or MsC in Computer Science or similar&lt;br&gt;&lt;br&gt; &lt;br&gt;Role Number: 200242961&lt;br&gt;&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-26T14:41:54.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Computer Vision / Machine Learning Senior Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

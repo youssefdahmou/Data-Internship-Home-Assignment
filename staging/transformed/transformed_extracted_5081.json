@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services",
+    "description": "&lt;ul&gt;&lt;li&gt;Proven track record working with higher tier customer issues (system, back-end issues)&lt;/li&gt;&lt;li&gt;2+ years software development experience&lt;/li&gt;&lt;li&gt;Experience with common software development methodologies and practices&lt;/li&gt;&lt;li&gt;Basic familiarity with cloud infrastructures such as&lt;/li&gt;&lt;li&gt;AWS&lt;/li&gt;&lt;li&gt;Azure&lt;/li&gt;&lt;li&gt;GCP&lt;/li&gt;&lt;li&gt;Other general technical skills&lt;/li&gt;&lt;li&gt;Basic Linux / Unix experience&lt;/li&gt;&lt;li&gt;Docker&lt;/li&gt;&lt;li&gt;Kafka&lt;/li&gt;&lt;li&gt;Heroku&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;. Minimum work experience: 5 - 8 YEARS&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T17:58:11.000Z"
+  },
+  "company": {
+    "name": "Wipro",
+    "link": "https://in.linkedin.com/company/wipro"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Machine Learning Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Montville",
+    "region": "CT",
+    "postal_code": "06353",
+    "street_address": null,
+    "latitude": 41.45303,
+    "longitude": -72.13634
+  }
+}

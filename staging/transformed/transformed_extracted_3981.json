@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Junior Web Developer",
+    "industry": "",
+    "description": "&lt;p&gt;We are currently looking for&amp;nbsp;&lt;strong&gt;Jr. WordPress Web Developers&lt;/strong&gt;&amp;nbsp;who are passionate, innovative and motivated to make a difference.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Responsibilities include:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The developer\u2019s primary focus will be to assist the development team in developing WordPress sites, testing, deployment, and site updates.&lt;/li&gt;&lt;li&gt;Utilize HTML / CSS to troubleshoot and edit issues and updates to sites through the production lifecycle.&lt;/li&gt;&lt;li&gt;Continue to learn best practices for developing responsive websites and WordPress themes.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Desired Skills &amp;amp; Experience&lt;/strong&gt;:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Ability to communicate and work in a team environment.&lt;/li&gt;&lt;li&gt;Must have experience working with WordPress.&lt;/li&gt;&lt;li&gt;Organizational skills, work management, ability to prioritize, identify, and resolve issues.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Thorough knowledge of HTML(5), CSS(3), WordPress&lt;/li&gt;&lt;li&gt;Solid understanding of responsive design and development practices&lt;/li&gt;&lt;li&gt;Experience in web development industry&lt;/li&gt;&lt;li&gt;Knowledge of cross-browser testing and common issues.&lt;/li&gt;&lt;li&gt;Ability to use Photoshop.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Company Perks:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bonuses&lt;/li&gt;&lt;li&gt;Incredible company culture with laid-back atmosphere&lt;/li&gt;&lt;li&gt;Company events throughout the year&lt;/li&gt;&lt;li&gt;Work with a great team of people&lt;/li&gt;&lt;li&gt;Full benefits package including medical, vision, dental and 401K&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T07:34:00.000Z"
+  },
+  "company": {
+    "name": "1Point21 Interactive",
+    "link": "https://www.linkedin.com/company/1point21-interactive"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": "Junior Web Developer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Orlando",
+    "region": "FL",
+    "postal_code": "32817",
+    "street_address": null,
+    "latitude": 28.589708,
+    "longitude": -81.24801
+  }
+}

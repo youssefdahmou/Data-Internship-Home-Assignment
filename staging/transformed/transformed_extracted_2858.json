@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "&lt;p&gt;https://uchicago.wd5.myworkdayjobs.com/External/job/Illinois/Data-Scientist_JR11043&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T20:22:21.000Z"
+  },
+  "company": {
+    "name": "University of Chicago",
+    "link": "https://www.linkedin.com/company/uchicago"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Data Scientist"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

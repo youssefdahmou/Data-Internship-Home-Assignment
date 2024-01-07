@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Electrical/Electronic Manufacturing,Computer Software,Automotive",
+    "description": "ISEE is seeking a full-time Machine Learning Engineer to join our team. The ideal candidate has several years of work experience.&lt;br&gt;&lt;br&gt;&lt;strong&gt; Role Responsibilities Include &lt;br&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt; Working on the intersection of sensing and perception algorithms.&lt;/li&gt;&lt;li&gt; Prototyping and deploying robust computer vision algorithms on ISEE\u2019s vehicle fleet in areas of: Sensor calibration, localization and mapping, fusion, tracking and pattern recognition.&lt;/li&gt;&lt;li&gt; Benchmarking and maintaining developed modules.&lt;/li&gt;&lt;li&gt; Work independently to deliver high-quality code in a timely fashion.&lt;/li&gt;&lt;li&gt; Collaborate with team for testing, evaluation and review of code.&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt; Required Qualifications &lt;br&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt; Degree in Computer Science, Electrical Engineering, Robotics or related field.&lt;/li&gt;&lt;li&gt; Experience in deploying deep learning models at scale on real-world data in at least one of these deep learning frameworks: PyTorch, Tensorflow, Caffe.&lt;/li&gt;&lt;li&gt; Hands-on experience with developing, training and deploying deep learning models in multimodal (sensors space and temporal) real world data.&lt;/li&gt;&lt;li&gt; Strong Python and/or C++ skills.&lt;/li&gt;&lt;li&gt; Passionate about self-driving vehicles and real-world robotic solutions.&lt;/li&gt;&lt;li&gt; Strong presentation and communication skills.&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt; Preferred &lt;br&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt; Publication record in top-tier computer vision or machine learning conferences.&lt;/li&gt;&lt;li&gt; 3+ yrs industrial experience in deploying Computer Vision/Deep learning algorithms in real-world scenarios.&lt;/li&gt;&lt;li&gt; Robotics/autonomous experience is a plus.&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-25T11:34:21.000Z"
+  },
+  "company": {
+    "name": "ISEE AI",
+    "link": "https://www.linkedin.com/company/isee-ai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": "Machine Learning Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cambridge",
+    "region": "MA",
+    "postal_code": "02239",
+    "street_address": null,
+    "latitude": 42.36525,
+    "longitude": -71.10502
+  }
+}

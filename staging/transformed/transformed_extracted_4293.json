@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services",
+    "description": "&lt;ul&gt;&lt;li&gt;Master's degree or PhD in Computer Science/Engineering, Machine Learning, Mathematics, Physics, or equivalent&lt;/li&gt;&lt;li&gt;4+ years\u2019 professional experience in ML and computer vision&lt;/li&gt;&lt;li&gt;A knack for creativity and ability to formulate problems and solve them independently&lt;/li&gt;&lt;li&gt;Outstanding skills in Machine Learning especially techniques such as Deep Neural Networks, Random forest, Gradient boosting, Hyperparameter optimization techniques etc.&lt;/li&gt;&lt;li&gt;Proficient skills in development of AI/ML applications through state-of-the-art frameworks such as Keras, TensorFlow, and PyTorch&lt;/li&gt;&lt;li&gt;Knowledge in programming skills in various languages (e.g., Python, C++, or Java) with proficiency in Python&lt;/li&gt;&lt;li&gt;An interest to constantly learn, communicate, interact, share information, and willingness to help others&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T20:30:39.000Z"
+  },
+  "company": {
+    "name": "LanceSoft, Inc.",
+    "link": "https://www.linkedin.com/company/lancesoft"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": "Data Scientist"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Santa Clara",
+    "region": "CA",
+    "postal_code": "95050",
+    "street_address": null,
+    "latitude": 37.352394,
+    "longitude": -121.95308
+  }
+}

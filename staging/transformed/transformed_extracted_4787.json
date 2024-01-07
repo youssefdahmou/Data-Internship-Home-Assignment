@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "&lt;p&gt;We are looking for an innovative software engineer to help us build the future!&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;This position will:&lt;/p&gt;&lt;p&gt;\u2022 Create new features and fix bugs&lt;/p&gt;&lt;p&gt;\u2022 Collaborate with the product owner and other developers&lt;/p&gt;&lt;p&gt;\u2022 Operate with minimal oversight to develop code the matches provided requirements&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;The preferred candidate has:&lt;/p&gt;&lt;p&gt;\u2022 Desire to contribute energy to building great technology solutions&lt;/p&gt;&lt;p&gt;\u2022 Entrepreneurial, collaborative spirit needed to work in a distributed startup culture&lt;/p&gt;&lt;p&gt;\u2022 Practical experience designing scalable applications for web and/or mobile&lt;/p&gt;&lt;p&gt;\u2022 Effective verbal, written communication skills&lt;/p&gt;&lt;p&gt;\u2022 Experience with Angular, Node, and MongoDB required&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;This is not an entry-level position - you need to be able to hit the ground running.&lt;/p&gt;&lt;p&gt;However, capabilities are far more important than credentials.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;This is a full-time (W-2), 100% remote position.&lt;/p&gt;&lt;p&gt;Candidates in Florida, Ohio, or Utah are preferred.&lt;/p&gt;&lt;p&gt;Private Auto LLC offers employees medical and dental insurance.&lt;/p&gt;&lt;p&gt;Candidates must be legally authorized to work in the US. No visa sponsorships.&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T19:40:05.000Z"
+  },
+  "company": {
+    "name": "PrivateAuto",
+    "link": "https://www.linkedin.com/company/privateauto"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Software Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

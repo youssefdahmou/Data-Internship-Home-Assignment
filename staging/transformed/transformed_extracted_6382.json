@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "DevOps Engineer - REMOTE",
+    "industry": "Internet",
+    "description": "&lt;strong&gt;&lt;u&gt;Company Description&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;Medable's mission is to get effective therapies to patients faster. We provide an end-to-end, cloud-based platform with a flexible suite of tools that allows patients, healthcare providers, clinical research organizations and pharmaceutical sponsors to work together as a team in clinical trials. Our solutions enable more efficient clinical research, more effective healthcare delivery, and more accurate precision and predictive medicine. Our target audiences are patients, providers, principal investigators, and innovators who work in healthcare and life sciences.&lt;br&gt;&lt;br&gt;Our vision is to accelerate the path to human discovery and medical cures. We are passionate about driving innovation and empowering consumers. We are proactive, collaborative, self-motivated learners, committed, bold and tenacious. We are dedicated to making this world a healthier place.&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;Job Description&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Develop a roadmap to the Engineering team for the Application and Infrastructure monitoring and availability&lt;/li&gt;&lt;li&gt;Identify innovative ways to research logs to uncover and report defects as well as to validate the Application&lt;/li&gt;&lt;li&gt;Incorporate best practices for the High Availability and Reliability of the Application &amp;amp; Infrastructure&lt;/li&gt;&lt;li&gt;Meet the compliance requirements for the Software development process &lt;/li&gt;&lt;li&gt;Continuously improve the monitoring process to meet Service level Objectives&lt;/li&gt;&lt;li&gt;Participate and optimize the On-call rotation process&lt;/li&gt;&lt;li&gt;Implement tools and Develop Automation scripts for the smooth CI/CD of the software releases&lt;/li&gt;&lt;li&gt;Identify critical metrics to monitor and alert on the issues with software Applications&lt;/li&gt;&lt;li&gt;Use Tools to Apply data modeling and predictive analysis to anticipate issues&lt;/li&gt;&lt;li&gt;Work closely with the teams to resolve production issues and perform root cause analysis of the incidents&lt;/li&gt;&lt;li&gt;Document solutions, SRE architectural patterns, and best practices&lt;/li&gt;&lt;li&gt;Other duties as assigned&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Qualifications&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;5+ years of experience in managing SRE operations in a complex Production environment&lt;/li&gt;&lt;li&gt;Experience with Automation using Python/Go programming or equivalent&lt;/li&gt;&lt;li&gt;Experience with YAML, JSON, bash shell scripting, and Linux command-line utilities&lt;/li&gt;&lt;li&gt;Experience in working with any of the configuration management tools: Ansible, Chef, Puppet, Salt&lt;/li&gt;&lt;li&gt;Experience working with CI/CD tools such as Jenkins, Gitlab or equivalent and Artifactory, Fastlane for both web and Mobile Platforms &lt;/li&gt;&lt;li&gt;Knowledge of working with Infrastructure-as-Code tools such as Terraform, CloudFormation, Google Cloud Deployment Manager&lt;/li&gt;&lt;li&gt;Experience working with Docker and Kubernetes monitoring and debugging&lt;/li&gt;&lt;li&gt;Experience with Monitoring solutions such as Datadog, Prometheus, Grafana or equivalent, etc.&lt;/li&gt;&lt;li&gt;Experience working with Log management using Tools&lt;/li&gt;&lt;li&gt;Experience with implementing Security Best practices&lt;/li&gt;&lt;li&gt;Solid troubleshooting experience in a large scale production environment&lt;/li&gt;&lt;li&gt;Expertise in AWS and GCP cloud Infrastructure and the related services &lt;br&gt;&lt;/li&gt;&lt;/ul&gt;Additional Information&lt;br&gt;&lt;br&gt;All your information will be kept confidential according to EEO guidelines.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T04:01:23.000Z"
+  },
+  "company": {
+    "name": "Medable, Inc",
+    "link": "https://www.linkedin.com/company/medable-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "DevOps Engineer - REMOTE"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Palo Alto",
+    "region": "CA",
+    "postal_code": "94310",
+    "street_address": null,
+    "latitude": 37.445103,
+    "longitude": -122.16036
+  }
+}

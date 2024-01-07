@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Lead Software Engineer",
+    "industry": "Information Technology and Services",
+    "description": "&lt;p&gt;Are you a Lead-level Software Engineer looking for a &lt;strong&gt;hands-on&lt;/strong&gt; role with a growing company? Are you currently working with &lt;strong&gt;Java on the back-end&lt;/strong&gt; and &lt;strong&gt;modern JavaScript for UI &lt;/strong&gt;Development? Would you like to work with the most cutting-edge technologies for up to &lt;strong&gt;$170K Salary, a 10% bonus and UNLIMITED PTO per year&lt;/strong&gt;? &lt;/p&gt;&lt;p&gt;Then keep reading! &lt;/p&gt;&lt;p&gt;Our client is a unique and innovative organization who have a fantastic opportunity for a Lead Software Engineer to join their expanding team. You will be empowered to use your creativity and flair to make a real difference from your first day. &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;What you\u2019ll need? &lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;FULL STACK capability \u2013 both front and back-end experience&lt;/li&gt;&lt;li&gt;Must be hands on with Java8&lt;/li&gt;&lt;li&gt;Worked with JavaScript in the last year&lt;/li&gt;&lt;li&gt;Experience with React and or Angular&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;What you\u2019ll get in return: &lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Up to $170K Salary&lt;/li&gt;&lt;li&gt;10% annual bonus \u2013 for all your hard work&lt;/li&gt;&lt;li&gt;401K plan&lt;/li&gt;&lt;li&gt;Private healthcare plan&lt;/li&gt;&lt;li&gt;Company stock options available&lt;/li&gt;&lt;li&gt;Unlimited remote working&lt;/li&gt;&lt;li&gt;UNLIMITED PTO per year&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;What to do next? &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Apply directly via the link below or send me a message on LinkedIn! &amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T17:00:49.000Z"
+  },
+  "company": {
+    "name": "Realtime Recruitment",
+    "link": "https://ie.linkedin.com/company/realtime-recruitment"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Lead Software Engineer"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 150000,
+    "max_value": 170000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Computer Software,Computer &amp; Network Security",
+    "description": "&lt;p&gt;Salt is working with a world-renowned AI leader whose groundbreaking technology has positively changed how we work with and handle data. The business is mission-driven and uses its advancements in data intelligence to better human intelligence as opposed to replacing it.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Our client has a no-ego culture that puts its employees first with benefits such as uncapped paid time off, should you need it. The culture and work they are doing, have attracted some of the smartest minds in the country to join them.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;This role is for operationally savvy technical thinkers who are passionate about formulating, supervising, and automating technology to enhance the team\u2019s productivity and overall product delivery. The ability to appropriately manage many fast-paced, complex applications simultaneously is key.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;You will be embedded in the technology team and collaborate with engineers in product development, customer support, and a variety of other business teams is central to this position.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Real-time troubleshooting of critical application workflows&lt;/li&gt;&lt;li&gt;Build scripts and automate operational tasks&lt;/li&gt;&lt;li&gt;Thrive in a fast-paced, mission-critical SDLC environment where attention to detail is essential&lt;/li&gt;&lt;li&gt;Overall understanding of systems architecture \u2013 CS Degree desirable&lt;/li&gt;&lt;li&gt;Worked on or confident in being able to deliver on L3/L4 Support&lt;/li&gt;&lt;li&gt;Excellent communicator with a passion for solving problems&lt;/li&gt;&lt;li&gt;Understanding of distributed systems and cloud infrastructure \u2013 Hadoop, Spark, Kubernetes AWS etc is a plus&lt;/li&gt;&lt;li&gt;Ability to code in one or more coding languages Java, Go, Python, Ruby, Django, Flask etc&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;&lt;/li&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-30T16:50:07.000Z"
+  },
+  "company": {
+    "name": "Salt",
+    "link": "https://uk.linkedin.com/company/salt"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Site Reliability Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Denver",
+    "region": "CO",
+    "postal_code": "80247",
+    "street_address": null,
+    "latitude": 39.738453,
+    "longitude": -104.984856
+  }
+}

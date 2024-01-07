@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Engineer",
+    "industry": "Information Technology and Services",
+    "description": "&lt;p&gt;&lt;strong&gt;Senior Data Engineer&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;McLean VA&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;12 Months CTH&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Must Have Skills:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;AWS Services - Lambda&lt;/p&gt;&lt;p&gt;Python&lt;/p&gt;&lt;p&gt;Apache Spark/ PySpark&lt;/p&gt;&lt;p&gt;at least some Java exp. &amp;amp; Rest API is must&lt;/p&gt;&lt;p&gt;DevOps/ CI/CD/ Jenkins&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;JOB DESCRIPTION&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Senior Data Engineer - Jigsaw current and future roadmap primarily building automation capabilities would involve &lt;/p&gt;&lt;p&gt;Develop data pipelines using Apache Spark , PySpark , python , spark SQL , REST API , Postgres DB , Lambda Serverless solutions in AWS ,&lt;/p&gt;&lt;p&gt;hands on AWS experience , DevOps experience (YBYO).&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-17T23:22:34.000Z"
+  },
+  "company": {
+    "name": "Pyramid Consulting, Inc",
+    "link": "https://www.linkedin.com/company/pyramid-consulting"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Senior Data Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "McLean",
+    "region": "VA",
+    "postal_code": "22101",
+    "street_address": null,
+    "latitude": 38.93759,
+    "longitude": -77.18378
+  }
+}

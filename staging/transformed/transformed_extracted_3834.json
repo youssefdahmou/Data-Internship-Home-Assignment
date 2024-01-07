@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Restaurants",
+    "description": "&lt;p&gt;Looking for a System Engineer to help build and support the ultimate voice-based conversational AI. We\u2019re looking for coders and creators with a refined code sense: people who\u2019ve built cool things, but also enjoy scaling and operating those things, and who feel proud seeing their code run well in production.&lt;/p&gt;&lt;p&gt;The ideal candidates would have professional experience on a stack serving millions of users, be proficient with Python and/or Golang and have some amount of experience (either professional or personal) in NLP.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Desirable Skills Include: &lt;/strong&gt;Microservices Architecture GoPythonML OpsShould be able to apply different tenants' configuration through code as well as tools.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Experience&lt;/strong&gt;3-5 years of experience in working with infrastructure as code&amp;nbsp;At least 1 year in Python or GolangComfortable developing, maintaining DevOps pipelinesStrong experience working with cloud services - AWS or GCP preferred Exposure to NLP/AI/ML is a huge plus&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Responsibilities&lt;/p&gt;&lt;p&gt;\u00b7 Be part of on-call rotation to respond to urgent bugs or production outages&lt;/p&gt;&lt;p&gt;\u00b7 Proactively identify and fix infrastructure bottlenecks&amp;nbsp;&lt;/p&gt;&lt;p&gt;\u00b7 Choosing tooling for and understanding of CI / CDGCP knowledge&lt;/p&gt;&lt;p&gt;\u00b7 Kubernetes (In a production environment)DockerKnowledge of working in an Agile environment infrastructure As CodeDevelop, integrate and support features in the core server stack&lt;/p&gt;&lt;p&gt;\u00b7 Develop and support data pipeline and infrastructure&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;This is onsite position post Covid in Austin TX.&lt;/p&gt;&lt;p&gt;Permanent position on W2 only.&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T22:43:38.000Z"
+  },
+  "company": {
+    "name": "TalentPlug LLC",
+    "link": "https://www.linkedin.com/company/talentplug-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": "Site Reliability Engineer"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 80000,
+    "max_value": 130000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "Texas Metropolitan Area",
+    "postal_code": "78723",
+    "street_address": null,
+    "latitude": 30.276316,
+    "longitude": -97.70931
+  }
+}

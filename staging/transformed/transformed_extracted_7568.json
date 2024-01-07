@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Frontend Developer",
+    "industry": "Staffing and Recruiting",
+    "description": "&lt;p&gt;ShortList Recruitment are working with a Nationwide Real Estate company in the Austin area who are looking to bring in a Software Engineer to help their continued growth. This developer would get the ability to enhance their current platform by adapting existing features and creating new ones to solve technical issues. &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Tasks &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Work effectively with a team of 8 other Backend/Frontend Developers and QA's to build an amazing software product&lt;/li&gt;&lt;li&gt;Build software primarily using ReactJS (or Angular)&lt;/li&gt;&lt;li&gt;Work and communicate effectively in a team environment&lt;/li&gt;&lt;li&gt;Thoughtful in code reviews with the ability to contribute and the desire to learn&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Desired Skills and Experience &lt;/p&gt;&lt;ul&gt;&lt;li&gt;5+ years of software development experience&lt;/li&gt;&lt;li&gt;Experience with HTML5, CSS, JavaScript, and object-oriented programming languages &lt;/li&gt;&lt;li&gt;Experience with ReactJS, or AngularJS is required &lt;/li&gt;&lt;li&gt;Experience with RESTful APIs&lt;/li&gt;&lt;li&gt;Experience with Unit Testing is a plus&lt;/li&gt;&lt;li&gt;Experience with Azure Cloud is a plus &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;This position would be paying a Competitive Salary plus a fantastic benefits package. The ideal candidate is located in Austin, TX.&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T17:33:51.000Z"
+  },
+  "company": {
+    "name": "ShortList Recruitment Limited",
+    "link": "https://uk.linkedin.com/company/shortlist-recruitment-limited"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Frontend Developer"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 90000,
+    "max_value": 120000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "Texas Metropolitan Area",
+    "postal_code": "78723",
+    "street_address": null,
+    "latitude": 30.276316,
+    "longitude": -97.70931
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Building Materials,Logistics and Supply Chain",
+    "description": "&lt;p&gt;We are representing a foreign owned, multi-national engineering and manufacturing company in their search for an Associate Data Scientist that will support the Finance Manager as they scale to grow their North American business operations. This is a brand-new position and an opportunity to build it to support the business needs of the Company.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;The ideal candidate's favorite words are learning, data, scale, and agility. You will leverage your strong collaboration skills and ability to extract valuable insights from highly complex data sets to ask the right questions and find the right answers.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Analyze raw data: assessing quality, cleansing, structuring for downstream processing&lt;/li&gt;&lt;li&gt;Use SQL to extract data for tools such as Python and R&lt;/li&gt;&lt;li&gt;Utilize machine learning tools and predictive analytics to present complex data sets&lt;/li&gt;&lt;li&gt;Generate actionable insights for business improvements&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bachelor's degree in a quantitative field (Decision Science, Data Science, Statistics, Mathematics, Computer Science, Finance or Economics)&lt;/li&gt;&lt;li&gt;At least 1 - 2 years of experience in data science related fields&lt;/li&gt;&lt;li&gt;Deep understanding of predictive modeling, machine-learning, clustering, and classification techniques&lt;/li&gt;&lt;li&gt;Experience working with SQL and programming languages like Python and/or R&lt;/li&gt;&lt;li&gt;Familiarity with Big Data frameworks and visualization tools (Hadoop, Azure and Spark)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;If this is you or someone you know, I'd love to visit with you.  Please send your resume to me at ahildebrand@361services.com.&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-07T14:58:37.000Z"
+  },
+  "company": {
+    "name": "361 Services",
+    "link": "https://www.linkedin.com/company/361-services"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": "Data Scientist"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 80000,
+    "max_value": 90000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Broomfield",
+    "region": "CO",
+    "postal_code": "80020",
+    "street_address": null,
+    "latitude": 39.923985,
+    "longitude": -105.08166
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - New Grad",
+    "industry": "Electrical/Electronic Manufacturing,Defense &amp; Space,Computer Software",
+    "description": "Anduril is a defense technology company, bringing Silicon Valley talent and funding to the defense sector. Our technology helps our customers solve their toughest challenges by enabling them to make better, more informed decisions in life-and-death situations. We\u2019ve assembled a diverse team of experts in artificial intelligence, computer vision, sensor fusion, optics, and data analysis that are creating software and hardware solutions to radically evolve the capabilities of the United States and our allies. If you are passionate about solving problems that have real impact, come join Anduril and build the future of defense.&lt;br&gt;&lt;br&gt;&lt;strong&gt; What You'll Do &lt;br&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Engineers are responsible for the full product lifecycle, including design, implementation, deployment, and maintenance&lt;/li&gt;&lt;li&gt;Collaborate with cross-functional internal hardware &amp;amp; software teams to incorporate their innovations and vice versa.&lt;/li&gt;&lt;li&gt;Take feedback to iterate on and improve Anduril\u2019s software systems&lt;/li&gt;&lt;/ul&gt;REQUIRED QUALIFICATIONS&lt;br&gt;&lt;ul&gt;&lt;li&gt;Prior engineering internship experience, along with academic pursuits &amp;amp; studies in the areas of: Computer Science, Computer/Software Engineering, Mathematics, or Physics.&lt;/li&gt;&lt;li&gt;Familiarity with algorithms, data structures, storage systems, cloud infrastructure, front-end frameworks, and other technical tools.&lt;/li&gt;&lt;li&gt;Proficiency in a variety of programming languages such as Go, Java, C++, Python, JavaScript, etc.&lt;/li&gt;&lt;li&gt;A desire to work on software and applications that have real-world impact.&lt;/li&gt;&lt;li&gt;U.S. Person status is required as this position needs to access export controlled data&lt;/li&gt;&lt;/ul&gt;PREFERRED QUALIFICATIONS&lt;br&gt;&lt;ul&gt;&lt;li&gt;Have a bias for action. If you see a problem, you want to solve and fix it.&lt;/li&gt;&lt;li&gt;Be naturally curious about the technologies and tools you use.&lt;/li&gt;&lt;li&gt;Have a point-of-view, but are still low-ego.&lt;/li&gt;&lt;/ul&gt;Anduril is an equal-opportunity employer, and we encourage candidates from all backgrounds to apply. If you are someone passionate to work on problems that matter, we\u2019d love to hear from you!",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T05:04:24.000Z"
+  },
+  "company": {
+    "name": "Anduril Industries",
+    "link": "https://www.linkedin.com/company/andurilindustries"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Software Engineer - New Grad"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Irvine",
+    "region": "CA",
+    "postal_code": "92717",
+    "street_address": null,
+    "latitude": 33.68591,
+    "longitude": -117.82472
+  }
+}

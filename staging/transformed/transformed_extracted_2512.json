@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Staffing and Recruiting",
+    "description": "&lt;p&gt;Insight Global is looking for an eager, R&amp;amp;D focused Data Scientist to join one of our largest Enterprise clients within their Emerging Technology organization and specifically Collaborate with the various teams while an understanding the Quantum Computing initiative. Day to day, this position has responsibility for evaluating quantum accelerated optimization approaches as well as alternative quantum annealing algorithms for use in optimization scenarios. He/She will implement optimization algorithms on quantum annealing hardware and prototype quantum annealing applications for combinatorial optimization problems.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;This role will consist of preparing and collecting data sets to be used for testing quantum annealing prototypes and evaluating alternative optimization approaches in comparison to quantum annealing approaches both in graph based and non-graph-based optimization scenarios.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Must-haves&lt;/strong&gt; &lt;/p&gt;&lt;ul&gt;&lt;li&gt;3+ years in relevant work experience &lt;/li&gt;&lt;li&gt;Hands on experience with Jupyter Notebooks &lt;/li&gt;&lt;li&gt;Knowledge working with Python &lt;/li&gt;&lt;li&gt;Experience with QUBO and alternative optimization algorithms. &lt;/li&gt;&lt;li&gt;Experience with embedding optimization problems into a topology appropriate for execution on a QPU. &lt;/li&gt;&lt;li&gt;A background in combinatorial optimization including working with graph structures. &lt;/li&gt;&lt;li&gt;The ability to critically evaluate the performance of algorithms. &lt;/li&gt;&lt;li&gt; Masters Degree or higher, Preferably a PhD in similar concentration &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Plusses &lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Experience with D-Wave quantum systems. &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-05T14:59:15.000Z"
+  },
+  "company": {
+    "name": "Insight Global",
+    "link": "https://www.linkedin.com/company/insight-global"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": "Data Scientist"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 60,
+    "max_value": 80,
+    "unit": "HOUR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

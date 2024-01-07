@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer - PZT002",
+    "industry": "Information Technology and Services,Computer Software,Human Resources",
+    "description": "LAAgencia is searching for a &lt;strong&gt;Data Engineer&lt;/strong&gt; to work remotely. The candidate can be in Canada, the USA or Mexico just need to work on East Time (EST).&lt;br&gt;&lt;br&gt;Location: Raritan NJ(Can work remote)&lt;br&gt;&lt;br&gt;&lt;strong&gt;Requirements&lt;/strong&gt;:&lt;br&gt;&lt;ul&gt;&lt;li&gt;5- 7+ years of professional experience with a Bachelor's Degree in Computer Science or equivalent&lt;/li&gt;&lt;li&gt;Skills: C/C++/Java/GoLang/Python - Need any 2 of these skills.&lt;/li&gt;&lt;li&gt;AWS is highly recommended. Pharma/life science/clinical experience is an added advantage. Not Mandate. &lt;br&gt;&lt;/li&gt;&lt;/ul&gt;Powered by JazzHR&lt;br&gt;&lt;br&gt;a1d6kyRjG3",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T07:39:48.000Z"
+  },
+  "company": {
+    "name": "LAAgencia ",
+    "link": "https://mx.linkedin.com/company/laagencia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Data Engineer - PZT002"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Raritan",
+    "region": "NJ",
+    "postal_code": "08869",
+    "street_address": null,
+    "latitude": 40.567867,
+    "longitude": -74.63268
+  }
+}

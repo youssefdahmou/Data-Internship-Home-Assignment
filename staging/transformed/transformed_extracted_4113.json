@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "ServiceNow Developer",
+    "industry": "Information Technology and Services,Government Administration",
+    "description": "&lt;p&gt;&lt;strong&gt;&lt;u&gt;JOB DESCRIPTION:&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Required US Citizen Only&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;\u2022\tActively participate in agile daily scrums and ceremonies, updating stories daily in SNOW documenting development progress and collaborating across platform teams&lt;/p&gt;&lt;p&gt;\u2022\tSupport and participate in customer requirement workshops, working with product owner/stakeholders to configure requested items and tasks using Flow Designer to manage processes and meet business requirements&lt;/p&gt;&lt;p&gt;\u2022\tDevelop applications (scoped and out of the box) working with ServiceNow Studio&lt;/p&gt;&lt;p&gt;\u2022\tDesign, create and configure Notifications, UI Pages, UI Macros, Script Includes, Formatters, etc.&lt;/p&gt;&lt;p&gt;\u2022\tDesign, create and configure Business Rules, UI Policies, UI Actions, Client Scripts and ACLs including advanced scripting of each (including CMS/Service Portal)&lt;/p&gt;&lt;p&gt;\u2022\tSupport in the development of use cases and testing procedures, ensuring product functionality, debugging and testing is completed prior to production deployment&lt;/p&gt;&lt;p&gt;\u2022\tCreate and maintain system design and operations documentation&lt;/p&gt;&lt;p&gt;\u2022\tBuild automated testing in ServiceNow ATF&lt;/p&gt;&lt;p&gt;\u2022\tEnsure all development is created in alignment with ServiceNow Technical Best Practices&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Education and Requirements: &lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;\u2022\tMinimum of Bachelors Degree or equivalency and 10 years\u2019 experience&lt;/p&gt;&lt;p&gt;\u2022\tExtensive understanding of the ways in which ServiceNow can be configured and customized and scripting within the tool&lt;/p&gt;&lt;p&gt;\u2022\tExperience integrating ServiceNow with external systems through SOAP or REST web services&lt;/p&gt;&lt;p&gt;\u2022\tExperience with the ServiceNow Studio IDE&lt;/p&gt;&lt;p&gt;\u2022\tExperience using the Workflow Editor to configure workflows&lt;/p&gt;&lt;p&gt;\u2022\tExperience with HTML5, JAVA, JavaScript, jQuery, CSS, Angular.js&lt;/p&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-17T23:28:31.000Z"
+  },
+  "company": {
+    "name": "The Judge Group",
+    "link": "https://www.linkedin.com/company/the-judge-group"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": "ServiceNow Developer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Virginia",
+    "region": "United States",
+    "postal_code": "23038",
+    "street_address": null,
+    "latitude": 37.512905,
+    "longitude": -78.697624
+  }
+}

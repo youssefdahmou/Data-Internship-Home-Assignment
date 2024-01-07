@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Software",
+    "description": "&lt;p&gt;I am partnered with a company that is pioneering the use of note-taking app recorders! Their AI-powered collaborative works across Zoom, Google Meet, and Microsoft Teams to help teams record, transcribe, search and share meeting notes.&amp;nbsp;In addition, they are making virtual meetings accessible to all employees - allowing team members with disabilities to participate in a world that is now dominated by virtual meetings&lt;/p&gt;&lt;p&gt;They are currently in their Series A Funding Round, looking to rapidly grow their team over the course of the next year.&amp;nbsp; The team is located in Mountain View, with plans to move back to in-person as soon as they can!&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;A few key details Listed below -&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Skill Requirements&lt;/strong&gt;:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;5+ years of experience in Machine Learning&lt;/li&gt;&lt;li&gt;Strong programming skills in a scientific computing language such as Python. &lt;/li&gt;&lt;li&gt;Experience using frameworks for machine learning and data science like scikit-learn, pandas, NumPy&lt;/li&gt;&lt;li&gt;Experience working with ML tools such as Tensorflow, Keras, and Pytorch&lt;/li&gt;&lt;li&gt;Excellent written and oral communication skills and the capability to drive cross-functional requirements with product and engineering teams&lt;/li&gt;&lt;li&gt;Comfortable in a Collaborative Start-up environment&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Nice to have&lt;/strong&gt;:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Ph.D. in Machine Learning, Artificial Intelligence, NLP, or similar&lt;/li&gt;&lt;li&gt;Experience with MLOps systems&lt;/li&gt;&lt;li&gt;A drive to keep up and build on cutting edge research&lt;/li&gt;&lt;li&gt;Experience with Natural Language Processing&lt;/li&gt;&lt;li&gt;Leadership experience&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Offer Expectations&lt;/strong&gt;:&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Competitive Salary&lt;/li&gt;&lt;li&gt;Awesome Benefits&lt;/li&gt;&lt;li&gt;Potential to grow alongside a fast-paced team!&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T01:15:58.000Z"
+  },
+  "company": {
+    "name": "Intelletec",
+    "link": "https://www.linkedin.com/company/intelletec-ltd"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Machine Learning Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco Bay Area",
+    "region": null,
+    "postal_code": "94112",
+    "street_address": null,
+    "latitude": 37.39271,
+    "longitude": -122.042
+  }
+}

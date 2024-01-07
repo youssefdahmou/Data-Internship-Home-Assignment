@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Autonomy AI Machine Learning Software Engineer",
+    "industry": "Defense &amp; Space",
+    "description": "&lt;strong&gt;&lt;u&gt;Summary Description&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;The Autonomy/AI ML Software Engineer is responsible for developing, integrating, and deploying autonomy and&lt;br&gt;&lt;br&gt;artificial intelligence algorithms for mission systems and production and maintenance operations. Translates&lt;br&gt;&lt;br&gt;requirements and develops code, determining appropriate software methods, training system to recognize&lt;br&gt;&lt;br&gt;patterns to perform specific functions. Supports the technology development life cycle from requirements&lt;br&gt;&lt;br&gt;generation through development, integration, scenario development and modeling, testing and debugging.&lt;br&gt;&lt;br&gt;May support research and development on prototyping of autonomous systems in some organizations.&lt;br&gt;&lt;br&gt;Key Responsibilities&lt;br&gt;&lt;ul&gt;&lt;li&gt; Develops, integrates, and implements algorithms to enable perception, motion/mission planning, controls,&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;etc. functionality in LM products and platforms&lt;br&gt;&lt;ul&gt;&lt;li&gt; Translates requirements and applies requirements to development code, integrating autonomy, AI or&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;machine learning algorithms to LM products and platforms&lt;br&gt;&lt;ul&gt;&lt;li&gt; Determines software methods to best acquire and execute knowledge&lt;/li&gt;&lt;li&gt; Implements algorithms into software to train systems to recognize patterns and perform specific functions&lt;/li&gt;&lt;li&gt; Responsible for various phases of developing and maintaining autonomy software from requirements&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;generation, software design and development to integration, testing, troubleshooting and debugging, and&lt;br&gt;&lt;br&gt;implementation&lt;br&gt;&lt;ul&gt;&lt;li&gt; Review test outcomes, conducts troubleshooting, and works to debug issues&lt;/li&gt;&lt;li&gt; Develops human-machine interface scenarios, breaking missions into tasks&lt;/li&gt;&lt;li&gt; Documents interface requirements and implements human-machine interfaces&lt;/li&gt;&lt;li&gt; Interfaces with other teams involved the development lifecycle for perception, mission and motion&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;planning, simulation and modeling, testing, etc.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T20:25:14.000Z"
+  },
+  "company": {
+    "name": "Lockheed Martin",
+    "link": "https://www.linkedin.com/company/lockheed-martin"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Autonomy AI Machine Learning Software Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Littleton",
+    "region": "CO",
+    "postal_code": "80018",
+    "street_address": null,
+    "latitude": 39.61265,
+    "longitude": -105.0162
+  }
+}

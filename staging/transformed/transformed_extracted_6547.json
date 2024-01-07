@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Research Engineer - Uber AI Engagements",
+    "industry": "Computer Software,Consumer Services,Information Technology and Services",
+    "description": "&lt;strong&gt;&lt;u&gt;About The Team&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;Uber AI Engagements collaborates with partner teams across Uber to deliver innovative ML/AI solutions for core business problems. You will work closely with engineering, product and data science teams to understand business problems and the potential for ML/AI solutions. You will deliver these solutions from inception to enduring software components. Machine Learning Engineers have deep domain knowledge in ML/AI and the ability to apply that knowledge to diverse problem domains involving multiple stakeholders.&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;What You'll Do&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Algorithm and model prototyping&lt;/li&gt;&lt;li&gt;Model optimization&lt;/li&gt;&lt;li&gt;Model productionization and monitoring&lt;/li&gt;&lt;li&gt;Stay up to date with the recent advancements in the field of machine learning and deep learning&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Basic Qualifications&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Masters in Computer Science with a specialization in ML, related field, or equivalent industry experience&lt;/li&gt;&lt;li&gt;2+ years of industry experience in applied ML, or a Ph.D. with some industry experience obtained through e.g. internships&lt;/li&gt;&lt;li&gt;Proficiency in Python&lt;/li&gt;&lt;li&gt;Experience with ML frameworks such as PyTorch and TensorFlow&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Preferred Qualifications&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;4+ years of industry experience in applied ML, or a Ph.D. and 2+ years of industry experience&lt;/li&gt;&lt;li&gt;Expertise in deep learning. Strong understanding of deep learning fundamentals (layer details, loss functions, backpropagation etc.)&lt;/li&gt;&lt;li&gt;Ability to read academic papers and implement state of the art deep learning models&lt;/li&gt;&lt;li&gt;Experience applying deep learning techniques to problems in the spatio-temporal domain&lt;/li&gt;&lt;li&gt;Experience dealing with real world large-scale datasets&lt;/li&gt;&lt;li&gt;Ability to innovate, as demonstrated by a track record of software artifacts or publications&lt;/li&gt;&lt;li&gt;Ability to deliver end-to-end solutions, including data preparation, training, and deployment&lt;/li&gt;&lt;li&gt;Experience working with product teams&lt;/li&gt;&lt;li&gt;Ability to work with ambiguous problem definitions&lt;/li&gt;&lt;li&gt;Prove ability communicating technical knowledge to a business audience&lt;/li&gt;&lt;li&gt;Collaborative attitude and constructive approach&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-02T09:40:05.000Z"
+  },
+  "company": {
+    "name": "Uber",
+    "link": "https://www.linkedin.com/company/uber-com"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": "Machine Learning Research Engineer - Uber AI Engagements"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Sunnyvale",
+    "region": "CA",
+    "postal_code": "94089",
+    "street_address": null,
+    "latitude": 37.373676,
+    "longitude": -122.036575
+  }
+}

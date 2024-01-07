@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer In Test",
+    "industry": "",
+    "description": "The location for this job is&lt;br&gt;Austin, TX (Remote until Covid)&lt;br&gt;&lt;br&gt;Interview rounds&lt;br&gt;Hackerrank and 2 Rounds of Interview&lt;br&gt;&lt;br&gt;\u00a0&lt;br&gt;Need strong Testng, Selenium, Java Coding experience and Appium&lt;br&gt;&lt;br&gt;&lt;br&gt;Must have:&lt;br&gt;&lt;br&gt;&lt;br&gt;\u2022\u00a0 \u00a0 \u00a0 \u00a0Bachelors or Masters in CS or related degrees.&lt;br&gt;&lt;br&gt;&lt;br&gt;\u2022\u00a0 \u00a0 \u00a0 \u00a0Minimum of 6+ years with Master or 8+ years with Bachelors of hand on experience in software development in test automation, concurrent coding skills in Java.&lt;br&gt;&lt;br&gt;&lt;br&gt;\u2022\u00a0 \u00a0 \u00a0 \u00a0Test automation experience using open source technologies and/or in-house frameworks -- MUST&lt;br&gt;&lt;br&gt;&lt;br&gt;\u2022\u00a0 \u00a0 \u00a0 \u00a0Experience in API testing (SOAP and MicroServices).&lt;br&gt;&lt;br&gt;&lt;br&gt;\u2022\u00a0 \u00a0 \u00a0 \u00a0Experience in UI and Mobile Testing.&lt;br&gt;&lt;br&gt;&lt;br&gt;\u2022\u00a0 \u00a0 \u00a0 \u00a0Experience with test frameworks like Junit, TestNG.&lt;br&gt;&lt;br&gt;&lt;br&gt;\u2022\u00a0 \u00a0 \u00a0 \u00a0Familiarity with BDD and/or Cucumber&lt;br&gt;&lt;br&gt;&lt;br&gt;\u2022\u00a0 \u00a0 \u00a0 \u00a0Experience in Continuous Integration and Continuous Deployment.&lt;br&gt;&lt;br&gt;&lt;br&gt;\u2022\u00a0 \u00a0 \u00a0 \u00a0Experience with code versioning tools (Git, SVN)&lt;br&gt;&lt;br&gt;&lt;br&gt;\u2022\u00a0 \u00a0 \u00a0 \u00a0Excellent knowledge SQL and ability to write complex queries to validate.&lt;br&gt;&lt;br&gt;&lt;br&gt;\u2022\u00a0 \u00a0 \u00a0 \u00a0Following Scrum/Agile development methodology.&lt;br&gt;&lt;br&gt;&lt;br&gt;\u2022\u00a0 \u00a0 \u00a0 \u00a0Strong application debugging skills.&lt;br&gt;&lt;br&gt;&lt;br&gt;\u2022\u00a0 \u00a0 \u00a0 \u00a0Experience with Jira or similar Agile process tools.&lt;br&gt;&lt;br&gt;&lt;br&gt;\u2022\u00a0 \u00a0 \u00a0 \u00a0Experience with using defect management and test management tools.&lt;br&gt;&lt;br&gt;&lt;br&gt;\u2022\u00a0 \u00a0 \u00a0 \u00a0Ability to thrive in a fast-paced environment where resourcefulness, determination, and strong problem-solving skills are necessary for success.&lt;br&gt;&lt;br&gt;&lt;br&gt;\u2022\u00a0 \u00a0 \u00a0 \u00a0Positive attitude and the ability to complete assigned objectives with minimal supervision.&lt;br&gt;&lt;br&gt;&lt;br&gt;\u2022\u00a0 \u00a0 \u00a0 \u00a0Excellent communications skills both written and verbal.\u00a0&lt;br&gt;&lt;br&gt;&lt;br&gt;\u00a0&lt;br&gt;&lt;br&gt;&lt;br&gt;Nice-to-have:&lt;br&gt;&lt;br&gt;&lt;br&gt;\u2022\u00a0 \u00a0 \u00a0 \u00a0Javascript and NodeJS, server-side experience is preferred.&lt;br&gt;&lt;br&gt;&lt;br&gt;\u2022\u00a0 \u00a0 \u00a0 \u00a0Experience with shell scripting&lt;br&gt;&lt;br&gt;&lt;br&gt;\u2022\u00a0 \u00a0 \u00a0 \u00a0Experience with Security Testing and/or ADA testing&lt;br&gt;&lt;br&gt;&lt;br&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-14T17:01:00.000Z"
+  },
+  "company": {
+    "name": "Collabupp Corporation",
+    "link": "https://www.linkedin.com/company/collabupp-corporation"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": "Software Engineer In Test"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

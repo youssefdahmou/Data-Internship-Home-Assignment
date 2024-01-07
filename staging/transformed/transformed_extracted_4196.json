@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist/Machine Learning Engineer, NLP",
+    "industry": "Information Technology and Services,Computer Software",
+    "description": "&lt;strong&gt;HealthTech start-up based out of Palo Alto, CA&lt;br&gt;&lt;br&gt;&lt;/strong&gt;This Jobot Job is hosted by Christina Finster&lt;br&gt;&lt;br&gt;Are you a fit? Easy Apply now by clicking the \"Apply\" button and sending us your resume.&lt;br&gt;&lt;br&gt;&lt;strong&gt;A Bit About Us&lt;br&gt;&lt;br&gt;&lt;/strong&gt;Our client's mission is to provide Earth\u2019s 7.3 billion citizens with control of their complete health information and give them the choice of sharing it with whomever they want.&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;Why join us?&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;/strong&gt;Perks&lt;br&gt;&lt;br&gt;On a mission to revolutionize healthcare&lt;br&gt;&lt;br&gt;Culture of doers&lt;br&gt;&lt;br&gt;Venture-backed, Series A equity&lt;br&gt;&lt;br&gt;Generous Benefits, Discretionary Time Off&lt;br&gt;&lt;br&gt;&lt;strong&gt;Job Details&lt;br&gt;&lt;br&gt;&lt;/strong&gt;In this role, you will be working with other data scientists and engineers to help build our unstructured data extraction pipeline. You will be responsible for leveraging the latest machine learning and natural language processing technology to structure and normalize data from medical records. The ideal candidate will have no issue digging into messy data, working with clinical subject matter experts to develop annotation guidelines to produce high-quality machine learning models.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Requirements&lt;br&gt;&lt;br&gt;&lt;/strong&gt;2+ years experience prototyping and deploying production NLP / Machine Learning models&lt;br&gt;&lt;br&gt;3+ years experience with Python and solid software development skills&lt;br&gt;&lt;br&gt;Familiarity with common NLP/ML frameworks (Spacy, Pytorch, TensorFlow, Keras)&lt;br&gt;&lt;br&gt;Fluency in state-of-the-art machine learning techniques including Transformers, CNNs, RNNs to solve NLP tasks like Named Entity Recognition, Information Extraction, Named Entity Linking.&lt;br&gt;&lt;br&gt;Excellent ability to communicate technical information to non-technical audiences&lt;br&gt;&lt;br&gt;Only accepting US Based applicants at this time&lt;br&gt;&lt;br&gt;Interested in hearing more? Easy Apply now by clicking the \"Apply\" button.&lt;br&gt;&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T21:31:16.000Z"
+  },
+  "company": {
+    "name": "Jobot",
+    "link": "https://www.linkedin.com/company/jobot"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": "Data Scientist/Machine Learning Engineer, NLP"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Palo Alto",
+    "region": "CA",
+    "postal_code": "94310",
+    "street_address": null,
+    "latitude": 37.445103,
+    "longitude": -122.16036
+  }
+}

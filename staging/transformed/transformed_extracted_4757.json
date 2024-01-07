@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "",
+    "description": "&lt;p&gt;&lt;strong&gt;Machine Learning Engineer - Aliso Viejo, CA&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;AWM Smart Shelf &lt;/strong&gt;is reinventing retail and looking for smart, talented people to work on building exciting applications. The initial focus of this position is working on AWM Frictionless which is a cashierless-shopping solution for shoppers to be able to grab what they want from a store and simply walk out.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Our solution uses real-time computer vision and deep learning to determine what shoppers take. We're looking for a Machine Learning Engineer to run with the selection, training, and evaluation of our item and action recognition models.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;If your ML background is not in image processing, but something like NLP or finance, you may still be a great fit! We\u2019re looking for nimble, practical problem solvers and we value a diversity of perspectives.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;We tinker, experiment, and hack on many different approaches and love people who aren't afraid to jump around. A successful Machine Learning Engineer will rapidly iterate \u2013 failing fast to identify the most promising paths forward.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;If this sounds like fun, we'd love to hear from you!&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;THE JOB&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Implement machine learning models for item classification and action recognition&lt;/li&gt;&lt;li&gt;Ability to evaluate model performance and monitor the training process&lt;/li&gt;&lt;li&gt;Adapt existing models to better handle problems specific to our domain&lt;/li&gt;&lt;li&gt;Integrate models into our production pipeline for real-time processing&lt;/li&gt;&lt;li&gt;Test cutting-edge models on our custom datasets&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;WHO YOU ARE&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Someone who executes \u2013 a focus on action and results - can self-manage to timelines and deliver&lt;/li&gt;&lt;li&gt;Practical coding knowledge (Python preferred) to quickly iterate on training and testing models&lt;/li&gt;&lt;li&gt;Understanding of CNNs and the tradeoffs of different architectures&lt;/li&gt;&lt;li&gt;Knowledge of best practices in machine learning&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;NICE TO HAVE&lt;/strong&gt; (but not mandatory)&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Experience with video data&lt;/li&gt;&lt;li&gt;Experience with distributive training in the cloud&lt;/li&gt;&lt;li&gt;Experience with sequence modeling&lt;/li&gt;&lt;li&gt;Relevant education in an undergraduate or graduate program&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;WHAT WE OFFER&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;A dynamic environment where you can make an impact using the latest technologies&lt;/li&gt;&lt;li&gt;Paid vacation and sick time&lt;/li&gt;&lt;li&gt;Health benefits&lt;/li&gt;&lt;li&gt;Opportunity for growth&lt;/li&gt;&lt;li&gt;401k plan&lt;/li&gt;&lt;li&gt;Potential for employee stock option plan participation&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;**PLEASE APPLY TO BE CONSIDERED**&lt;/strong&gt;&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-19T18:52:16.000Z"
+  },
+  "company": {
+    "name": "AWM Smart Shelf",
+    "link": "https://www.linkedin.com/company/awm-smart-shelf"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Machine Learning Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Aliso Viejo",
+    "region": "CA",
+    "postal_code": "92656",
+    "street_address": null,
+    "latitude": 33.569595,
+    "longitude": -117.72637
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Entry/Analyst",
+    "industry": "Automotive,Marketing and Advertising",
+    "description": "&lt;p&gt;&lt;strong&gt;Must Haves:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;1-3 years data analysis experience &lt;/li&gt;&lt;li&gt;Manipulating data lists, analyzing and re-analyzing data, pulling data from other sources, etc.&lt;/li&gt;&lt;li&gt;Microsoft Office applications (MS Word, Excel) \u2013 must know basic data manipulation &lt;/li&gt;&lt;li&gt;Pivot Tables and Vlookups are a nice to have&lt;/li&gt;&lt;li&gt;Ability to work under pressure and move fast&lt;/li&gt;&lt;li&gt;Strong attention to detail&lt;/li&gt;&lt;li&gt;Team mentality, lots of juggling, team work &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Pluses:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Proficient with building &lt;strong&gt;GMC&lt;/strong&gt; and/or &lt;strong&gt;Fusion Pro&lt;/strong&gt; work flows&lt;/li&gt;&lt;li&gt;Experience with working with a postal software \u2013 &lt;strong&gt;First Logic&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Day to day:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Work with internal clients (3 assigned account reps) that give requirements and job instructions &lt;/li&gt;&lt;li&gt;Budget coordination, proofs, sign offs, data analysis in a 24-hr window&lt;/li&gt;&lt;li&gt;Receive day to day direction from Individual Auto Account Executive &lt;/li&gt;&lt;li&gt;Ability to comprehend written and/or verbal job instructions&lt;/li&gt;&lt;li&gt;Works with postal software (i.e. First Logic) to perform USPS data hygiene (i.e. CASS, merge, purge, etc.) &lt;/li&gt;&lt;li&gt;Ability to work in various data management software environments &lt;/li&gt;&lt;li&gt;Manipulates data based on client requirements&lt;/li&gt;&lt;li&gt;Provides proofs to internal client&lt;/li&gt;&lt;li&gt;Prepares jobs for production floor&lt;/li&gt;&lt;li&gt;Assists internal client with information pertaining to their jobs&lt;/li&gt;&lt;li&gt;Provides various data counts&lt;/li&gt;&lt;li&gt;Proficient with building GMC and/or Fusion Pro work flows &lt;/li&gt;&lt;li&gt;Strong attention to detail &amp;amp; accuracy&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-09T17:44:18.000Z"
+  },
+  "company": {
+    "name": "Insight Global",
+    "link": "https://www.linkedin.com/company/insight-global"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": "Data Entry/Analyst"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 16,
+    "max_value": 19,
+    "unit": "HOUR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "West Chicago",
+    "region": "IL",
+    "postal_code": "60185",
+    "street_address": null,
+    "latitude": 41.884655,
+    "longitude": -88.2049
+  }
+}

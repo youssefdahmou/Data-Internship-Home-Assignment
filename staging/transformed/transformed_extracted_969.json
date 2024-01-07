@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Test Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "&lt;strong&gt;Job Posting Title&lt;br&gt;&lt;br&gt;&lt;/strong&gt;Senior Software Test Engineer&lt;br&gt;&lt;br&gt;&lt;strong&gt;Summary&lt;br&gt;&lt;br&gt;&lt;/strong&gt;We are looking for a Sr. Software Test Engineer with at least 5 years\u2019 experience in software testing to join our team, which is responsible for cutting-edge technology supporting Aristocrat's gaming platforms and Game Development Kits, which are used in casinos and venues around the world.&lt;br&gt;The Sr. Software Test Engineer will work closely with a team of Development and Test Engineers to plan, perform, and guide quality assurance activities that ensure the delivery of a high-quality gaming experience. This involves testing and reporting defects, reviewing defects reported internally and externally, assisting with a post-testing review for all releases, and maintaining the accuracy of all test documentation. Furthermore, the Sr. Software Test Engineer will mentor new and junior Software Test Engineers and foster a strong relationship with key stakeholders and business partners.&lt;br&gt;&lt;br&gt;&lt;strong&gt;What You'll Do&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;As a Senior Software Test Engineer, you will be responsible for owning quality assurance on our gaming platform.&lt;/li&gt;&lt;li&gt;You will provide technical assessments on features and identify scope of work and dependencies to meet test requirements.&lt;/li&gt;&lt;li&gt;You will design, implement, and maintain test plans, test cases, and test configurations, as well as provide hands-on hardware configuration and test execution.&lt;/li&gt;&lt;li&gt;You will provide technical guidance in identifying automation targets and developing white box test scenarios.&lt;/li&gt;&lt;li&gt;You will participate in design reviews and recommend improvements.&lt;/li&gt;&lt;li&gt;You will work with cross functional stakeholders to ensure we deliver a high-quality gaming experience.&lt;/li&gt;&lt;li&gt;You will promote established processes and seek opportunities to streamline and improve both our technologies and our processes.&lt;/li&gt;&lt;li&gt;All other duties as assigned.&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;What We're Looking For&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Excellent software testing skills with a strong understanding of software testing methodology.&lt;/li&gt;&lt;li&gt;5+ years of experience testing embedded software, SDK or commercial software product releases.&lt;/li&gt;&lt;li&gt;Experience working with defect tracking and test management tools such as JIRA/Zephyr.&lt;/li&gt;&lt;li&gt;Prior experience in the gaming industry is desirable.&lt;/li&gt;&lt;li&gt;Strong knowledge of any scripting language (e.g., python) is desirable.&lt;/li&gt;&lt;li&gt;Good verbal and written communication skills to effectively interact with global stakeholders.&lt;/li&gt;&lt;li&gt;Software debugging and troubleshooting skills using industry standard tools.&lt;/li&gt;&lt;li&gt;Ability to analyze information and use logic to perform task efficiently, within deadlines.&lt;/li&gt;&lt;li&gt;Possesses good problem-solving skills to address work-related issues and problems.&lt;/li&gt;&lt;li&gt;Experience with Agile Scrum methodologies is desirable.&lt;/li&gt;&lt;li&gt;B.S. in Computer Science or equivalent is highly desirable.&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;Why Aristocrat?&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;World Leader in Gaming Entertainment&lt;/li&gt;&lt;li&gt;Robust benefits package&lt;/li&gt;&lt;li&gt;Global career opportunities&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;Our Values&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;All about the Player&lt;/li&gt;&lt;li&gt;Talent Unleashed&lt;/li&gt;&lt;li&gt;Collective Brilliance&lt;/li&gt;&lt;li&gt;Good Business Good Citizen&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;The US based roles may require registration with the Nevada Gaming Control Board (NGCB) and/or other gaming jurisdictions in which we operate.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-17T13:37:05.000Z"
+  },
+  "company": {
+    "name": "Aristocrat",
+    "link": "https://au.linkedin.com/company/aristocrat"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Senior Software Test Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Franklin",
+    "region": "TN",
+    "postal_code": "37064",
+    "street_address": null,
+    "latitude": 35.923653,
+    "longitude": -86.86783
+  }
+}

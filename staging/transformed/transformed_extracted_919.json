@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "&lt;p&gt;&lt;strong&gt;EarlyBird Overview&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;EarlyBird is the simplest way for parents, family, and friends to collectively invest in a child\u2019s financial future starting at the earliest age. Our focus is transforming financial gifting, making it personal, purposeful, and timeless, empowering future generations with financial freedom and the ability to change the world.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Industry&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Financial Technology&lt;/p&gt;&lt;p&gt;Robo-Advising&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Job Description&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; 2 - 5 years industry experience&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Requirements &amp;amp; Technologies&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;As a Software Developer at EarlyBird, you will have worked on projects that involve authentication, database design, and API integrations. Ideal candidates are comfortable touching various parts of a distributed system, as well as having intuition and opinions on how to improve and simplify a growing application.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Build and promote high-quality, scalable, full-stack solutions in React Native&lt;/li&gt;&lt;li&gt;Experience with iOS and Android React Native applications&lt;/li&gt;&lt;li&gt;Delight a diverse, global audience with elegant, intuitive experiences&lt;/li&gt;&lt;li&gt;1-5 years of industry NodeJS experience in full time or internship roles&lt;/li&gt;&lt;li&gt;GraphQL and REST API's development experience&lt;/li&gt;&lt;li&gt;Experience with SQL databases&lt;/li&gt;&lt;li&gt;Some quantitative skills, knowledge or experience in finance is a plus&lt;/li&gt;&lt;li&gt;You are a self-starter, self-motivated, and able to work independently&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Salary, Compensation, and Benefits&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Competitive compensation that includes equity&lt;/li&gt;&lt;li&gt;Flexible time off policy to balance your work and life&lt;/li&gt;&lt;li&gt;Competitive medical, dental, and vision coverage for you and your dependents&lt;/li&gt;&lt;li&gt;Collaborative, transparent, and fun loving office culture&lt;/li&gt;&lt;li&gt;An impactful organization with a purpose&lt;/li&gt;&lt;li&gt;Ability to work from home and have flexible working hours.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Please apply if you're excited about building a better financial future for the next generation and pushing our platform further. We look forward to seeing the unique perspective you will bring to our team!&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;EarlyBird is an equal opportunity employer and values diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.&lt;/em&gt;&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-18T14:03:58.000Z"
+  },
+  "company": {
+    "name": "EarlyBird",
+    "link": "https://www.linkedin.com/company/getearlybird"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": "Software Engineer"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 100000,
+    "max_value": 130000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York City Metropolitan Area",
+    "region": null,
+    "postal_code": "10021",
+    "street_address": null,
+    "latitude": 40.748295,
+    "longitude": -73.98556
+  }
+}

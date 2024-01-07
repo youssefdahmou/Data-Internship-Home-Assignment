@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Motion Software Engineer",
+    "industry": "Consumer Electronics",
+    "description": "&lt;br&gt;&lt;strong&gt;Summary&lt;br&gt;&lt;/strong&gt; &lt;br&gt;The CoreMotion Motion &amp;amp; Interaction team has created innovative ways for users to interact with their devices through motion. When you play games by simply moving your devices, use the compass to find your way, or track your workouts on an Apple Watch, it\u2019s the work of engineers and scientists on this team. Join CoreMotion and work with the people who have created the sensor fusion technologies and motion gestures that power games, augmented reality, health, fitness and numerous other features on Apple\u2019s devices.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Key Qualifications&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Strong C++ coding skills (3+ years) &lt;br&gt;&lt;br&gt;Solid understanding of algorithm design and data structures &lt;br&gt;&lt;br&gt;Strong and intuitive understanding of object-oriented designs &lt;br&gt;&lt;br&gt;Experience delivering production code for embedded or real-time systems&lt;br&gt;&lt;br&gt;Effective communication skills, written and verbal, and attention to detail&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Description&lt;br&gt;&lt;/strong&gt; &lt;br&gt;In this position, you will be working on motion sensing-related software driving sensor fusion and interactive technologies. Most importantly, you will help ship interactive features that impact millions of users on a daily basis. Roles and responsibilities include designing, implementing and maintaining APIs and algorithms for iOS, watchOS, tvOS, macOS and embedded systems, optimizing implementations for power, memory and performance, and close coordination with multi-disciplinary teams across the company.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Education &amp;amp; Experience&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Bachelor's or Master\u2019s degree in Computer Science, EECS, or equivalent experience.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Additional Requirements&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Familiarity with Objective-C or Swift is a plus.&lt;br&gt;&lt;br&gt; &lt;br&gt;Role Number: 200257878&lt;br&gt;&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T20:01:42.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": "Motion Software Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Associate Machine Learning Engineer",
+    "industry": "Health, Wellness and Fitness,Pharmaceuticals,Retail",
+    "description": "&lt;strong&gt;&lt;u&gt;Job Summary&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;Builds &amp;amp; maintains machine learning and big data pipelines to support advanced analytics, data science, and AI/ML solutions.&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;Job Responsibilities&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt; Assists in development of software that processes, stores and serves data and machine learning models for use by others.&lt;/li&gt;&lt;li&gt; Assists in development of data structures and pipelines to organize, collect and standardize data that helps generate insights and intelligence to support business needs.&lt;/li&gt;&lt;li&gt; Writes ETL (Extract / Transform / Load) or ELT processes, designs data stores and develops tools for real-time and offline analytic processing on premise or on cloud infrastructure.&lt;/li&gt;&lt;li&gt; Assists in development of data and ML pipelines that are scalable, repeatable and secure&lt;/li&gt;&lt;li&gt; Assists in troubleshooting software and processes for data consistency and integrity. Integrates data from a variety of sources, assuring that they adhere to data quality and accessibility standards.&lt;/li&gt;&lt;li&gt; Escalates problems and roadblocks as they occur&lt;/li&gt;&lt;li&gt; Interacts with team members and peers and may interact with external peers to provide semi-routine information related to assigned tasks.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Basic Qualifications&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Bachelor's degree&lt;/li&gt;&lt;li&gt;Experience establishing and maintaining key relationships with internal (peers, business partners and leadership) and external (business community, clients and vendors) within a matrix organization to ensure quality standards for service.&lt;/li&gt;&lt;li&gt;Willing to travel up to 10% of the time for business purposes (within state and out of state).&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Preferred Qualifications&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Knowledge of SQL or programming skills in one or more of the following: Python, C, C++, Spark, Scala, and/or Java&lt;/li&gt;&lt;li&gt;Exposure to Azure&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-11T16:45:12.000Z"
+  },
+  "company": {
+    "name": "Walgreens",
+    "link": "https://www.linkedin.com/company/walgreens"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Associate Machine Learning Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

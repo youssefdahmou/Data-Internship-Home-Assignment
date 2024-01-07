@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "&lt;strong&gt;&lt;u&gt;Overview&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;Come join the \"&lt;strong&gt;IIS Infrastructure Security Team&lt;/strong&gt;\" as a \"&lt;strong&gt;Software Engineer 2&lt;/strong&gt;\". The Software Engineer 2 role is to employ a set of tools, automation activities and processes to ensure that sensitive data is not lost, misused, or accessed by unauthorized users.&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;What You'll Bring&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;BS/MS in computer science or equivalent work experience. &lt;/li&gt;&lt;li&gt;Experience in security controls (Data Loss Prevention, Cloud Access Security Broker, URL filtering)&lt;/li&gt;&lt;li&gt;2+ years experience developing web, software, or mobile applications.&lt;/li&gt;&lt;li&gt;Solid grasp of software engineering fundamentals and their practical application.&lt;/li&gt;&lt;li&gt;Experience with the following: LanDesk, JAMF, Python, Github, Ansible &amp;amp; Cloud Formation templates&lt;/li&gt;&lt;li&gt;Experience with the Software Development Life Cycle (SDLC).&lt;/li&gt;&lt;li&gt;1+ years experience with web services (consuming or creating) with REST or SOAP.&lt;/li&gt;&lt;li&gt;Strong experience with any of the following: Python, Java/J2EE, AWS CloudFormation or Ansible.&lt;/li&gt;&lt;li&gt;Strong desire to learn and grow.&lt;/li&gt;&lt;li&gt;Excellent problem solving skills with a history of superb delivery against assigned tasks.&lt;/li&gt;&lt;li&gt;Solid communication skills: Demonstrated ability to explain complex technical issues to both technical and non-technical audiences.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;Outstanding partnership skills.&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;How You Will Lead&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Architecting, developing, deploying and automating SaaS and agent based security solutions&lt;/li&gt;&lt;li&gt;Evaluating vendor security solutions and conducting proof of concepts (POC\u2019s)&lt;/li&gt;&lt;li&gt;Roughly 40% hands-on coding&lt;/li&gt;&lt;li&gt;Contribute to early quality activities, including peer reviews of estimates, designs and code&lt;/li&gt;&lt;li&gt;Resolve defects/bugs during QA testing, pre-production, production, and post-release patches&lt;/li&gt;&lt;li&gt;Partner effectively with all team members to deliver against commitments&lt;/li&gt;&lt;li&gt;Work cross-functionally with various Intuit teams: product management, program management, dev-operations, various product lines, or business units to drive forward results&lt;/li&gt;&lt;li&gt;Partner effectively with our security vendors, driving issue resolution and roadmap capabilities&lt;/li&gt;&lt;li&gt;Commitment to team success and positive team dynamics&lt;/li&gt;&lt;li&gt;Passion for growing and applying technical skills in service to customers&lt;/li&gt;&lt;li&gt;Experience with Agile Development, SCRUM, and/or Extreme Programming methodologies&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T06:09:41.000Z"
+  },
+  "company": {
+    "name": "Intuit",
+    "link": "https://www.linkedin.com/company/intuit"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": "Software Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Plano",
+    "region": "TX",
+    "postal_code": "75093",
+    "street_address": null,
+    "latitude": 33.019695,
+    "longitude": -96.697586
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Systems Engineer",
+    "industry": "",
+    "description": "&lt;p&gt;AI Training and Inference is very inefficient today incurring huge costs with real impact on the environment. &lt;strong&gt;We live in the Jurassic era of A.I efficiency&lt;/strong&gt; and Nod.AI believes we can do much better with a solid focus on our Computer Science fundamentals with first principles thinking. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Our A.I Compiler Engineers deliver the best front end for various Machine Learning frameworks like Tensorflow, PyTorch etc and very efficiently parallelize and distribute the workloads onto the Nod Runtime for auto-tuned high performance execution on large clusters and SoCs.&amp;nbsp;Our ML Systems Engineers effectively deploy compiled A.I models onto a wide range of hardware platforms \u2013 from supercomputers with thousands of devices to System-on-Chip designs with hundreds of processing elements (PEs).&amp;nbsp;&lt;/p&gt;&lt;p&gt;We enable companies to efficiently deploy Machine Learning models without doing the heavy lifting of optimizing the frameworks and models for their hardware and clusters.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Come work with a high caliber team, where everyone is an engineer first and we guide our decisions with data and celebrate our results.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;As a MLSys Engineer you would be responsible for scaling out the Nod AI Runtime over multiple devices on a single host and across hundreds of machines in a HPC / Datacenter environment.&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-08T05:43:51.000Z"
+  },
+  "company": {
+    "name": "Nod.ai",
+    "link": "https://www.linkedin.com/company/-nimai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Machine Learning Systems Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

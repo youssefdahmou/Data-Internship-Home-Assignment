@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services",
+    "description": "&lt;p&gt;Hello,&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Hope you are doing well.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;We have urgent&lt;strong&gt; Machine Learning Engineer, it is a 100% remote role.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Machine Learning Engineer&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;100% remote&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;I am seeking a&amp;nbsp;Machine Learning Engineer who designs and develops the platform and frameworks that facilitate automated data-driven decision-making, gathers data, and determines statistical algorithms and models that a system can use to learn from experience, predict outcomes and make decisions. This is a Senior level role that requires experience working on ML projects and experience with Azure as a data platform.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Hands on experience with&amp;nbsp;&lt;strong&gt;Azure Machine Learning Studio, Automated ML, Designer, MLOps&lt;/strong&gt;, Responsible ML is a big plus.&lt;/p&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-15T14:47:53.000Z"
+  },
+  "company": {
+    "name": "Sapphire Software Solutions Inc",
+    "link": "https://www.linkedin.com/company/sapphiresoftwaresolutionsinc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Machine Learning Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Staffing and Recruiting",
+    "description": "&lt;p&gt;&lt;strong&gt;&lt;u&gt;NO CTC&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Job Description&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This role with the Funding team within Corporate Treasury entails development and maintenance of data analytics and visualization tools that provide business insights, meet management reporting needs, and automate business tasks. The job involves coordination with teams within the Corporate Treasury and Technology organizations to identify business requirements, and to deliver tools that satisfy those requirements.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;The developer will build data pipelines by sourcing data from various upstream systems, and housing it within a relational database, in a format that facilitates consumption by front-end tools. The data pipeline will be developed using a combination of technologies, including Python, Oracle, and AMPS. The developer will also create data analytics and visualization tools using Python, Microsoft Excel, and Tableau.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Required Skills:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;5 years of overall development experience&lt;/li&gt;&lt;li&gt;2 years building data pipelines and visualization tools&lt;/li&gt;&lt;li&gt;2 years of Python, and data analytics using Pandas&lt;/li&gt;&lt;li&gt;2 years of Oracle SQL development&lt;/li&gt;&lt;li&gt;1 year programming Microsoft Excel VBA, charts, pivot and data tables&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Nice to have:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Experience in R programming&lt;/li&gt;&lt;li&gt;Experience building Tableau visualizations&lt;/li&gt;&lt;li&gt;Experience with Git version control, Perl, and Linux&lt;/li&gt;&lt;li&gt;Familiarity with Oracle analytics, performance tuning, and administration&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Education:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;At minimum a bachelors degree in Engineering, Computer/Data Science, or a quantitative discipline&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;*****REMOTE UNTIL FURTHER NOTICE*****&lt;/p&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-29T18:18:53.000Z"
+  },
+  "company": {
+    "name": "Mitchell Martin Inc.",
+    "link": "https://www.linkedin.com/company/mitchell-martin"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Data Scientist"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Charlotte Metro",
+    "region": null,
+    "postal_code": "28209",
+    "street_address": null,
+    "latitude": 35.225204,
+    "longitude": -80.83933
+  }
+}

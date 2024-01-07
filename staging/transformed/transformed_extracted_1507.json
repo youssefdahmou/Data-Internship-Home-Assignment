@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "&lt;p&gt;&lt;strong&gt;Title:&amp;nbsp;Software Engineer- Wallets team&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Location: Remote&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Duration: PERM&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Job Description:&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;What you'll work on:&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Design and develop resilient and scalable solutions that receive, custody, and broadcast digital assets for millions of users across all major blockchain networks&lt;/li&gt;&lt;li&gt;Work on critical, high-value software for the client crypto currency exchange&lt;/li&gt;&lt;li&gt;Solve complex problems unique to the crypto currency space that use applied cryptography and strict security protocols&lt;/li&gt;&lt;li&gt;Work with modern, state-of-the-art software development, including CI/CD, infrastructure as code, containers, and microservices architecture&lt;/li&gt;&lt;li&gt;Work with a diverse set of languages and frameworks, including Java microservices, TypeScript, Python, a suite of AWS services, and various databases&lt;/li&gt;&lt;li&gt;Mentor and train other engineers using your expertise in software development&lt;/li&gt;&lt;li&gt;Be an integral member of an agile software engineering team using SCRUM methodology&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;What you'll bring:&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;5+ years designing software and coding professionally&lt;/li&gt;&lt;li&gt;Computer Science degree preferred&lt;/li&gt;&lt;li&gt;An interest in the blockchain and cryptocurrency space&lt;/li&gt;&lt;li&gt;Proficient with Java&lt;/li&gt;&lt;li&gt;Proficient with a scripting language such as Python, Nodejs and/or PHP&lt;/li&gt;&lt;li&gt;Comfortable and proficient in a Linux terminal is required&lt;/li&gt;&lt;li&gt;Experience building and testing microservices with REST, preferably in Java&lt;/li&gt;&lt;li&gt;Capable of taking a new feature from the software design stage, through the development process, and ship it to production&lt;/li&gt;&lt;li&gt;Broad knowledge of SQL and relational database design&lt;/li&gt;&lt;li&gt;Some knowledge of the mechanics of applied cryptography including hashing, randomization, public-key encryption, symmetric encryption, and elliptic curves&lt;/li&gt;&lt;li&gt;An eye for detail&lt;/li&gt;&lt;li&gt;Strong communication skills with the ability to explain complex problems and concepts to people of all levels of expertise&lt;/li&gt;&lt;li&gt;A passion for learning and sharing what you learn&lt;/li&gt;&lt;li&gt;Comfort and experience shifting gears quickly, learning on the fly, and working on an evolving product without having all of the answers&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T14:09:26.000Z"
+  },
+  "company": {
+    "name": "Denken Solutions, Inc",
+    "link": "https://www.linkedin.com/company/denkensolutions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Software Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

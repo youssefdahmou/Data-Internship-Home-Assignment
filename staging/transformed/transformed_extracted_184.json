@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Computer Software",
+    "description": "&lt;u&gt;&lt;strong&gt;Job Responsibilities:&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;/u&gt;Data science is in GAINSystems\u2019 DNA. Our founder was an industrial engineering professor, and we remain a company of data-driven analysts and engineers. Although your daily tasks will vary, you will have the following responsibilities:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Lead research and data science projects that convert models into operational value&lt;/li&gt;&lt;li&gt;Work with our professional services team to identify viable, valuable data-driven projects&lt;/li&gt;&lt;li&gt;Deliver fully functional, tested product prototypes&lt;/li&gt;&lt;li&gt;Collaborate with product managers and engineers to define the product and technical roadmaps&lt;/li&gt;&lt;li&gt;Contribute to extending our machine learning infrastructure&lt;/li&gt;&lt;li&gt;You will have the opportunity, though not necessarily the responsibility, to independently identify research projects&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;u&gt;&lt;strong&gt;Candidate Requirements:&lt;br&gt;&lt;/strong&gt;&lt;/u&gt;&lt;ul&gt;&lt;li&gt;Intellectual curiosity to explore questions answerable with data.&lt;/li&gt;&lt;li&gt;Passion for experimentation.&lt;/li&gt;&lt;li&gt;Commitment to delivering data-driven results.&lt;/li&gt;&lt;li&gt;Strong statistical, computational, and mathematical foundations.&lt;/li&gt;&lt;li&gt;Excellent communication (verbal and written) skills, and ability to collaborate with teammates with heterogeneous technical/quantitative backgrounds.&lt;/li&gt;&lt;li&gt;Bachelor\u2019s and graduate degrees in a quantitative field.&lt;/li&gt;&lt;li&gt;Academic or industrial experience with data science and/or machine learning.&lt;/li&gt;&lt;li&gt;Demonstrated experience with data-driven research.&lt;/li&gt;&lt;li&gt;Fluent in SQL, and Python or R.&lt;/li&gt;&lt;li&gt;NLP, reinforcement learning, and/or GAN experienced desired.&lt;/li&gt;&lt;li&gt;Java and graph DB familiarity preferred, but not required.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;At GAINSystems, we recognize that diversity and inclusion make our teams stronger. We are committed to equal employment opportunity and welcome everyone regardless of race, color, ancestry, religion, national origin, age, sex, gender identity, sexual orientation, disability, marital status, domestic partner status, veteran status or medical condition. We encourage people from all backgrounds to apply.&lt;br&gt;&lt;br&gt;Powered by JazzHR&lt;br&gt;&lt;br&gt;hCPyowIzLO",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-10T08:21:03.000Z"
+  },
+  "company": {
+    "name": "GAINSystems, Inc.",
+    "link": "https://www.linkedin.com/company/gainsystems"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Data Scientist"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

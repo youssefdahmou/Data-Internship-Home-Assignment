@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Internet,Marketing and Advertising",
+    "description": "&lt;strong&gt;&lt;u&gt;About Us&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;em&gt;Realtor.com&lt;/em&gt;&lt;em&gt;\u00ae, a leading online destination for real estate services, has acquired Avail. This role will align with the Avail team, the newest addition to the &lt;/em&gt;&lt;em&gt;realtor.com\u00ae&lt;/em&gt;&lt;em&gt; network. Avail offers a software platform with a complete set of tools, guidance, and best in class educational content providing landlords with everything they need to be confident and professional.&lt;br&gt;&lt;br&gt;&lt;/em&gt;&lt;strong&gt;The Role&lt;br&gt;&lt;/strong&gt;At &lt;strong&gt;Avail (Part of The Realtor.com Network)&lt;/strong&gt; we are looking for a production support software engineer that loves to solve problems and has a passion for full stack web development. Avail is counted on by landlords and tenants around the country and as a production support engineer you will be making an immediate impact by improving the overall experience of our users. In your role you'll be tasked with solving critical customer problems by assisting with customer support technical escalations and working with our QA team to identify, triage, and fix the root cause of any reported bug.&lt;br&gt;&lt;br&gt;&lt;strong&gt;What will you do?&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;strong&gt;&lt;u&gt;Responsibilities&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt; &lt;li&gt;Work with our Customer Support team to solve customer questions or issues that are escalated to the \"tech team\"&lt;/li&gt; &lt;li&gt;Work with QA and Product team members to scope and implement solutions that fix the symptoms and the root causes of application issues&lt;/li&gt; &lt;li&gt;Communicate clearly and with Customer Support to provide frequent updates on any issues impacting end users&lt;/li&gt; &lt;li&gt;Work with our QA team lead to build out our production support processes as we scale the team and user base&lt;/li&gt; &lt;li&gt;Continually look for opportunities to better instrument our application to improve debugging and production support abilities&lt;/li&gt; &lt;li&gt;Work with Engineering team stakeholders to monitor application health through defined KPIs&lt;/li&gt; &lt;br&gt;&lt;br&gt;&lt;/ul&gt;&lt;strong&gt;What will you bring?&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;strong&gt;&lt;u&gt;Requirements&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt; &lt;li&gt;2+ years of software engineering experience&lt;/li&gt; &lt;li&gt;1+ years of experience in at least one of the following: Ruby, Rails, JavaScript, React&lt;/li&gt; &lt;li&gt;Strong knowledge of relational database architectures like Postgresql&lt;/li&gt; &lt;li&gt;Strong written and verbal communication skills&lt;/li&gt; &lt;li&gt;Positive attitude, intellectual curiosity, and strong work ethic&lt;/li&gt; &lt;br&gt;&lt;br&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Nice To Haves&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt; &lt;li&gt;Full stack development experience&lt;/li&gt; &lt;li&gt;Previous experience in a production support engineering capacity&lt;/li&gt; &lt;br&gt;&lt;/ul&gt;&lt;em&gt;This is a full-time position that we prefer to be based in any one of NewsCorp's office locations (Chicago, NY, Santa Clara, LA, Austin, etc). Fully remote/virtual will be considered for the right candidate.&lt;br&gt;&lt;br&gt;&lt;/em&gt;&lt;strong&gt;&lt;u&gt;About Realtor.com&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;At realtor.com\u00ae, we believe that everyone deserves a home of their own. We\u2019re a community of nearly 2,000 employees that work hard to ensure that from the moment someone starts dreaming about a new home, to the moment they walk in the door and beyond, we\u2019re there to lend a helping hand. Every month, 70 million people trust us with their journey home by visiting our site and mobile apps, and we\u2019d love to have you join our team to help.&lt;br&gt;&lt;br&gt;We\u2019ve got great offices across Canada and the US and lots of sweet jobs to choose from, so we\u2019re hoping you\u2019ll join us on our journey to make home buying and selling easier, and more rewarding for everyone.&lt;br&gt;&lt;br&gt;Let\u2019s make a difference, together. For Real.&lt;br&gt;&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T05:29:06.000Z"
+  },
+  "company": {
+    "name": "Realtor.com",
+    "link": "https://www.linkedin.com/company/realtor-com"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": "Software Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "Biotechnology,Hospital &amp; Health Care,Electrical/Electronic Manufacturing",
+    "description": "&lt;p&gt;&lt;strong&gt;Employer&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Our Client is an innovative, value-driven, venture capital-backed biotechnology firm that is pioneering a transformative platform to manufacture cell-based therapies.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This is a full-time, permanent position working for our client. Our client is an essential and stable business based out of the Greater Boston area. We are seeking a Senior Software Engineer for our client to create interfaces between lab automation systems, instruments, and cloud-based experiment management &amp;amp; data infrastructure. You will also develop cloud-based data storage, retrieval, and processing pipelines. Collaborate with existing Engineers and Scientists to execute automating biological experimentation and analysis.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Experience with Python (5+ years)&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Database Experience: SQL and NoSQL&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Experience in Schema design, migration, Object-Relational Mapping&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Knowledge of cloud-based computing and storage infrastructure&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Experience in Restructuring code, Application security, CI/CD&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Excellent communication skills&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Live in the Greater Boston area or be willing to self-relocate&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Must be a Citizen of the US or legal resident of the US&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Google Cloud Platform Experience (&lt;em&gt;Nice to have Qualification&lt;/em&gt;)&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Software deployment through Kubernetes (&lt;em&gt;Nice to have Qualification&lt;/em&gt;)&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;REST API design and development (&lt;em&gt;Nice to have Qualification)&lt;/em&gt;&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Background knowledge in Lab automation, Bioinformatics (&lt;em&gt;Nice to have Qualification&lt;/em&gt;)&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;At Qerala, at the heart of our talent acquisition process, profoundly understanding the talent and the organization using science is crucial for an employer-employee relationship. A strange concept: using science for talent acquisition, for industries in science. This core tenet is what Qerala brings to the talent acquisition world. We recognize that there is no foolproof way of recruiting, but having more data that speaks to the heart of employee-employer values can be the difference in what you're experiencing today. We believe getting the right people in the right roles in support of your goals is the most important factor to your business success.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;This is with a client of Qerala Group LLC. This is a full-time, permanent position. Qerala Group LLC is the search firm retained on their behalf.&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-11T23:08:14.000Z"
+  },
+  "company": {
+    "name": "Qerala",
+    "link": "https://www.linkedin.com/company/qerala"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Senior Software Engineer"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 125000,
+    "max_value": 165000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cambridge",
+    "region": "MA",
+    "postal_code": "02239",
+    "street_address": null,
+    "latitude": 42.36525,
+    "longitude": -71.10502
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services",
+    "description": "&lt;p&gt;\u2022 Knowledge of at least one of the programming languages like SQL, Python, R, and Scala&lt;/p&gt;&lt;p&gt;\u2022 Familiarity with business intelligence tools (e.g., Tableau)&lt;/p&gt;&lt;p&gt;\u2022 Strong mathematics skills (e.g., statistics, algebra)&lt;/p&gt;&lt;p&gt;\u2022 Experience with big data technologies such as Hadoop and Spark&lt;/p&gt;&lt;p&gt;\u2022 Advanced ability to perform exploratory data analysis&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;\u2022 Collecting Service data through means such as analyzing current sources or by setting up and managing new studies&lt;/p&gt;&lt;p&gt;\u2022 Transferring data into a new format to make it more appropriate for analysis&lt;/p&gt;&lt;p&gt;\u2022 Creating new, experimental frameworks to collect Service data&lt;/p&gt;&lt;p&gt;\u2022 Building tools to automate data collection&lt;/p&gt;&lt;p&gt;\u2022 Searching through large data sets for usable information&lt;/p&gt;&lt;p&gt;\u2022 Creating reports and presentations for business uses&lt;/p&gt;&lt;p&gt;\u2022 Correlating similar data, identify patterns and trends in data sets to find actionable results.&lt;/p&gt;&lt;p&gt;\u2022 Understanding the business problems and analyzing the data by using appropriate Statistical models to generate insights&lt;/p&gt;&lt;p&gt;\u2022 Application of various machine learning algorithms and statistical Modeling like decision trees, text analytics, natural language processing (NLP), supervised and unsupervised, regression models, deep learning and clustering.&lt;/p&gt;&lt;p&gt;\u2022 Use Machine learning along with real-time usage and performance data to optimize product performance, quality and reliability&lt;/p&gt;&lt;p&gt;Create digital twins using 3D software and run simulations to measure product reliability in varying conditions to enable enhanced service design and predictive maintenance.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-19T20:39:12.000Z"
+  },
+  "company": {
+    "name": "L&amp;T Technology Services Limited",
+    "link": "https://in.linkedin.com/company/l&amp;t-technology-services-limited"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Data Scientist"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Marlborough",
+    "region": "MA",
+    "postal_code": "01752",
+    "street_address": null,
+    "latitude": 42.346947,
+    "longitude": -71.54718
+  }
+}

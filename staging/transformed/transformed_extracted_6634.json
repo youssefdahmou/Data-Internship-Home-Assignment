@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Payments",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "Hulu is looking for a hardworking and motivated Software Engineer to join the Payment team.&lt;br&gt;&lt;br&gt;This team handles the payments of millions of customers and is responsible for integrating with different payment processors. This payment engine is our multi-tenant system which handles the payment processing for Disney+, ESPN+, Hulu and Star. We lead a set of Tier 1 services which are needed to be highly available, scalable and resilient.&lt;br&gt;&lt;br&gt;As a fast paced and a fast-growing team, you will also have an opportunity to learn about the international landscape and challenges in the area of payments as we keep rapidly growing our streaming services around the world over the next few years.&lt;br&gt;&lt;br&gt;What you'll do&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Develop scalable REST APIs &lt;/li&gt;&lt;li&gt;Build asynchronous payment flows using AWS native technologies &lt;/li&gt;&lt;li&gt;Work closely with senior engineers in the team &lt;/li&gt;&lt;li&gt;Write extensive unit tests to build and increase test coverage on critical services &lt;/li&gt;&lt;li&gt;Build robust and scalable micro-services that integrate with Hulu's core services and provide a full billing integration &lt;/li&gt;&lt;li&gt;Challenge our team and software to be even better&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;What to bring&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;BS or MS in Computer Science or equivalent work experience &lt;/li&gt;&lt;li&gt;1+ years of relevant software engineering experience &lt;/li&gt;&lt;li&gt;Proficiency with at least one of the following languages: Java, Scala, or Kotlin &lt;/li&gt;&lt;li&gt;Experience with Agile methodologies &lt;/li&gt;&lt;li&gt;Excellent communication, collaboration skills and a strong teamwork ethic &lt;/li&gt;&lt;li&gt;The ability to jump into a project and contribute immediately &lt;/li&gt;&lt;li&gt;Strive for excellence and strong analytical skills&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;Nice-to-haves&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Experience with non-relational database technologies (MongoDB, Cassandra, DynamoDB)&lt;/li&gt;&lt;li&gt;AWS&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;#OE-L1 oKtIgfwV",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-26T12:47:48.000Z"
+  },
+  "company": {
+    "name": "Hulu",
+    "link": "https://www.linkedin.com/company/hulu"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": "Software Engineer, Payments"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Santa Monica",
+    "region": "CA",
+    "postal_code": "90403",
+    "street_address": null,
+    "latitude": 34.010933,
+    "longitude": -118.491516
+  }
+}

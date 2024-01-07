@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (L2)",
+    "industry": "Staffing and Recruiting",
+    "description": "&lt;p&gt;ShortList Austin are working with a rapidly expanding Tech company that are looking to hire a Site Reliability Engineer (L2).&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Responsibilities&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Design, Build, Evolve and Operate SRE-owned services for the team.&lt;/li&gt;&lt;li&gt;Provide L2 support for Engineering and Development teams.&lt;/li&gt;&lt;li&gt;Offer improvements to existing service with the aim to provide self-service to customers.&lt;/li&gt;&lt;li&gt;Collaborate with Tech Leads on designs and advise on implementation.&lt;/li&gt;&lt;li&gt;Lower support/toil tasks utilizing automation.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;The Ideal candidate&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Produces clear designs and communicates them clearly to consumers.&lt;/li&gt;&lt;li&gt;Produces designs that improve performance/reliability.&lt;/li&gt;&lt;li&gt;Releases are automated, pass through CI/CD and SDLC and contain unit tests for critical components and performance thresholds.&lt;/li&gt;&lt;li&gt;Refactors critical production services with regular cadence, improving MTBI and MTTR.&lt;/li&gt;&lt;li&gt;Provides real-time visibility for the health of production services.&lt;/li&gt;&lt;li&gt;Standardizes use cases generating less measurable issues with releases.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;The Ideal person&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Results orientated.&lt;/li&gt;&lt;li&gt;Excellent attention to detail.&lt;/li&gt;&lt;li&gt;Able to prioritize effectively.&lt;/li&gt;&lt;li&gt;Able to communicate with Technical/non-technical people.&lt;/li&gt;&lt;li&gt;Able to escalate effectively when working on solutions.&lt;/li&gt;&lt;li&gt;Strong experience with distributed systems.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;100% remote working available.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;If this is a challenge you are interested in, hit APPLY NOW for immediate consideration.&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T13:07:57.000Z"
+  },
+  "company": {
+    "name": "ShortList Recruitment Limited",
+    "link": "https://uk.linkedin.com/company/shortlist-recruitment-limited"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Site Reliability Engineer (L2)"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 100000,
+    "max_value": 100000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Cloud DevOps Engineer",
+    "industry": "Computer &amp; Network Security",
+    "description": "&lt;p&gt;The&lt;strong&gt; Cloud DevOps&amp;nbsp;Engineer&lt;/strong&gt;&amp;nbsp;will be working with the engineering team and focusing on AWS/Azure/GCP/OCI infrastructure and automation.&amp;nbsp;A key part of the role is championing and leading infrastructure as code. The other major role is developing and maintaining the Python scripts to support the automation jobs.&amp;nbsp;The Engineer will work closely with Dev/QA team to support our SaaS product base upon the public cloud platform.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Duties &amp;amp; Responsibilities:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Design cloud infrastructure that is secure, scalable, and highly available on AWS&lt;/li&gt;&lt;li&gt;Work collaboratively with software engineering to define infrastructure and deployment requirements&lt;/li&gt;&lt;li&gt;Provision, configure and maintain AWS/Azure/GCP/OCI cloud infrastructure defined as code&lt;/li&gt;&lt;li&gt;Ensure configuration and compliance with configuration management tools&lt;/li&gt;&lt;li&gt;Administer and troubleshoot Linux based systems&lt;/li&gt;&lt;li&gt;Troubleshoot problems across a wide array of services and functional areas&lt;/li&gt;&lt;li&gt;Build and maintain operational tools for deployment, monitoring, and analysis of AWS/Azure/GCP/OCI infrastructure and systems&lt;/li&gt;&lt;li&gt;Develop and maintain the infrastructure-related Python tools.&lt;/li&gt;&lt;li&gt;Work with developers to develop business-level Python tools. &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Qualifications:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;At least 3-5 years of experience building and maintaining AWS infrastructure (VPC, EC2, Security Groups, IAM, ECS, CodeDeploy, CloudFront, S3)&lt;/li&gt;&lt;li&gt;Strong understanding of how to secure AWS environments and meet compliance requirements&lt;/li&gt;&lt;li&gt;Hands-on experience deploying and managing infrastructure with Terraform&lt;/li&gt;&lt;li&gt;Hands-on experience developing with Python.&lt;/li&gt;&lt;li&gt;Solid foundation of networking and Linux administration&lt;/li&gt;&lt;li&gt;Experience with Docker, GitHub, Jenkins, ELK and&amp;nbsp;deploying applications on AWS&lt;/li&gt;&lt;li&gt;Ability to learn/use a wide variety of open source technologies and tools&lt;/li&gt;&lt;li&gt;Strong bias for action and ownership&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-07T00:01:32.000Z"
+  },
+  "company": {
+    "name": "Fortinet",
+    "link": "https://www.linkedin.com/company/fortinet"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": "Cloud DevOps Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Sunnyvale",
+    "region": "CA",
+    "postal_code": "94089",
+    "street_address": null,
+    "latitude": 37.373676,
+    "longitude": -122.036575
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "1.Should be good in React &amp; Angular&lt;br&gt;2. Should have good experience in Azure blob, servicebus, queue, app service, function apps&lt;br&gt;3. Should be good at .Net , C# coding&lt;br&gt;4. Full stack developer &lt;br&gt;5. 5-10 years of SDE experience&lt;br&gt;&lt;br&gt;- 18 Month Contract with Microsoft&lt;br&gt;- PTO Included&lt;br&gt;- Health Insurance Available &lt;br&gt;&lt;br&gt;What makes this role interesting- E-commerce continues to be one of the fastest growing and exciting areas of technology in both Consumer and Commercial channels. The Cloud &amp; Enterprise Omnichannel team owns delivery of highly-scalable services to enable the sale and fulfillment of 1st and 3rd party hardware and devices through digital and physical storefronts, as well as the connection to 3rd party retailers. Our vision is to deliver radical customer delight at high margins for hardware through manufacturing agility, fulfillment flexibility, and world class device care. We are looking for senior developers to help us modernize customer device experiences after purchase. You will work on initiatives across device lifecycle management, expansion of the device repair ecosystem, developing new device value added services, device subscription models, and other Reverse Logistics/Care capabilities.&lt;br&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-16T18:10:49.000Z"
+  },
+  "company": {
+    "name": "TEKsystems",
+    "link": "https://www.linkedin.com/company/teksystems"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Software Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greater Seattle Area",
+    "region": null,
+    "postal_code": "98109",
+    "street_address": null,
+    "latitude": 47.591396,
+    "longitude": -122.33279
+  }
+}

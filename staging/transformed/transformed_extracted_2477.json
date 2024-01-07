@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Management Consulting,Computer Software",
+    "description": "&lt;p&gt;A Houston based Consultancy are looking to add a Data Scientist to their experience team. The Consultancy are focused towards AI/Data Science and work closely with a range of clients across industries.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Analyze raw data: assessing quality, cleansing, structuring for downstream processing&lt;/li&gt;&lt;li&gt;Design accurate and scalable prediction algorithms&lt;/li&gt;&lt;li&gt;Collaborate with engineering team to bring analytical prototypes to production&lt;/li&gt;&lt;li&gt;Generate actionable insights for business improvements&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bachelor's degree or equivalent experience in quantative field (Statistics, Mathematics, Computer Science, Engineering, etc.)&lt;/li&gt;&lt;li&gt;At least 2+ years' of experience in quantitative analytics or data modeling&lt;/li&gt;&lt;li&gt;Deep understanding of predictive modeling, machine-learning, clustering and classification techniques, and algorithms&lt;/li&gt;&lt;li&gt;Fluency in a programming language (Python, C,C++, Java, SQL)&lt;/li&gt;&lt;li&gt;Familiarity with Big Data frameworks and visualization tools (Cassandra, Hadoop, Spark, Tableau)&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T10:20:59.000Z"
+  },
+  "company": {
+    "name": "X4 Technology ",
+    "link": "https://uk.linkedin.com/company/x4-technology"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": "Data Scientist"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 120000,
+    "max_value": 160000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Houston",
+    "region": "TX",
+    "postal_code": "77208",
+    "street_address": null,
+    "latitude": 29.760803,
+    "longitude": -95.36951
+  }
+}

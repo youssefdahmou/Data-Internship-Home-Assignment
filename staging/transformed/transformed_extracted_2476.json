@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Hospital &amp; Health Care",
+    "description": "&lt;p&gt;&lt;strong&gt;Contract:&amp;nbsp;&lt;/strong&gt;6 Month Contract-to-Hire&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Remote:&amp;nbsp;&lt;/strong&gt;100% Remote&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Interview Process&lt;/strong&gt;: 30 min video interview/ then 1 hour video interview&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;This will be a 6-month contract with FTE conversion. This is a 100% remote role, where you will be working on an exciting, cutting-edge team.&amp;nbsp;This position develops efficient and scalable data science systems that enable integration of machine learning (ML) applications into healthcare operations, strategy, value improvement, care advancement, patient safety and satisfaction.&amp;nbsp;This position will partner with data scientists, application developers, data architects, and system engineers to recommend and develop ML systems and pipelines.&amp;nbsp;This position will be responsible for learning, recommending, and implementing cutting edge machine learning methodologies and tools in creative and novel ways.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Qualifications Needed:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;CI / CD Experience&lt;/li&gt;&lt;li&gt;Data Engineering experience (full project life cycle, deployment to production)&lt;/li&gt;&lt;li&gt;Data science exposure&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-04T15:28:32.000Z"
+  },
+  "company": {
+    "name": "Medasource",
+    "link": "https://www.linkedin.com/company/medasource"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Machine Learning Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

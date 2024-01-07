@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Medical Devices",
+    "description": "&lt;p&gt;&lt;strong&gt;&lt;u&gt;Job Summary:&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;We are looking for a Data Scientist responsible for maintaining fast growing datasets, developing custom data models, and extracting actionable insights to make Cercacor products more delightful and intuitive for customers.&amp;nbsp;This position works in close collaboration with cross functional teams to influence product innovation.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Duties &amp;amp; Responsibilities:&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Build and expand machine learning models using NLP, classification, Neural Networks, etc. &lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Work with Engineers to integrate data from multiple sources and develop predictive algorithms.&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Extract actionable insights from complex data sets and report insights via internal dashboards and visualization to Product teams for roadmap and feature decisions.&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Review latest research papers and trends in the field of Artificial Intelligence and update team with new technologies.&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Communicate findings and new trends with company leadership.&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Conduct exploratory analysis and develop statistical models to answer key product usage and engagement questions. &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Help Product and Marketing teams use experimentation and cohorting to test assumptions and launch new marketing campaigns, features and product releases. &lt;/li&gt;&lt;li&gt;Partner with Product teams to define and benchmark metrics for new features launches and initiatives and help create a culture of measurement.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Minimum Qualifications and Experience:&amp;nbsp;&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Master\u2019s degree or higher in computer science, statistics, electrical engineering or other related fields.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Proficiency in using Matlab, and Python.&lt;/li&gt;&lt;li&gt;Proficiency in using data science toolkits such as Keras, Tensorflow, PyTorch, etc.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Practical experience in time series analysis and sequential modeling. &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Prior experience developing machine learning approaches for modeling and predicting user behaviors.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Prior experience building NLP pipelines for chatbots in a limited training data environment.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Prior experience building REST APIs and interfacing applications with other 3rd party APIs.&lt;/li&gt;&lt;li&gt;Ability to work independently and with moderate supervision.&lt;/li&gt;&lt;li&gt;Exceptional organizational skills and problem-solving ability.&lt;/li&gt;&lt;li&gt;Good communication skills, both verbal and written.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Desired Qualifications:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Experience developing advanced prediction models with large dataset.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T15:39:49.000Z"
+  },
+  "company": {
+    "name": "Cercacor Laboratories, Inc.",
+    "link": "https://www.linkedin.com/company/cercacor-laboratories-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Data Scientist"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Irvine",
+    "region": "CA",
+    "postal_code": "92717",
+    "street_address": null,
+    "latitude": 33.68591,
+    "longitude": -117.82472
+  }
+}

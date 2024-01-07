@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Informationsdienste",
+    "description": "&lt;p&gt;Machine Learning Engineer / Remote &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Do want to be part one of the most innovative Machine Learning teams at an internationally leading technology company?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Yes? Read on. . .&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;This enterprise generates over 6 billion Euros annually and operates in niche areas within Computer Vision, Machine Learning, and Optical Technology.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;In this role, you'll work alongside the best. Driving the algorithmic development of cutting edge digital products, in a diverse team of scientists and researchers. &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;You'll also have freedom to design new visions and prototypes for a varied consumer products roadmap. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;To be a good fit, you\u2019ll need:&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Extensive experience with applied machine leaning research, preferably computational imaging.&lt;/li&gt;&lt;li&gt;Proficiency in Python TensorFlow, and PyTorch.&lt;/li&gt;&lt;li&gt;A great knowledge of image/video processing (Neural style transfer. Image fusion) &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;This is great opportunity to work in a highly collaborative environment,&amp;nbsp;In a spacious modern setting, with lots of opportunities for further development.&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T13:57:12.000Z"
+  },
+  "company": {
+    "name": "Big Cloud",
+    "link": "https://uk.linkedin.com/company/big-cloud"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Machine Learning Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "DE",
+    "locality": "M\u00fcnchen",
+    "region": null,
+    "postal_code": "81929",
+    "street_address": null,
+    "latitude": 48.139126,
+    "longitude": 11.580219
+  }
+}

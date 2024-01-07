@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Silicon Validation Software Engineer: DevOps/Automation Engineer",
+    "industry": "Consumer Electronics",
+    "description": "&lt;br&gt;&lt;strong&gt;Summary&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Imagine what you could do here! At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish. Dynamic, smart people and inspiring, innovative technologies are the norm here. The people who work here have reinvented entire industries with all Apple Hardware products. The same passion for innovation that goes into our products also applies to our practices strengthening our commitment to leave the world better than we found it. Join us to help deliver the next groundbreaking Apple product.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;We are a small DevOps team providing continuous build and integration services for the Silicon Validation Software department. We are the bridge between software engineering and silicon validation platforms which is critical to delivering high quality Apple Silicon for the majority of Apple's new products.&lt;br&gt;&lt;br&gt;&lt;br&gt;You will perform work associated with developing and supporting release tooling and infrastructure that serves hundreds of Apple engineers. Your success here has a direct impact on products used by billions of users!&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Key Qualifications&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Experience with Unix / Linux&lt;br&gt;&lt;br&gt;Experience with Git and code review tools&lt;br&gt;&lt;br&gt;Experience with Java/Groovy or Python&lt;br&gt;&lt;br&gt;Extremely organized and detail oriented&lt;br&gt;&lt;br&gt;Data visualization&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Description&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Our work includes solving problems and developing tools supporting services such as Jenkins, Gerrit, SaltStack, Grafana, Influx, and VMWare.&lt;br&gt;&lt;br&gt;&lt;br&gt;You will work with other teams to understand their needs in order to implement optimal solutions.  This will require independent problem solving and collaborating with other teams to adjust our tools to their requirements.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Education &amp;amp; Experience&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Bachelor\u2019s degree in Computer Science or relevant industry experience.&lt;br&gt;&lt;br&gt; &lt;br&gt;Role Number: 200256555&lt;br&gt;&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:34:15.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Silicon Validation Software Engineer: DevOps/Automation Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

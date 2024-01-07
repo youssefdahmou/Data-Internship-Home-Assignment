@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services",
+    "description": "&lt;p&gt;Title: Software Developer (Machine Learning)&lt;/p&gt;&lt;p&gt;Location: 100% Remote&lt;/p&gt;&lt;p&gt;Type: Contract&lt;/p&gt;&lt;p&gt;Duration: 6 Months&lt;/p&gt;&lt;p&gt;Experience: 5+ years&lt;/p&gt;&lt;p&gt;&lt;u&gt;Duties&lt;/u&gt;:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Work alongside data science team to get output ready for engineering consumption (building APIs, optimizing performance, etc.)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;u&gt;Requirements&lt;/u&gt;:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Experience working with .NET Core, .NET&lt;/li&gt;&lt;li&gt;R Programming language a plus&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;NRC is committed to providing our consultants with a better experience. &lt;/strong&gt;We invest in relationships to better understand your career goals and aspirations. Through our Educate and Connect initiative, we offer multiple professional growth and thought leadership opportunities, including a comprehensive Consultant Education Reimbursement program of up to $2,000 annually for most roles, and actively connect you with our technical and charitable communities. Our efforts are acknowledged through our continued recognition as a &lt;em&gt;Best Places to Work&lt;/em&gt;, &lt;em&gt;Top Workplaces&lt;/em&gt;, and &lt;em&gt;Best and Brightest&lt;/em&gt; award winner. is governed by our core values: Accountable, Passionate, Respectful, Innovative, and Collaborative. These fundamentals guide our business practices, our employment standards, and our continued willingness to give back. We encourage you to join the NRC family!&lt;/p&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-31T19:31:38.000Z"
+  },
+  "company": {
+    "name": "New Resources Consulting",
+    "link": "https://www.linkedin.com/company/new-resources-consulting"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Machine Learning Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Milwaukee",
+    "region": "WI",
+    "postal_code": "53215",
+    "street_address": null,
+    "latitude": 43.041073,
+    "longitude": -87.909424
+  }
+}

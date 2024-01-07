@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Staffing and Recruiting",
+    "description": "&lt;p&gt;We at neteffects are looking for a motivated &lt;strong&gt;Data Scientist&lt;/strong&gt; for our direct client.&lt;/p&gt;&lt;p&gt;No C2C but Neteffects sponsor work visas. This is a Remote position.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Required Skills:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; \u2022 Ph.D. (or MS with 4+ years of post MS experience) in Statistics, Geo-statistics, Mathematics or closely related field.&lt;/p&gt;&lt;p&gt; \u2022 2 years of experience in using machine learning, artificial intelligence &amp;amp; statistical methodologies to solve research problems.&lt;/p&gt;&lt;p&gt; \u2022 Proficiency in Python or in another high-level programming language.&lt;/p&gt;&lt;p&gt; \u2022 Experience in developing statistical, and machine learning models for environmental and agronomical applications.&lt;/p&gt;&lt;p&gt; \u2022 Experience analyzing and presenting complex data and proven problem-solving abilities.&lt;/p&gt;&lt;p&gt; \u2022 Strong organizational, interpersonal, and written communication skills.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt; &lt;strong&gt;Desired Skills:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; \u2022 Experience working with agricultural/biological scientific data is highly desired.&lt;/p&gt;&lt;p&gt; \u2022 Experience working with various environmental data and categorizing environmental variabilities using geospatial model and approach is highly desired.&lt;/p&gt;&lt;p&gt; \u2022 Familiarity with geospatial data and tools and techniques required to explore geospatial data is highly desired.&lt;/p&gt;&lt;p&gt; \u2022 Familiarity with deep learning architectures and techniques as well as constructing and evaluating these models.&lt;/p&gt;&lt;p&gt; \u2022 Drive for translating business problems into research initiatives that deliver business value.&lt;/p&gt;&lt;p&gt; \u2022 Creativity in defining challenging exploratory projects.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-31T22:56:06.000Z"
+  },
+  "company": {
+    "name": "neteffects",
+    "link": "https://www.linkedin.com/company/neteffects"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": "Data Scientist"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

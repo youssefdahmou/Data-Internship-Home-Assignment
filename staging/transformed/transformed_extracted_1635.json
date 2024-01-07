@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist.",
+    "industry": "Hospital &amp; Health Care,Medical Devices,Pharmaceuticals",
+    "description": "Janssen Pharmaceuticals, Inc., a member of Johnson &amp;amp; Johnson's Family of Companies, is recruiting for a Data Scientist in Janssen Business Technology located in Titusville, NJ, Raritan, NJ or Horsham, PA.&lt;br&gt;&lt;br&gt;At the Janssen Pharmaceutical Companies of Johnson &amp;amp; Johnson, what matters most is helping people live full and healthy lives. We focus on treating, curing and preventing some of the most devastating and complex diseases of our time. And we pursue the most promising science, wherever it might be found.&lt;br&gt;&lt;br&gt;The Janssen Pharmaceutical Companies of Johnson &amp;amp; Johnson provide medicines for an array of health concerns in several therapeutic areas. Our ultimate goal is to help people live healthy lives. We have produced and marketed many first-in-class prescription medications and are poised to serve the broad needs of the healthcare market - from patients to practitioners, from clinics to hospitals. For more about the Pharmaceutical Companies of Johnson &amp;amp; Johnson, visit: http://www.janssenpharmaceuticalsinc.com/.&lt;br&gt;&lt;br&gt;We are Janssen. Our mission drives us. Our patients inspire us. We collaborate with the world for the health of everyone in it.&lt;br&gt;&lt;br&gt;The Commercial Data Sciences &amp;amp; Data Management team within Janssen Pharmaceuticals Business Technology organization is looking for an extraordinary scientist who is passionate about crafting, developing, and fielding data science solutions that drive impact for patients and for Janssen. There are many ways to explore and analyze data, and this powers the excitement and passion of data scientists at Janssen as many business units are eager to use the data to build business value.&lt;br&gt;&lt;br&gt;In this role you will be someone who stays on the cutting edge of artificial intelligence, data science and advanced analytics research through novel project execution and development of algorithms that influence decisions at various levels in the organization, including but not limited to omnichannel sales and marketing optimization, patient/payer analytics, and related commercially-focused model development. The role requires both a broad knowledge of existing AI-type algorithms and the creativity to invent and customize when necessary. You will partner with matrixed teams to deliver projects and develop solutions that in turn deliver insights. You will be part of a dynamic, accomplished organization that will support multiple therapeutic areas and commercial functions.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Qualifications&lt;br&gt;&lt;/strong&gt;&lt;ul&gt; &lt;li&gt;Ph.D. with 0-2 years of experience, or M.S. with 3+ years of relevant pharma sales &amp;amp; marketing experience, in Computer Sciences, Statistics, Machine Learning &amp;amp; Artificial Intelligence, Physics, Molecular Biology, Bioinformatics, Computational Informatics, Medical Informatics, Computational Biology or a related discipline.&lt;/li&gt; &lt;li&gt;Strong working knowledge of machine learning platforms/environments.&lt;/li&gt; &lt;li&gt;Strong working knowledge of AI-type algorithms, including machine learning techniques such as regression, decision trees, probability networks, association rules, clustering, neural networks, and/or Bayesian models.&lt;/li&gt; &lt;li&gt;Familiarity with large datasets, handling of healthcare relevant datasets and understanding of data analysis workflows.&lt;/li&gt; &lt;li&gt;Proficient with one or more programming language such as Python, R, SAS or Java.&lt;/li&gt; &lt;li&gt;Experience delivering on data science projects using predictive technologies, data mining and/or text mining.&lt;/li&gt; &lt;li&gt;Familiarity with working in a cloud-based technology stack.&lt;/li&gt; &lt;li&gt;Strong communication skills.&lt;/li&gt; &lt;li&gt;This position can be based in one of our following locations: Titusville, NJ, Raritan, NJ, or Horsham, PA.&lt;/li&gt; &lt;/ul&gt; &lt;strong&gt;Preferred Qualifications:&lt;br&gt;&lt;/strong&gt;&lt;ul&gt; &lt;li&gt;Experience in the commercial pharmaceuticals business.&lt;/li&gt; &lt;li&gt;Experience with sales and marketing best practices, processes, and related technology.&lt;/li&gt; &lt;li&gt;Working knowledge of commercially available healthcare data sets.&lt;/li&gt; &lt;li&gt;Experience with Pyspark is a plus.&lt;/li&gt; &lt;li&gt;Proficiency with SQL is a plus.&lt;/li&gt; &lt;br&gt;&lt;br&gt;&lt;/ul&gt;Johnson &amp;amp; Johnson is an Affirmative Action and Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, age, national origin, or protected veteran status and will not be discriminated against on the basis of disability.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Primary Location&lt;br&gt;&lt;/strong&gt;United States-New Jersey-Titusville-1125 Trenton Harbourton Road&lt;br&gt;&lt;strong&gt;Other Locations&lt;br&gt;&lt;/strong&gt;North America-United States-New Jersey-Raritan, North America-United States-Pennsylvania-Horsham&lt;br&gt;&lt;strong&gt;Organization&lt;br&gt;&lt;/strong&gt;Johnson &amp;amp; Johnson Services Inc. (6090)&lt;br&gt;&lt;strong&gt;Job Function&lt;br&gt;&lt;/strong&gt;R&amp;amp;D&lt;br&gt;&lt;strong&gt;Requisition ID&lt;br&gt;&lt;/strong&gt;2105949285W&lt;br&gt;&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-28T17:31:38.000Z"
+  },
+  "company": {
+    "name": "Johnson &amp; Johnson",
+    "link": "https://www.linkedin.com/company/johnson-&amp;-johnson"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": "Data Scientist."
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Raritan",
+    "region": "NJ",
+    "postal_code": "08869",
+    "street_address": null,
+    "latitude": 40.567867,
+    "longitude": -74.63268
+  }
+}

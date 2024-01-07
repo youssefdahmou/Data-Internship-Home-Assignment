@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Insurance",
+    "description": "&lt;p&gt;&lt;strong&gt;DATA SCIENTIST - Work from home but must live in Chicago, IL&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;KEY RESPONSIBILITIES&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Develop novel ways to help business partners achieve objectives through analysis and modelling&lt;/li&gt;&lt;li&gt;Think outside the box to identify and test new sources of information that unlock new business value&lt;/li&gt;&lt;li&gt;Curate and connect external data sets for broad enterprise-wide analytic usage&lt;/li&gt;&lt;li&gt;Engineer features by using your business acumen to bin, aggregate, pivot or encode data for optimal results&lt;/li&gt;&lt;li&gt;Utilize machine learning to create repeatable, dynamic, and scalable models&lt;/li&gt;&lt;li&gt;Have passion to advocate and educate on the value and importance of data driven decision making and analytical methods&lt;/li&gt;&lt;li&gt;Identify and develop long-term data science processes, frameworks, tools, and standards&lt;/li&gt;&lt;li&gt;Generate insights and present findings to the key stakeholders&lt;/li&gt;&lt;li&gt;Be a part of the team, collaborate, ask questions, engage, and solicit feedback from the team and business partners&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt; QUALIFICATIONS&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bachelor's Degree required; 3+ years of relevant experience&lt;/li&gt;&lt;li&gt;3-5 years of experience in Data science; Degree in Data Science, Computer Science, Engineering, Math, Statistics or Economics, preferred&lt;/li&gt;&lt;li&gt;Comfortable in basic statistical analysis, modeling, clustering, and data mining techniques etc&lt;/li&gt;&lt;li&gt;Practical experience with Python,R,SQL,etc comfortable working with DataFrames&lt;/li&gt;&lt;li&gt;Familiarity with cloud computing environments.&lt;/li&gt;&lt;li&gt;Experience with data visualization tools&lt;/li&gt;&lt;li&gt;Exemplary organizational skills with attention to detail and accuracy&lt;/li&gt;&lt;li&gt;Bias for action with ability to deliver outstanding results through task prioritization and time management&lt;/li&gt;&lt;li&gt;Strong communication and collaboration skills&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Preferred &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Property insurance experience&amp;nbsp;&lt;/p&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-04T18:21:09.000Z"
+  },
+  "company": {
+    "name": "Modis",
+    "link": "https://ch.linkedin.com/company/modis"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": "Data Scientist"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

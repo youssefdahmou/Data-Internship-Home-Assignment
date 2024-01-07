@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (Location &amp; Proximity Technologies team \u2014 special projects)",
+    "industry": "Consumer Electronics",
+    "description": "&lt;br&gt;&lt;strong&gt;Summary&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Proximity features such as Precision Finding for AirTags, Auto-Unlock for the Phone and Mac, or Handoff audio to HomePod have created new and magical ways for users to interact with their devices. We are looking for an enthusiastic and creative Software Engineer with extensive, not necessarily conventional, background in computer science to contribute to special projects on the Location Technologies team. These special projects use radio signals and technologies, such as Ultra Wideband (U1), to enable new location-aware user experiences in the Apple ecosystem.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Key Qualifications&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Experience writing and debugging software in a modern object-oriented language&lt;br&gt;&lt;br&gt;Considerable understanding of software design paradigms, and software development best practices&lt;br&gt;&lt;br&gt;Interest in radio frequency technologies for location, wellness and health&lt;br&gt;&lt;br&gt;Creative and inquisitive problem solving mindset&lt;br&gt;&lt;br&gt;A passion for programming and building things&lt;br&gt;&lt;br&gt;Excellent collaboration and communication skills&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Description&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Architect, implement, and validate production-quality software and accompanying tools to surprise our users with new experiences or enhancing existing ones. Design, develop, and test full-stack software leveraging wireless sensing to tackle digital life challenges. Participate in brainstorming and evaluating new technologies as iOS continues to evolve. Join other iOS contributors and be part of the fully integrated iOS solution.&lt;br&gt;&lt;br&gt;&lt;br&gt;You will be part of an exciting team striving to transform the lives of our users. We nurture new ideas from prototype to production, helping to establish hardware requirements and system design, conduct developmental testing, write production software, and track our results relative to practical and theoretical limits. If you're passionate about building technology that will make a difference, we may be the team for you.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Education &amp;amp; Experience&lt;br&gt;&lt;/strong&gt; &lt;br&gt;BS or MS in computer science, electrical/computer engineering, or related field or at least 4 years of equivalent experience.&lt;br&gt;&lt;br&gt; &lt;br&gt;Role Number: 200244537&lt;br&gt;&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:36:55.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": "Software Engineer (Location &amp; Proximity Technologies team \u2014 special projects)"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

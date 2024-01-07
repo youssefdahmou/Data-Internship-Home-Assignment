@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist(Machine Learning,Python) ",
+    "industry": "Information Technology and Services",
+    "description": "&lt;p&gt;&lt;strong&gt;Job Description:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bachelor\u2019s degree in Data Analytics, Data Science, or similar.&lt;/li&gt;&lt;li&gt;Minimum of five years\u2019 experience working with structured and non-structured data to deliver business intelligence.&lt;/li&gt;&lt;li&gt;Proven track record of developing dashboards and reports to meet business needs.&lt;/li&gt;&lt;li&gt;Hands on experience working with Business Intelligence software to meet operational needs and visualize strategic growth opportunities to management.&lt;/li&gt;&lt;li&gt;Extensive experience with databases.&lt;/li&gt;&lt;li&gt;Prior application of data and reporting integrity and sustainability.&lt;/li&gt;&lt;li&gt;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Preferred Competencies:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;eCommerce platforms (ideally Magento)&lt;/li&gt;&lt;li&gt;Google Analytics&lt;/li&gt;&lt;li&gt;Netsuite&lt;/li&gt;&lt;li&gt;PowerBI&lt;/li&gt;&lt;li&gt;QuickBase&lt;/li&gt;&lt;li&gt;SQL Server&lt;/li&gt;&lt;li&gt;Python or R&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Machine Learning/ Artificial Intelligence is a plus&lt;/p&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-14T12:54:02.000Z"
+  },
+  "company": {
+    "name": "JRD Systems",
+    "link": "https://www.linkedin.com/company/jrd-systems"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Data Scientist(Machine Learning,Python) "
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Plymouth",
+    "region": "MI",
+    "postal_code": "48170",
+    "street_address": null,
+    "latitude": 42.370724,
+    "longitude": -83.46905
+  }
+}

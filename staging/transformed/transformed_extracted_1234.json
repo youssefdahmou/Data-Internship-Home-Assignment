@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Java Software Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "&lt;p&gt;Kelly Services is seeking a &lt;strong&gt;JAVA Developer&lt;/strong&gt; for one of our leading clients.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;***&amp;nbsp;If this position may be interested to you, please email me back at somp767@kellyservices.com (with your most up to date resume in word format) and advise the best time and number at which you can be reached ****&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Job Title: JAVA Developer&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Location: Urbandale, IA, 50322&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Type of contract: W2 ONLY (NO C2C)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Pay Rate \u2013 $58 - $77per hour (Based on experience)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;4+ years Java development&lt;/p&gt;&lt;p&gt;3+ years relational database experience&lt;/p&gt;&lt;p&gt;2+ years REST API experience&lt;/p&gt;&lt;p&gt;Preferred experience with AWS&lt;/p&gt;&lt;p&gt;Preferred experience in Agile/Scrum&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Soma Patanaik&lt;/p&gt;&lt;p&gt;IT Recruiter&lt;/p&gt;&lt;p&gt;&lt;em&gt;Email: somp767@kellyservices.com&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Web kellyservices.com&lt;/p&gt;&lt;p&gt;Phone no- 630-270-7630&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-22T01:36:25.000Z"
+  },
+  "company": {
+    "name": "Kelly",
+    "link": "https://www.linkedin.com/company/kellyservices"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": "Java Software Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Urbandale",
+    "region": "IA",
+    "postal_code": "50131",
+    "street_address": null,
+    "latitude": 41.630333,
+    "longitude": -93.736496
+  }
+}

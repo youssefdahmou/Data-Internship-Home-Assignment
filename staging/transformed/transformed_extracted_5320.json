@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Privacy Software Engineer",
+    "industry": "Consumer Electronics",
+    "description": "&lt;br&gt;&lt;strong&gt;Summary&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Imagine what you could do here. At Apple, new ideas have a way of becoming great products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish.  Apple delivers great features and great privacy to our users. The Privacy Engineering team works with teams all across the company to make sure that products and services protect user privacy by designing architectures that reduce the exposure of user data at all levels of the technology stack. We are looking for an outstanding candidate to become a member of the Apple User Privacy Team.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Key Qualifications&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Passion for customer privacy&lt;br&gt;&lt;br&gt;Ability to learn and research new technologies rapidly, assess privacy exposures, and suggest mitigations&lt;br&gt;&lt;br&gt;Ability to analyze systems\u2019 architectures for privacy impact&lt;br&gt;&lt;br&gt;Programming experience&lt;br&gt;&lt;br&gt;Ability to solve complex problems independently&lt;br&gt;&lt;br&gt;Strong collaboration, communication, interpersonal, and organizational skills&lt;br&gt;&lt;br&gt;Ability to track and manage numerous parallel activities&lt;br&gt;&lt;br&gt;Ability to work in a fast-paced dynamic environment&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Description&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Privacy Engineers review features to identify privacy exposures and mitigate them, audit new products to identify and remediate bugs in development, review customer data collected by engineering teams to drive decisions, and work with teams to build new features to protect user privacy - from Wi-Fi MAC address randomization to Differential Privacy. &lt;br&gt;&lt;br&gt;&lt;br&gt;Successful candidates will need to have programming experience, superb communication skills, and a passion for protecting privacy. Creative problem solving, analytical, and deductive reasoning skills are critical for this position. You will be working on multiple unrelated systems each week, so the ability to learn quickly and an excitement for new things is a must.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Education &amp;amp; Experience&lt;br&gt;&lt;/strong&gt; &lt;br&gt;BSCS or equivalent experience&lt;br&gt;&lt;br&gt; &lt;br&gt;Role Number: 200244454&lt;br&gt;&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:38:14.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Privacy Software Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

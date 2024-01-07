@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "&lt;p&gt;Immediate need for a talented&amp;nbsp;&lt;strong&gt;Site Reliability Engineer.&lt;/strong&gt;&amp;nbsp;This is a&amp;nbsp;&lt;strong&gt;Contract to Hire (FTE) &lt;/strong&gt;employment&amp;nbsp;opportunity and is&amp;nbsp;in &lt;strong&gt;Atlanta, GA (Initially Remote).&lt;/strong&gt;&amp;nbsp;Please review the job description below:&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Top Must Have: &lt;/strong&gt;AWS, some software development experience, some Linux experience.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;What you will do: &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;- Automate anything and everything! (Infrastructure build out, testing, deploying, monitoring, etc)&lt;/p&gt;&lt;p&gt;- Design and assist in the authoring of software tools that reliably manage application delivery&lt;/p&gt;&lt;p&gt;- Design and assist in the setup and maintenance of application monitoring and alerting&lt;/p&gt;&lt;p&gt;- Engage with Development/Capability Teams to ensure best practices are implemented&lt;/p&gt;&lt;p&gt;- Improve predictability and reliability of software releases, workflows and operating software.&lt;/p&gt;&lt;p&gt;- Reduce application deployment windows by leading company towards a Continuous Deployment environment&lt;/p&gt;&lt;p&gt;- Reduce mean time to recovery (MTTR) by helping troubleshoot, monitor, alert, and automating recovery.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;The skills we require: &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;- Python, Ruby, Go or other systems programming (moderate skills required)&lt;/p&gt;&lt;p&gt;- Experience with configuration management systems (Octopus, Chef, Puppet)&lt;/p&gt;&lt;p&gt;- Experience rolling out redundant, mission-critical applications in a highly available production environment&lt;/p&gt;&lt;p&gt;- Experience with version control systems (Git or SVN)&lt;/p&gt;&lt;p&gt;- Experience with Cloud Computing platforms (Amazon AWS, Kubernetes, Heroku, etc)&lt;/p&gt;&lt;p&gt;- Experience with continuous integration tools (Jenkins, CircleCI, etc), Artifactory (or Nexus)&lt;/p&gt;&lt;p&gt;- Excellent written communication, problem solving, and process management skills&lt;/p&gt;&lt;p&gt;- Desire to work in a fast paced, evolving, growing, dynamic environment&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;The skills we prefer: &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;- Linux system engineering expertise&lt;/p&gt;&lt;p&gt;- VMWare, VirtualBox experience.&lt;/p&gt;&lt;p&gt;- Experience supporting Ruby or Java applications&lt;/p&gt;&lt;p&gt;- Experience supporting Database Server infrastructure (MySQL, Postgres, etc)&lt;/p&gt;&lt;p&gt;- Networking Knowledge&lt;/p&gt;&lt;p&gt;- Experience with Hashicorp tools (Vagrant, Terraform, Packer, etc), Linux Containers (docker, rocket)&lt;/p&gt;&lt;p&gt;- Experience with Java build tools such as Ant, Maven, Gant, or Gradle&lt;/p&gt;&lt;p&gt;- Experience with agile development, continuous integration and automated testing&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-26T17:27:22.000Z"
+  },
+  "company": {
+    "name": "Pyramid Consulting, Inc",
+    "link": "https://www.linkedin.com/company/pyramid-consulting"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Site Reliability Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "Technical \u2013Scala, Kotlin, Kafka/MQ, Cassandara DB, AWS, Apache Spark&lt;br&gt;Willing to support out of office hrs&lt;br&gt;\u00b7       Good to have Cybersecurity Domain \u2013 NDR, MDR&lt;br&gt; ",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-27T16:18:59.000Z"
+  },
+  "company": {
+    "name": "Resource Logistics Inc.",
+    "link": "https://www.linkedin.com/company/resource-logistics"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Site Reliability Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas",
+    "region": "TX",
+    "postal_code": "75342",
+    "street_address": null,
+    "latitude": 32.777977,
+    "longitude": -96.79621
+  }
+}

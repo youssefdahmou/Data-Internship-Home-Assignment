@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist I",
+    "industry": "Retail",
+    "description": "Interprets and applies data analytics to provide recommendations to the business.&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;Accountabilities&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Develops and executes statistical and mathematical solutions to business problems &lt;/li&gt;&lt;li&gt;Frame problem, determine intended approach and recommend quantitative methods to develop solution&lt;/li&gt;&lt;li&gt;Use analytical rigor and statistical methods to analyze large amounts of data, culling actionable insights using advanced statistical techniques such as predictive statistical models, customer profiling, segmentation analysis, survey design and analysis and data mining&lt;/li&gt;&lt;li&gt;Design experiments to answer targeted questions&lt;/li&gt;&lt;li&gt;Document projects including business objective, data gathering and processing, leading approaches, final algorithm, detailed set of results and analytical metrics&lt;/li&gt;&lt;li&gt;Develops materials to explain project findings to management&lt;/li&gt;&lt;li&gt;Develops new algorithms and mathematical approaches to understand Kohl's audiences and solves complex business problems such as optimizing product performance, revenue and adoption&lt;/li&gt;&lt;li&gt;Identify and drive continuous improvement of key business metrics in assigned business functional area&lt;/li&gt;&lt;li&gt;Drive adoption and usage of analytical products and models&lt;/li&gt;&lt;li&gt;Think in terms of iterative development, document, and communicate throughout products data science lifecycle&lt;/li&gt;&lt;li&gt;Build and validate models&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Qualifications&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Experience developing custom models based on in-depth understanding of underlying data, data structures, and business problems to ensure analytics deliverables meet stakeholders need&lt;/li&gt;&lt;li&gt;Experience developing state of the art algorithms using machine learning, statistical and optimization methods to power various aspects of highly complex business models&lt;/li&gt;&lt;li&gt;Experience using modern analytics tools and languages such as Python, R, Spark, SQL (BigQuery), etc&lt;/li&gt;&lt;li&gt;Strong problem solving skills with an emphasis on product development&lt;/li&gt;&lt;li&gt;Experience proposing rapid experiments to test the effect of new strategies or initiatives, and iterate quickly&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Required&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;2+ years of progressively complex Data Science or analytics experience&lt;/li&gt;&lt;li&gt;BS in Data Science, Computer Science, Machine Learning, Applied Mathematics, or equivalent quantitative field&lt;/li&gt;&lt;li&gt;Spark, Python, R proficiency&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Preferred&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Masters degree&lt;/li&gt;&lt;li&gt;Retail experience&lt;/li&gt;&lt;li&gt;Supply chain management&lt;/li&gt;&lt;li&gt;Marketing models&lt;/li&gt;&lt;li&gt;Logistics experience&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;req# : R202294&lt;br&gt;&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-10T16:23:06.000Z"
+  },
+  "company": {
+    "name": "Kohl's",
+    "link": "https://www.linkedin.com/company/kohls-department-stores"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": "Data Scientist I"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Menomonee Falls",
+    "region": "WI",
+    "postal_code": "53052",
+    "street_address": null,
+    "latitude": 43.178867,
+    "longitude": -88.11725
+  }
+}

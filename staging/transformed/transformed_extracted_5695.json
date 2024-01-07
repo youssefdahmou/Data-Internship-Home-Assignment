@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Quality Assurance Analyst",
+    "industry": "",
+    "description": "&lt;p&gt;Need to participate in the following activities:&lt;/p&gt;&lt;p&gt; 1. Requirement Gathering and Analysis: Analyse functional/non-functional requirements and seek clarifications for better understanding of requirements Define timeline estimates based on the requirements&lt;/p&gt;&lt;p&gt; 2. Design: Preparation of technical specification document and review the same&lt;/p&gt;&lt;p&gt; 3. Coding: Follow coding standards and best practices to check code quality Conduct technical troubleshooting&lt;/p&gt;&lt;p&gt; 4. Testing: Perform Unit testing and coordinate with QA team during the testing phase&lt;/p&gt;&lt;p&gt;5. Knowledge Management: Create specific artifacts for tasks allocated by supervisor Apply best practices/ learning during development activities.\"&lt;/p&gt;&lt;p&gt;6.&lt;strong&gt;Spanish&amp;nbsp;fluency is the requirement with the ability to follow phone flows alongside an English-speaking QA tester.&lt;/strong&gt;&lt;/p&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-25T17:24:34.000Z"
+  },
+  "company": {
+    "name": "Teknobit solution",
+    "link": "https://www.linkedin.com/company/teknobit-solution"
+  },
+  "education": {
+    "required_credential": null
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Quality Assurance Analyst"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

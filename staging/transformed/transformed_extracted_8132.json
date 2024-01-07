@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Renewables &amp; Environment",
+    "description": "&lt;p&gt;\u26a1&lt;strong&gt;MLOps Engineer&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;\ud83d\udd0c&lt;strong&gt;Energy Technology Start-up&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;\ud83c\udf0e&lt;strong&gt;USA Remote&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;A Series A, Charlottesville-based, national leader in proven vehicle-to-grid (V2G) systems is growing and searching for a Forecasting Engineer. They are on a mission to combat climate change, increase energy resilience, and reduce energy costs by leveraging electric vehicle batteries. Now is the time to get involved, grow with the team, and take part in the exciting energy transition to help transform the World\u2019s future!&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Responsibilities:&lt;/p&gt;&lt;p&gt;\u00b7 Help design and implement our machine learning platform&lt;/p&gt;&lt;p&gt;\u00b7 Build tooling for running batch experiments&lt;/p&gt;&lt;p&gt;\u00b7 Build tooling for analyzing experiments (eg: feature importance)&lt;/p&gt;&lt;p&gt;\u00b7 Build tooling for assessing production model performance (eg: model drift)&lt;/p&gt;&lt;p&gt;\u00b7 Help develop and productionize algorithms&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Requirements:&lt;/p&gt;&lt;p&gt;\u00b7 Experience building machine learning platforms&lt;/p&gt;&lt;p&gt;\u00b7 Object Oriented Programming experience&lt;/p&gt;&lt;p&gt;\u00b7 Python development experience&lt;/p&gt;&lt;p&gt;\u00b7 Experience with distributed services and/or messaging systems&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Benefits:&lt;/p&gt;&lt;p&gt;\u00b7 Competitive salary at recently funded, high-growth, business.&lt;/p&gt;&lt;p&gt;\u00b7 Opportunity to work with like minded people on exciting projects.&lt;/p&gt;&lt;p&gt;\u00b7 Company culture of trust, freedom, and recognition.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;\ud83d\udce7 Sounds like you? Please click on the \u2018Easy Apply\u2019 button. You can also send your resume directly to tito.ayantunde@storm4.com or message me directly!&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;If you have any extra requirements to support your application, then please just add a note along with your CV to let us know.&lt;/em&gt;&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-14T15:57:23.000Z"
+  },
+  "company": {
+    "name": "Storm4",
+    "link": "https://uk.linkedin.com/company/storm4"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Machine Learning Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

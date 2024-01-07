@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Help Desk Technician",
+    "industry": "Pharmaceuticals,Hospital &amp; Health Care",
+    "description": "&lt;p&gt;Our Client, a national healthcare company is looking for people with outstanding&amp;nbsp;phone/communication skills to work as part of their new digital support team&amp;nbsp;that will assist phlebotomists with any IT issues. You will&amp;nbsp;troubleshoot Level 1 over the phone and&amp;nbsp;occasionally&amp;nbsp;in person as part of a 24x7 call center.&amp;nbsp;There could be some local travel. You must be a US citizen and be able to pass a background check and drug test.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Must haves:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Great Customer Service&lt;/li&gt;&lt;li&gt;Level 1 tech skills&lt;/li&gt;&lt;li&gt;Wants to grow in tech&lt;/li&gt;&lt;li&gt;Able to remotely troubleshoot issues&lt;/li&gt;&lt;li&gt;Possible travel&amp;nbsp;up&amp;nbsp;to&amp;nbsp;25% so&amp;nbsp;&amp;nbsp;must have a vehicle&lt;/li&gt;&lt;li&gt;Remote and Nationwide&lt;/li&gt;&lt;li&gt;Windows 7 and Windows 10 install and troubleshooting&lt;/li&gt;&lt;li&gt;Familiarity with help desk ticketing systems&lt;/li&gt;&lt;li&gt;Familiarity with Active Directory and VPN big +&lt;/li&gt;&lt;li&gt;Network printer installation and configuration&lt;/li&gt;&lt;li&gt;Network printer installation and configuration&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-25T17:27:41.000Z"
+  },
+  "company": {
+    "name": "R&amp;R Recruiting Resources",
+    "link": "https://www.linkedin.com/company/randrrecruitingresources"
+  },
+  "education": {
+    "required_credential": "associate degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Help Desk Technician"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 18,
+    "max_value": 25,
+    "unit": "HOUR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bergen County",
+    "region": "NJ",
+    "postal_code": "08810",
+    "street_address": null,
+    "latitude": 40.88134,
+    "longitude": -74.0438
+  }
+}

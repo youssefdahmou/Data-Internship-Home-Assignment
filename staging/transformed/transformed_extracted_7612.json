@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Analyst",
+    "industry": "",
+    "description": "Position: Data Analyst&lt;br&gt;Duration: 4 months&lt;br&gt;Location: New York, NY 10020 (Remote as of now, may go hybrid when office reopens)&lt;br&gt;Pay rate: $60/hr. on w2&lt;br&gt;&lt;br&gt;&lt;br&gt;Job description:&lt;br&gt;4+ years professional experience and comfort working with large data sets required.&lt;br&gt;Proficiency in Tableau, SQL, Microsoft Excel, and PowerPoint are required.&lt;br&gt;Experience with traditional TV and digital measurement ( Adobe highly preferred).&lt;br&gt;Bachelor's degree or equivalent in marketing, communications, economics, statistics or related field.&lt;br&gt;Attention to detail, accuracy, organization, strong problem-solving skills and exceptional work ethic are essential.&lt;br&gt;Able to communicate complex ideas, stories and datasets graphically as well as verbally.&lt;br&gt;Ability to collaborate and work closely with other parts of the business as well as external partners.&lt;br&gt;Capable of prioritizing multiple projects and ad-hoc requests while thriving in a fast-paced environment.&lt;br&gt;Self-starter, resourceful, flexible, proactive &amp; a true team-player who is willing to pitch in wherever needed.&lt;br&gt;Passion for the entertainment industry and television programming.&lt;br&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-10-05T17:41:47.000Z"
+  },
+  "company": {
+    "name": "Integration International Inc.",
+    "link": "https://www.linkedin.com/company/integration-international-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": "Data Analyst"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer Intern (Campus 2021-2022)",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "&lt;strong&gt;&lt;u&gt;Job Description&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;strong&gt;What You Will Be Doing&lt;br&gt;&lt;br&gt;&lt;/strong&gt;At Cvent, our paid technology internships are designed to provide students with real-world mentorship and experience. Interns are exposed to the inner workings of an industry-leading software company and are expected to take ownership of projects to contribute to the company\u2019s continued success. Projects are assigned based on current production schedules and operation\u2019s needs, allowing for extensive exposure to the components and cycles of the technology department. Cvent\u2019s internships are ideally structured to not only support professional development, but also open the doors to full time employment with the company upon graduation.&lt;br&gt;&lt;ul&gt;&lt;li&gt;Work on large scale, cloud-based applications, where performance, reliability, and scalability are critical design goals&lt;/li&gt;&lt;li&gt;Gain experience with different database technologies, ranging from traditional relational to the latest NoSQL products.&lt;/li&gt;&lt;li&gt;Work in a collaborative, team-based environment in an Agile environment&lt;/li&gt;&lt;li&gt;Identify and resolve issues related to customer experience&lt;/li&gt;&lt;li&gt;Analyze the functionality of our web-based software platforms, mobile devices, and backend systems&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;What You Need For This Position&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Rising Senior graduating in December 2022 or May 2023 &lt;/li&gt;&lt;li&gt;Pursuing bachelor\u2019s degree in computer science or other technology related field&lt;/li&gt;&lt;li&gt;GPA of 3.0 or higher&lt;/li&gt;&lt;li&gt;The desire to make contributions to the company that will be used by current and future full-time employees&lt;/li&gt;&lt;li&gt;Excellent problem solving and analytical skills&lt;/li&gt;&lt;li&gt;Outstanding oral and written communication&lt;/li&gt;&lt;li&gt;The ability and willingness to work alongside senior team members and managers to further your professional development&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;Most importantly, a successful candidate will be passionate about technology. Keeping up with the latest advancements in the industry; spending time creating, building, and exploring with technical projects; an inquisitive attitude in regard to the workings of hardware and software; and overall, simply having fun and finding enjoyment in the field.&lt;br&gt;&lt;br&gt;At Cvent we celebrate, support and are committed to creating a diverse and inclusive environment.We\u2019re proud to be an equal opportunity employer.All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, veteran status or any other legally protected characteristics.&lt;br&gt;&lt;br&gt;Cvent maintains a drug-free workplace.",
+    "employment_type": "INTERN",
+    "date_posted": "2021-09-01T01:14:51.000Z"
+  },
+  "company": {
+    "name": "Cvent",
+    "link": "https://www.linkedin.com/company/cvent"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Software Engineer Intern (Campus 2021-2022)"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Tysons Corner",
+    "region": "VA",
+    "postal_code": "22030",
+    "street_address": null,
+    "latitude": 38.912,
+    "longitude": -77.22755
+  }
+}

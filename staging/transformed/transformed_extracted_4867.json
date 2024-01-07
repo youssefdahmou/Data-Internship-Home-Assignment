@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - Elk Grove, CA / Austin or Dallas TX / Denver, CO / Seattle, WA",
+    "industry": "Consumer Electronics",
+    "description": "&lt;br&gt;&lt;strong&gt;Summary&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Seeking an experienced SRE responsible for engineering, upkeep, and automation of internet scale load-balancing and proxy services.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Key Qualifications&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Strong knowledge of TCP, HTTP, DNS and SSL protocols&lt;br&gt;&lt;br&gt;Experience with distributed systems in a production operations environment&lt;br&gt;&lt;br&gt;Systems configuration management experience with automation tools such as Puppet, Chef, Ansible, or Salt&lt;br&gt;&lt;br&gt;Experience with programming and/or scripting languages (Python, Perl, Java, bash, Ruby)&lt;br&gt;&lt;br&gt;Systems monitoring experience with tools such as Nagios, Sensu, Zabbix, graphite&lt;br&gt;&lt;br&gt;Experience with devops tools, processes, and culture&lt;br&gt;&lt;br&gt;Experience with microservices/cloud platforms such as Kubernetes a plus&lt;br&gt;&lt;br&gt;Strong communication skills and ability to work effectively across multiple business and technical teams&lt;br&gt;&lt;br&gt;Troubleshooting of traffic flows at a deep level to find anomalies and to optimize performance&lt;br&gt;&lt;br&gt;Demonstrated ability to deliver results on time with high quality&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Description&lt;br&gt;&lt;/strong&gt; &lt;br&gt;The Edge Traffic Delivery SRE team is a core engineering group with a mission of providing massively scaled load-balancing and proxy solutions to many of Apple's best known services.  We are passionate about design, implementation, and support of our cutting-edge products.  In addition to traffic engineering, we often work with encryption technologies, monitoring/alerting, cloud computing, automation, etc.  &lt;br&gt;&lt;br&gt;&lt;br&gt;We are looking for a motivated devOps engineer, who can work with internal customers, then ultimately engineer, deliver, and maintain sophisticated solutions.  Come join us and see what it means to \"Think Different\"!&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Education &amp;amp; Experience&lt;br&gt;&lt;/strong&gt; &lt;br&gt;BS in Computer Science or equivalent experience&lt;br&gt;&lt;br&gt; &lt;br&gt;Role Number: 200227180&lt;br&gt;&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-19T18:15:08.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Site Reliability Engineer - Elk Grove, CA / Austin or Dallas TX / Denver, CO / Seattle, WA"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Elk Grove",
+    "region": "CA",
+    "postal_code": "95757",
+    "street_address": null,
+    "latitude": 38.418133,
+    "longitude": -121.39326
+  }
+}

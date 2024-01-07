@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer III (Backend)",
+    "industry": "Computer Software,Human Resources,Information Technology and Services",
+    "description": "&lt;br&gt;&lt;strong&gt;Do what you love. Love what you do. &lt;br&gt;&lt;br&gt;&lt;/strong&gt; At Workday, we help the world\u2019s largest organizations adapt to what\u2019s next by bringing finance, HR, and planning into a single enterprise cloud. We work hard, and we\u2019re serious about what we do. But we like to have fun, too. We put people first, celebrate diversity, drive innovation, and do good in the communities where we live and work. &lt;br&gt;&lt;br&gt;&lt;strong&gt;About the Team&lt;br&gt;&lt;/strong&gt;The Reporting application is central to empowering users of Workday Planning to visualize finance, sales and other planning data through powerful, self-service and ad-hoc reports. We leverage our powerful compute engine to provide best-in-class reporting that scales against very large data sets and complex planning models.&lt;br&gt;&lt;strong&gt;About the Role&lt;br&gt;&lt;br&gt;&lt;/strong&gt;We are open for a Software Engineer II or and Software Engineer III.&lt;br&gt;&lt;br&gt; You are a team-player, but also a leader and go-getter and motivated to excel. You care deeply for inclusivity, belonging and equity in relationships with workmates.  &lt;br&gt;&lt;br&gt; Along side these attributes, if you are excited to join to a growing and talented bunch of fun folks in building a best-in-class reporting SaaS platform, you are looking in the right place! &lt;br&gt;&lt;br&gt;&lt;strong&gt;About You&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;strong&gt;Software Engineer II&lt;br&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;2+ years of software development experience.&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;Software Engineer III&lt;br&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;5+ years of software development experience.&lt;/li&gt;&lt;li&gt;Strong grasp for design patterns, coding best practices and be able to write unit-testable code.&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;Basic qualifications:&lt;br&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Fundamentals in algorithms and data structures.&lt;/li&gt;&lt;li&gt;Experience working with SQL and databases (Postgres, Oracle, etc.)&lt;/li&gt;&lt;li&gt;Strong communication, organizational skills, and ability to balance multiple priorities.&lt;/li&gt;&lt;li&gt;BS and/or Masters in Computer Science, Engineering or related field preferred.&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt; Workday is an Equal Opportunity Employer including individuals with disabilities and protected veterans.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T06:56:47.000Z"
+  },
+  "company": {
+    "name": "Workday",
+    "link": "https://www.linkedin.com/company/workday"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Software Engineer III (Backend)"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Pleasanton",
+    "region": "CA",
+    "postal_code": "94588",
+    "street_address": null,
+    "latitude": 37.658436,
+    "longitude": -121.877
+  }
+}

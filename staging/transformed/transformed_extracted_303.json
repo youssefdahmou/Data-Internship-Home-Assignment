@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I (Contract) ",
+    "industry": "Computer Software,Computer Networking,Consumer Electronics",
+    "description": "&lt;p&gt;Local candidates only- This position is on-site @ Apple in Cupertino, CA&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Must haves: &lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;-Software Developer&lt;/p&gt;&lt;p&gt;-Excellent Fundamentals in one or more of C, C++ or Objective C&lt;/p&gt;&lt;p&gt;-Wireless automation experience - working with testers (communication and wireless)&lt;/p&gt;&lt;p&gt;-DevOps Tools -Jenkins&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Key Qualifications: &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;-Excellent Fundamentals in one or more of C, C++ or Objective C or a similar language.&lt;/p&gt;&lt;p&gt;-Basic knowledge of RF/Wireless lab equipment.&lt;/p&gt;&lt;p&gt;-Experience in developing test solutions/systems.&lt;/p&gt;&lt;p&gt;Familiarity with data processing and statistical tools.&lt;/p&gt;&lt;p&gt;-Experience or strong academic background with current wireless/RF standards.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Educational Requirements:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Bachelor's Degree required&lt;/p&gt;&lt;p&gt;Master's Preferred&lt;/p&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-11T22:47:14.000Z"
+  },
+  "company": {
+    "name": "Flashii ",
+    "link": "https://www.linkedin.com/company/flashii-app"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Software Engineer I (Contract) "
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

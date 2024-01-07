@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer Intern",
+    "industry": "",
+    "description": "&lt;p&gt;&lt;strong&gt;Roles &amp;amp; Responsibilities: &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Understanding customer requirements.&lt;/p&gt;&lt;p&gt;Assisting with project planning, scoping, prioritization.&lt;/p&gt;&lt;p&gt;Providing estimates; Identifying task ownership.&lt;/p&gt;&lt;p&gt;Design: Creating simple, flexible, and comprehensive strategies.&lt;/p&gt;&lt;p&gt;Providing and soliciting design feedback.&lt;/p&gt;&lt;p&gt;Implementation: Writing quality code at the source.&lt;/p&gt;&lt;p&gt;Authoring validation tests; Providing timely issue resolutions.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Qualifications Eligibility Criteria:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;BS or MS degree focused in Computer Science or related quantitative field with minimum CGPA &amp;gt; 3.0.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Ability to write clean, well-crafted code emphasizing quality, simplicity, durability, and maintainability.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Languages: C/C++, Python, Java, HTML, CSS, JS&lt;/p&gt;&lt;p&gt;Locations of Operation: Work from Home&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Perks&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Five days a week&lt;/p&gt;&lt;p&gt;Number of openings: 9&lt;/p&gt;",
+    "employment_type": "INTERN",
+    "date_posted": "2021-10-17T11:37:11.000Z"
+  },
+  "company": {
+    "name": "Rabear",
+    "link": "https://in.linkedin.com/company/rabear"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Software Engineer Intern"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "California",
+    "region": "United States",
+    "postal_code": "93266",
+    "street_address": null,
+    "latitude": 37.254673,
+    "longitude": -119.61728
+  }
+}

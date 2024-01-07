@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I",
+    "industry": "Information Technology and Services",
+    "description": "&lt;p&gt;KellyMitchell matches the best IT and business talent with premier organizations nationwide. Our clients, ranging from Fortune 500 corporations to rapidly growing high-tech companies, are exceptionally served by our 1500+ IT and business consultants. Our industry is growing rapidly, and now is a great time to launch your career with the KellyMitchell team.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Software Engineer I&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;$33.00 - $45.00 (est. hourly)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Job Summary:&amp;nbsp;&lt;/strong&gt;This person designs, modifies, develops, writes and implements software programming applications for the company\u2019s websites using JavaScript and Angular. In addition, they will support and/or install software applications/operating systems.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Duties:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Designs, modifies, develops, writes and implements software programming applications for the company websites using JavaScript and Angular&lt;/li&gt;&lt;li&gt;Supports and/or installs software applications/operating systems&lt;/li&gt;&lt;li&gt;Participates in the testing process through test review and analysis, test witnessing and certification of software&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Desired Skills/Experience:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;2 + years Angular&amp;nbsp;&lt;/li&gt;&lt;li&gt;2 + years&amp;nbsp;of CSS&lt;/li&gt;&lt;li&gt;2 + years of Typescript/Javascript&amp;nbsp;&lt;/li&gt;&lt;li&gt;2 + years of experience with Git&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T20:07:33.000Z"
+  },
+  "company": {
+    "name": "KellyMitchell Group, Inc",
+    "link": "https://www.linkedin.com/company/kelly-mitchell-group-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": "Software Engineer I"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 33,
+    "max_value": 45,
+    "unit": "HOUR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greenwood Village",
+    "region": "CO",
+    "postal_code": "80018",
+    "street_address": null,
+    "latitude": 39.616886,
+    "longitude": -104.95051
+  }
+}

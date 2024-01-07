@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "D.C. Area&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;About The Position&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;As a member of our Engineering team, you will work with a tight, highly skilled machine learning / data science team dedicated to the development of proprietary consumer insights. You will be working closely with our Data Scientists, implementing highly available and scalable machine learning pipelines.&lt;br&gt;&lt;br&gt;If you are a Software Engineer passionate for technology who wants to work with a mature, intensely skilled team, values total ownership of your work, and can't imagine a day without coding, we want to speak to you! We're looking for a creative, focused, collaborative, technically curious individual who enjoys both design as well as working hands-on with the code.&lt;br&gt;&lt;br&gt;If you are interested in working on cutting edge Client and AI projects at Internet scale and speed this is the job for you!&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;Skills We're Seeking&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Design and implement Client feature pipelines &lt;/li&gt;&lt;li&gt;Optimize pipelines and processes for model development, experimentation and scaled production scoring &lt;/li&gt;&lt;li&gt;Implement machine learning algorithms and libraries in service to modeling and production scoring pipelines &lt;/li&gt;&lt;li&gt;Monitor and ensure the quality of machine learning solutions by implementing process and control disciplines as well as tooling to govern &lt;/li&gt;&lt;li&gt;Analyze large and complex data sets to derive valuable insights, inform feature and product development &lt;/li&gt;&lt;li&gt;Apply machine learning and data science techniques and design distributed systems &lt;/li&gt;&lt;/ul&gt; &lt;strong&gt;Nice to Haves:&lt;br&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Strong Software Engineering background with emphasis in data science and machine learning &lt;/li&gt;&lt;li&gt;Fluent in Java, Python, and/or Scala programming languages &lt;/li&gt;&lt;li&gt;Strong communication skills including the ability to describe complex models and findings to different audiences and stakeholders, from data science peers to business decision-makers &lt;/li&gt;&lt;li&gt;Demonstrated exploratory analysis and visualization abilities in a non-academic settings &lt;/li&gt;&lt;li&gt;Strong bias for action and ability to pivot quickly and act with agility according to the needs of the business &lt;/li&gt;&lt;li&gt;Working knowledge of machine learning frameworks and the data and computation management mechanisms that surround them in a cloud environment (AWS) &lt;/li&gt;&lt;li&gt;Experience designing, implementing, and transitioning to AI/Client cloud based frameworks such as Amazon SageMaker &lt;/li&gt;&lt;li&gt;Experience implementing quality and control disciplines for Machine Learning pipelines through process and tooling &lt;/li&gt;&lt;li&gt;Ability to handle multiple projects simultaneously, meet deadlines, and effectively manage priorities and communicate progress &lt;/li&gt;&lt;li&gt;Fluent in Linux based systems, Docker, and code versioning tooling (Git/CI/CD) &lt;/li&gt;&lt;li&gt;Computer Science or equivalent degree and work experience&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-09T06:21:35.000Z"
+  },
+  "company": {
+    "name": "1872 Consulting",
+    "link": "https://www.linkedin.com/company/1872-consulting"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Machine Learning Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Reston",
+    "region": "VA",
+    "postal_code": "22096",
+    "street_address": null,
+    "latitude": 38.960186,
+    "longitude": -77.3545
+  }
+}

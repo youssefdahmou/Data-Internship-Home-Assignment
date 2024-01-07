@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "Role: Data Scientist with Machine Learning and Python Experience&lt;br&gt;Location: Remote&lt;br&gt;Full-time/Contract (W2 Only)&lt;br&gt;&lt;br&gt;JD:&lt;br&gt;\u2022  4-5 years of relevant work experience in data science or related field. &lt;br&gt;\u2022  Strong demonstrated understanding of machine learning methods and applied statistical packages as applied to data analysis within open source scripting languages (e.g. R, Python) is required &lt;br&gt;\u2022  Strong demonstrated understanding of data lifecycle required around data ingestion (ingest data from disparate systems into cloud computing environment), data contextualization (merging large data sets, developing algorithms to merge and clean data); data insights and analytics is required &lt;br&gt;\u2022  Demonstrated skills in building scalable analytical solutions is required &lt;br&gt;\u2022  Ability to quickly develop working knowledge in areas outside of one\u2019s expertise &lt;br&gt;\u2022  Hands-on experience with business applications of distributed computing (e.g. MapReduce, HIVE, HADOOP) is preferred &lt;br&gt;\u2022  Demonstrated experience in setting up and managing data in cloud computing environment (AWS or MS Azure) is preferred. &lt;br&gt;\u2022  Proven communication and influence skills are required.&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T23:36:39.000Z"
+  },
+  "company": {
+    "name": "Flexasoft",
+    "link": "https://www.linkedin.com/company/flexasoft"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": "Data Scientist"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

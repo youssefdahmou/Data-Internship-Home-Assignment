@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Software",
+    "description": "&lt;p&gt;Our client is the next big thing. They're in stealth mode, backed by two household-name billionaires and focused on the war on cancer.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;You will work with a team of machine learning scientists and engineers to develop and deploy AI-based biomarkers to support the personalization of cancer therapy. You will work closely with our engineering team to build production-grade APIs and serving models that integrate with our clinical product.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimum Qualifications: &lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;BS or MS in an AI-related field (CS, EE, Stats, etc.) or substantial development experience in AI.&lt;/li&gt;&lt;li&gt;Strong programming skills, competitive in ACM-ICPC or other competitions.&lt;/li&gt;&lt;li&gt;Substantial experience with Python, and deep learning libraries such as PyTorch or Tensorflow&lt;/li&gt;&lt;li&gt;Experience in implementing high-performance and large-scale deep learning systems. &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Preferred Qualifications:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Full time industry experience in deep learning research/product.&lt;/li&gt;&lt;li&gt;Experience mentoring and advising other engineers&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-14T00:20:28.000Z"
+  },
+  "company": {
+    "name": "EngTal - Engineering Talent",
+    "link": "https://www.linkedin.com/company/engtal"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Machine Learning Engineer"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 180000,
+    "max_value": 250000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco Bay Area",
+    "region": null,
+    "postal_code": "94112",
+    "street_address": null,
+    "latitude": 37.39271,
+    "longitude": -122.042
+  }
+}

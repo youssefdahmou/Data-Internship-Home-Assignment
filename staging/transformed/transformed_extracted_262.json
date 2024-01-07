@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Management - Big Data/Machine Learning Engineer - Sr",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "&lt;strong&gt;Data Management - Big Data/Machine Learning Engineer - Sr - 72938&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;strong&gt;Plano, Texas&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;strong&gt;4/12/2021 to 4/12/2022&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;strong&gt;Number of positions: 3&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;strong&gt;Pay Rate: $62/hr on w2 all inclusive&lt;br&gt;&lt;br&gt;&lt;/strong&gt;Job Description: Strong full stack data engineer&lt;br&gt;&lt;br&gt;AWS 2-3+ years' experience&lt;br&gt;&lt;br&gt;Strong Python 4-5+ years' experience",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-06-09T06:22:49.000Z"
+  },
+  "company": {
+    "name": "Omega Solutions, Inc.",
+    "link": "https://www.linkedin.com/company/omega-solutions-inc."
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": "Data Management - Big Data/Machine Learning Engineer - Sr"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Plano",
+    "region": "TX",
+    "postal_code": "75093",
+    "street_address": null,
+    "latitude": 33.019695,
+    "longitude": -96.697586
+  }
+}

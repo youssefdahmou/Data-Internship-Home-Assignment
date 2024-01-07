@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Full Stack Software Engineer \u2013 Human Engineering",
+    "industry": "Consumer Electronics",
+    "description": "&lt;br&gt;&lt;strong&gt;Summary&lt;br&gt;&lt;/strong&gt; &lt;br&gt;At Apple, new ideas have a way of becoming phenomenal products, services, and customer experiences very quickly. Imagine what you could do here. Bring passion and dedication to your job and there\u2019s no telling what you could accomplish.&lt;br&gt;&lt;br&gt;&lt;br&gt;We are a team of software engineers developing web-based tools and applications for Apple teams. Our work empowers Apple engineers and researchers to build the products that inspire and delight millions every day. Dynamic, inspiring people and innovative technologies are the norm here.&lt;br&gt;&lt;br&gt;&lt;br&gt;We want you to join our team if you are a resourceful engineer with the desire to research and develop solutions that do not yet exist. Ideal candidates are comfortable breaking down problems and proposing multiple solutions. They strive for excellence but can balance progress and perfection. Working with us, you will become part of a hands-on development team that furthers engineering perfection, creativity, and innovation.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Key Qualifications&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Strong fundamentals in object-oriented programming, data structures, and algorithms&lt;br&gt;&lt;br&gt;Expertise architecting and developing full stack web applications with RESTful APIs&lt;br&gt;&lt;br&gt;2+ years Python experience&lt;br&gt;&lt;br&gt;Web development experience with HTML5, CSS/SASS, and JavaScript&lt;br&gt;&lt;br&gt;Experience with front-end frameworks such as Angular (preferred), React, or Vue.&lt;br&gt;&lt;br&gt;Experience with backend MVC frameworks such as Django (preferred), Rails, or Spring&lt;br&gt;&lt;br&gt;Strong understanding of relational database design&lt;br&gt;&lt;br&gt;Experience designing scalable software systems&lt;br&gt;&lt;br&gt;Demonstrated UI/UX design abilities&lt;br&gt;&lt;br&gt;Strong communication skills&lt;br&gt;&lt;br&gt;Nice to have iOS development experience; Server Administration / DevOps; Extensive experience with UNIX shell; Experience with containers (Docker, Kubernetes)&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Description&lt;br&gt;&lt;/strong&gt; &lt;br&gt;The Human Engineering Software team works closely with many teams around the company to build powerful multi-platform tools.&lt;br&gt;&lt;br&gt;RESPONSIBILITIES INCLUDE:&lt;br&gt;&lt;br&gt;-  Gathering project requirements and proposing solutions&lt;br&gt;&lt;br&gt;-  Designing, building, and maintaining RESTful APIs&lt;br&gt;&lt;br&gt;-  Architecting complex data storage (relational, non-relational, block, file)&lt;br&gt;&lt;br&gt;-  Writing backend logic for data organization and processing&lt;br&gt;&lt;br&gt;-  Building powerful and intuitive client apps (Web, iOS, and macOS)&lt;br&gt;&lt;br&gt;-  Proactively proposing and implementing ideas&lt;br&gt;&lt;br&gt;-  Full-stack ownership (communicating with key stakeholders, design, implementation, and deployment)&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Education &amp;amp; Experience&lt;br&gt;&lt;/strong&gt; &lt;br&gt;BS/MS in Computer Science/Engineering, or equivalent&lt;br&gt;&lt;br&gt; &lt;br&gt;Role Number: 200241040&lt;br&gt;&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:29:53.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": "Full Stack Software Engineer \u2013 Human Engineering"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

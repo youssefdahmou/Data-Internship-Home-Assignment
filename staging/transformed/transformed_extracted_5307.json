@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "System Integration Engineer - Platform Architecture",
+    "industry": "Consumer Electronics",
+    "description": "&lt;br&gt;&lt;strong&gt;Summary&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Imagine what you could do here. At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion, diligence and dedication to your job and there's no telling what you could accomplish! The people who work here have reinvented entire industries with all Apple Hardware products. The same passion for innovation that goes into our products also applies to our practices strengthening our dedication to leave the world better than we found it. Join us to help deliver the next groundbreaking Apple product! Do you love working on challenges that no one has solved yet?   As a member of our multifaceted group, you will have the unique and phenomenal opportunity to craft upcoming products that will delight and inspire millions of Apple's customers every single day.&lt;br&gt;&lt;br&gt;&lt;br&gt;In this versatile role, you will bring your passion to break System Architectures and Implementations and drive product improvements. You will be part of a team that drives the Platform Architecture of a wide variety of products. Your work will ensure power, performance and thermal controls are robust and fully utilize the capabilities of the silicon and software stack to realize the best user experience.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Key Qualifications&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Experience developing stressors at the system level preferably in macOS and iOS environments. &lt;br&gt;&lt;br&gt;Good understanding of Silicon Design, System Software and Validation methodologies.&lt;br&gt;&lt;br&gt;Experience with Python, JavaScript, Databases, C/C++.&lt;br&gt;&lt;br&gt;Experience deploying automation infrastructure.&lt;br&gt;&lt;br&gt;Knowledge of low-level firmware. &lt;br&gt;&lt;br&gt;Knowledge of Power, Performance and Thermal Control Architectures and Design.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Description&lt;br&gt;&lt;/strong&gt; &lt;br&gt;As a System Integration Engineer you will be responsible for: &lt;br&gt;&lt;br&gt;- Ensuring Power, Performance and Thermal Control Architectures are robust.&lt;br&gt;&lt;br&gt;- Realizing the intent of the Architectures in Products used by our customers.&lt;br&gt;&lt;br&gt;- Driving improvements in the Architectures generation-over-generation. &lt;br&gt;&lt;br&gt;- Developing and executing architectural verification and validation plans that surface flaws early in the development cycle. &lt;br&gt;&lt;br&gt;- Develop various sub-system stressors by understanding the silicon, system design and the necessary firmware and software. &lt;br&gt;&lt;br&gt;- Working closely with cross functional teams specify, architect and develop the telemetry required for fast debug. &lt;br&gt;&lt;br&gt;- Develop automation scripts that can be deployed widely for testing, data collection and analysis.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Education &amp;amp; Experience&lt;br&gt;&lt;/strong&gt; &lt;br&gt;BS (CS, CE or EE) with 10 years of relevant experience. MS preferred.&lt;br&gt;&lt;br&gt; &lt;br&gt;Role Number: 200199822&lt;br&gt;&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:36:21.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": "System Integration Engineer - Platform Architecture"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

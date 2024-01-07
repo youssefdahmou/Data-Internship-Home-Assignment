@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services",
+    "description": "&lt;p&gt;&lt;strong&gt;Data Scientist&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; Bellevue, WA (mostly remote work)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Contract:&lt;/strong&gt; 10 month contract with potential to extend&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Benefits: &lt;/strong&gt;3 weeks of PTO annually&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Pay Rate:&lt;/strong&gt; $50/hr on W2&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;DRI tickets (10-25 a week) &amp;amp; Experimentation support&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Respond to tickets, flag if need to be raised to EXP or guide teams. Typical issues.&lt;/li&gt;&lt;li&gt;Debug why scorecards aren\u2019t running/ late, build interesting slices etc.&lt;/li&gt;&lt;li&gt;How to analyze a scorecard (needs ramp up with DS/Dev)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Experimentation health&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Build back P0 (auto shut down) reporting - no reports today to see scorecard delays.&lt;/li&gt;&lt;li&gt;Metrics and templates clean up to reduce load on COSMOS where unnecessary&lt;/li&gt;&lt;li&gt;Make sure metrics have updated descriptions&lt;/li&gt;&lt;li&gt;Monitor and remove certain repeat scorecards as needed &lt;/li&gt;&lt;li&gt;Triage new metric additions / MG changes to follow best practices (description, use cache) etc. (include DS/Dev)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Dashboard&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Monitor platform experimentation health&lt;/li&gt;&lt;li&gt;Ensure updates are done at least weekly for syncs&lt;/li&gt;&lt;li&gt;Updates to dashboard for new data&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Experiment program&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Arrange and or share exp brownbags and remind / rally folks experiments&lt;/li&gt;&lt;li&gt;Maintain a FAQs / Wiki&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Communication&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Share monthly updates on health, top changes, top asks, top questions (offline or office hrs)&lt;/li&gt;&lt;li&gt;Share live sites via emails / banners&lt;/li&gt;&lt;li&gt;Update banners in exp or tools etc.&lt;/li&gt;&lt;li&gt;Update or follow up on tooling messages to give self-serve directions -&amp;gt; propose fixes/solutions.&lt;/li&gt;&lt;li&gt;Office hours support - Host it, Pull experts, Gather questions and follow ups, answer frequent ones&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Required Qualification&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;SQL, Python, basic coding/scripting skills&lt;/li&gt;&lt;li&gt;Dashboarding - PowerBI or Tableau&lt;/li&gt;&lt;li&gt;Excellent communication and partnerships skills&lt;/li&gt;&lt;li&gt;Problem solving skills&lt;/li&gt;&lt;li&gt;6mo+ A/B Experimentation &amp;amp; Testing&lt;/li&gt;&lt;li&gt;Data Science experience&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Preferred Qualification&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Operations or Technical support handling experience&lt;/li&gt;&lt;li&gt;C family language programming experience&lt;/li&gt;&lt;li&gt;MS data stack experience like Cosmos/SCOPE&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-26T17:01:46.000Z"
+  },
+  "company": {
+    "name": "Apex Systems",
+    "link": "https://www.linkedin.com/company/apex-systems"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Data Scientist"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 45,
+    "max_value": 50,
+    "unit": "HOUR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bellevue",
+    "region": "WA",
+    "postal_code": "98007",
+    "street_address": null,
+    "latitude": 47.6137,
+    "longitude": -122.19093
+  }
+}

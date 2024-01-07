@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "(Natural ADABAS) Data Conversion Analyst",
+    "industry": "",
+    "description": "&lt;p&gt;&lt;strong&gt;&lt;u&gt;PLEASE READ THE JOB DESCRIPTION CAREFULLY&lt;/u&gt;&lt;/strong&gt; &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;ROLE- Data Conversion Analyst (NATURAL / ADABAS EXP MUST) &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;LOCATION-SACRAMENTO, CA (REMOTE) &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;LONG-TERM CONTRACT &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Minimum Qualifications:&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;strong&gt;At least five (5) years within the last eight (8) years of experience programming in a Natural/ADABAS development environment.&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;At least (5) years of experience designing, developing, debugging and supporting complex data conversion processes using SQL Server.&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;At least five (5) years of experience demonstrating understanding of SDLC methodologies specific to requirements elicitation and analysis, analyzing business processes, business process modeling, preparing business use cases, logical data modeling, and design reports.&lt;/strong&gt;&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Desirable Qualifications:&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;strong&gt;Experience with a Natural Construct technical environment.&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Experience with the conversion of data from ADABAS to SQL Server.&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Experience with and knowledge of Job Control Language (JCL).&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Five (5) or more years of demonstrated experience working as a Natural developer in a pension or financial system.&lt;/strong&gt;&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-25T17:43:51.000Z"
+  },
+  "company": {
+    "name": "xFusion Technologies, Inc.",
+    "link": "https://www.linkedin.com/company/xfusion-technologies"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "(Natural ADABAS) Data Conversion Analyst"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Sacramento",
+    "region": "CA",
+    "postal_code": "95820",
+    "street_address": null,
+    "latitude": 38.576935,
+    "longitude": -121.49495
+  }
+}

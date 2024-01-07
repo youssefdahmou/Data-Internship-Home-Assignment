@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "Title : Site Reliability Engineer&lt;br&gt;Location : Seattle WA ( Remote )&lt;br&gt;Position type : Full time&lt;br&gt;&lt;br&gt;Title : Site Reliability Engineer.&lt;br&gt;Position type  : Full time&lt;br&gt;Location : Seattle WA&lt;br&gt;&lt;br&gt;Job description&lt;br&gt;&lt;br&gt;Summary of Experience:&lt;br&gt; &lt;br&gt;- Coding and Operations experience (5+ years combined)&lt;br&gt;- Designing, supporting and deploying all types of applications and tools (2+ years)&lt;br&gt;- Support of CI\\CD Dev Tooling (2+ years)&lt;br&gt;- Operating complex, large-scale Enterprise applications or web sites (4+ years)&lt;br&gt;- Experience working in an environment that implemented Agile (2+ years)&lt;br&gt;- Ecommerce experience (2+ years)&lt;br&gt; &lt;br&gt;Required Knowledge, Skills, and Abilities:&lt;br&gt; &lt;br&gt;- Continuous delivery tooling &lt;br&gt;- Cloud Experience, preferably with AWS &amp; Terraform&lt;br&gt;- Security experience: Akamai CDN &amp; Bot Manager&lt;br&gt;- Keen understanding of branching, versioning and release strategies&lt;br&gt;- Scripting languages, such as Python, Bash, Perl&lt;br&gt;- Infrastructure as code: Terraform&lt;br&gt;- Hands on experience with Jenkins and artifact repository (Nexus) administration&lt;br&gt;- Experience with automating software tests in a pipeline&lt;br&gt;- Proven experience with ELK stack, New Relic, Netdata, Graphite, Grafana &lt;br&gt;- Commercial retail website architecture.&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T18:35:21.000Z"
+  },
+  "company": {
+    "name": "Cloudix Inc.",
+    "link": "https://www.linkedin.com/company/cloudix-cloudix"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Site Reliability Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

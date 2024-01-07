@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Computer &amp; Network Security,Information Technology and Services,Nanotechnology",
+    "description": "&lt;p&gt;R&amp;amp;D division of a prominent Security Conglomerate, is hiring a Data Scientist for its Arlington based operations(remote flex). A few responsibilities include: creating data analytic models to improve data metrics, analyzing customer behavior and trends, delivering insights to stakeholders and executives, as well embarking on data ingestion and data streaming. The ideal candidate will be well versed with: machine learning tools, python, R, Elastic Search, and Apache Spark and have experience with predictive analytics in a forward thinking environment.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Must Haves:&lt;/em&gt;&lt;/p&gt;&lt;p&gt;- 3+ years experience as Data Scientist&lt;/p&gt;&lt;p&gt;- Bachelors degree in related field&lt;/p&gt;&lt;p&gt;- Proficient with Python and R languages&lt;/p&gt;&lt;p&gt;- Experience with Postgres and MongoDB&lt;/p&gt;&lt;p&gt;- Worked with modern BI and analytic software platforms&lt;/p&gt;&lt;p&gt;- Experience with Data ingestion tools&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Great to have:&lt;/em&gt;&lt;/p&gt;&lt;p&gt;- Masters degree/PHD in related field&lt;/p&gt;&lt;p&gt;- Experience with Machine Learning Tools&lt;/p&gt;&lt;p&gt;- Experience web scraping with Python&lt;/p&gt;&lt;p&gt;- Development background utilizing JVM languages&lt;/p&gt;&lt;p&gt;- Background with Elastic Search&lt;/p&gt;&lt;p&gt;&lt;em&gt;Package:&lt;/em&gt;&lt;/p&gt;&lt;p&gt;- Full-time Direct hire with amazing benefits&lt;/p&gt;&lt;p&gt;- Education/tuition reimbursement plans&lt;/p&gt;&lt;p&gt;- Plethora of healthcare options&lt;/p&gt;&lt;p&gt;- Employee retirement matching plans&lt;/p&gt;&lt;p&gt;- Yearly bonus plans&lt;/p&gt;&lt;p&gt;- Many more&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T21:03:36.000Z"
+  },
+  "company": {
+    "name": "Stem IT",
+    "link": "https://www.linkedin.com/company/stemitstaffing"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": "Data Scientist"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Washington",
+    "region": "DC",
+    "postal_code": "20398",
+    "street_address": null,
+    "latitude": 38.892063,
+    "longitude": -77.01991
+  }
+}

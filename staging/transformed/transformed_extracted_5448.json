@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software",
+    "description": "&lt;strong&gt;Site Reliability Engineer - Unicorn startup w/ Revenue&lt;br&gt;&lt;br&gt;&lt;/strong&gt;This Jobot Job is hosted by Adam Bennett&lt;br&gt;&lt;br&gt;Are you a fit? Easy Apply now by clicking the \"Apply\" button and sending us your resume.&lt;br&gt;&lt;br&gt;&lt;strong&gt;A Bit About Us&lt;br&gt;&lt;br&gt;&lt;/strong&gt;We\u2019re a software company that has built a PaaS product that enables large enterprises to automate business decisions! We have a long list of current clients and have a line out the door of companies who want to integrate our platform into their supply chain, inventory, sales, and operation applications!&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;Why join us?&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;/strong&gt;We\u2019re at an inflection point. We\u2019re scaling our teams and potentially doubling our company in size! We\u2019re currently over 300 people. We have a culture-first organization and the leader of the DevOps / SRE team wants to see everyone succeed. We\u2019re looking for engineers to help us scale! We\u2019re an AWS/ Azure shop and rely heavily on Kubernetes for scale.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Job Details&lt;br&gt;&lt;br&gt;&lt;/strong&gt;Must have Senior experience with deploying and maintaining Kubernetes.&lt;br&gt;&lt;br&gt;Ideally, you have Sr. level experience with a scripting language to scale infrastructure.&lt;br&gt;&lt;br&gt;Senior experience supporting cloud applications in AWS or Azure.&lt;br&gt;&lt;br&gt;Monitoring applications are a really big \u201cnice to have\u201d&lt;br&gt;&lt;br&gt;Interested in hearing more? Easy Apply now by clicking the \"Apply\" button.&lt;br&gt;&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-22T21:09:24.000Z"
+  },
+  "company": {
+    "name": "Jobot",
+    "link": "https://www.linkedin.com/company/jobot"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Site Reliability Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Jose",
+    "region": "CA",
+    "postal_code": "95148",
+    "street_address": null,
+    "latitude": 37.334793,
+    "longitude": -121.888145
+  }
+}

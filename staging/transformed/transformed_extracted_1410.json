@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist/Engineer - 37041",
+    "industry": "Defense &amp; Space",
+    "description": "&lt;strong&gt;&lt;u&gt;Job Description&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;Enlighten, an Alion Company is looking for a Data Scientist/Engineer to join our team. The Data Scientist/Engineer will establish and implement end-to-end proof of concepts for leading edge analytic and data mining systems. This work may include modifying data during the ETL process, exploring new datasets to understand the data and derive value, and generating analytics with complementary dashboards and visualizations. They will be responsible for the creation of innovative methodologies for extracting key parameters from big data coming from various sensors.&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;Security Clearance&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;A current TS/SCI (Top Secret) level U.S. Government clearance is required and therefore all candidates must be a U.S. Citizen. &lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Required Skills&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;em&gt;Candidates must have most of the following required skills:&lt;br&gt;&lt;/em&gt;&lt;ul&gt;&lt;li&gt;B.S. degree in Computer Science, Electrical Engineering, Statistics, Operations Research, Applied Math, or equivalent fields&lt;/li&gt;&lt;li&gt;Must have 5+ years of Data Scientist or equivalent experience working with data (Software Engineering, Database Design, etc.)&lt;/li&gt;&lt;li&gt;Must have a software development background in order to prototype custom analytics/tooling&lt;/li&gt;&lt;li&gt;Practical experience with data analysis and exploration, especially with diverse data sets&lt;/li&gt;&lt;li&gt;Experience in streaming and/or batch analytics (e.g. Kafka, Spark, Flink, Storm, MapReduce, Hadoop)&lt;/li&gt;&lt;li&gt;Architect and work closely with other team members to develop scalable cloud-based data analytic solutions&lt;/li&gt;&lt;li&gt;Familiar with scalable distributed data processing, management, and visualization tools (e.g. Hadoop, ELK, Kafka, Accumulo, graph databases, etc.).&lt;/li&gt;&lt;li&gt;Capable of applying the latest technologies and methodologies in machine learning, data mining, and predictive analytics to correlate disparate datasets and events, and derive value.&lt;/li&gt;&lt;li&gt;Has a proven ability to learn quickly and works well both independently as well as in a team setting&lt;/li&gt;&lt;li&gt;Other duties as assigned.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Desired Skills&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Experience with containers (e.g. Docker, Kubernetes)&lt;/li&gt;&lt;li&gt;Experience with DoD data types and current DoD Data Strategies&lt;/li&gt;&lt;li&gt;CJ *NF&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;Security Clearance: Top Secret/Sensitive Comp Info&lt;br&gt;&lt;br&gt;Telework - Limited",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Alion Science and Technology",
+    "link": "https://www.linkedin.com/company/alionscience"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Data Scientist/Engineer - 37041"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Linthicum Heights",
+    "region": "MD",
+    "postal_code": "21090",
+    "street_address": null,
+    "latitude": 39.195045,
+    "longitude": -76.68526
+  }
+}

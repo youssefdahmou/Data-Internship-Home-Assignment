@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer/ Data Scientist",
+    "industry": "",
+    "description": "&lt;p&gt;Long Term Project (18+ Months)&lt;/p&gt;&lt;p&gt;We are looking for ML and Data Scientist both candidates.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Must be strong with Azure and Databricks.&lt;/p&gt;&lt;p&gt;Must be strong with Azure data pipeline creation.&lt;/p&gt;&lt;p&gt;Experience with ML Model deployment.&lt;/p&gt;&lt;p&gt;Expert with python/spark&lt;/p&gt;&lt;p&gt;Strong knowledge of basic DS/ML Concepts&lt;/p&gt;&lt;p&gt;Experience with NLP&lt;/p&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-05T19:10:23.000Z"
+  },
+  "company": {
+    "name": "AgreeYa Solutions",
+    "link": "https://www.linkedin.com/company/agreeya-solutions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Machine Learning Engineer/ Data Scientist"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Plano",
+    "region": "TX",
+    "postal_code": "75093",
+    "street_address": null,
+    "latitude": 33.019695,
+    "longitude": -96.697586
+  }
+}

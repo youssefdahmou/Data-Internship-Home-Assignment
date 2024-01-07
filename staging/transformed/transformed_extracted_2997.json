@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "&lt;p&gt;We are sourcing for Site Reliability Engineer with fully remote position. Please review the below detailed job description mention and let me know if you are interested&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Position: Site Reliability Engineer&lt;/p&gt;&lt;p&gt;Location: fully remote position&amp;nbsp;&lt;/p&gt;&lt;p&gt;Duration: 12+ Months Position &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Job Summary:&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Candidate have hands on experience in Monitoring tools App Dynamics Dyna trac Splunk ELK Moogsoft Sumo Logic and experience in Application Performance Managing Real User Monitoring infrastructure monitoring and log analysis tool such as Dynatrace Nagios Sensu and Splunk.&lt;/p&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-06T14:45:05.000Z"
+  },
+  "company": {
+    "name": "New York Technology Partners",
+    "link": "https://www.linkedin.com/company/new-york-technology-partners"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Site Reliability Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

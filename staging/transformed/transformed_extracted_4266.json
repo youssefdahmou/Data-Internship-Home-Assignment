@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "Job Title: Software Engineer&lt;br&gt;Location: Orlando, FL&lt;br&gt;Duration: 12 Months&lt;br&gt;&lt;br&gt;The Role:&lt;br&gt;We are seeking software engineers in Orlando as part of a core team developing DirectX/Direct3D drivers for desktop/laptop systems. This team is essential to the success of as a growing company. You will be working with the very best in our technology, on some of the most exciting projects the industry has to offer, including Cloud Gaming, Machine Learning, Virtual Reality, Ray Tracing, Direct3D 12, and new game titles.&lt;br&gt;&lt;br&gt;The Person:&lt;br&gt;Good communication skills and an ability to communicate well with teams around the globe&lt;br&gt;Ability to work independently and as part of a team&lt;br&gt;Passionate about learning, good software engineering, problem solving, and new technologies.&lt;br&gt;&lt;br&gt;Key Responsibilities:&lt;br&gt;The development, debugging, and performance tuning of graphics software running on Microsoft Windows.&lt;br&gt;Collaborating with ASIC design engineers and hardware/software architects, OS engineers and peers in related development teams.&lt;br&gt;The ability to debug low level hardware and operating system functionality is desired.&lt;br&gt;&lt;br&gt;Preferred Experience:&lt;br&gt;Excellent C/C++ programming skills.&lt;br&gt;Experience programming and optimizing games&lt;br&gt;Knowledge of computer hardware architecture and organization&lt;br&gt;Experience with Virtualization technologies&lt;br&gt;Experience with Linux and Windows OS&lt;br&gt;3D Graphics API knowledge and experience (D3D or Vulkan)&lt;br&gt;3D graphics driver knowledge and experience&lt;br&gt;Windows development experience&lt;br&gt;OS and performance knowledge and experience&lt;br&gt;Experience with multi-threading and concurrent programming&lt;br&gt;Familiarity with performance analysis tools&lt;br&gt;&lt;br&gt;Academic Credentials:&lt;br&gt;BS Degree; MS or PhD desired.&lt;br&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-17T16:06:58.000Z"
+  },
+  "company": {
+    "name": "Mindlance",
+    "link": "https://www.linkedin.com/company/mindlance"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Software Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Orlando",
+    "region": "FL",
+    "postal_code": "32889",
+    "street_address": null,
+    "latitude": 28.53833,
+    "longitude": -81.378876
+  }
+}

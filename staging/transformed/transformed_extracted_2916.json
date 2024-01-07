@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (Go)",
+    "industry": "Computer Software,Computer Networking,Computer Games",
+    "description": "The biggest multiplayer games in the world use Subspace to create the most competitive and engaging online experience possible. Backed by top Silicon Valley VCs and run by former executives from tech companies including Riot Games, SpaceX, Google, Facebook, as well as leading Telecom companies, Subspace builds deep tech in global networking.&lt;br&gt;&lt;br&gt;We're hyper-focused on \"leveling up\" in-game, and as a company. We are hiring people who help us raise the bar, add to our culture, and bring positivity, enthusiasm, and pride to what we are building. Our team members exhibit curiosity, are proactive by nature, genuinely enjoy complex challenges, and share a keen sense of urgency.&lt;br&gt;&lt;br&gt;We're looking for a &lt;strong&gt;Software Engineer (Go) &lt;/strong&gt; to help us design and build the most scalable, high-performance data plane for the next phase of our global infrastructure. We are actively working on solving challenging problems that require an intuitive and exploratory solution approach. Our team of engineers work collaboratively to help grow our business while providing the best experiences for our current and future customers.&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;What You'll Be Doing&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt; &lt;li&gt;Design and develop cloud control plane and data plane services&lt;/li&gt; &lt;li&gt;Build services that inspect and manipulate various network protocols&lt;/li&gt; &lt;li&gt;Build high performance servers for sending and receiving real-time network performance data&lt;/li&gt; &lt;li&gt;Thrive and contribute to our continuous improvements within Lean-Agile principles and methods&lt;/li&gt; &lt;li&gt;Deliver solutions in a complex environment while collaborating with innovative teams&lt;/li&gt; &lt;li&gt;Join a culture that has innovation at its core in order to achieve competitive growth and success&lt;/li&gt; &lt;br&gt;&lt;br&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;What You Bring To The Table&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt; &lt;li&gt;Bachelor's Degree in Computer Science or related field or equivalent experience&lt;/li&gt; &lt;li&gt;Industry experience building high-performance data plane services&lt;/li&gt; &lt;li&gt;Understanding of large-scale messaging and streaming platforms such as Apache Kafka&lt;/li&gt; &lt;li&gt;Understanding of networking and how to monitor telemetry systems&lt;/li&gt; &lt;li&gt;Experience with programming languages Golang, C, Rust, and C++&lt;/li&gt; &lt;li&gt;Experience in network and web security technologies (firewalls, web security, IDP / IPS, DNS based security, eBPF, packet routing fundamentals, wireshark, etc.)&lt;/li&gt; &lt;li&gt;Good fundamentals of UDP, IP headers, IPv4/IPv6, and DNS protocols&lt;/li&gt; &lt;li&gt;Proven experience designing and implementing features in large distributed systems&lt;/li&gt; &lt;li&gt;Solid understanding of algorithms and data structure fundamentals&lt;/li&gt; &lt;li&gt;Experience working with open-source projects and collaborating with open-source communities&lt;/li&gt; &lt;li&gt;Ability to communicate with internal and external engineering teams as well as the broader organization&lt;/li&gt; &lt;br&gt;&lt;/ul&gt;Subspace's mission is to build a momentous software-defined network and make it universally available and impactful. Our goal is to serve the globe, which requires a team that is representative of the world that we serve. As a company we embrace an accelerated approach to diversity and inclusion, and support and encourage our employees to be comfortable bringing their full, authentic selves to work. We believe in fostering an environment where diverse perspectives thrive; this core value is a pillar of our business and is critical to our success.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T20:48:25.000Z"
+  },
+  "company": {
+    "name": "Subspace",
+    "link": "https://www.linkedin.com/company/subspace-com"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Software Engineer (Go)"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Denver Metropolitan Area",
+    "region": null,
+    "postal_code": "80205",
+    "street_address": null,
+    "latitude": 39.756443,
+    "longitude": -104.99415
+  }
+}

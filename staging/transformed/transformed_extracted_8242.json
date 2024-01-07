@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "&lt;p&gt;&lt;strong&gt;Site Reliability Engineer&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Sunnyvale, CA&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;6 Months&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;5+ years of Experience in managing highly-scalable and distributed systems.&lt;/p&gt;&lt;p&gt;Knowledge of Web Services, HTTP/HTTPS Protocols.&lt;/p&gt;&lt;p&gt;Knowledge of Data Security, SSL, Certificates, etc.&lt;/p&gt;&lt;p&gt;Strong problem solving, and troubleshooting skills&lt;/p&gt;&lt;p&gt;Experience in performance tuning of the applications including JVM tuning, memory profiling.&lt;/p&gt;&lt;p&gt;Provide OnCall support to 1st level production support teams.&lt;/p&gt;&lt;p&gt;Fast learner who is generous with their knowledge&lt;/p&gt;&lt;p&gt;Self-directed, demonstrates leadership potential, and a great teammate.&lt;/p&gt;&lt;p&gt;Experience with container orchestration systems like Kubernetes, and Continuous Delivery platforms like Spinnaker, is a plus&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-13T18:12:30.000Z"
+  },
+  "company": {
+    "name": "AMISEQ",
+    "link": "https://www.linkedin.com/company/amiseq-inc."
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Site Reliability Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Sunnyvale",
+    "region": "CA",
+    "postal_code": "94089",
+    "street_address": null,
+    "latitude": 37.373676,
+    "longitude": -122.036575
+  }
+}

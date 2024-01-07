@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Silicon Validation Software Engineer: Linux - USB / PCIe / Thunderbolt (USB4)",
+    "industry": "Consumer Electronics",
+    "description": "&lt;br&gt;&lt;strong&gt;Summary&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Imagine what you could do here!  At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly.  Bring passion and dedication to your job and there's no telling what you could accomplish.  Dynamic, smart people and inspiring, innovative technologies are the norm here.  The people who work here have reinvented entire industries with all Apple Hardware products.  The same passion for innovation that goes into our products also applies to our practices strengthening our commitment to leave the world better than we found it.  Join us to help deliver the next groundbreaking Apple product. &lt;br&gt;&lt;br&gt;&lt;br&gt;Are you passionate about changing the world? We have a critical impact on getting high quality functional products to millions of customers quickly and we are hiring all levels from junior to senior roles. As part of the silicon validation team, you will develop Linux device drivers and user-land applications/scripts for exercising and validating USB subsystem in complex SoCs.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Key Qualifications&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Experienced in embedded Linux kernel development &lt;br&gt;&lt;br&gt;Must have expertise with Linux, Thunderbolt/USB4, PCIe and/or USB&lt;br&gt;&lt;br&gt;Strong debugging skills in kernel context and Linux user applications&lt;br&gt;&lt;br&gt;You are a skilled C programmer and good at scripting using bash/python&lt;br&gt;&lt;br&gt;Experience with using test equipment and USB protocol analyzer is a must&lt;br&gt;&lt;br&gt;Familiarity with ARM architecture&lt;br&gt;&lt;br&gt;Proven knowledge of Linux kernel internals (process scheduler, memory management, concurrency/synchronization, memory allocation, file systems)&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Description&lt;br&gt;&lt;/strong&gt; &lt;br&gt;-  You will develop Linux software to validate the USB/USB4/Thunderbolt/PCIE IP in Apple Silicon&lt;br&gt;&lt;br&gt;-  Get involved with debug of hardware issues, working closely with IP designers&lt;br&gt;&lt;br&gt;-  Generate and execute validation plans for IP level and system level use cases&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Education &amp;amp; Experience&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Bachelor's or Master's degree in Electrical Engineering or Computer Science is required&lt;br&gt;&lt;br&gt; &lt;br&gt;Role Number: 200254007&lt;br&gt;&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-18T05:43:34.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Silicon Validation Software Engineer: Linux - USB / PCIe / Thunderbolt (USB4)"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Beaverton",
+    "region": "OR",
+    "postal_code": "97007",
+    "street_address": null,
+    "latitude": 45.486595,
+    "longitude": -122.795616
+  }
+}

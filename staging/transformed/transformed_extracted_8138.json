@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Software Engineer",
+    "industry": "Defense &amp; Space",
+    "description": ".&lt;br&gt;&lt;br&gt;Responsible for designing, developing, integrating and testing various USW algorithms.&lt;br&gt;&lt;br&gt;Specifically applies ML principles and techniques for USW products.&lt;br&gt;&lt;br&gt;Conducts research and development of new and proven techniques to optimize code and deliver production quality code-base to various programs on-site.&lt;br&gt;&lt;br&gt;Requires working on-site.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-29T22:32:02.000Z"
+  },
+  "company": {
+    "name": "Lockheed Martin",
+    "link": "https://www.linkedin.com/company/lockheed-martin"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Machine Learning Software Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Manassas",
+    "region": "VA",
+    "postal_code": "20108",
+    "street_address": null,
+    "latitude": 38.75077,
+    "longitude": -77.47509
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "AI/ML- Machine Learning Engineer, Information Intelligence",
+    "industry": "Consumer Electronics",
+    "description": "&lt;br&gt;&lt;strong&gt;Summary&lt;br&gt;&lt;/strong&gt; &lt;br&gt;The AI/ML - Information Intelligence teams are creating groundbreaking technology for algorithmic search, machine learning, natural language processing, and artificial intelligence. The features we create are redefining how hundreds of millions of people use their computers and mobile devices to search and find what they are looking for. Our universal search engine powers search features across a variety of Apple products, including Siri, Spotlight, Safari, Messages and Lookup. As part of this group, you will work with one of the most exciting high performance computing environments, with petabytes of data, millions of queries per second, and have an opportunity to imagine and build products that delight our customers every day.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Key Qualifications&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Experience with one or more general purpose programming languages including but not limited to: Go, C/C++, Java or Python.&lt;br&gt;&lt;br&gt;Experience with search engine, information retrieval, machine learning, NLP is a plus.&lt;br&gt;&lt;br&gt;Experience working with large data sets and pipelines (e.g. MapReduce, Spark) is a plus&lt;br&gt;&lt;br&gt;Excellent analytical and problem solving skills&lt;br&gt;&lt;br&gt;Can write clean and effective code following modern software engineering best practices&lt;br&gt;&lt;br&gt;Appetite to dig into data/logs and features to figure out why something does not work as expected&lt;br&gt;&lt;br&gt;2+ years experience writing code which runs in containerized (Kubernetes/Mesos/Borg) environment a plus&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Description&lt;br&gt;&lt;/strong&gt; &lt;br&gt;- Design and build infrastructures to support features that empowers billions of Apple users&lt;br&gt;&lt;br&gt;- Perform language processing, statistical analysis, and query analysis to support your hypothesis for how to improve product-outcomes.&lt;br&gt;&lt;br&gt;- Leverage proprietary MapReduce platform to process web scale data to deliver product features and improvements.&lt;br&gt;&lt;br&gt;- Design &amp;amp; run/deploy various metrics and evaluations of features/improvements using a variety of tools like grading, logs processing, pre-launch and holdback A/Bs.&lt;br&gt;&lt;br&gt;- Present results of analysis to team and leadership across Apple.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Education &amp;amp; Experience&lt;br&gt;&lt;/strong&gt; &lt;br&gt;BS in Computer Science, Mathematics, Statistics, or a related field, or equivalent proven experience. Masters/PhD preferred.&lt;br&gt;&lt;br&gt; &lt;br&gt;Role Number: 200224378&lt;br&gt;&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T07:57:01.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": "AI/ML- Machine Learning Engineer, Information Intelligence"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

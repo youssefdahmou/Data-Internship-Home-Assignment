@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Developer Manager - Machine Learning",
+    "industry": "Consumer Electronics",
+    "description": "&lt;br&gt;&lt;strong&gt;Summary&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Apple\u2019s GPU Compute and Advance Rending team provides a suite of high performance GPU algorithms and computation graph for developers inside and outside of Apple for iOS, macOS and tvOS. Team is passionate about providing acceleration for machine learning frameworks like TensorFlow &amp;amp; PyTorch, and algorithms across machine learning, linear algebra, image processing and ray tracing on Apple\u2019s GPUs. We are always looking for exceptionally hardworking individuals to grow our outstanding team.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Key Qualifications&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Proven programming and problem solving skills&lt;br&gt;&lt;br&gt;Good understanding of machine learning fundamentals&lt;br&gt;&lt;br&gt;Experience with system level programming and computer architecture&lt;br&gt;&lt;br&gt;Strong communication and teamwork skills&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Description&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Our team is looking for an engineering manager to lead the team responsible for building and maintaining GPU acceleration support for machine learning frameworks like TensorFlow and PyTorch, and collaborating with driver, compiler, metal frameworks and hardware groups to provide the best acceleration of ML Training on current and future HW. The ideal candidate would have previous technical leadership experience, Machine Learning experience, understanding of GPU architecture, and be willing to learn about new technologies.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Education &amp;amp; Experience&lt;br&gt;&lt;/strong&gt; &lt;br&gt;BS or MS Degree or equivalent experience.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Additional Requirements&lt;br&gt;&lt;/strong&gt; &lt;br&gt;-  Experience with machine learning libraries (TensorFlow. PyTorch); adding runt time and computation graph support is a plus&lt;br&gt;&lt;br&gt;&lt;br&gt;-  Experience with high performance parallel programming, GPU programming experience a plus&lt;br&gt;&lt;br&gt; &lt;br&gt;Role Number: 200259247&lt;br&gt;&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:30:31.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Software Developer Manager - Machine Learning"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "&lt;strong&gt;Introduction&lt;br&gt;&lt;/strong&gt;The data science team at iRobot builds models, runs experiments, and conducts analyses to understand our fleet of millions of consumer robots. Our expertise in machine learning, statistical analysis, experimentation, and focus on the customer help us to produce data-driven digital features for robots and users around the world. Join our team as a data scientist with a focus on marketing applications!&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;What You Will Do&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Perform analyses and data mining to better understand our customers and our business, joining data points across multiple sources.&lt;/li&gt;&lt;li&gt;Develop metrics to track company performance, contribute to data definitions, and write documentation.&lt;/li&gt;&lt;li&gt;Build models to forecast revenue, understand attribution or LTV, and predict conversion or churn rates.&lt;/li&gt;&lt;li&gt;Test hypotheses about company performance using appropriate statistical methods.&lt;/li&gt;&lt;li&gt;Uphold scientific best practices in experimental design and testing.&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;To Be Successful You Will Have&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Bachelor\u2019s degree in a STEM field or social sciences \u2013 M.S is a plus!&lt;/li&gt;&lt;li&gt;At least 1-2 years of relevant job, internship, or co-op experience at a direct-to-consumer brand, marketing agency, or consultancy.&lt;/li&gt;&lt;li&gt;Proficient in Python (pandas, numpy, sklearn, scipy), SQL, and data visualization (matplotlib, seaborn, or plotly).&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;Possess fundamental understanding of machine learning algorithms (e.g. regression, decision trees, time-series analysis, clustering, etc.)&lt;/li&gt;&lt;li&gt;Savvy in statistical methods and able to select the right test for the situation.&lt;/li&gt;&lt;li&gt;Can balance business considerations with the need for scientific rigor.&lt;/li&gt;&lt;li&gt;Customer-focused, with demonstrated experience in the marketing domain.&lt;/li&gt;&lt;li&gt;Self-motivated and comfortable working in a fast-paced, delivery-focused environment.&lt;/li&gt;&lt;li&gt;Skilled communicator who can collaborate effectively across multiple teams.&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T14:28:22.000Z"
+  },
+  "company": {
+    "name": "iRobot",
+    "link": "https://www.linkedin.com/company/irobot"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": "Data Scientist"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bedford",
+    "region": "MA",
+    "postal_code": "01730",
+    "street_address": null,
+    "latitude": 42.492237,
+    "longitude": -71.279945
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer ( C++ Developer)",
+    "industry": "Internet",
+    "description": "&lt;p&gt;VISA SPONSORSHIP IS NOT AVAILABLE&lt;/p&gt;&lt;p&gt;Our large, Fortune Technology client is ranked as one of the best companies to work with, in the world. The client fosters progressive culture, creativity, and a flexible work environment. They use cutting-edge technologies to keep themselves ahead of the curve. Diversity in all aspects is respected. Integrity, experience, honesty, people, humanity, and passion for excellence are some other adjectives that define this global technology leader.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Remote role to start and once environment changes, the candidate will be located either in the Novi, MI office or the Provo, UT office.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;REQUIRED EDUCATION/EXPERIENCE&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;5 to 7 years of software development experience&lt;/li&gt;&lt;li&gt;Ability to write professional code (clean &amp;amp; good design)&lt;/li&gt;&lt;li&gt;Strong experience with C++ language and related tooling (e.g. compilers, cross-platform, etc.)&lt;/li&gt;&lt;li&gt;Experience working in an agile team, CI/CD with Jenkins and automated deployment&lt;/li&gt;&lt;li&gt;High attention to detail&lt;/li&gt;&lt;li&gt;BS/MS in Computer Science/Engineering or a related field&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;RESPONSIBILITIES:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Design, build and maintain efficient, secure, reusable and reliable code&lt;/li&gt;&lt;li&gt;Develop solutions that are portable across platforms&lt;/li&gt;&lt;li&gt;Apply continuous attention to technical excellence and good design, resulting in a straightforward solution and reducing complexity&lt;/li&gt;&lt;li&gt;Write test automation and help your team to deliver frequent incremental releases using CD pipeline&lt;/li&gt;&lt;li&gt;Help promote and drive sound engineering design, process and quality practices&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;TECHNOLOGIES WE USE&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;C++, Python&lt;/li&gt;&lt;li&gt;Windows, Mac &amp;amp; Linux&lt;/li&gt;&lt;li&gt;QT&lt;/li&gt;&lt;li&gt;CMake, Nuget&lt;/li&gt;&lt;li&gt;Jenkins&lt;/li&gt;&lt;li&gt;Git, GitHub, Perforce&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;DESIRED QUALIFICATION:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Experience with Python is a plus&lt;/li&gt;&lt;li&gt;Experience building cross-platform Desktop/GUI applications on Windows/Linux/Mac (Example toolkits like Win32/MFC/.NET, Objective-C/Cocoa frameworks, Qt frameworks etc)&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-17T07:27:03.000Z"
+  },
+  "company": {
+    "name": "Applicantz",
+    "link": "https://www.linkedin.com/company/applicantz-ai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Software Engineer ( C++ Developer)"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 52.59,
+    "max_value": 52.59,
+    "unit": "HOUR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

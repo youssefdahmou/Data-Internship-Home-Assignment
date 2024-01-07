@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services",
+    "description": "&lt;p&gt;&lt;strong&gt;Data Scientist- St. Louis&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;no C2C, must be our W2.&lt;/p&gt;&lt;p&gt;Will consider qualified OPT if valid through August, 2022&lt;/p&gt;&lt;p&gt;&lt;strong&gt;You will:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Implement and design prototypes for data wrangling, preprocessing, postprocessing and visualization mechanisms, and&lt;/p&gt;&lt;p&gt;Design predictive/machine learning/AI type analytical models.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;\u2022 Collaborate with data scientists/engineers/stewards on data extraction and data cleaning.&lt;/p&gt;&lt;p&gt;\u2022 Design, implement and optimize statistical and machine learning models based on structured and unstructured data.&lt;/p&gt;&lt;p&gt;\u2022 Work closely with the software engineering team in the delivery of the developed models.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;\u2022 PhD in Mathematics, Economics, Operations Research or a related field with statistics courses/publications/proven expertise or...&lt;/p&gt;&lt;p&gt;\u2022 Master's&amp;nbsp;degree plus 2 years of industry experience outside of academia&lt;/p&gt;&lt;p&gt;\u2022 Proficient in machine learning algorithms and&amp;nbsp;concepts;&lt;/p&gt;&lt;p&gt;\u2022 Ability to work in a highly interactive, team-oriented environment. Comfort in communicating technical content in an&amp;nbsp;easy to understand&amp;nbsp;way&lt;/p&gt;&lt;p&gt;\u2022 Proficiency of at least one of Python or R is a must-have and working knowledge of the other&lt;/p&gt;&lt;p&gt;\u2022 Working knowledge of programming languages such as SQL, Java,&amp;nbsp;Javascript, and&amp;nbsp;Anylogic&amp;nbsp;simulation software is a plus.&lt;/p&gt;&lt;p&gt;\u2022 Experience with optimization models and commercial solvers is a plus.&lt;/p&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-09T21:41:23.000Z"
+  },
+  "company": {
+    "name": "Envision",
+    "link": "https://www.linkedin.com/company/envision"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": "Data Scientist"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "St. Louis City County",
+    "region": "MO",
+    "postal_code": "63121",
+    "street_address": null,
+    "latitude": 38.635357,
+    "longitude": -90.20099
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Software,Information Technology and Services,Research",
+    "description": "&lt;p&gt;&lt;strong&gt;Machine Learning Engineer - MLOps&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;San Francisco (Remote across the US)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Salary - $150,000 - $160,000&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;We require hands-on&amp;nbsp;&lt;strong&gt;Machine Learning Engineers&lt;/strong&gt;&amp;nbsp;who are capable of developing an innovative platform that integrates Computer Vision and Machine Learning. The company is currently building the core engineering team and as a&amp;nbsp;Machine Learning Engineer, you will join a highly experienced founding team who have over 20 years of industry experience along with a proven track record of scaling innovative technology companies.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;As a&amp;nbsp;&lt;strong&gt;Machine Learning Engineer&lt;/strong&gt;, you will be tasked with the design, research, and development of their machine learning and Computer Vision architecture/technology.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;As a &lt;strong&gt;Machine Learning Engineer&lt;/strong&gt;, you will be tasked with building and integrating end-to-end lifecycles of large-scale, distributed machine learning systems using the latest open-source technologies. You will be building software that improves your rate of experimentations which helps you make better decisions about what to try next. You will need to train, evaluate and debug deep learning models for complex tasks and improve distributed cloud GPU training approaches for those deep learning models.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Skills and Experience&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Degree in Computer Science, Engineering, Machine Learning, or related field.&lt;/li&gt;&lt;li&gt;You will have a clear passion for everything artificial intelligence, machine learning, deep learning, and computer vision-related.&lt;/li&gt;&lt;li&gt;Experience with cloud processing technologies such as Spark, Dask, Presto, etc...&lt;/li&gt;&lt;li&gt;Experience with several machine learning software stacks e.g. Caffe, TensorFlow, Theano, and PyTorch TensorRT.&lt;/li&gt;&lt;li&gt;Solid Software Engineering skills in highly complex multi-language systems with Python being your primary language.&lt;/li&gt;&lt;li&gt;Experience with computer vision, in various areas such as image processing, image retrieval &amp;amp; object detection would be a bonus.&lt;/li&gt;&lt;li&gt;CUDA experience again would be a bonus.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Do this sound like a challenge you would like to get involved with? If so, contact John at Logikk on&amp;nbsp;+4420 3005 4968&amp;nbsp;or john@logikk.com&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-13T12:45:46.000Z"
+  },
+  "company": {
+    "name": "Logikk",
+    "link": "https://uk.linkedin.com/company/logikk"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Machine Learning Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco Bay Area",
+    "region": null,
+    "postal_code": "94112",
+    "street_address": null,
+    "latitude": 37.39271,
+    "longitude": -122.042
+  }
+}

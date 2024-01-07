@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer Jr/Mid - 100K-140K DOE with Security Clearance",
+    "industry": "Information Technology and Services,Defense &amp; Space,Computer Software",
+    "description": "&lt;ul&gt;&lt;li&gt;Minimum Active Top Secret Level Security Clearance experience in full stack development, including front end and back end&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;coding and a thorough knowledge of the SDLC&lt;br&gt;&lt;br&gt;experience designing and developing real time ETL architecture for real time&lt;br&gt;&lt;br&gt;predictive analytics.&lt;br&gt;&lt;br&gt;experience with Apache Hive, Apache Spark and Apache Yarn&lt;br&gt;&lt;br&gt;Bachelor's degree in Computer Science, Engineering, Mathematics or other business-&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;Related Field Preferred&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt; 5+ years of relevant consulting or industry experience&lt;/li&gt;&lt;li&gt; Interest in event streaming architectures, such as Apache Kafka&lt;/li&gt;&lt;li&gt; Creativity and innovation \u2013 desire to learn and apply new technologies, products, and&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;libraries&lt;br&gt;&lt;ul&gt;&lt;li&gt; Prior professional services or federal consulting experience&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:25:12.000Z"
+  },
+  "company": {
+    "name": "ClearanceJobs",
+    "link": "https://www.linkedin.com/company/clearancejobs.com"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Data Engineer Jr/Mid - 100K-140K DOE with Security Clearance"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Arlington",
+    "region": "VA",
+    "postal_code": "22210",
+    "street_address": null,
+    "latitude": 38.890762,
+    "longitude": -77.084755
+  }
+}

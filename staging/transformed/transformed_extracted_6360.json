@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Health, Wellness and Fitness,Medical Practice,Hospital &amp; Health Care",
+    "description": "&lt;strong&gt;Work That Matters &lt;/strong&gt;- Our work is 24 hours a day, 365 days a year.&lt;br&gt;&lt;br&gt;No one has more expertise treating children than Children's Hospital Los Angeles. CHLA is the only children's hospital in California to make the prestigious U.S. News &amp;amp; World Report Honor Roll of \"Best\" children's hospitals, and is nationally ranked in all 10 pediatric specialties.&lt;br&gt;&lt;br&gt;Join a hospital where the work you do will matter\u2014to you, to your colleagues, and above all, to our patients and families. At times the work may be challenging, but it is always rewarding. We hope you\u2019ll come and find out for yourself.&lt;br&gt;&lt;br&gt;&lt;strong&gt;It\u2019s &lt;em&gt;Work That Matters&lt;/em&gt;.&lt;br&gt;&lt;br&gt;&lt;/strong&gt;The Data Scientist conducts research in medical applications of data science by applying techniques and models from machine learning and computational statistics to large amounts of clinical data.&lt;br&gt;&lt;br&gt;In consultation with senior technical members of the team, designs and executes research and development projects and experiments, using advanced computational techniques to generate novel medical insights and to build clinical decision support systems.&lt;br&gt;&lt;br&gt;Additional information about the team and previous projects can be found at http://vpicu.net/&lt;br&gt;&lt;br&gt;&lt;strong&gt;Minimum Qualifications/Work Experience: &lt;/strong&gt;Bachelor\u2019s Degree in a Stem field &lt;strong&gt;and&lt;/strong&gt; 2+ years\u2019 experience conducting research in computer science, statistics, or algorithm development or MS/PhD in Stem field Publications are a plus.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Education/Licensure/Certifications: &lt;/strong&gt;B.S in Computer Science, Statistics, Physics, Electrical Engineering, or related field. M.S. in Computer Science, Statistics, Physics, Electrical Engineering, or related field. Ph.D. preferred. Graduate-level coursework in machine learning, data mining, visualization, statistics, artificial intelligence, probabilistic models, or optimization.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-22T03:14:53.000Z"
+  },
+  "company": {
+    "name": "Children's Hospital Los Angeles (CHLA)",
+    "link": "https://www.linkedin.com/company/children%27s-hospital-los-angeles-chla"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": "Data Scientist"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Glendale",
+    "region": "CA",
+    "postal_code": "91205",
+    "street_address": null,
+    "latitude": 34.148136,
+    "longitude": -118.24644
+  }
+}

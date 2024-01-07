@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Python Data Engineer",
+    "industry": "Information Technology and Services,Computer Software,Management Consulting",
+    "description": "Tectonic is a leading technology and business services company serving mid-sized business to enterprise customers with a focus on Insight to Action automation in the cloud. Insight to Action is the intersection of big data, analytics, marketing automation, and CRM that provides an integrated approach to automating customer interaction&lt;br&gt;&lt;br&gt;We are seeking a Python Data Engineer with the training and curiosity to make big-data discoveries, build the resources necessary to enable those discoveries, to be responsible for coordinating activities.&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;Responsibilities&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt; &lt;li&gt; Build/own client\u2019s data pipelines&lt;/li&gt; &lt;li&gt; Build data processing/analytics tools for research and trading&lt;/li&gt; &lt;li&gt; Partner with Traders, Quants, Researchers, and Data Scientists to solve their critical data problems &lt;/li&gt; &lt;br&gt;&lt;br&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Requirements&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt; &lt;li&gt; 2+ years of experience in Data/Software Engineering, Data Science, or a related field &lt;/li&gt; &lt;li&gt; Solid understanding of computer science fundamentals, data structures, algorithms, distributed systems, etc.&lt;/li&gt; &lt;li&gt; Strong programming background with Python ideally&lt;/li&gt; &lt;li&gt; Experience with Big Data/Data Pipelining technologies (ex Spark, Airflow, Kafka, etc.)&lt;/li&gt; &lt;li&gt; Strong problem solving and communication skills&lt;/li&gt; &lt;li&gt; Interest in working in a fast-paced/high-impact environment&lt;/li&gt; &lt;br&gt;&lt;br&gt;&lt;/ul&gt;&lt;u&gt;&lt;strong&gt;Benefits&lt;br&gt;&lt;/strong&gt;&lt;/u&gt;&lt;ul&gt; &lt;li&gt;Health Care Plan (Medical, Dental &amp;amp; Vision)&lt;/li&gt; &lt;li&gt;Retirement Plan (401k, IRA)&lt;/li&gt; &lt;li&gt;Life Insurance (Basic, Voluntary &amp;amp; AD&amp;amp;D)&lt;/li&gt; &lt;li&gt;Paid Time Off (Vacation, Sick &amp;amp; Public Holidays)&lt;/li&gt; &lt;li&gt;Family Leave (Maternity, Paternity)&lt;/li&gt; &lt;li&gt;Short Term &amp;amp; Long Term Disability&lt;/li&gt; &lt;li&gt;Training &amp;amp; Development&lt;/li&gt; &lt;li&gt;Work From Home&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T03:22:06.000Z"
+  },
+  "company": {
+    "name": "Tectonic, an insight2action technology services company",
+    "link": "https://www.linkedin.com/company/tectonic-insight-to-action"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": "Python Data Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Englewood",
+    "region": "CO",
+    "postal_code": "80110",
+    "street_address": null,
+    "latitude": 39.649437,
+    "longitude": -104.98891
+  }
+}

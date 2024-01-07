@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Marketing and Advertising",
+    "description": "&lt;p&gt;&lt;strong&gt;&lt;u&gt;Responsibilities:&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Understands that testing and coding go hand in hand&lt;/li&gt;&lt;li&gt;Solves problems with SOLID reusable components built on well known patterns&lt;/li&gt;&lt;li&gt;Has the ability to produce clean, DRY code on aggressive timelines&lt;/li&gt;&lt;li&gt;Can mentor other team members and show them the path to clean, DRY code&lt;/li&gt;&lt;li&gt;Believes that good code metrics are not just interesting goals but requirements&lt;/li&gt;&lt;li&gt;Possesses strong Git-fu&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Requirements&lt;/u&gt;&lt;/strong&gt;: &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Computer Science degree or related&lt;/li&gt;&lt;li&gt;Has experience with Java, Spring Framework and Javascript&lt;/li&gt;&lt;li&gt;Has experience with MySQL, Postgres, or equivalent RDBMS&lt;/li&gt;&lt;li&gt;Experience with Map/Reduce programming and Hadoop is preferred&lt;/li&gt;&lt;li&gt;Experience working in Amazon Web Services is preferred&lt;/li&gt;&lt;li&gt;Experience with containerization is preferred&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T17:16:18.000Z"
+  },
+  "company": {
+    "name": "Cypress HCM",
+    "link": "https://www.linkedin.com/company/cypress-hcm"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Software Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Lisle",
+    "region": "IL",
+    "postal_code": "60532",
+    "street_address": null,
+    "latitude": 41.80125,
+    "longitude": -88.07478
+  }
+}

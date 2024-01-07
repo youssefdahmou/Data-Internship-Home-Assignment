@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Detailed JD: &lt;/p&gt;&lt;p&gt;\u2022&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Participate in architecture reviews. &lt;/p&gt;&lt;p&gt;\u2022&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Participate in operations reviews. &lt;/p&gt;&lt;p&gt;\u2022&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Identify and automate measurement of operations KPIs. &lt;/p&gt;&lt;p&gt;\u2022&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;DevOps rollout and implementation &lt;/p&gt;&lt;p&gt;\u2022&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Automated the deployment of production ready technical solutions. &lt;/p&gt;&lt;p&gt;\u2022&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Writing automation that can be easily supported and extended by others. &lt;/p&gt;&lt;p&gt;\u2022&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Take full responsibility for the availability and performance of the platform. &lt;/p&gt;&lt;p&gt;\u2022&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;3+ years of software development experience&amp;nbsp;&lt;/p&gt;&lt;p&gt;\u2022&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Expert at problem solving, algorithms, and data structures. &lt;/p&gt;&lt;p&gt;\u2022&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Passionate about investigating, employing, and managing 3rd party and open source solutions when building a cloud native platform. &lt;/p&gt;&lt;p&gt;\u2022&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Experience operating solutions based on a microservice architecture &lt;/p&gt;&lt;p&gt;\u2022&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Experience in integrating and automating solutions to provide a highly scalable, high throughput platform. &lt;/p&gt;&lt;p&gt;Experience working with mature development practices and tools for source control, security, and deployment.&amp;nbsp;&lt;/p&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-18T18:08:30.000Z"
+  },
+  "company": {
+    "name": "Scrumlink",
+    "link": "https://www.linkedin.com/company/scrumlink"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": "Site Reliability Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

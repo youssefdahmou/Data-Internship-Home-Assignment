@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Accountant",
+    "industry": "Construction",
+    "description": "&lt;p&gt;Accountant&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Accountant Opening - Houston, TX&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt; &lt;br&gt; Our recruitment firm is seeking trustworthy Accountant to work for our client, a global manufacturing company. &lt;span&gt;To ensure success, the Accountant should be prompt, honest, detail-oriented, professional, and analytical. &lt;/span&gt;Candidates should have a firm grasp of accounting and financial practices and regulations and possess strong computer skills. &lt;span&gt;If you are looking for a career change with a great team environment, this is the job for you! &lt;br&gt;&lt;/span&gt; &lt;br&gt; &lt;/span&gt;&lt;span&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;Accountant Duties and Responsibilities:&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;Maintain general ledger&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Prepare budgets&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Financial reconciliation&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Profit and loss for multiple entities&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Perform month end closing &lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Report Sales Tax monthly&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Maintain Account Receivable&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Code Account payable for all vendors' bills&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;Accountant Preferred Education, Experience, &amp;amp; Requirements:&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;Bachelor's in accounting&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;2-5 years of relevant experience in Accounting&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Proficient with MS Office products including excellent Excel skills&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Microsoft Dynamics preferred&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Great communication skills&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Team player&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt; &lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;HOUAC49&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T00:27:47.000Z"
+  },
+  "company": {
+    "name": "Burnett Specialists",
+    "link": "https://www.linkedin.com/company/burnettspecialists"
+  },
+  "education": {
+    "required_credential": "associate degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": "Accountant"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Houston",
+    "region": "TX",
+    "postal_code": "77208",
+    "street_address": null,
+    "latitude": 29.760803,
+    "longitude": -95.36951
+  }
+}

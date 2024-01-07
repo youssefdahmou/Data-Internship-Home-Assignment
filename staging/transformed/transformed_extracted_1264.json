@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "System Test Engineer",
+    "industry": "Information Technology and Services,Semiconductors,Wireless",
+    "description": "&lt;p&gt;Responsibilities:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Test planning, execution, and troubleshooting for RF software/systems issues.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Qualifications:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Strong familiarity with at least one of the following wireless technologies: 5G NR, LTE, 4G, WCDMA,, TD-SCDMA, or CDMA2000&lt;/li&gt;&lt;li&gt;Exposure to programming in Python, C, Perl, shell scripting, etc is a plus&lt;/li&gt;&lt;li&gt;Understanding of Physical/MAC layers and Call Processing concepts in one or more of the following air interface standards 5G (NSA, SA, mmW), LTE, CDMA2000, 1xEV-DO (Rev 0/A/B), GSM/ GPRS /EDGE / Rel99/ Rel5 / HSDPA/ HSUPA/HSPA+.&lt;/li&gt;&lt;li&gt;In depth understanding of wire line and wireless data protocol stacks including RLP, PPP, IP, TCP, IPV6, MIPV6, etc.&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-22T01:42:54.000Z"
+  },
+  "company": {
+    "name": "ALTEN",
+    "link": "https://fr.linkedin.com/company/alten"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "System Test Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "&lt;strong&gt;Who We Are &lt;br&gt;&lt;br&gt;&lt;/strong&gt;Nvisia partners with clients to help them adopt new technologies, build great software, and enable their teams. We do this by working alongside client developers, giving them a voice in the solution, and providing them with a sense of ownership from the beginning. Our consultants are passionate about technology, robust architecture, and software craftmanship. They know that building great software starts with building great teams. Internally, nvisia emphasizes attracting, retaining, and growing individuals who are passionate about their craft and continually improving their skills. We are a group of creative problem-solvers \u2013with a shared desire to learn, grow, and work collaboratively to find solutions for our clients that they can sustain long-term.&lt;br&gt;&lt;br&gt;&lt;strong&gt; Who You Are &lt;br&gt;&lt;br&gt;&lt;/strong&gt;You are a Software Engineer, passionate about technology, naturally solution oriented, excelling at problem solving. You embrace change, eager to learn new domains as well as technologies. You are seeking to create a lasting impact in every opportunity, focusing on building software that sustains.&lt;br&gt;&lt;br&gt;&lt;strong&gt; Responsibilities &lt;br&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Utilizes sound engineering principles to build robust, secure, scalable, and appropriately tested features from end to end&lt;/li&gt;&lt;li&gt;Works with technologies across the full development stack -front and backend, DevOps and cloud&lt;/li&gt;&lt;li&gt;Translates business requirements into designs and code that achieve business and technical objectives&lt;/li&gt;&lt;li&gt;Works collaboratively, with a number of cross cutting teams to solve complex technical challenges to meet business goals&lt;/li&gt;&lt;li&gt;Builds confidence, trust and rapport with client personnel.&lt;/li&gt;&lt;li&gt;Helps mentor junior development staff&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt; Qualifications &lt;br&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;BA or BS, preferably in computer science, engineering, or science/technology-based discipline&lt;/li&gt;&lt;li&gt;2-5 years of software development experience building front and/or backend applications&lt;/li&gt;&lt;li&gt;Strong working knowledge of Java, .NET or C# and corresponding frameworks&lt;/li&gt;&lt;li&gt;Understanding and implementation of software patterns and best practices&lt;/li&gt;&lt;li&gt;Understanding of devops concepts and cloud infrastructure&lt;/li&gt;&lt;li&gt;Passion and desire to learn new tools and technologies&lt;/li&gt;&lt;li&gt;Creative, flexible and enjoys having impactful input to every aspect of the development life cycle&lt;/li&gt;&lt;li&gt;Welcomes and supports change&lt;/li&gt;&lt;li&gt;Results oriented, focused on delivering tasks with high level of quality&lt;/li&gt;&lt;li&gt;Effective and professional communication skills, both verbal and written&lt;/li&gt;&lt;li&gt;Self-motivated and customer-focused&lt;/li&gt;&lt;li&gt;Collaborative&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T05:11:46.000Z"
+  },
+  "company": {
+    "name": "nvisia",
+    "link": "https://www.linkedin.com/company/nvisia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": "Software Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Milwaukee",
+    "region": "WI",
+    "postal_code": "53215",
+    "street_address": null,
+    "latitude": 43.041073,
+    "longitude": -87.909424
+  }
+}

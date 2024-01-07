@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer/SRE",
+    "industry": "Information Technology and Services,Consumer Electronics,Consumer Services",
+    "description": "&lt;ul&gt;&lt;li&gt;6+ years in a software development, DevOps role, or SRE role.&lt;/li&gt;&lt;li&gt;Experience in designing, investigating, analyzing and troubleshooting large-scale enterprise systems.&lt;/li&gt;&lt;li&gt;Methodical and systematic problem solving approach, combined with a solid awareness of ownership, initiative and drive.&lt;/li&gt;&lt;li&gt;Fluency with running services at scale; In depth understanding of Unix systems internals and networking.&lt;/li&gt;&lt;li&gt;Networking knowledge and in depth understanding of network concepts, such as different protocols (TCP/IP, UDP, ICMP, etc.), MAC addresses, IP packets, DNS, OSI layers, and load balancing).&lt;/li&gt;&lt;li&gt;Understanding of Unix/Linux systems from kernel to shell and beyond, taking in system libraries, file systems, and client-server protocols along the way. Experience administering Linux systems in a production environment&lt;/li&gt;&lt;li&gt;Programming experience in one or more of the following languages: Go, Java, Python, Ruby, Shell&lt;/li&gt;&lt;li&gt;Bachelor's Degree in Computer Science or a related field, or relevant work experience&lt;/li&gt;&lt;li&gt;Experience with distributed version control like Git or similar&lt;/li&gt;&lt;li&gt;Experience with IaaS and PaaS providers such as AWS, AZURE, OpenStack, GCP&lt;/li&gt;&lt;li&gt;Experience with containerization and container platforms. (e.g. Docker, Kubernetes, Docker EE, OpenShift, Mesosphere).&lt;/li&gt;&lt;li&gt;Experience with enterprise monitoring solutions like Dynatrace, AppDynamics, New Relic, Prometheus, Graphite, Grafana, Nagios, Sensu and Splunk&lt;/li&gt;&lt;li&gt;Familiarity with continuous integration/deployment processes and tools such as Jenkins, Maven, Nexus, etc.,&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-10-14T20:34:45.000Z"
+  },
+  "company": {
+    "name": "AMISEQ",
+    "link": "https://www.linkedin.com/company/amiseq-inc."
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": "Site Reliability Engineer/SRE"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

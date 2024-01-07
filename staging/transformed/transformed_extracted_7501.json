@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Spark / Scala Data Engineer",
+    "industry": "Information Technology and Services",
+    "description": "&lt;strong&gt;Location: Sunnyvale, CA or Austin, TX Seattle WA &lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;strong&gt;Fulltime &lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;strong&gt;Candidate must be open to relocate post COVID&lt;br&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Experience in developing Big Data applications using java, Scala, python, Spark, Hive, Kafka, apache airflow&lt;/li&gt;&lt;li&gt;Strong analytical and interpersonal skills. Should be highly motivated and ability to learn quick&lt;/li&gt;&lt;li&gt;7-10 years with min 5 years experience &amp;amp; In-depth understanding of data structures and algorithms&lt;/li&gt;&lt;li&gt;Designing and building dimensional data models to improve accessibility, efficiency, and quality of data&lt;/li&gt;&lt;li&gt;Database development experience with Relational or MPP/distributed systems such as Oracle/Teradata/Vertica/HANA/Hadoop/ &lt;/li&gt;&lt;li&gt;Programming experience in building high quality applications, data pipelines and analytics solutions. &lt;/li&gt;&lt;li&gt;Experience in working with frameworks, transpilers, code generators&lt;/li&gt;&lt;li&gt;Should be proficient in writing Advanced SQLs, Expertise in performance tuning of SQLs. &lt;/li&gt;&lt;/ul&gt; Exposure to cloud methodologies and experience with AWS preferred",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-12T03:52:39.000Z"
+  },
+  "company": {
+    "name": "Centraprise",
+    "link": "https://www.linkedin.com/company/centraprise"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": "Spark / Scala Data Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Juneau",
+    "region": "AK",
+    "postal_code": "99802",
+    "street_address": null,
+    "latitude": 58.301037,
+    "longitude": -134.42464
+  }
+}

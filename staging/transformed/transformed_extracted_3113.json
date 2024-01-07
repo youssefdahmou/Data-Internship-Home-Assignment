@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Software,Financial Services,Human Resources",
+    "description": "We are looking for top-tier talent that is passionate about building innovative AI-driven products and features for HCM solutions used by millions of companies and their employee across the globe.&lt;br&gt;&lt;br&gt;The Machine Learning Engineer designs, implements and optimizes tools, ML pipelines and architectures enabling rapid creation and deployment of intelligence across products and systems in ADP.&lt;br&gt;&lt;ul&gt;&lt;li&gt; Develop, test, and deploy high quality machine learning application pipelines from ingestion to visualization&lt;/li&gt;&lt;li&gt; Work with machine learning researchers to create and deploy AI/Machine learning solutions support complex business cases.&lt;/li&gt;&lt;li&gt; Optimize and automate machine learning model A/B testing and in-application performance monitoring &lt;/li&gt;&lt;li&gt; Work at the cutting-edge of graph-based machine learning systems&lt;/li&gt;&lt;li&gt; Adaptive, creative, collaborative and self-starter.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Education &amp;amp; Experience Requirements&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Advanced degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems or a related field plus 2-5 years of related experience. &lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Experience Must Include&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt; 3+ professional experience with Python/Java/Scala/C++&lt;/li&gt;&lt;li&gt; Professional experience with application development environment (CI/CD, Git, Jira) and big data tools (Hadoop/Spark/Hive/Kafka)&lt;/li&gt;&lt;li&gt; Strong experience with at least one cloud solution: AWS, GCP, Azure&lt;/li&gt;&lt;li&gt; Familiar with distributed systems and rest API design &lt;/li&gt;&lt;li&gt; Advanced knowledge with SQL and NoSQL databases&lt;/li&gt;&lt;li&gt; Experience with at least one data visualization tools&lt;/li&gt;&lt;li&gt; Experience with standard software engineering methodology, e.g. unit testing, test automation, continuous integration, code reviews, design reviews and design documentation&lt;/li&gt;&lt;li&gt; Understanding of Docker and Kubernetes&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;Location:&lt;br&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;This position can be located in our Parsippany, NJ, Alpharetta, GA or Toronto, ON offices&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;#LITECH&lt;br&gt;&lt;br&gt;&lt;strong&gt;Explore our COVID-19 page https://tech.adp.com/covid19/ to understand how ADP is approaching safety, travel, the hiring interview process, and more.&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;strong&gt;Diversity, Equity, Inclusion &amp;amp; Equal Employment Opportunity at ADP:&lt;/strong&gt; ADP affirms that inequality is detrimental to our associates, our clients, and the communities we serve. Our goal is to impact lasting change through our actions. Together, we unite for equality and equity. ADP is committed to equal employment opportunities regardless of any protected characteristic, including race, color, genetic information, creed, national origin, religion, sex, affectional or sexual orientation, gender identity or expression, lawful alien status, ancestry, age, marital status, or protected veteran status and will not discriminate against anyone on the basis of a disability. We support an inclusive workplace where associates excel based on personal merit, qualifications, experience, ability, and job performance.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Ethics at ADP:&lt;/strong&gt; ADP has a long, proud history of conducting business with the highest ethical standards and full compliance with all applicable laws. We also expect our people to uphold our values with the highest level of integrity and behave in a manner that fosters an honest and respectful workplace. Click https://jobs.adp.com/life-at-adp/ to learn more about ADP\u2019s culture and our full set of values.&lt;br&gt;&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T21:09:08.000Z"
+  },
+  "company": {
+    "name": "ADP",
+    "link": "https://www.linkedin.com/company/adp"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": "Machine Learning Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Alpharetta",
+    "region": "GA",
+    "postal_code": "30022",
+    "street_address": null,
+    "latitude": 34.075615,
+    "longitude": -84.29455
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "",
+    "description": "&lt;p&gt;We are looking for a research-oriented engineer to design, develop and test algorithms and architectures for unstructured information retrieval and classification. As a full-time engineer, you will take ownership of research and development of various algorithms for information extraction, language understanding and image processing. You will also be involved in writing scripts for web crawling, data cleansing and model validation.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Preferred Educational Qualifications&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;B.Tech/M.Tech with relevant projects.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Required Skills&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;C/C++/Python&lt;/li&gt;&lt;li&gt;Tensorflow/PyTorch&lt;/li&gt;&lt;li&gt;OpenCV or similar toolkits&lt;/li&gt;&lt;li&gt;Exposure to NLP in a professional environment&lt;/li&gt;&lt;li&gt;Strong theoretical understanding of probability theory and machine learning&lt;/li&gt;&lt;li&gt;Strong understanding of data structures and algorithms&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Desired Skills&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Building web applications and creating REST APIs&lt;/li&gt;&lt;li&gt;Databases - SQL or NoSQL&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;If you're data-driven and are looking to work on cutting-edge research and development, apply right away!&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T12:48:14.000Z"
+  },
+  "company": {
+    "name": "Glib",
+    "link": "https://in.linkedin.com/company/glib-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Machine Learning Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "IN",
+    "locality": "India",
+    "region": null,
+    "postal_code": null,
+    "street_address": null,
+    "latitude": 22.351994,
+    "longitude": 79.36288
+  }
+}

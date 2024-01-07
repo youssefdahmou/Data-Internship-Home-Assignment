@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Retail,Financial Services",
+    "description": "&lt;strong&gt;&lt;u&gt;Description&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;ESSENTIAL JOB DUTIES AND RESPONSIBILITIES*&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt; Provide their expertise to a team of Data Scientist, Machine Learning Engineer, and Data Engineers to augment existing services and develop new capabilities at GameStop.&lt;/li&gt;&lt;li&gt; Contribute to one or more ongoing projects and initiatives.&lt;/li&gt;&lt;li&gt; Leverage clustering, network, NLP, and other analytical tools to better understand the relationships between customers and products.&lt;/li&gt;&lt;li&gt; Develop statistical and machine learning models to improve customer facing eCommerce services.&lt;/li&gt;&lt;li&gt; Contribute to the entire lifecycle of a project to ensure it technologically sound.&lt;/li&gt;&lt;li&gt; Supporting and/or aiding the development of analytical dashboard and reporting tools and processes&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;MINIMUM QUALIFICATIONS, JOB SKILLS, ABILITIES&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt; Accredited bachelor\u2019s degree in computer science, mathematics, or similar field; equivalent work experience may be considered as a substitution. Master\u2019s degree preferred.&lt;/li&gt;&lt;li&gt; 2+ years of experience as a Data Scientist, Machine Learning Engineer, or similar role&lt;/li&gt;&lt;li&gt; Experienced in querying and working with SQL and NoSQL databases&lt;/li&gt;&lt;li&gt; Experience developing and evaluating machine/deep learning models.&lt;/li&gt;&lt;li&gt; Proficient in Python/R programming language&lt;/li&gt;&lt;li&gt; Experience with cloud service providers like AWS and GCP&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Preferred Qualifications, Job Skills, Abilities&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt; 1+ years of experience working with retail data on analytical projects.&lt;/li&gt;&lt;li&gt; Experience developing cloud-based data services on cloud service providers like AWS and GCP.&lt;/li&gt;&lt;li&gt; Ability to work with big data in the form of systems like Hadoop and BigQuery.&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T22:37:36.000Z"
+  },
+  "company": {
+    "name": "GameStop",
+    "link": "https://www.linkedin.com/company/gamestop"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": "Data Scientist"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Grapevine",
+    "region": "TX",
+    "postal_code": "76051",
+    "street_address": null,
+    "latitude": 32.93656,
+    "longitude": -97.0867
+  }
+}

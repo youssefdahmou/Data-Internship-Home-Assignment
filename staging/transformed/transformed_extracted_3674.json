@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "&lt;p&gt;&lt;strong&gt;&lt;strong&gt;Data Scientist&lt;/strong&gt;&lt;/strong&gt; &lt;/p&gt;&lt;p&gt;tl;dr: An innovative seed-stage startup in the DevSecOps space is looking for a Data Scientist to join our team and help design and build NLP and anomaly detection models and algorithms using bleeding edge technology. &lt;/p&gt;&lt;p&gt;&lt;br&gt; &lt;/p&gt;&lt;strong&gt;&lt;strong&gt;Our tech-stack and R&amp;amp;D culture&lt;/strong&gt;&lt;/strong&gt;&lt;p&gt;As this is a greenfield application, we do not have all the details ironed out, &lt;em&gt;you&lt;/em&gt;&amp;nbsp;will help us do that. However, we\u2019ll probably be using some of these: &lt;/p&gt;&lt;p&gt;\u25cf &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;strong&gt;Databricks / Apache Spark / Presto / Hive / Athena &lt;/strong&gt;for data wrangling &lt;/p&gt;&lt;p&gt;\u25cf &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;strong&gt;PyTorch / TensorFlow / Keras / Scikit-learn &lt;/strong&gt;for ML/DL &lt;/p&gt;&lt;p&gt;\u25cf &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;strong&gt;AWS&lt;/strong&gt;&amp;nbsp;as a cloud provider &lt;/p&gt;&lt;p&gt;\u25cf &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;strong&gt;Python and Jupyter notebooks &lt;/strong&gt;well, for everything &lt;/p&gt;&lt;p&gt;&lt;br&gt; &lt;/p&gt;&lt;p&gt;We will be putting a high emphasis on: &lt;/p&gt;&lt;p&gt;\u25cf &amp;nbsp; &amp;nbsp; &amp;nbsp;Honing your skills &lt;/p&gt;&lt;p&gt;\u25cf &amp;nbsp; &amp;nbsp; &amp;nbsp;Non-blocking automatic MLOps CI/CD pipeline &lt;/p&gt;&lt;p&gt;\u25cf &amp;nbsp; &amp;nbsp; &amp;nbsp;Letting data scientists research and not distract them with endless unneeded meetings &lt;/p&gt;&lt;p&gt;\u25cf &amp;nbsp; &amp;nbsp; &amp;nbsp;Involvement and impact on the decision making process and roadmap of a new product &lt;/p&gt;&lt;p&gt;\u25cf &amp;nbsp; &amp;nbsp; &amp;nbsp;Open-source use and contribution &lt;/p&gt;&lt;p&gt;&lt;br&gt; &lt;/p&gt;&lt;p&gt;One of the challenges of data scientists is getting data, you\u2019ll have all the data you need, and then some. &lt;/p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;p&gt;&lt;strong&gt;&lt;strong&gt;What do we expect you to bring to the table?&lt;/strong&gt;&lt;/strong&gt;&lt;p&gt;We believe that for every highly functioning relationship, there must be a good synergy between the partners and that it must be a win-win situation for all. &lt;/p&gt;&lt;p&gt;Our key requirements are: &lt;/p&gt;&lt;p&gt;\u25cf &amp;nbsp; &amp;nbsp; &amp;nbsp;Enjoy your work and working with your team and be proud of it &lt;/p&gt;&lt;p&gt;\u25cf &amp;nbsp; &amp;nbsp; &amp;nbsp;Assume best intentions \u2013 we know we will! &lt;/p&gt;&lt;p&gt;\u25cf &amp;nbsp; &amp;nbsp; &amp;nbsp;Drive to build something amazing &lt;/p&gt;&lt;p&gt;\u25cf &amp;nbsp; &amp;nbsp; &amp;nbsp;Be excited about data and coding &lt;/p&gt;&lt;p&gt;\u25cf &amp;nbsp; &amp;nbsp; &amp;nbsp;Have strong opinions, but hold them loosely &lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;/p&gt;&lt;strong&gt;&lt;strong&gt;What will you be doing?&lt;/strong&gt;&lt;/strong&gt;&lt;p&gt;As a seed-stage team member, you will be working on a greenfield application and ML models. You will be an integral part of the design and architecture decision process, working directly with the other team members and leadership (we have a very flat structure). In this role you will have a huge impact on the success of the company. &lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;Minimum&amp;nbsp;Qualifications &lt;/strong&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt; &lt;/p&gt;&lt;p&gt;- At least 4 years of experience as a Data Scientist / Researcher / ML Engineer &lt;/p&gt;&lt;p&gt;- Hands-on experience building ML/DL&amp;nbsp;models&amp;nbsp;&lt;br&gt; &lt;/p&gt;&lt;p&gt;- Master's degree or equivalent in a STEM field&amp;nbsp;&lt;br&gt; &lt;/p&gt;&lt;p&gt;&lt;br&gt; &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Preferred Qualifications&lt;/strong&gt; &lt;/p&gt;&lt;p&gt;- MLOps and data engineering experience&lt;br&gt; &lt;/p&gt;&lt;p&gt;- Familiarity with the DevOps ecosysetm &lt;/p&gt;&lt;p&gt;- Experience with NLP, anomaliy detetion&lt;br&gt; &lt;/p&gt;&lt;p&gt;- PhD in a STEM field&amp;nbsp;&lt;/p&gt;&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T18:09:35.000Z"
+  },
+  "company": {
+    "name": "Stealth Startup",
+    "link": "https://www.linkedin.com/company/stealth-startup-51"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": "Data Scientist"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta Metropolitan Area",
+    "region": null,
+    "postal_code": "30317",
+    "street_address": null,
+    "latitude": 33.74975,
+    "longitude": -84.38857
+  }
+}

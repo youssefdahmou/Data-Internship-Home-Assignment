@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "",
+    "description": "&lt;p&gt;We are looking for an experienced Senior Software Engineer who is passionate and has cybersecurity experience. The incumbent will be responsible for writing and coding individual programs, presenting to clients and more. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Duties and Responsibilities&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Interpret business requirements and technical specifications&lt;/li&gt;&lt;li&gt;Design APIs to encompass service functionality&lt;/li&gt;&lt;li&gt;Perform coding to technical specifications&lt;/li&gt;&lt;li&gt;Investigate, analyze and document reported defects&lt;/li&gt;&lt;li&gt;Perform maintenance programming and correction of identified defects&lt;/li&gt;&lt;li&gt;Create and document and implement unit test plans, scripts, and test harnesses&lt;/li&gt;&lt;li&gt;Create and maintain technical documentation using defined technical documentation templates&lt;/li&gt;&lt;li&gt;Participate in brainstorm sessions with the team&lt;/li&gt;&lt;li&gt;Co-lead presentations, demo our software and answer client questions&lt;/li&gt;&lt;li&gt;Performs related duties as assigned&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Skills / Attributes Required&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Minimum of 5 years experience&lt;/li&gt;&lt;li&gt;Substantial experience in C/C++ and C#&lt;/li&gt;&lt;li&gt;Multithreading (concurrent) programming abilities&lt;/li&gt;&lt;li&gt;System-level application/services programming experience&lt;/li&gt;&lt;li&gt;Knowledge of database architecture and design&lt;/li&gt;&lt;li&gt;Strong object-oriented programming skills and design patterns&lt;/li&gt;&lt;li&gt;Internationalization experience is a plus&lt;/li&gt;&lt;li&gt;Good communication skills, team player and cooperative&lt;/li&gt;&lt;li&gt;Ability to interpret requirements and technical specifications.&lt;/li&gt;&lt;li&gt;Ability to code software according to published standards and design guidelines.&lt;/li&gt;&lt;li&gt;Flexible attitude, ability to perform under pressure.&lt;/li&gt;&lt;li&gt;A commitment to quality and a thorough approach to the work.&lt;/li&gt;&lt;li&gt;Ability to work well within a team&lt;/li&gt;&lt;li&gt;Ability to work with minimal supervision&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T22:15:35.000Z"
+  },
+  "company": {
+    "name": "CryptoMill Cybersecurity Solutions",
+    "link": "https://ca.linkedin.com/company/cryptomill-technologies"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Senior Software Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "CA",
+    "locality": "Toronto",
+    "region": "ON",
+    "postal_code": "N3W1Z9",
+    "street_address": null,
+    "latitude": 43.651894,
+    "longitude": -79.381714
+  }
+}

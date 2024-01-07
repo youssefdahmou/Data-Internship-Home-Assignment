@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Full Stack Software Developer",
+    "industry": "Staffing and Recruiting",
+    "description": "&lt;p&gt;&lt;strong&gt;Job Title: Full Stack Software Developer&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Duration: 6+ months&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Location: San Diego, CA&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Duties: &lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Work closely with product and development teams to create an amazing user experience.&lt;/li&gt;&lt;li&gt;Build integration and unit tests along with code.&lt;/li&gt;&lt;li&gt;Work in agile development environment with short sprints and standups.&lt;/li&gt;&lt;li&gt;Implement proof of concept, prototypes and production-grade software.&lt;/li&gt;&lt;li&gt;Maintain and support existing software and hardware systems, infrastructure and production.&lt;/li&gt;&lt;li&gt;Assist support staff and team members in trouble-shooting software issues and implementing bug fixes.&lt;/li&gt;&lt;li&gt;Takes ownership of the code base. Work to continually improve code quality, and get bugs fixed and deployed rapidly&lt;/li&gt;&lt;li&gt;Experience in or knowledge of Python, Celery, Go, Elasticsearch, PostgreSQL, SaltStack, Flask, Git, React, Elixir.&lt;/li&gt;&lt;li&gt;Deep understanding and knowledge of virtualization (libvirt, KVM, Xenserver).&lt;/li&gt;&lt;li&gt;Excellent communication and interpersonal skills. Strong programming skills including software engineering methodologies and best practices.&lt;/li&gt;&lt;li&gt;REST/API development.&lt;/li&gt;&lt;li&gt;Strong experience with Python or other scripting languages.&lt;/li&gt;&lt;li&gt;Experience working in a Linux development environment.&lt;/li&gt;&lt;li&gt;Strong experience with relational databases, and specifically MySQL, Elasticsearch, Redis.&lt;/li&gt;&lt;li&gt;Excellent HTML, CSS and JavaScript skills. Experience in consuming RESTful APIs.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Skills: Required Skills : &lt;/strong&gt;Java, spring boot, Web services, AWS&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Education: &lt;/strong&gt;EOE AA M/F/Vet/Disability.&lt;/p&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-25T17:40:22.000Z"
+  },
+  "company": {
+    "name": "Russell Tobin",
+    "link": "https://www.linkedin.com/company/russell-tobin-&amp;-associates-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Full Stack Software Developer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "This innovative AI start up is looking for a Site Reliability Engineer to join their growing team. The company monitors AI after it is live to track any discrepancies or biases that hadn\u2019t been recognized already. They have their Series A and set up for a lot of growth and success.&lt;br&gt;&lt;br&gt;As an SRE you will be heavily leveraging Kubernetes and working closely with the data and machine learning teams. You will be interacting with a variety of infrastructures, depending the user so familiarity with both cloud and on premise will be helpful.&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;Required Skills &amp;amp; Experience&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt; &lt;li&gt;4+ years of relevant experience&lt;/li&gt; &lt;li&gt;Experience with Kubernetes&lt;/li&gt; &lt;li&gt;Experience working with big data and/or machine learning&lt;/li&gt; &lt;li&gt;Familiarity with both cloud and data center infrastructures&lt;/li&gt; &lt;br&gt;&lt;/ul&gt;The Offer&lt;br&gt;&lt;ul&gt; &lt;li&gt;Competitive Salary: Up to $155K/year, DOE&lt;/li&gt; &lt;li&gt;Bonus &lt;/li&gt; &lt;li&gt;Equity&lt;/li&gt; &lt;br&gt;&lt;br&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;You Will Receive The Following Benefits&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt; &lt;li&gt;Medical Insurance &amp;amp; Health Savings Account (HSA)&lt;/li&gt; &lt;li&gt;401(k)&lt;/li&gt; &lt;li&gt;Paid Sick Time Leave&lt;/li&gt; &lt;li&gt;Pre-tax Commuter Benefit&lt;/li&gt; &lt;br&gt;&lt;/ul&gt;Applicants must be currently authorized to work in the United States on a full-time basis now and in the future.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Posted By:&lt;/strong&gt; Jordan Taylor",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T09:26:13.000Z"
+  },
+  "company": {
+    "name": "Motion Recruitment",
+    "link": "https://www.linkedin.com/company/motion-recruitment-partners"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": "Site Reliability Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

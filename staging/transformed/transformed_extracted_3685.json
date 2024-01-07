@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Software",
+    "description": "&lt;p&gt;&lt;strong&gt;Role can be performed remotely , candidate needs to work US EST hours.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Working with state of the art technologies as part of AI/ ML platform's team enabling scientists in Drug discovery R&amp;amp;D, Safety, Supply chain, Digital Health.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Key requirements:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;\u2022BS/MS in Computer Science or Computer Engineering&lt;/p&gt;&lt;p&gt;\u20226+ years of experience designing &amp;amp; writing production-quality code&lt;/p&gt;&lt;p&gt;\u2022Good Knowledge of NVIDIA SDKs and HPC parallel systems&lt;/p&gt;&lt;p&gt;\u2022Excellent C/C++, CUDA and Python programming and software design skills, including debugging, performance analysis, and test&lt;/p&gt;&lt;p&gt;\u2022Knowledge of AWS/ Azure/ GCP cloud ecosystems to work closely on integration efforts with DevOps engineers&lt;/p&gt;&lt;p&gt;\u2022Exceptional attention to detail, close engagement in product design, and a constant focus on user experience&lt;/p&gt;&lt;p&gt;\u2022Strong interpersonal skills are required along with the ability to work in a agile &amp;amp; dynamic product-oriented teams on challenging projects&lt;/p&gt;&lt;p&gt;\u2022Good verbal and written communication skills in English&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Ways To Stand Out From The Crowd:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;\u2022Experience working with NVIDIA/ Xilinx or custom ASIC SDKs&lt;/p&gt;&lt;p&gt;2+ yrs of experience optimising AI/ ML applications&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T21:17:14.000Z"
+  },
+  "company": {
+    "name": "Sky Consulting Inc.",
+    "link": "https://www.linkedin.com/company/skyconsulting-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": "Machine Learning Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

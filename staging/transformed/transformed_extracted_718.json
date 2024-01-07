@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Big Data/Machine Learning Engineer - Sr",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "&lt;strong&gt;&lt;u&gt;Skills&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;SQL&lt;br&gt;&lt;br&gt;AWS products like Redshift, Snowflake, DMS, RDS, lambdas, Kubernetes&lt;br&gt;&lt;br&gt;Python , Pyspark&lt;br&gt;&lt;br&gt;ETL environment",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-28T00:00:00.000Z"
+  },
+  "company": {
+    "name": "DISYS",
+    "link": "https://www.linkedin.com/company/disys"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Big Data/Machine Learning Engineer - Sr"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Richmond",
+    "region": "VA",
+    "postal_code": "23284",
+    "street_address": null,
+    "latitude": 37.54076,
+    "longitude": -77.43393
+  }
+}

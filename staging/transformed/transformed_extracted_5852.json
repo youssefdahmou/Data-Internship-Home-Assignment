@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "System Engineer",
+    "industry": "Information Technology and Services",
+    "description": "&lt;p&gt;Job Title: &lt;strong&gt;&lt;u&gt;System Engineer (Office 365, Powershell Scripting &amp;amp; Active Directory)&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Location: San Jose, CA or PST/West Coast&lt;/p&gt;&lt;p&gt;Duration: 6 Months&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Duties:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;1. User Support and Development&lt;/p&gt;&lt;p&gt;- Two parts: Scripting automations and answering user ticket&lt;/p&gt;&lt;p&gt;2. Tickets can range from automation requests to assisting with O365 access.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Experience:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;1. O365&lt;/p&gt;&lt;p&gt;2. Powershell Scripting&lt;/p&gt;&lt;p&gt;3. Active Directory&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Nice to Have:&lt;/strong&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;OKTA&lt;/li&gt;&lt;li&gt;Google Workspace&lt;/li&gt;&lt;li&gt;Microsoft Technologies&lt;/li&gt;&lt;li&gt;Working in Active Directory&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tools and Programs:&lt;/strong&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;O365 \u2013 Suite of Microsoft applications \u2013 Outlook, Excel, Word, etc.&lt;/li&gt;&lt;li&gt;PowerShell Language for automation \u2013 Scripting&lt;/li&gt;&lt;li&gt;Active Directory Experience&amp;nbsp;.&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;em&gt;If you are interested, please share a good time and your number for a short discussion. Alternatively, you could share your updated resume&amp;nbsp;at &lt;/em&gt;anosh.kumar@bayonesolutions.com&lt;em&gt;&amp;nbsp;or call me at&amp;nbsp;&lt;/em&gt;(925) 218-2347&lt;em&gt;. Looking forward to hearing from you!&lt;/em&gt;&lt;/p&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-25T17:38:07.000Z"
+  },
+  "company": {
+    "name": "BayOne Solutions",
+    "link": "https://www.linkedin.com/company/bayone-solutions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "System Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Jose",
+    "region": "CA",
+    "postal_code": "95148",
+    "street_address": null,
+    "latitude": 37.334793,
+    "longitude": -121.888145
+  }
+}

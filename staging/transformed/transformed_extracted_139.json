@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Hospital &amp; Health Care",
+    "description": "&lt;p&gt;CitiusTech is a leader in HealthCare innovation. We work with over 120 medical technology, provider, payer&amp;nbsp;and life sciences companies across the US. We are rated among top 100 &lt;em&gt;Best Companies to Work For&lt;/em&gt; 8 years in a row and consistently&amp;nbsp;achieved the highest NPS in the Industry.&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Data Science team at CitiusTech is helping many of our clients transform customer experience, improve health outcomes and achieve business excellence through the power of AI/ML. We are growing rapidly by 2x year on year. As a team, we are focused on Deep Work in AI / ML as well as building a culture of openness and respect for each other.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Skills : &lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;AI/ML, cloud, Data Science , Python, R, CAIP, DLVM, Big Query, NLP notebook, Python notebook services, R Notebook services, Data exploration services, Data visualizations, Tableau, Terraform , TensorFlow&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Job Description&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Hands-on Cloud experience.&lt;/li&gt;&lt;li&gt;Experience configuring networking and/or IAM permissions and/or working directly with a networking team&lt;/li&gt;&lt;li&gt;Experience with deploying models in a production environment, notably a HIPAA or HITRUST environment&lt;/li&gt;&lt;li&gt;Experience with Cloud AI Platform (CAIP) job development and deploying models with customized pre-processing pipelines and prediction routines&lt;/li&gt;&lt;li&gt;Experience optimizing ML/AI/Deep Learning models&lt;/li&gt;&lt;li&gt;Working knowledge on Google Cloud, especially end-to-end machine learning with TensorFlow on GCP, Smart analytics &amp;amp; AI on GCP, Terraform, CAIP, DLVM, Big Query, NLP notebook, Python notebook services, R Notebook services, Data exploration services, Data visualizations, Tableau, RStudio, Speech to text, Text to speech services, IAM permissions configurations etc.&lt;/li&gt;&lt;li&gt;Experience evaluating and presenting costs($) and tradeoffs of various ML options&lt;/li&gt;&lt;li&gt;Self-starter with the ability to appropriately prioritize and plan complex work in a rapidly changing environment.&lt;/li&gt;&lt;li&gt;Strong conceptual and analytical skills, demonstrating outside-the-box problem solving skills, results oriented.&lt;/li&gt;&lt;li&gt;Team player with experience in leading and collaborating cross-team to ensure successful delivery of solution.&lt;/li&gt;&lt;li&gt;Work with customers to troubleshoot their technical issues and questions.&lt;/li&gt;&lt;li&gt;Excellent communication skills - should be able to explain the technical aspects to the business people and relevant stakeholders&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-08T21:10:41.000Z"
+  },
+  "company": {
+    "name": "CitiusTech",
+    "link": "https://www.linkedin.com/company/citiustech"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Machine Learning Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Rochester",
+    "region": "MN",
+    "postal_code": "55901",
+    "street_address": null,
+    "latitude": 44.019333,
+    "longitude": -92.45887
+  }
+}

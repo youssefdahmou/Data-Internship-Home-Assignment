@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sensing Systems Engineer",
+    "industry": "Consumer Electronics",
+    "description": "&lt;br&gt;&lt;strong&gt;Summary&lt;br&gt;&lt;/strong&gt; &lt;br&gt;The Camera Systems Engineering Group is responsible for the systems-level analysis, design and development of new camera features and technologies for performance enhancement. The team is seeking an exceptional systems engineer with broad skills to lead research projects.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Key Qualifications&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Expertise with sensing systems (preferably in magnetic sensing) &lt;br&gt;&lt;br&gt;Expertise in MATLAB and familiarity with Python &lt;br&gt;&lt;br&gt;Experience with signal processing, preferably in MATLAB &lt;br&gt;&lt;br&gt;Experience with magneto-static simulations of CAD using FEA methods.&lt;br&gt;&lt;br&gt;Experience with analog and digital electronics &lt;br&gt;&lt;br&gt;Experience in system-level requirements and documentation &lt;br&gt;&lt;br&gt;Broad knowledge of engineering concepts (device behavior, data analysis, and systems modeling) and associated tools: MATLAB, JMP &lt;br&gt;&lt;br&gt;Familiarity with control systems &lt;br&gt;&lt;br&gt;Familiarity with digital camera and optics technology &lt;br&gt;&lt;br&gt;Familiarity with CMOS image sensor technology &lt;br&gt;&lt;br&gt;Exposure to optical concepts and optical design &lt;br&gt;&lt;br&gt;Excellent written and verbal communication skills &lt;br&gt;&lt;br&gt;Great interpersonal skills - the ability to collaborate across groups &lt;br&gt;&lt;br&gt;Self-motivated, able to lead projects independently&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Description&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Duties include performing the systems-level analysis and modeling of sensing and imaging systems, the design and construction of prototypes to guide systems development and assess user impact, and the definition of system level tests for parametric specifications. Candidates should be highly skilled in several of these areas:&lt;br&gt;&lt;br&gt;&lt;br&gt;- Performing the systems-level analysis and modeling of sensing and imaging systems using Matlab&lt;br&gt;&lt;br&gt;- Defining and documenting systems architecture, requirements, use case analysis, and tests for camera features and technologies&lt;br&gt;&lt;br&gt;- Creating subsystem specifications by analyzing / modeling / characterizing electrical, optical, and optoelectronic components&lt;br&gt;&lt;br&gt;-  Defining subsystem and system level tests to characterize and/or guarantee parametric specifications&lt;br&gt;&lt;br&gt;-  Designing and performing laboratory experiments, and documenting the results&lt;br&gt;&lt;br&gt;-  Using computer control (Matlab, Python, etc..) to automate repetitive measurements.&lt;br&gt;&lt;br&gt;-  Managing project deliverables and schedules to meet commitments to product development teams&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Education &amp;amp; Experience&lt;br&gt;&lt;/strong&gt; &lt;br&gt;BS/MS/PhD in a relevant field (EE or Physics) or equivalent&lt;br&gt;&lt;br&gt; &lt;br&gt;Role Number: 200107323&lt;br&gt;&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:37:52.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Sensing Systems Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Electrical Test Engineer",
+    "industry": "Information Technology and Services,Defense &amp; Space,Computer Software",
+    "description": "Maxar is currently seeking an Electrical Test Engineer to join our Assembly Integration and Test department in Palo Alto, CA. In this role, you will be responsible for all electrical testing of a given spacecraft, from Communication Panel and Bus Module Integration through Launch Base activities. This includes test planning, development, data analysis, and initial troubleshooting efforts, as required.&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;Responsibilities&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;Analyze and evaluate electrical circuits and interfaces using engineering knowledge.&lt;br&gt;&lt;br&gt;Lead an electrical test team for 3 shift, 7 days a week operations.&lt;br&gt;&lt;br&gt;Perform long term planning (future test phases), and new program development.&lt;br&gt;&lt;br&gt;Collaborate with Spacecraft Manager, Mechanical Vehicle Engineer and Communication Vehicle Engineer.&lt;br&gt;&lt;br&gt;Support any shift required during the course of the spacecraft build process.&lt;br&gt;&lt;br&gt;Travel offsite for certain test phases and launch base support.&lt;br&gt;&lt;br&gt;Communicate with peers using proper verbal and written skills.&lt;br&gt;&lt;br&gt;Write, review, and/or consult on electrical test procedures.&lt;br&gt;&lt;br&gt;Use electrical testing equipment (oscilloscopes, multimeters, power supplies ect.).&lt;br&gt;&lt;br&gt;Document all non-conformances and test anomalies, following Assembly, Integration and Test (AIT) policies.&lt;br&gt;&lt;br&gt;Troubleshoot test scripts.&lt;br&gt;&lt;br&gt;Ensure testing is in compliance with the test requirements document (TRD).&lt;br&gt;&lt;br&gt;Use Omega 3 data handling architecture and electrical power subsystem (EPS) architecture.&lt;br&gt;&lt;br&gt;Lead complex electrical spacecraft level troubleshooting efforts with support of systems engineering.&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;Minimum Requirements&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;Must be a U.S. citizen or permanent resident.&lt;br&gt;&lt;br&gt;Bachelor's degree in engineering or a related field. Four years of additional experience may be substituted for a degree.&lt;br&gt;&lt;br&gt;2 years of relevant experience.&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;Preferred Qualifications&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;5 years of relevant experience.&lt;br&gt;&lt;br&gt;Familiarity with satellite design and testing obtained through educational training and/or on-the-job experience in a related field.&lt;br&gt;&lt;br&gt;Familiarity with satellite command and telemetry databases and wirelists.&lt;br&gt;&lt;br&gt;Program management experience.&lt;br&gt;&lt;br&gt;Highly skilled with Microsoft Office.&lt;br&gt;&lt;br&gt;Strong collaboration and communication skills.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T22:50:33.000Z"
+  },
+  "company": {
+    "name": "Maxar Technologies",
+    "link": "https://www.linkedin.com/company/maxar-technologies-ltd"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Electrical Test Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Palo Alto",
+    "region": "CA",
+    "postal_code": "94310",
+    "street_address": null,
+    "latitude": 37.445103,
+    "longitude": -122.16036
+  }
+}

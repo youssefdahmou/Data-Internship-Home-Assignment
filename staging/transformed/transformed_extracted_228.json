@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Services,Information Technology and Services",
+    "description": "&lt;p&gt;&lt;strong&gt;Machine Learning Engineer&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Austin, Texas&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Contract-to-Hire&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;How will you make an impact?&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;We are currently seeking a Mid-Senior Level Machine Learning Engineer with strong development skills in Python or Java (coding exercise is part of the interview process). If you have some experience with Data Engineering that is a plus! You will be creating models through production and maintenance and working with gigabytes of data (as well as Teradata).&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;This team works heavily with Visual AI/CVN/Computer Vision - any experience with that is a huge plus.&amp;nbsp;Other technologies that this team works with include: TensorFlow, Data Flow, Spark, Hadoop, Kubernetes, JVM, Keras.&amp;nbsp;They are hiring several engineers for the team at various levels.&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Day in the life includes Product Manager Meetings, Developing Models, Massage the Data, Evaluate Models, Production Launch, Visual Models, etc.&lt;/p&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-06T15:12:00.000Z"
+  },
+  "company": {
+    "name": "GSquared Group",
+    "link": "https://www.linkedin.com/company/gsquared-solutions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Machine Learning Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

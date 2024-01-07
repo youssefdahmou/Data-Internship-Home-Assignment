@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Geospatial Data Analyst-US Citizen",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "&lt;strong&gt;&lt;u&gt;Description&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;strong&gt;&lt;u&gt;Job Description:&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;strong&gt;&lt;u&gt;Successful Candidates Will Possess The Following Minimum Required Skills&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;The Geospatial Data Analyst position directly supports key customer mission requirements for maritime safety of navigation. The position requires GIS skills to analyze, manipulate, convert, and transform geographic data into military specified compliance, while maintaining weekly and monthly milestone schedule requirements.&lt;br&gt;&lt;ul&gt;&lt;li&gt;Strong maritime product knowledge and GIS background who can demonstrate effective throughput&lt;/li&gt;&lt;li&gt;Direct experience with Electronic Navigational Chart (ENC) and/or Digital Nautical Chart (DNC)&lt;/li&gt;&lt;li&gt;Esri ArcGIS software experience, to include updating geodatabases in ArcMap, managing data in ArcCatalog, utilizing Product Libraries, and various data editing toolbars&lt;/li&gt;&lt;li&gt;Keen attention to detail and rigorous organizational skills&lt;/li&gt;&lt;li&gt;Good communication, willingness to learn, and adaptive skills in order to coordinate &amp;amp; contribute in a team environment&lt;/li&gt;&lt;li&gt;Bachelors and 3+ years of professional GIS experience required or additional years of experience in lieu of degree&lt;/li&gt;&lt;li&gt;No clearance is required, but only those who are eligible to receive one should apply&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Desired Skills&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Experience with GIS data conversion and cross-product schema mapping would be a plus&lt;/li&gt;&lt;li&gt;SQL and Python experience would be a plus&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;Potential opportunity for telework.&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;External Referral Bonus&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;Ineligible&lt;br&gt;&lt;br&gt;&lt;u&gt;&lt;strong&gt;External Referral Bonus $:&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;/u&gt;&lt;strong&gt;&lt;u&gt;Potential For Telework&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;Yes, 75%&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;Clearance Level Required&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;None&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;Travel&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;No&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;Pay Range&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;#Remote",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T03:40:56.000Z"
+  },
+  "company": {
+    "name": "Leidos",
+    "link": "https://www.linkedin.com/company/leidos"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": "Geospatial Data Analyst-US Citizen"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Alexandria",
+    "region": "VA",
+    "postal_code": "22336",
+    "street_address": null,
+    "latitude": 38.804665,
+    "longitude": -77.04362
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer Intern",
+    "industry": "Biotechnology,Pharmaceuticals",
+    "description": "&lt;strong&gt;&lt;u&gt;The Company&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;Dyno Therapeutics is reshaping the gene therapy landscape through AI-powered vectors. Through the application of our transformative technologies and strategic partnerships with leaders in gene therapy, we believe a future with life changing gene therapies for millions of people is within reach.&lt;br&gt;&lt;br&gt;Our team includes world-class molecular and synthetic biologists, protein engineers and gene therapy scientists working alongside software engineers, data scientists, and machine learning experts. Dyno was named Xconomy\u2019s 2020 start up of the year!&lt;br&gt;&lt;br&gt;&lt;strong&gt;The Role&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;em&gt;Machine Learning Engineer Intern - Spring 2022&lt;/em&gt;. This internship is an opportunity for a Software engineer interested in solving problems related to building and running ML infrastructure.&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;How You Will Contribute&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;As an ML engineering intern, you will be responsible for contributing to Dyno\u2019s machine learning platform by helping to build, productionize, and scale ML models. You will work alongside other engineers and ML scientists and contribute to a shared codebase in a collaborative environment.&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;Responsibilities&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Understand Dyno\u2019s existing pipeline for building and deploying ML models.&lt;/li&gt;&lt;li&gt;Contribute to planning and implementing ML infrastructure improvements with the rest of the team.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Who You Are&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Team oriented&lt;/li&gt;&lt;li&gt;Thoughtful &amp;amp; detail oriented&lt;/li&gt;&lt;li&gt;Eager to learn&lt;/li&gt;&lt;li&gt;Appreciative of opportunities at the intersections of data science and biology&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Basic Qualifications&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;A Junior or Senior Currently enrolled in a Bachelor\u2019s program in computer science, data science, statistics, applied mathematics, or related.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Preferred Qualifications&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Currently enrolled in a Master\u2019s degree, PhD, or industry experience in a field related to machine learning and/or data science.&lt;/li&gt;&lt;li&gt;Experience with Python and packages such as PyTorch and sklearn.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;em&gt;Please note that applications are due to close 11/1.&lt;br&gt;&lt;br&gt;&lt;/em&gt;We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.&lt;br&gt;&lt;br&gt;Job Type: Internship",
+    "employment_type": "INTERN",
+    "date_posted": "2021-10-07T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Dyno Therapeutics",
+    "link": "https://www.linkedin.com/company/dynotx"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Machine Learning Engineer Intern"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cambridge",
+    "region": "MA",
+    "postal_code": "02239",
+    "street_address": null,
+    "latitude": 42.36525,
+    "longitude": -71.10502
+  }
+}

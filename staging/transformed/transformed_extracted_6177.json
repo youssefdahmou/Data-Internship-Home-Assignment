@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Computer Science Co-op",
+    "industry": "Information Technology and Services,Computer Software,Automotive",
+    "description": "&lt;strong&gt;&lt;u&gt;Overview&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;Hunter Engineering Company is a global leader in the development and manufacturing of computer based automotive service equipment. We are in search of an enthusiastic and self-motivated sophomore, junior, or senior with a major or minor in a field of study cohesive with Computer Science/Computer Engineering.&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;Job Summary&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;This position will focus on exposing an aspiring software engineer to the total software evolution process from planning to deployment. Our goal is to provide an experience that will be an important, effective first step in the career of a future software engineer.&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt; TIME FRAME : January 2022 \u2013 May/August 2022 &lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;strong&gt;&lt;u&gt;Responsibilities&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;The individual will be involved in a variety of projects which may include:&lt;br&gt;&lt;ul&gt;&lt;li&gt; Developing web frontends with frameworks such as React&lt;/li&gt;&lt;li&gt; Designing functional tests to be automated in a browser&lt;/li&gt;&lt;li&gt; Unit testing methodologies&lt;/li&gt;&lt;li&gt; Practice and experiences deploying resources to production&lt;/li&gt;&lt;li&gt; Development of Azure serverless functions&lt;/li&gt;&lt;li&gt; Research and prototype using new 3rd party libraries&lt;/li&gt;&lt;li&gt; Developing web based APIs in C# ASP.NET&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Co-Op Gains Experience In&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt; Cloud based development (Azure)&lt;/li&gt;&lt;li&gt; Varity of open source and Microsoft technologies&lt;/li&gt;&lt;li&gt; General software development practices such as unit testing, design patterns and clean code.&lt;/li&gt;&lt;li&gt; Developing software in an agile environment, including user story development, Agile planning, code reviews and self-evaluation.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;What To Expect&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;It will be our intent and purpose to provide the individual with real world experience, which includes assisting in the progression of a product from concept stage to production. The work done by co-ops in this position is applied to actual Hunter products. The work is normally very individualized even if you are working in a larger group. We host many co-ops annually. Our goal is to provide an experience that will be an important, effective first step in the career of a future engineer.&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;Also Visit Our Website For Testimonials From Previous Co-ops&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;https://www.hunter.com/about-us/careers/co-op/",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T05:24:50.000Z"
+  },
+  "company": {
+    "name": "Hunter Engineering Company",
+    "link": "https://www.linkedin.com/company/hunter-engineering"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Computer Science Co-op"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bridgeton",
+    "region": "MO",
+    "postal_code": "63044",
+    "street_address": null,
+    "latitude": 38.755707,
+    "longitude": -90.4183
+  }
+}

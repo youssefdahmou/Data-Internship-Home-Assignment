@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services",
+    "description": "&lt;p&gt;The ideal candidate will be responsible for developing high-quality applications. They will also be responsible for designing and implementing testable and scalable code.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Experience Band 5-10 years (Software Engineers)&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Extremely proficient in Embedded C, bare metal device driver development, board bring up and BSP/low level (closer to hardware) platform software development&lt;/li&gt;&lt;li&gt;Expertise in BSP and drivers for at least one or more of the following - PCIe/USB/UFS/NAND (Exposure to Linux drivers is nice to have but not mandatory)&lt;/li&gt;&lt;li&gt;Beyond the driver software a deep protocol level understanding of one or more of the following (USB/UFS/PCIe) is expected&lt;/li&gt;&lt;li&gt;Good knowledge on Microprocessors/Microcontrollers - ARM MPU (ARMv7/ARMv8) architectures&lt;/li&gt;&lt;li&gt;Should have experience in Linux Internals or RTOS, IPC (Message Queues, Shared memory, Semaphores), multithreading, Mutex, etc)&lt;/li&gt;&lt;li&gt;Familiarity with Open source Linux Kernel and development practices.&lt;/li&gt;&lt;li&gt;Hands on experience with lab instruments like oscilloscopes, waveforms analyzers, Lauterbach(JTAG) is a plus&lt;/li&gt;&lt;li&gt;A self-managed individual with excellent problem-solving skills.&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T21:45:33.000Z"
+  },
+  "company": {
+    "name": "Wipro",
+    "link": "https://in.linkedin.com/company/wipro"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Software Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "California",
+    "region": "United States",
+    "postal_code": "93266",
+    "street_address": null,
+    "latitude": 37.254673,
+    "longitude": -119.61728
+  }
+}

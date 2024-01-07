@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Internet,Automotive,Consumer Services",
+    "description": "&lt;p&gt;This position is a great opportunity for an entrepreneurially-minded person who enjoys making a difference in a start-up environment. Looking for a Machine Learning Engineer to both create and extend existing models.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Build, extend, deploy, maintain, and troubleshoot machine learning solutions to help drive business metrics. &lt;/li&gt;&lt;li&gt;Collaborate with analytics and data teams to optimize machine learning model performance and data pipelines.&lt;/li&gt;&lt;li&gt;Ensure our relevancy in the field of machine learning by staying up to date on the latest ML techniques and become the subject matter expert within the company.&lt;/li&gt;&lt;li&gt;Develop solutions to complex problems without considerable technical direction.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Qualifications and Experience&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;2-4 years of experience as a machine learning engineer or data scientist&lt;/li&gt;&lt;li&gt;Experience with developing software in object-oriented programming languages, including Python, Scala, Java, or C++&lt;/li&gt;&lt;li&gt;Experience with machine learning tools, including Tensorflow, Pytorch, or Scikit Learn&lt;/li&gt;&lt;li&gt;Proven and demonstrated experience with data preparation, building, scaling, and optimizing machine learning solutions&lt;/li&gt;&lt;li&gt;Self-driven, organized, reliable and determined team player&lt;/li&gt;&lt;li&gt;Thinks analytically and solves complex problems within a team structure&lt;/li&gt;&lt;li&gt;Flexible and able to adapt to new processes and requirements in a dynamic environment&lt;/li&gt;&lt;li&gt;Strong, clear and concise written and verbal communication skills&lt;/li&gt;&lt;li&gt;Advocates for innovation and drives change through persuasion and consensus&lt;/li&gt;&lt;li&gt;Translates issues/problems into solutions with tangible changes that improve the team or the organization&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;***Unfortunately, this position does not offer work sponsorship&amp;nbsp;at this time***&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Keywords:&lt;/em&gt;&lt;/strong&gt;&lt;em&gt; machine learning, ML, engineering, data science, programming, models, modeling, python, tools, data, building, deploying, scaling, troubleshooting, maintaining, strategy&lt;/em&gt;&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T17:46:27.000Z"
+  },
+  "company": {
+    "name": "Burtch Works",
+    "link": "https://www.linkedin.com/company/burtch-works"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": "Machine Learning Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

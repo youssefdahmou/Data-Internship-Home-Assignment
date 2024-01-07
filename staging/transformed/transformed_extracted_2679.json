@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "**Immediate Requirement for our Direct Client**&lt;br&gt;&lt;br&gt;Job Title : SRE/OPs&lt;br&gt;Location : Remote&lt;br&gt;Duration :12 Months&lt;br&gt;&lt;br&gt;Skills Looking at:&lt;br&gt;Needs to be familiar with the following technologies:  Linux, SSH, Kubernetes, Jira, Bash, curl, docker, Jenkins, Network Stack.  &lt;br&gt;Skills that would be a plus: Java, Go, Scala or the ability to pick up new programming languages.&lt;br&gt;&lt;br&gt;&lt;br&gt;Please share resumes to shaikm@aditiconsulting.com.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T23:08:19.000Z"
+  },
+  "company": {
+    "name": "Aditi Consulting",
+    "link": "https://www.linkedin.com/company/aditiconsulting"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Site Reliability Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

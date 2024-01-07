@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer Mobile (React)",
+    "industry": "Information Technology and Services,Financial Services",
+    "description": "&lt;p&gt;Our CONFIDENTIAL, venture-backed, growth client is hiring a Senior Mobile Engineer (React Native) who has a strong aptitude for identifying opportunities to improve user experience, robust experience translating design into code, and a proactive desire to collaborate with fellow developers, designers, and product managers to build amazing apps. Position is full-time either in NYC, Chicago, LA, SF, or Portland and will report to the Manager of Mobile Engineering.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Collaborate with product managers, designers, and backend engineers to design and deliver high-quality products on iOS and Android&lt;/li&gt;&lt;li&gt;Build efficient and reusable UI components and architect reliable, performant, and maintainable solutions&lt;/li&gt;&lt;li&gt;Lead teams that continuously build, ship, learn, and iterate.&lt;/li&gt;&lt;li&gt;Drive technical innovation, processes, and best practices required to deliver best-in-class mobile applications&lt;/li&gt;&lt;li&gt;Mentor and develop a high-performing team of engineers&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Qualifications:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;You have at least 4 years of experience building mobile applications&lt;/li&gt;&lt;li&gt;You have used React Native to build cross-platform mobile applications&lt;/li&gt;&lt;li&gt;You are comfortable working with JavaScript/Typescript, but also not afraid to jump into Swift or Kotlin as needed&lt;/li&gt;&lt;li&gt;You have knowledge of mobile best practices and stay informed about innovations in the mobile industry&lt;/li&gt;&lt;li&gt;You have a strong understanding of UX/UI concepts and a demonstrated record of design sensibility&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Preferred Qualifications:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Experience working with Bitcoin, Ethereum, and/or blockchain technology a huge plus&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Once you apply, we\u2019ll send you all company information and a highlight of their leadership team.&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T22:11:40.000Z"
+  },
+  "company": {
+    "name": "Talentpair",
+    "link": "https://www.linkedin.com/company/talentpair"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": "Software Engineer Mobile (React)"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

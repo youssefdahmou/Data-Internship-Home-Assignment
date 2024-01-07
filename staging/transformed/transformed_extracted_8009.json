@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer",
+    "industry": "",
+    "description": "We are Hiring Data Engineers for our Client. IF you are\u00a0interested then please send me your updated resume.&lt;br&gt;&lt;br&gt;Role: Data Engineer&lt;br&gt;Location: Portland, OR (Remote to Start)&lt;br&gt;Client: Nike&lt;br&gt;Experience : 1+ years of Experience&lt;br&gt;Contract : Long Term Contract - only W2 , not open for C2C.&lt;br&gt;&lt;br&gt;Skills:&lt;br&gt;1. Spark&lt;br&gt;2. SQL&lt;br&gt;3. Python&lt;br&gt;4. AWS",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-18T05:43:34.000Z"
+  },
+  "company": {
+    "name": "Lyve Tech LLC",
+    "link": "https://www.linkedin.com/company/lyve-tech"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": "Data Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Portland",
+    "region": "Oregon Metropolitan Area",
+    "postal_code": "97215",
+    "street_address": null,
+    "latitude": 45.553497,
+    "longitude": -122.90853
+  }
+}

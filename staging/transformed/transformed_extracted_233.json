@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Researcher / Simulation Software Engineer ",
+    "industry": "Information Technology and Services,Information Services,Capital Markets",
+    "description": "&lt;p&gt;The high frequency trading team is seeking a Research Engineer to join them in Austin. The role will involve implementing features, models, and strategies in C++ and managing the in-house compute and data cluster, job scheduler, and Python based pipeline to provide robust, efficient 24/7 backtest/simulation/research environment.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Requirements&lt;/strong&gt;: &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Strong engineering instincts and a deep understanding of computer science fundamentals.&lt;/li&gt;&lt;li&gt;Experience in statistical modelling, mathematics. &lt;/li&gt;&lt;li&gt;An ability to generate research ideas and implement and execute solutions to represent them.&lt;/li&gt;&lt;li&gt;Innovative, big-picture thinking grounded in real-world pragmatism.&lt;/li&gt;&lt;li&gt;A desire to continuously improve in a rapidly evolving environment.&lt;/li&gt;&lt;li&gt;A readiness to set technical direction, promote engineering principles, and do the right thing.&lt;/li&gt;&lt;li&gt;Strong experience with C++, Python &amp;amp; Linux. &lt;/li&gt;&lt;li&gt;Experience with GPUs, FPGAs is interesting but not essential.&lt;/li&gt;&lt;li&gt;Candidates from national labs, high frequency trading firms and top tier tech firms are of particular interest. &lt;/li&gt;&lt;li&gt;Suitable for candidates with between 4-10 years of industry experiance.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;No financial experience is required. However an interest in financial markets and machine learning in the context of automated high frequency trading is a pre-request.&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-23T10:39:51.000Z"
+  },
+  "company": {
+    "name": "NJF Global Holdings Ltd",
+    "link": "https://uk.linkedin.com/company/njfglobal"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": "Machine Learning Researcher / Simulation Software Engineer "
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

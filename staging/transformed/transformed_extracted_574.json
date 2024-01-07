@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - 100% Remote",
+    "industry": "Information Technology and Services",
+    "description": "&lt;strong&gt;Job Title: &lt;/strong&gt;Software Engineer&lt;br&gt;&lt;br&gt;&lt;strong&gt;Job Type: &lt;/strong&gt;Permanent&lt;br&gt;&lt;br&gt;&lt;strong&gt;Location: &lt;/strong&gt;100% remote&lt;br&gt;&lt;br&gt;&lt;strong&gt;What You&amp;apos;ll Do:&lt;br&gt;&lt;br&gt;&lt;/strong&gt;As a Software Engineer, you&amp;apos;ll develop the technical and business foundation to turn your passion for technology into real-world solutions. You&amp;apos;ll architect and implement web applications using modern technology solutions. You&amp;apos;ll drive the end-to-end experience, from the front-end to the backend systems running in the cloud. Strong candidates will have robust technical training and experience. You will be part of a team who works together to explore new boundaries and test new technologies and experiences. We maintain a tight loop between development, feedback and deployment, which allows us to build world-class solutions to our business, marketing and data quandaries&lt;br&gt;&lt;br&gt;&lt;ul&gt; &lt;li&gt;Autonomy Aspiring entrepreneurs succeed here because you will have full-ownership over your work from beginning to end.&lt;/li&gt; &lt;li&gt;Collaborate Better than making the dream work, teamwork makes the code work. Through open work-space, Slack and peer reviews, our teams work together to build amazing solutions.&lt;/li&gt; &lt;li&gt;Innovate With the belief that \"Everything is Written in Pencil\", we encourage our teams to test new frameworks, learn new languages and challenge the \"status quo\" to make us better.&lt;/li&gt; &lt;br&gt;&lt;/ul&gt;&lt;strong&gt;What We&amp;apos;re Looking For:&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;ul&gt; &lt;li&gt;Server side experience in technologies such as Node, Golang, PHP, or C#&lt;/li&gt; &lt;li&gt;Experience with AWS/Azure cloud providers.&lt;/li&gt; &lt;li&gt;Experience with serverless technologies.&lt;/li&gt; &lt;li&gt;Experience in front-end technologies such as React, Angular and Vue&lt;/li&gt; &lt;li&gt;Experience with OOP and software design practices.&lt;/li&gt; &lt;li&gt;Experience with databases such as MySQL, Postgres, DynamoDB, etc.&lt;/li&gt; &lt;li&gt;Experience with event driven architecture&lt;/li&gt; &lt;li&gt;Strong ability to develop systems that meet architectural objectives including reusable, scalable code and SOLID principles.&lt;/li&gt; &lt;li&gt;Knowledge of unit-testing (TDD/BDD tool i.e. Jasmine, Mocha, Protractor)&lt;/li&gt; &lt;li&gt;Understanding of how to build and consume REST APIs&lt;/li&gt; &lt;li&gt;Understanding of basic authentication protocols such as OAuth2 and SAML&lt;/li&gt; &lt;li&gt;Analytical and detail-oriented minds with decisive judgement skills&lt;/li&gt; &lt;li&gt;Knowledge of basic web security principles&lt;/li&gt; &lt;li&gt;The ability to prioritize, strategize, execute and deliver projects on time&lt;/li&gt; &lt;li&gt;Self-motivated and creative problem-solvers who love to challenge themselves&lt;/li&gt; &lt;li&gt;Ideal team players: hungry, humble, and smart! We value those who are curious and strive to be great people to work with&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T11:15:48.000Z"
+  },
+  "company": {
+    "name": "TriOptus ",
+    "link": "https://www.linkedin.com/company/trioptus"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Software Engineer - 100% Remote"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Paradise Valley",
+    "region": "AZ",
+    "postal_code": "85253",
+    "street_address": null,
+    "latitude": 33.53106,
+    "longitude": -111.94313
+  }
+}

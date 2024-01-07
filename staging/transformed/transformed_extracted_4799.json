@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Consumer Services",
+    "description": "&lt;p&gt;&lt;u&gt;Software Engineer&lt;/u&gt;&amp;nbsp;required by a Healthcare start-up focused on home healthcare. Their goal is to combine service and modern technology in order to provide exceptional experiences for patients.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;They are looking for a Software Engineer to join their team in NYC.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;The role:&lt;/u&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;3+years\u2019 experience with Java or Python&lt;/li&gt;&lt;li&gt;Experience with AWS&lt;/li&gt;&lt;li&gt;Spring Boot&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;Compensation:&lt;/u&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Up to $170,000 plus benefits and stock options&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;If this Software Engineer Positon could be of interest please apply through this advert, or send a copy of your Resume to C.Gregoire@x4technology.us&lt;/u&gt;&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-19T15:35:28.000Z"
+  },
+  "company": {
+    "name": "X4 Technology ",
+    "link": "https://uk.linkedin.com/company/x4-technology"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": "Software Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

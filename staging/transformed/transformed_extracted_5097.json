@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "&lt;p&gt;&lt;strong&gt;Data Scientist/Analyst &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Location: SFO, CA (Remote can work from anywhere but wiling to work Pacific hours).&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;3 Rounds of Interview&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Mandatory:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;3+ years of data science, data analytics, or business intelligence experience&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Strong understanding of SQL&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Experience with conducting data analysis in Python and / or R&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Experience building clear and easy to understand dashboards and presentations &lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Ability to communicate clearly and effectively to cross functional partners of varying technical levels&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Ability to define relevant metrics that can guide and influence stakeholders to appropriate and accurate insights&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Pluses&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Familiarity with Superset&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Familiarity with running weblab experiments, efficacy studies, or product validation tests&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Familiarity with machine learning basics&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Familiarity with Client infrastructure, including Airflow, Presto SQL, and Hive SQL&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Experience creating and maintaining data pipelines&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Experience supporting engineering product work&lt;/p&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-20T21:07:13.000Z"
+  },
+  "company": {
+    "name": "Derex Technologies Inc",
+    "link": "https://www.linkedin.com/company/derex-technologies-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": "Data Scientist"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

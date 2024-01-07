@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site reliability Engineer",
+    "industry": "Internet,Information Technology and Services",
+    "description": "&lt;strong&gt;&lt;u&gt;Preferred Qualifications&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;DevOps Experience&lt;/li&gt;&lt;li&gt; Public Cloud Experience (Microsoft Azure)&lt;/li&gt;&lt;li&gt;Container Concepts (Docker)&lt;/li&gt;&lt;li&gt;Orchestration (Kubernetes)&lt;/li&gt;&lt;li&gt;Source Control (GitHub, Bitbucket, Azure Repos etc)&lt;/li&gt;&lt;li&gt;Continuous Integration ( Azure Pipelines, Jenkins, Bamboo etc)&lt;/li&gt;&lt;li&gt;Continuous Deployment (Azure DevOps, Jenkins etc)&lt;/li&gt;&lt;li&gt;Experience with infrastructure automation tools (Terraform, Packer, Puppet, Ansible etc)&lt;/li&gt;&lt;li&gt;Scripting Experience (Python, Ruby, Bash, Shell, Node.js)&lt;/li&gt;&lt;li&gt;Security and Network awareness&lt;/li&gt;&lt;li&gt;Product Mindset&lt;/li&gt;&lt;li&gt;Learnability&lt;/li&gt;&lt;li&gt;Self Motivated&lt;/li&gt;&lt;li&gt;Experience in Agile methodologies&lt;/li&gt;&lt;li&gt;Experience working with global teams&lt;/li&gt;&lt;li&gt; Good communication &amp;amp; interpersonal skills&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Minimum Qualifications&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;5 years of IT industry experience with a Bachelor's/Master's Degree in Computer Science or equivalent&lt;/li&gt;&lt;li&gt;Strong Software Engineering Principles&lt;/li&gt;&lt;li&gt;Product Company Experience&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-03T01:56:09.000Z"
+  },
+  "company": {
+    "name": "Resiliency LLC",
+    "link": "https://www.linkedin.com/company/resiliencyllc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Site reliability Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Bruno",
+    "region": "CA",
+    "postal_code": "94067",
+    "street_address": null,
+    "latitude": 37.627277,
+    "longitude": -122.416145
+  }
+}

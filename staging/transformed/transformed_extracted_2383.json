@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Staff Site Reliability Engineer, Factory Software Systems",
+    "industry": "Automotive,Renewables &amp; Environment,Utilities",
+    "description": "Role&lt;br&gt;The Ignition Support team at Tesla manages our Ignition deployment, and infrastructure. As an SRE on the Ignition Support team you'll be responsible for automating the deployment, configuration, management, and monitoring of Ignition, as well as troubleshooting issues with the Ignition application and assisting us with upgrading to version 8.1.&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;Responsibilities&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Support our Ignition deployment and infrastructure in every way possible&lt;/li&gt;&lt;li&gt; to ensure its reliability, availability, and security&lt;/li&gt;&lt;li&gt;Assist Software, Controls, Manufacturing, and other engineering teams with onboarding to Ignition&lt;/li&gt;&lt;li&gt;Automate deployment, configuration, management and monitoring of Ignition&lt;/li&gt;&lt;li&gt;Ensure best practices and observability of the Ignition, such as metrics, logging, tracing, and alerting&lt;/li&gt;&lt;li&gt;Consult on and design infrastructure, systems and application architectures&lt;/li&gt;&lt;li&gt;Help develop automation for Ignition 8.1&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Requirements&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Experience with Virtualization (vSphere)&lt;/li&gt;&lt;li&gt;Expert skills in Linux and its administration (Ubuntu 16.04/18.04/20.04)&lt;/li&gt;&lt;li&gt;Understanding of networking (Routing/Switching, VLANs, Firewalls, and Load Balancers)&lt;/li&gt;&lt;li&gt;Experience in a high-level language such as Go, Python and/or Java&lt;/li&gt;&lt;li&gt;Observability (InfluxDB, Kapacitor, Prometheus, AlertManager, Grafana, and/or Splunk)&lt;/li&gt;&lt;li&gt;Infrastructure as Code (Terraform/Ansible)&lt;/li&gt;&lt;li&gt;CI/CD pipeline experience (GitHub Enterprise)&lt;/li&gt;&lt;li&gt;Artifact management (Artifactory)&lt;/li&gt;&lt;li&gt;Bare-metal imaging experience (Ubuntu netboot PXE)&lt;/li&gt;&lt;li&gt;Strong bias for action vs endless planning, willing to get hands dirty and make mistakes sometimes&lt;/li&gt;&lt;li&gt;3+ years as DevOps/Site Reliability Engineer&lt;/li&gt;&lt;li&gt;Habitual documenter and spreader of knowledge&lt;/li&gt;&lt;li&gt;Willing to mentor other team members and engineers with less SRE/IT type knowledge&lt;/li&gt;&lt;li&gt;Comfortable on an on-call rotation&lt;/li&gt;&lt;li&gt;Comfortable doing live troubleshooting of issues on NOC bridges/outage calls&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-19T23:25:41.000Z"
+  },
+  "company": {
+    "name": "Tesla",
+    "link": "https://www.linkedin.com/company/tesla-motors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": "Staff Site Reliability Engineer, Factory Software Systems"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fremont",
+    "region": "CA",
+    "postal_code": "94537",
+    "street_address": null,
+    "latitude": 37.5502,
+    "longitude": -121.98083
+  }
+}

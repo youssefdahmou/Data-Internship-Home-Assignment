@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer - Senior Consultant",
+    "industry": "Staffing and Recruiting",
+    "description": "&lt;p&gt;-&amp;nbsp;Experience with building and deploying ML-based solutions and proficiency in common machine learning frameworks such as TensorFlow, Keras, scikit-learn, Pytorch and ONNX&lt;/p&gt;&lt;p&gt;- Experience with designing, building, and maintaining production-grade ML and DL models, machine learning workflows and pipelines&lt;/p&gt;&lt;p&gt;- Experience with deploying ML Solutions on AWS / GCP or Azure cloud platforms and exposure to cloud services necessary to build end to end pipeline&lt;/p&gt;&lt;p&gt;- Relevant consulting or industry experience. Travel involved.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Limited immigration sponsorship may be available&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;Locations - New York, Chicago, Los Angeles, Boston etc.&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T05:40:09.000Z"
+  },
+  "company": {
+    "name": "Arth Consulting - An Executive Search Firm",
+    "link": "https://www.linkedin.com/company/arth-consulting"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Machine Learning Engineer - Senior Consultant"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "McLean",
+    "region": "VA",
+    "postal_code": "22101",
+    "street_address": null,
+    "latitude": 38.93759,
+    "longitude": -77.18378
+  }
+}

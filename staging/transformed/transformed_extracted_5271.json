@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "AI/ML - Machine Learning Engineer, Siri Understanding",
+    "industry": "Consumer Electronics",
+    "description": "&lt;br&gt;&lt;strong&gt;Summary&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Want to join the team building an intelligent assistant that helps millions of people get things done? You will be part of a cross-functional team consisting of software engineers, machine learning scientists and ASR specialists working to make Siri better every day. To succeed in this role, you must be passionate about speech technologies, be a strong collaborator, enjoy learning new things and tackle problems creatively.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Key Qualifications&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Expertise in developing systems for automatic speech recognition, natural language processing and machine learning&lt;br&gt;&lt;br&gt;Familiarity with large-scale data processing and distributed systems&lt;br&gt;&lt;br&gt;Strong coding skills in Python&lt;br&gt;&lt;br&gt;Excellent understanding of algorithms, data structures, coding standards&lt;br&gt;&lt;br&gt;Self-motivated and pro-active, with multi-tasking and critical thinking capabilities&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Description&lt;br&gt;&lt;/strong&gt; &lt;br&gt;You will be a part of a team that's responsible for a wide variety of speech-related, data-driven research and development activities, including acoustic modeling, language modeling and tools development. You should be passionate about building phenomenal products. Because you'll be working closely with engineers from a number of other teams at Apple, you\u2019re a stand-out colleague who thrives in a dynamic environment with rapidly changing priorities.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Education &amp;amp; Experience&lt;br&gt;&lt;/strong&gt; &lt;br&gt;BS, MS in Computer Science, Computer Engineering, or equivalent degree&lt;br&gt;&lt;br&gt; &lt;br&gt;Role Number: 200262069&lt;br&gt;&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:30:58.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "AI/ML - Machine Learning Engineer, Siri Understanding"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cambridge",
+    "region": "MA",
+    "postal_code": "02239",
+    "street_address": null,
+    "latitude": 42.36525,
+    "longitude": -71.10502
+  }
+}

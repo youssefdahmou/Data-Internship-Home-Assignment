@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer Software,Defense &amp; Space",
+    "description": "&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Software engineer shall support a distributed system providing various Platform-as-a-Service (PaaS) features to a diverse customer set. The PaaS system shall support several applications as standalone instances or configured with several supporting components.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Master's degree in Computer Science or related discipline from an accredited college or university, plus five (5) years of experience as a SWE, in programs and contracts of similar scope, type, and complexity.&lt;/p&gt;&lt;p&gt;OR&lt;/p&gt;&lt;p&gt;Bachelor's degree in Computer Science or related discipline from an accredited college or university, plus seven (7) years of experience as a SWE, in programs and contracts of similar scope, type, and complexity&lt;/p&gt;&lt;p&gt;OR&lt;/p&gt;&lt;p&gt;Nine (9) years of experience as a SWE, in programs and contracts of similar scope, type, and complexity.&lt;/p&gt;&lt;p&gt;AND&lt;/p&gt;&lt;p&gt;U.S. Citizenship&lt;/p&gt;&lt;p&gt;AND&lt;/p&gt;&lt;p&gt;TS SCI w/FS Poly&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Task Required Skills&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Experience using the Unix command line&lt;/li&gt;&lt;li&gt;Experience writing scripts using Bash&lt;/li&gt;&lt;li&gt;Basic understanding of Source Control Systems, specifically Git&lt;/li&gt;&lt;li&gt;Experience with CI/CD principles and methodologies&lt;/li&gt;&lt;li&gt;Familiarity with Ruby and the Rails Framework&lt;/li&gt;&lt;li&gt;Familiarity with Javascript, specifically Node.js&lt;/li&gt;&lt;li&gt;General SQL database knowledge, preferably Postgres&lt;/li&gt;&lt;li&gt;Experience with GitLab CI/CD and pipelines&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Task Desired Skills&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Experience with containerization technologies such as Docker&lt;/li&gt;&lt;li&gt;Experience with container orchestration technologies such as Kubernetes, OpenShift and Helm&lt;/li&gt;&lt;li&gt;Experience with in-memory data structure stores such as Redis&lt;/li&gt;&lt;li&gt;Demonstrated domain knowledge in distributed systems (cloud-based technologies)&lt;/li&gt;&lt;li&gt;Demonstrated understanding of the core software development lifecycle&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T00:01:51.000Z"
+  },
+  "company": {
+    "name": "Wrench",
+    "link": "https://www.linkedin.com/company/wrench-io"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 108,
+    "seniority_level": "Software Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Annapolis Junction",
+    "region": "MD",
+    "postal_code": "20701",
+    "street_address": null,
+    "latitude": 39.121826,
+    "longitude": -76.78431
+  }
+}

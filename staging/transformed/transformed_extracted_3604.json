@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "DevOps Engineer",
+    "industry": "Information Technology and Services",
+    "description": "&lt;p&gt;&lt;strong&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;JOB DESCRIPTION&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Role : DevOps Engineer.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Key responsibility:&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Work experience should include extensive knowledge of Continuous Deployment strategies&lt;/li&gt;&lt;li&gt;A successful candidate will have excellent analytical and problem-solving skills, strong communication skills, and a motivation to achieve best-in-class results&lt;/li&gt;&lt;li&gt;Solid understanding of best practices in support of Continuous Deployment including branching strategy, version management, artifact maintenance, configuration management&lt;/li&gt;&lt;li&gt;Firm grasp of common deployment strategies including blue/green, zero-downtime deployment, traffic shaping, canary and rollback&lt;/li&gt;&lt;li&gt;Experience designing and building automation solutions&lt;/li&gt;&lt;li&gt;2+ years experience with some of the following toolsets:&lt;/li&gt;&lt;li&gt;CI Server \u2013 Jenkins, TeamCity, Concourse CI&lt;/li&gt;&lt;li&gt;Artifact Repositories \u2013 Artifactory, Nexus&lt;/li&gt;&lt;li&gt;Source Control \u2013 Git (Github, Bitbucket, GitLab)&lt;/li&gt;&lt;li&gt;Build Tools \u2013 Team Foundation Server (TFS), MSBuild, Ant, Maven, Gradle&lt;/li&gt;&lt;li&gt;Cloud Computing Models&lt;/li&gt;&lt;li&gt;Containerization \u2013 Docker, Kubernetes&lt;/li&gt;&lt;li&gt;Infrastructure as Sevice \u2013 Ansible, Terraform&lt;/li&gt;&lt;li&gt;Excellent scripting knowledge and ability to execute through Python, Bash/Shell, PowerShell, Go&lt;/li&gt;&lt;li&gt;Good understanding of common principals related to computing, networks, firewall, security and authentication&lt;/li&gt;&lt;li&gt;Ability to work and influence across functional teams with different mind sets, cultures, operating styles and decision-making frameworks&lt;/li&gt;&lt;li&gt;Outstanding written and verbal communication skills&lt;/li&gt;&lt;li&gt;Familiarity with Microsoft\u00ae Word &amp;amp; Excel&lt;/li&gt;&lt;li&gt;Financial industry interest and experience is beneficial&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;About Virtusa&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Teamwork, quality of life, professional and personal development: values that Virtusa is proud to embody. When you join us, you join a team of 21,000 people globally that cares about your growth \u2014 one that seeks to provide you with exciting projects, opportunities and work with state of the art technologies throughout your career with us.&lt;/p&gt;&lt;p&gt;Great minds, great potential: it all comes together at Virtusa. We value collaboration and the team environment of our company, and seek to provide great minds with a dynamic place to nurture new ideas and foster excellence.&lt;/p&gt;&lt;p&gt;Virtusa was founded on principles of equal opportunity for all, and so does not discriminate on the basis of race, religion, color, sex, gender identity, sexual orientation, age, non-disqualifying physical or mental disability, national origin, veteran status or any other basis covered by appropriate law. All employment is decided on the basis of qualifications, merit, and business need.&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T13:27:19.000Z"
+  },
+  "company": {
+    "name": "Virtusa",
+    "link": "https://www.linkedin.com/company/virtusa"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": "DevOps Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

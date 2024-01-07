@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Construction,Information Technology and Services,Financial Services",
+    "description": "&lt;ul&gt;&lt;li&gt;Work closely with Controls and automation team members and design AI/ML solutions&lt;/li&gt;&lt;li&gt; Thorough understanding of supervised and unsupervised ML techniques&lt;/li&gt;&lt;li&gt; Hands-on. Be able to use Python and develop ML solutions&lt;/li&gt;&lt;li&gt; Ability to handle large set of data-set (10M+)&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-09T17:50:12.000Z"
+  },
+  "company": {
+    "name": "W3Global",
+    "link": "https://www.linkedin.com/company/w3global"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Machine Learning Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Irving",
+    "region": "TX",
+    "postal_code": "75063",
+    "street_address": null,
+    "latitude": 32.813877,
+    "longitude": -96.949936
+  }
+}

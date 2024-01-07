@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Services,Information Technology and Services,Computer Software",
+    "description": "&lt;p&gt;Everyone wants a career with impact. Here, you\u2019ll be helping some of the world\u2019s most renowned and ambitious companies build winning cloud platforms.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Work with customers to define, design, and develop complex, multi-tier distributed software applications on cloud platforms ( AWS / GCP)&lt;/li&gt;&lt;li&gt;Passionate about mentoring team members and bringing in new technologies within the larger team.&lt;/li&gt;&lt;li&gt;Work hands-on with cloud native services to demonstrate and prototype outcomes in customer/partner environments.&lt;/li&gt;&lt;li&gt;Work in a supportive environment with many growth opportunities.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Technical Requirements:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;3+ years of experience with Java and Spring Boot framework.&lt;/li&gt;&lt;li&gt;Experience building, architecting, designing and implementing highly distributed global cloud-based systems on either AWS or GCP&lt;/li&gt;&lt;li&gt;Experience building or integrating with Continuous Integration/Delivery process.&lt;/li&gt;&lt;li&gt;Experience implementing platform components such as RESTful APIs, Message Queues Systems, Observability Services, State Management Systems, Caching etc.&lt;/li&gt;&lt;li&gt;Hands-on micro services architecture experience using Spring boot, Docker and Kubernetes&lt;/li&gt;&lt;li&gt;Expertise with the AWS or GCP cloud native services&lt;/li&gt;&lt;li&gt;Self-starter and strong, quick problem solving skills.&lt;/li&gt;&lt;li&gt;Ability to communicate with clients on a business level and translate their needs into a technical solution.&lt;/li&gt;&lt;li&gt;Bonus if you have experience with both AWS and GCP&lt;/li&gt;&lt;li&gt;Bonus if you have experience with Google Kubernetes Engine&lt;/li&gt;&lt;li&gt;Bonus if you are familiar with provisioning and automating infrastructure with infrastructure as code tool such as Terraform or Cloud Formation.&lt;/li&gt;&lt;li&gt;Bonus if you have experience using Anthos, BigQuery, BigTable, TensorFlow.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Benefits Include:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Competitive compensation.&lt;/li&gt;&lt;li&gt;Generous benefits.&lt;/li&gt;&lt;li&gt;Flexible vacation and PTO policies (we have a minimum vacation policy in fact!)&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T16:58:56.000Z"
+  },
+  "company": {
+    "name": "Experienced Recruiting Partners, LLC.",
+    "link": "https://www.linkedin.com/company/experienced-recruiting-partners-llc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": "Software Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

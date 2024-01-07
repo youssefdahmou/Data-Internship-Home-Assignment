@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "REMOTE Data Scientist",
+    "industry": "Hospital &amp; Health Care,Pharmaceuticals,Biotechnology",
+    "description": "Come work as a &lt;strong&gt;Remote Data Scientist &lt;/strong&gt;at one of the Top Company that offers exceptional benefits with opportunities to advance and learn alongside accomplished Technology leaders.             &lt;br&gt; &lt;br&gt;&lt;strong&gt;Important Note: This is 100% REMOTE position. &lt;/strong&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Must Have Skills:&lt;/strong&gt;&lt;br&gt;&lt;ul&gt;&lt;br&gt;&lt;li&gt;4+ years of hands-on experience in developing analytics with machine learning, deep learning, NLP, and/or other related modelling techniques&lt;/li&gt;&lt;li&gt;3 - 5 years of experience using advanced data science tools such as R, Python, SQL, Spark and H2O&lt;/li&gt;&lt;li&gt;3 - 5 years of experience developing and deploying analytic solutions using AWS or Azure or GCP&lt;/li&gt;&lt;li&gt;Experience working with extremely large data sets&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;br&gt;&lt;ul&gt;&lt;br&gt;&lt;li&gt;Research, Design, Implement and Deploy full-stack scalable machine learning solutions to support intelligent operations initiatives&lt;/li&gt;&lt;li&gt;Conduct hands-on data analysis and predictive analytics on large datasets&lt;/li&gt;&lt;li&gt;Apply computational algorithms and statistical methods to structured and unstructured data&lt;/li&gt;&lt;li&gt;Effectively communicate complex technical results to business partners&lt;/li&gt;&lt;li&gt;Support and drive analytic efforts around machine learning and innovation&lt;/li&gt;&lt;li&gt;Work with a great deal of autonomy to find solutions to complex problems&lt;/li&gt;&lt;li&gt;Coach and mentor junior data scientists&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;strong&gt; &lt;/strong&gt;&lt;strong&gt;Benefits:&lt;/strong&gt;&lt;br&gt;&lt;ul&gt;&lt;br&gt;&lt;li&gt;Top industry pay&lt;/li&gt;&lt;li&gt;Excellent growth and advancement opportunities&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Data Scientist",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-02T16:22:38.000Z"
+  },
+  "company": {
+    "name": "Collabera Inc.",
+    "link": "https://www.linkedin.com/company/collabera"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": "REMOTE Data Scientist"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Eden Prairie",
+    "region": "MN",
+    "postal_code": "55344",
+    "street_address": null,
+    "latitude": 44.854034,
+    "longitude": -93.46017
+  }
+}

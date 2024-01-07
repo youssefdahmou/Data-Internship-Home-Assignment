@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer / Software Engineer - Bioinformatics &amp; Lab Informatics",
+    "industry": "",
+    "description": "&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Arzeda is a world-leader in protein design and synthetic biology. Leveraging our core expertise in structure-based computational protein design, machine learning and high-throughput testing, we design novel proteins and bio-catalytic processes for the sustainable production of performance ingredients and materials. A deep tech, mission-driven company, we are passionate about our mission to design novel proteins and products that enhance our lives and protect our planet.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Arzeda is searching for a talented software engineer to help build the largest and most comprehensive set of enzyme &amp;amp; protein engineering data the world has seen. This is an opportunity to solve a rich and diverse set of problems crucial to the execution and tracking of the high-throughput laboratory experiments necessary to generate that dataset. You will work with a multi-disciplinary team and play a leading role in crafting the breadth of software tools necessary to enable streamlined workflows across all experimental activities at Arzeda, including genetic design, assay development &amp;amp; testing, analytical chemistry, and strain engineering.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;The preferred work location for this position is Seattle, Washington. However, remote work from other U.S. locations is a possibility. The position comes with a competitive salary and benefits, including health insurance, dental insurance, and paid time off, commensurate with applicant qualifications.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Developing software tools, workflows, and user interfaces for scientists executing high-throughput laboratory experiments, such as NGS and high-throughput enzyme assays.&lt;/li&gt;&lt;li&gt;Developing extensions for our LIMS and interfacing services to the LIMS.&lt;/li&gt;&lt;li&gt;Developing registries and databases of biological materials such as DNA and organisms.&lt;/li&gt;&lt;li&gt;Collaborating with scientists to produce actionable software specifications and requirements.&lt;/li&gt;&lt;li&gt;Communicating software engineering objectives, approaches, and outcomes to internal stakeholders.&lt;/li&gt;&lt;li&gt;Mentoring fellow software engineers.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Fluency in Java and/or Python.&lt;/li&gt;&lt;li&gt;Software development experience, including modern software practices such as version control and automated testing.&lt;/li&gt;&lt;li&gt;Experience developing bioinformatics or laboratory workflows, and/or biological databases.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Inquiries and Applications&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Please apply here on LinkedIn or send your CV and a cover letter to jobs[at]arzeda.com with the subject line \u201cSoftware Engineer - Informatics\u201d.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Arzeda Corp. (www.arzeda.com) is an equal opportunity employer promoting diversity and inclusion in the workspace.&lt;/em&gt;&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T06:11:19.000Z"
+  },
+  "company": {
+    "name": "Arzeda",
+    "link": "https://www.linkedin.com/company/arzeda-corp"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Senior Software Engineer / Software Engineer - Bioinformatics &amp; Lab Informatics"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

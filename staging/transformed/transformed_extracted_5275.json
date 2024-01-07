@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "CPU Research Scientist",
+    "industry": "Consumer Electronics",
+    "description": "&lt;br&gt;&lt;strong&gt;Summary&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Do you have an uncommon desire to seek out and solve exceedingly difficult challenges rather than the easy ones? Do you believe that a world-class team with relentless drive can surpass even their own high expectations?&lt;br&gt;&lt;br&gt;We do! But we also realize this job isn\u2019t for everyone. What we do isn\u2019t easy but you don\u2019t take the easy path. We are seeking a highly motivated, innovative, and confident individuals to join the CPU Architecture and Performance Team; we are a group that is driving advanced exploration for next generation iPhone, iPad, and Mac CPU architectures.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Key Qualifications&lt;br&gt;&lt;/strong&gt; &lt;br&gt;\u2022 Experience and knowledge of CPU architecture and micro-architecture concepts, expertise in one or multiple CPU focused areas.&lt;br&gt;&lt;br&gt;\u2022 Ability to identify performance bottlenecks in workloads, craft ideas to solve them and implement those ideas in the performance simulator.&lt;br&gt;&lt;br&gt;\u2022 Proficient in C/C++ and a scripting language such as Perl or Python.&lt;br&gt;&lt;br&gt;\u2022 Knowledge and experience with common industry performance benchmarks and&lt;br&gt;&lt;br&gt;workloads.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Description&lt;br&gt;&lt;/strong&gt; &lt;br&gt;The CPU Platform Architecture team is responsible for setting direction for Apple CPUs towards high performance futuristic micro-architecture ideas. We want to push the boundaries of CPU performance to enhance user experience on Apple products through advanced CPU performance features.&lt;br&gt;&lt;br&gt;In this role you will:&lt;br&gt;&lt;br&gt;\u2022 Solve performance problems involving branch prediction, data/code prefetching, cache hierarchy or other CPU areas.&lt;br&gt;&lt;br&gt;\u2022 Build the right tools suited for performance bottleneck analysis so that you can parse through the noise and focus on the real problem.&lt;br&gt;&lt;br&gt;\u2022 Apply state of the art AI/ML techniques to solve CPU performance issues as necessary.&lt;br&gt;&lt;br&gt;\u2022 Conduct continuous research into one or more CPU areas and provide guidance to Apple CPU design team on features that should be implemented in future CPUs.&lt;br&gt;&lt;br&gt;\u2022 Present analysis/findings to CPU architecture and design teams.&lt;br&gt;&lt;br&gt;\u2022 Provide recommendations and influence the roadmap for future Apple CPUs used in iPhone, iPad and Mac systems.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Education &amp;amp; Experience&lt;br&gt;&lt;/strong&gt; &lt;br&gt;PhD in Computer Science or Computer Engineering with focus on Computer Architecture.&lt;br&gt;&lt;br&gt; &lt;br&gt;Role Number: 200264797&lt;br&gt;&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:31:04.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": null
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "CPU Research Scientist"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services",
+    "description": "&lt;ul&gt;&lt;li&gt;Do you love the field of deep learning and would you love a job with expectations to keep abreast on the state-of-the art in language processing?&lt;/li&gt;&lt;li&gt;And a job also with expectations to continuously \u201cmove the performance needle\u201d for the business?&lt;/li&gt;&lt;li&gt;Do you resonate with the need for reproducible research and robust data pipelines?&lt;/li&gt;&lt;li&gt;Can you write solid, well engineered code and work in a team environment of highly capable and motivated individuals?&lt;/li&gt;&lt;li&gt;Are you excited at the idea of helping to build our next generation of machine learning tools, analytics platforms, and language/math assessment algorithms?&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Working closely with a small team of experts, you will have a unique opportunity to play a leading role in migrating machine learning based solutions from R&amp;amp;D to product-level operational delivery.&lt;/p&gt;&lt;p&gt;The team offers a unique environment for extremely skilled and motivated thinkers. Our culture is highly charged with people who are passionate about a cause, using technology to enhance students\u2019 educational experiences. Our team has been building machine learning solutions for educational markets since 2004.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Required Skills&lt;/p&gt;&lt;ul&gt;&lt;li&gt;MS or PhD in a quantitative field (CS, EE, statistics, math, data science) required&lt;/li&gt;&lt;li&gt;5 years experience in the field of natural language processing (NLP)&lt;/li&gt;&lt;li&gt;5 years professional experience as a software engineer or data scientist&lt;/li&gt;&lt;li&gt;Strong coding capabilities in Python and/or R&lt;/li&gt;&lt;li&gt;Experience with Linux and AWS; Kubernetes a big plus&lt;/li&gt;&lt;li&gt;Proven ability to build neural networking models for natural language applications&lt;/li&gt;&lt;li&gt;5 years experience TensorFlow, PyTorch or Keras&lt;/li&gt;&lt;li&gt;Strong in using Jupyter notebooks for research and data analytics&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-08T03:23:12.000Z"
+  },
+  "company": {
+    "name": "Quantitative Systems",
+    "link": "https://www.linkedin.com/company/quantitative-systems"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Machine Learning Engineer"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 110000,
+    "max_value": 120000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Honolulu",
+    "region": "HI",
+    "postal_code": "96859",
+    "street_address": null,
+    "latitude": 21.30992,
+    "longitude": -157.85815
+  }
+}

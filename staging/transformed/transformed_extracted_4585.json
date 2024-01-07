@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sports Data Scientist",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Our mission is to power the future of fan engagement.&lt;br&gt;&lt;br&gt;Simplebet is a B2B product development company using machine learning and real-time technology to make every moment of every sporting event a betting opportunity.&lt;br&gt;&lt;br&gt;Simplebet is looking for a Sports Data Scientist to build, analyze, and improve the machine learning models that power our micro betting experience. As we grow our business to cover new sports, new betting markets, and new sportsbook partners, you will be integral in ensuring that we are providing our partners with best-in-class sports betting models.&lt;br&gt;&lt;br&gt;&lt;strong&gt; We\u2019ll Trust You To &lt;br&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Build machine learning models to predict sports outcomes&lt;/li&gt;&lt;li&gt;Analyze the performance of existing machine learning models and provide actionable recommendations for improvement&lt;/li&gt;&lt;li&gt;Collaborate across engineering and product teams to clearly communicate results of analyses &lt;/li&gt;&lt;/ul&gt;You\u2019ll Need To Have:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Strong passion for sports (NFL, MLB, NBA)&lt;/li&gt;&lt;li&gt;Strong understanding of statistics and machine learning&lt;/li&gt;&lt;li&gt;Proficiency in Python&lt;/li&gt;&lt;li&gt;Strong written and verbal communication skills&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt; Bonus Points For &lt;br&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Projects involving creative analysis of sports data&lt;/li&gt;&lt;li&gt;Staying up-to-date with research in sports analytics&lt;/li&gt;&lt;li&gt;Experience in sports betting&lt;/li&gt;&lt;li&gt;Experience with deploying production machine learning models&lt;/li&gt;&lt;li&gt;Experience with SQL and relational databases&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt; What We Offer &lt;br&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Competitive salary (90k-135k per year)&lt;/li&gt;&lt;li&gt;Equity commensurate to experience&lt;/li&gt;&lt;li&gt;Health, dental, and vision insurance&lt;/li&gt;&lt;li&gt;401k&lt;/li&gt;&lt;/ul&gt;Simplebet is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. We do not discriminate based upon race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.&lt;br&gt;&lt;br&gt;We are committed to providing access, equal opportunity and reasonable accommodation for individuals with disabilities in employment, its services, programs, and activities. Please let us know if you require reasonable accommodation for the interview process, and we will make every effort to provide it.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T05:09:24.000Z"
+  },
+  "company": {
+    "name": "Simplebet",
+    "link": "https://www.linkedin.com/company/simplebet"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Sports Data Scientist"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

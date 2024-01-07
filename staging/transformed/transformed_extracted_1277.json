@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": ".NET Developer (C#, VB.net, ASP.net, SQL)",
+    "industry": "Information Technology and Services",
+    "description": "The successful candidate will be a C#/VB.net programmer with MS SQL (T-SQL) and ASP.NET experience. The work begins as REMOTE but after safe re-entry is determined feasible, will have to go onsite with a 2-week notice.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Work Authorization:&lt;/strong&gt; US Citizens, Green Card holders, GC-EAD&lt;br&gt;&lt;br&gt;ROLE&lt;br&gt;&lt;br&gt;Application support and data fixes.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-22T01:16:15.000Z"
+  },
+  "company": {
+    "name": "QBA Worldwide",
+    "link": "https://lu.linkedin.com/company/qba-worldwide"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": ".NET Developer (C#, VB.net, ASP.net, SQL)"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Augusta",
+    "region": "GA",
+    "postal_code": "30912",
+    "street_address": null,
+    "latitude": 33.472492,
+    "longitude": -81.96439
+  }
+}

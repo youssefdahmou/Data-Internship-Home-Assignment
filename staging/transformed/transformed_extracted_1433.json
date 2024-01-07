@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "&lt;p&gt;Hi, We are looking for OPT freshers to train and work on the placements regarding to the Java and Data Sciences on our own W2 &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;The ideal candidate's favorite words are learning, data, scale, and agility. You will leverage your strong collaboration skills and ability to extract valuable insights from highly complex data sets to ask the right questions and find the right answers.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Analyze raw data: assessing quality, cleansing, structuring for downstream processing&lt;/li&gt;&lt;li&gt;Design accurate and scalable prediction algorithms&lt;/li&gt;&lt;li&gt;Collaborate with engineering team to bring analytical prototypes to production&lt;/li&gt;&lt;li&gt;Generate actionable insights for business improvements&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bachelor's degree or equivalent experience in quantative field (Statistics, Mathematics, Computer Science, Engineering, etc.)&lt;/li&gt;&lt;li&gt;Freshers and experience in quantitative analytics or data modeling&lt;/li&gt;&lt;li&gt;Deep understanding of predictive modeling, machine-learning, clustering and classification techniques, and algorithms&lt;/li&gt;&lt;li&gt;Fluency in a programming language (Python, C,C++, Java, SQL)&lt;/li&gt;&lt;li&gt;Familiarity with Big Data frameworks and visualization tools (Cassandra, Hadoop, Spark, Tableau)&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T23:31:28.000Z"
+  },
+  "company": {
+    "name": "Vectorsoft",
+    "link": "https://www.linkedin.com/company/vectorsoft-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Data Scientist"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas",
+    "region": "TX",
+    "postal_code": "75342",
+    "street_address": null,
+    "latitude": 32.777977,
+    "longitude": -96.79621
+  }
+}

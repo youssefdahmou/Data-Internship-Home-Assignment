@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Web Developer",
+    "industry": "",
+    "description": "&lt;p&gt;The ideal candidate is a creative problem solver who will work in coordination with cross-functional teams to design, develop, and maintain our next generation websites and web tools. You must be comfortable working as part of a team while taking the initiative to take lead on new innovations and projects.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Revise, edit, proofread &amp;amp; optimize web content &lt;/li&gt;&lt;li&gt;Work with cross-functionally to enhance overall user experience of our platforms &lt;/li&gt;&lt;li&gt;Own various design tasks involved in the web development life cycle from start to finish&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bachelor's degree or equivalent experience in Computer Science &lt;/li&gt;&lt;li&gt;At least 1 - 2 years' of experience using HTML, CSS, and JavaScript &lt;/li&gt;&lt;li&gt;Proficiency in at least one server-side technology (Java, PHP, NodeJS, Python, Ruby) &lt;/li&gt;&lt;li&gt;Ability to multi-task, organize, and prioritize work&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T10:09:05.000Z"
+  },
+  "company": {
+    "name": "A2Z Web Solution LLC",
+    "link": "https://www.linkedin.com/company/a2z-web-solution-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": "Web Developer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Nevada",
+    "region": "United States",
+    "postal_code": "89023",
+    "street_address": null,
+    "latitude": 39.35647,
+    "longitude": -116.6554
+  }
+}

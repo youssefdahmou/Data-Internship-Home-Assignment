@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "C# Developer",
+    "industry": "Information Technology and Services",
+    "description": "&lt;p&gt;Title: C# Developer&lt;/p&gt;&lt;p&gt;Location: Irving, TX&lt;/p&gt;&lt;p&gt;Type: Contract to hire&lt;/p&gt;&lt;p&gt;Duration: 6 months&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Job Description: C# Programmer Analyst will assist the organization in creating and modifying business tools, using technology that will provide world class services to our membership and provider partners, as well as creating operational efficiencies and a competitive advantage. By performing these duties, company is able to process data efficiently, communicate with its providers and members, exchange and receive information between providers and members, and provide an overall higher level of service to its members and affiliate entities.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Manger Notes: They are decommissioning Optum product, hence healthcare experience. The C# Lead will be groomed for an employee that is retiring, position will morph to the SME. Must be a good communicator. It's is customer facing.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Required Skills:&lt;/p&gt;&lt;p&gt;1) 7+ years experience full-cycle programming&lt;/p&gt;&lt;p&gt;2) C# and&amp;nbsp;VB.Net&amp;nbsp;and/or&amp;nbsp;ASP.Net&lt;/p&gt;&lt;p&gt;3) Cloud exposure&lt;/p&gt;&lt;p&gt;4) Backend: Oracle, SQL&lt;/p&gt;&lt;p&gt;5) Exposure with Provider network management, Provider Contract managements or Claims processing Systems&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T17:22:07.000Z"
+  },
+  "company": {
+    "name": "Quantix, Inc.",
+    "link": "https://www.linkedin.com/company/quantix-inc._2"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": "C# Developer"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 105000,
+    "max_value": 115000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas-Fort Worth Metroplex",
+    "region": null,
+    "postal_code": "75049",
+    "street_address": null,
+    "latitude": 32.7513,
+    "longitude": -97.08263
+  }
+}

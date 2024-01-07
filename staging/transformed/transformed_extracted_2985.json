@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "&lt;p&gt;A global platform provider based in Berlin, Germany is seeking a &lt;strong&gt;Site Reliability Engineer&lt;/strong&gt; to help bolster&amp;nbsp;and support their cloud-based service offering. They're looking for someone with experience in &lt;strong&gt;Linux, CI/CD pipelines and some coding.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;A solid background and working experience in Software Development and/or Linux Systems Administration role&lt;/li&gt;&lt;li&gt;Strong interpersonal, written and verbal communication skills&lt;/li&gt;&lt;li&gt;Available to participate in a scheduled on-call rotation&lt;/li&gt;&lt;li&gt;Proficient as a Linux Systems Engineer, Linux Administrator, Software Developer, Software Engineer with experience managing large scale Web Services infrastructure&lt;/li&gt;&lt;li&gt;Development experience in one or more of the following programming languages: Linux, Python, Bash, Go, Java, C++, or Rust&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;In addition, experience with one or more of the following would be beneficial:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Distributed data storage at scale (Hadoop, Ceph)&lt;/li&gt;&lt;li&gt;NoSQL at scale (MongoDB clusters, sharded Redis, Cassandra)&lt;/li&gt;&lt;li&gt;Data Aggregation technologies. (ElasticSearch, Kafka)&lt;/li&gt;&lt;li&gt;Scaling and managing traditional RDBMS (PostgreSQL, MySQL) with High Availability&lt;/li&gt;&lt;li&gt;Monitoring &amp;amp; Alerting (Prometheus, Grafana), and Incident Management toolsets&lt;/li&gt;&lt;li&gt;Virtual infrastructure and/or container hosting (deployment and management) at scale&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;This position is remote, but once Covid restrictions lift, they will look at a hybrid working model, and they would like candidates who are based near Berlin to pop in for meetings from time to time and catch-ups.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Paying between $130 to $140k + Bonus + Benefits &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Apply now to be considered and for more information!&lt;/strong&gt;&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T16:54:46.000Z"
+  },
+  "company": {
+    "name": "Apollo Solutions",
+    "link": "https://uk.linkedin.com/company/apollo-solutions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Site Reliability Engineer"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 130000,
+    "max_value": 150000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "California",
+    "region": "United States",
+    "postal_code": "93266",
+    "street_address": null,
+    "latitude": 37.254673,
+    "longitude": -119.61728
+  }
+}

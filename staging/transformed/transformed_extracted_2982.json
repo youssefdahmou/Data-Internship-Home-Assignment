@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Services,Information Technology and Services,Computer Networking",
+    "description": "&lt;p&gt;We are working with the Senior manager of a life sciences company that is looking for a Site Reliability Engineer (SRE) who will be responsible for supporting Linux and Kubernetes based deployments and Google Cloud Platform.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Qualifications:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;At least 3+ years of experience supporting infrastructure and services in public cloud environments (GCP).&lt;/li&gt;&lt;li&gt;Demonstrable experience with automation and orchestration to enable&lt;/li&gt;&lt;li&gt;Accelerated infrastructure, application and software configuration deployment&lt;/li&gt;&lt;li&gt;Automated response to alerts or indicators of performance issues&lt;/li&gt;&lt;li&gt;Infrastructure as code&lt;/li&gt;&lt;li&gt;Reliability \u2013 driving fault detection and correction, performance and uptime at a global scale&lt;/li&gt;&lt;li&gt;Observability \u2013 instrument systems to gain visibility and understanding of how systems are performing and detecting anomalous behavior&lt;/li&gt;&lt;li&gt;Deep understanding Linux/Unix system internals&lt;/li&gt;&lt;li&gt;Working knowledge of network protocols and network based services, including routing, network load balancing and web proxy appliances / applications&lt;/li&gt;&lt;li&gt;Experience building and supporting containerized application technologies including Docker, kubernetes&lt;/li&gt;&lt;li&gt;Familiarity with CI/CD tools and deployment processes, GitLab a strong preference&lt;/li&gt;&lt;li&gt;Proficient with various programming languages such as Python/Java/Go for building automation or integration with APIs&lt;/li&gt;&lt;li&gt;Passion for eliminating repetitive manual processes using automation, including a focus on writing detailed solution specifications, best practices/standards documentation, operating procedures, run books, etc.&lt;/li&gt;&lt;li&gt;Hands-on experience with Kafka, Active MQ, IBM MQ, Amazon RDS, Amazon Auroroa desirable.&lt;/li&gt;&lt;li&gt;Excellent interpersonal skills, should be capable of working with cross functional technical and business teams and varying levels of management&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T20:15:13.000Z"
+  },
+  "company": {
+    "name": "The Bachrach Group",
+    "link": "https://www.linkedin.com/company/the-bachrach-group"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": "Site Reliability Engineer"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 120000,
+    "max_value": 160000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York City Metropolitan Area",
+    "region": null,
+    "postal_code": "10021",
+    "street_address": null,
+    "latitude": 40.748295,
+    "longitude": -73.98556
+  }
+}

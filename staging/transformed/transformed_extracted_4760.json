@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services",
+    "description": "&lt;p&gt;&lt;strong&gt;Machine Learning Engineer.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Location: Charlotte, North Carolina ( Remote for now)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;span class=\"ql-cursor\"&gt;&lt;/span&gt;Note: Please don't apply if you are looking for c2c positions.&lt;/strong&gt;&lt;/p&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-19T14:55:18.000Z"
+  },
+  "company": {
+    "name": "Mastech Digital",
+    "link": "https://www.linkedin.com/company/mastech"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Machine Learning Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Charlotte",
+    "region": "NC",
+    "postal_code": "28241",
+    "street_address": null,
+    "latitude": 35.223785,
+    "longitude": -80.84114
+  }
+}

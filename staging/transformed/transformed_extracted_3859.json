@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "&lt;p&gt;This team focuses specifically on site reliability as a service to the 4 LOBs in Consumer Lending Tech (Mortgage, Auto, Card, Personal Lending), supporting more than 700 Apps in tandem with Engineering teams within those groups.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;They will need to understand and explain how to build CI/CD pipelines but will not be actually building them. They will support deployment, testing, and production support. They will MEASURE the performance throughout the lifecycle, using different observability (Splunk, ElasticSearch, etc) and within various types of testing (Load, performance, UAT). Candidates should be able to explain the process&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;They will ask about Site reliability in general. \u201cCan you explain Site Reliability and the types\u201d? Answers like \u201cembedded\u201d and \u201ckitchen sink\u201d, among others, will be important to at least understand. Other questions around how you measure and why, as well as a request share example of problems solved and/or customer satisfaction stories. Another unique question:&lt;/p&gt;&lt;p&gt;Do you know what Golden Signals are and the types?&lt;/p&gt;&lt;p&gt;Candidates so they should understand concepts of the below and examples of experience:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;CI/CD pipelines&lt;/li&gt;&lt;li&gt;Observability&lt;/li&gt;&lt;li&gt;Automation&lt;/li&gt;&lt;li&gt;Deployment and production support&lt;/li&gt;&lt;li&gt;Platform \u2013 AWS, Azure, PCP&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T17:48:22.000Z"
+  },
+  "company": {
+    "name": "Strategic Staffing Solutions",
+    "link": "https://www.linkedin.com/company/strategic-staffing-solutions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Site Reliability Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Charlotte",
+    "region": "NC",
+    "postal_code": "28241",
+    "street_address": null,
+    "latitude": 35.223785,
+    "longitude": -80.84114
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "",
+    "description": "&lt;p&gt;&lt;strong&gt;Machine Learning Engineer&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Soothsayer Analytics is seeking Machine Learning Engineer who has an interest in solving challenging ML/ AI problems in Insurance. Our AI team works on a variety of exciting analytics (ML, AI) projects.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Number of positions&lt;/strong&gt;: 4&lt;/p&gt;&lt;p&gt;&lt;em&gt;Immediate need, need someone to start within 1-2 weeks max.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Required Education:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;PhD in computer science, Physics, Statistics, Applied Mathematics, or other quantitative/ Computational discipline or Master's with over 5 years of real-time relevant real-time Industry experience as an AI/ML/ Deep Learning is a MUST.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Required experience: &lt;/strong&gt;At least 5 years industry experience as a Data Scientist is required.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Job Description:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Participate in requirements gathering, technical specification, design, and development of complex operationalizing machine learning projects.&lt;/li&gt;&lt;li&gt;Ability to translate business requirements into plausible technical solutions for the articulation to other development team members.&lt;/li&gt;&lt;li&gt;Contribute to the architecture design, development of data or machine learning pipelines, and integration into enterprise systems&lt;/li&gt;&lt;li&gt;Responsible for Build and configure multi-tenant machine learning environments on-prem, cloud, or hybrid&lt;/li&gt;&lt;li&gt;Responsible for Build, test and optimize AI/ML models&lt;/li&gt;&lt;li&gt;Interact with teams of engineers from multiple disciplines Identifying and defining the scope&lt;/li&gt;&lt;li&gt;Defining technical approach, data and algorithms needed&lt;/li&gt;&lt;li&gt;Responsible for building out the data product from POC to product&lt;/li&gt;&lt;li&gt;Communicate modeling results and its business impact to scientific and business stakeholders&lt;/li&gt;&lt;li&gt;Collaborate with other engineers, data scientists, and business analysts.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Machine Learning Engineer/ Data Scientist&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Advanced level Experience in &lt;strong&gt;Python and ML&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;Experience with building Machine Learning models and pipelines using tools like Python and Spark in AWS SageMaker.&lt;/li&gt;&lt;li&gt;Experience building a variety of deep learning methods (autoencoders, embeddings etc.) using Pytorch, Tensorflow.&lt;/li&gt;&lt;li&gt;Experience building time series models&lt;/li&gt;&lt;li&gt;Proficient in data processing using pandas and pySpark. Ad hoc analysis to describe and understand data sets.&lt;/li&gt;&lt;li&gt;Familiarity with MLOps&lt;/li&gt;&lt;li&gt;Knowledge of SQL for accessing and processing data&lt;/li&gt;&lt;li&gt;Experience with at least one &lt;strong&gt;CI/CD tool&lt;/strong&gt;, e.g. Jenkins, Github actions, or cloud equivalents&lt;/li&gt;&lt;li&gt;Experience in hyperparameter tuning, model selection and metrics.&amp;nbsp;The candidate should demonstrate the ability to be well organized and perform error analysis to investigate model performance.&lt;/li&gt;&lt;li&gt;Experience building visualizations using python.&lt;/li&gt;&lt;li&gt;Hands on experience in a range of ML and AI techniques (e.g. supervised and unsupervised machine learning techniques, deep learning)&lt;/li&gt;&lt;li&gt;Deep understanding of data manipulation/wrangling techniques&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Required Skills/ Skills Matrix:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Data Analysis and Modeling using Python/Spark \u2013 5 years = Must&lt;/li&gt;&lt;li&gt;Distributed data processing using pyspark - 3 years = Must&lt;/li&gt;&lt;li&gt;Deep Learning on structured data - 3 years = Must&lt;/li&gt;&lt;li&gt;Computer Vision/NLP - 12 months = Good to have&lt;/li&gt;&lt;li&gt;MLOps - 6 months = Must&lt;/li&gt;&lt;li&gt;Time Series Analysis and Modeling \u2013 1 year = Must&lt;/li&gt;&lt;li&gt;Domain experience in solving ML problems in one or more of Insurance - 3 years = Must&lt;/li&gt;&lt;li&gt;AWS SageMaker \u2013 1 year - Must&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T15:32:25.000Z"
+  },
+  "company": {
+    "name": "Soothsayer Analytics",
+    "link": "https://www.linkedin.com/company/soothsayer-analytics"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Machine Learning Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Livonia",
+    "region": "MI",
+    "postal_code": "48154",
+    "street_address": null,
+    "latitude": 42.395065,
+    "longitude": -83.3695
+  }
+}

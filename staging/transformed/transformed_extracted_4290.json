@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Junior Data Scientist",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "&lt;strong&gt;&lt;u&gt;Job Description&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;We are GDIT. The people supporting and securing some of the most complex government defense and intelligence projects across the country. We ensure today is safe and tomorrow is smarter. Our work has meaning and impact on the world around us, but also on us, and that's important.&lt;br&gt;&lt;br&gt;We understand that the critical missions of tomorrow will be powered by today's future leaders. Come join our team building the art of the possible in St. Louis, Missouri, and get a head-start on your career in Artificial Intelligence. Be a part of a collaborative team solving some of our client's most complex issues, as a Junior Data Scientist \u2014 Computer Vision.&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;Responsibilities&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Familiarity with leading AI/ML tools and interest in imagery related AI/ML computer vision.&lt;/li&gt;&lt;li&gt;Desire to work in a scaled lean agile and cross functional team environment.&lt;/li&gt;&lt;li&gt;Interest in broad ranges of technology systems to include:&lt;/li&gt;&lt;li&gt;Using data to build computer vision capabilities&lt;/li&gt;&lt;li&gt;Imagery processing and computer vision frameworks and libraries&lt;/li&gt;&lt;li&gt;AI/machine learning frameworks, statistical learning algorithms, packages, and libraries&lt;/li&gt;&lt;li&gt;Support the building and testing of target models.&lt;/li&gt;&lt;li&gt;Assist with implementation of computer vision capabilities using various technology systems engineer imagery and modeling solutions&lt;/li&gt;&lt;li&gt;Assist with developing alternate concepts of operation to improve image quality, including automated image quality assessment, image enhancement and device calibration&lt;/li&gt;&lt;li&gt;Assist with development software algorithms to assess and improve image quality&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Requirements And Qualifications&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Currently pursuing an Associate's, Bachelor's, or Master's degree from a United States-based college or university in a technology, engineering, computer science or related discipline&lt;/li&gt;&lt;li&gt;Creative and innovative approach to problem-solving&lt;/li&gt;&lt;li&gt;Effective oral and written communications&lt;/li&gt;&lt;li&gt;Ability and willingness to work alongside senior team members and managers to further professional development&lt;/li&gt;&lt;li&gt;Familiarity with program languages and scripting methods such as Python, AutoML, Spark or similar frameworks&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Scheduled Weekly Hours&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;40&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;Travel Required&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;None&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;T Elecommuting Options&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;Some Telecommuting Allowed&lt;br&gt;&lt;br&gt;&lt;u&gt;&lt;strong&gt;Work Location:&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;/u&gt;USA MO St. Louis&lt;br&gt;&lt;br&gt;&lt;u&gt;&lt;strong&gt;Additional Work Locations:&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;/u&gt;We are GDIT. The people supporting some of the most complex government, defense, and intelligence projects across the country. We deliver. Bringing the expertise needed to understand and advance critical missions. We transform. Shifting the ways clients invest in, integrate, and innovate technology solutions. We ensure today is safe and tomorrow is smarter. We are there. On the ground, beside our clients, in the lab, and everywhere in between. Offering the technology transformations, strategy, and mission services needed to get the job done.&lt;br&gt;&lt;br&gt;GDIT is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status, or any other protected class.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T01:41:53.000Z"
+  },
+  "company": {
+    "name": "General Dynamics Information Technology",
+    "link": "https://www.linkedin.com/company/gdit"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Junior Data Scientist"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "St Louis",
+    "region": "MO",
+    "postal_code": "63121",
+    "street_address": null,
+    "latitude": 38.635357,
+    "longitude": -90.20099
+  }
+}

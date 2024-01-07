@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services",
+    "description": "&lt;p&gt;Title: Data Scientist&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Why is this position open? Growth&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Pay/Salary/Benefits/Perks: $120k/yr - $140k/yr&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Work from Home Policy: Full Remote&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Skills Required: We're looking for highly skilled data scientist to bring your breadth of knowledge to our team. As part of our team, you'll work with other passionate data scientists in an exciting, dynamic environment working with a massive dataset utilizing machine learning and more.&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Best Personality Match for this Role: Someone knowledgeable with Data Science, Machine learning, and more&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Screening / Background checks Required: Criminal&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Required:&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;- A few years of strong technical experience around data science and machine learning&lt;br&gt;- Heavy with SQL and Python&lt;br&gt;- Expert knowledge around machine learning, applied statistics, and A/B testing&lt;br&gt;- Code optimization, deployment, and monitoring ML models&lt;br&gt;- Strong collaborator&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;Nice-to-have:&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Master's or Ph.D. degree&lt;br&gt;- Experience with two-sided marketplace&lt;br&gt;- Experience with AWS (DynamoDB, SageMaker) or equivalent&lt;br&gt;- Experience with Airflow&lt;br&gt;- Experience with a deep learning framework&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;strong&gt;Desired Skills and Experience&lt;br&gt;&lt;br&gt;&lt;/strong&gt;We're looking for highly skilled data scientist to bring your breadth of knowledge to our team. As part of our team, you'll work with other passionate data scientists in an exciting, dynamic environment working with a massive dataset utilizing machine learning and more.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-12T20:00:21.000Z"
+  },
+  "company": {
+    "name": "Vaco",
+    "link": "https://www.linkedin.com/company/vaco"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Data Scientist"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Nashville",
+    "region": "TN",
+    "postal_code": "37221",
+    "street_address": null,
+    "latitude": 36.166344,
+    "longitude": -86.77907
+  }
+}

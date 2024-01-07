@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist (Intern or Entry Level - W2)",
+    "industry": "",
+    "description": "&lt;p&gt;JOB RESPONSIBILITIES:&amp;nbsp;&lt;br&gt; &lt;/p&gt;&lt;p&gt;&lt;br&gt; &lt;/p&gt;&lt;p&gt;Under supervision, the Data Science Consultant will manage all aspects of data science projects. This includes creating technical approach for proposals, co-ordinating with freelance community to execute projects and work with partners on collaboration of projects. &lt;/p&gt;&lt;p&gt;&lt;br&gt; &lt;/p&gt;&lt;p&gt;EDUCATIONAL BACKGROUND: Bachelors degree in a related field. &lt;/p&gt;&lt;p&gt;&lt;br&gt; &lt;/p&gt;&lt;p&gt;EXPERIENCE OR SPECIAL SKILLS DESIRED: &lt;/p&gt;&lt;p&gt;&lt;br&gt; &lt;/p&gt;&lt;p&gt;Experience using statistical computer languages (R, Python, SLQ, etc.) to manipulate data and draw insights from large data sets. - Knowledge of a variety of machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.) and their real-world advantages/drawbacks. - Knowledge of advanced statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications. - Excellent written and verbal communication skills for coordinating across teams. - Experience creating and using advanced machine learning algorithms and statistics: regression, simulation, scenario analysis, modeling, clustering, decision trees, neural networks, etc. &lt;/p&gt;&lt;p&gt;&lt;br&gt; &lt;/p&gt;&lt;p&gt;DURATION: Fall (August - December 2021) and Spring (January to May 2022)&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-02T19:12:47.000Z"
+  },
+  "company": {
+    "name": "CrowdPlat",
+    "link": "https://www.linkedin.com/company/crowdplat"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Data Scientist (Intern or Entry Level - W2)"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas",
+    "region": "TX",
+    "postal_code": "75342",
+    "street_address": null,
+    "latitude": 32.777977,
+    "longitude": -96.79621
+  }
+}

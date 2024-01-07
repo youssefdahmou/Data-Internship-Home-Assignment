@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Web Developer",
+    "industry": "Information Technology and Services",
+    "description": "&lt;p&gt;A new lead front end developer will focus on sophisticated high quality web page development.&amp;nbsp;The new developer will support the continued advancement with a range of user centered features for the display and analysis of results.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Design and develop web applications and services that integrate with the client\u2019s products.&lt;/li&gt;&lt;li&gt;Collaborate with product managers, designers, and engineers to prototype and implement features.&lt;/li&gt;&lt;li&gt;Recommend best approaches for front-end architecture, tooling, and processes.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Qualifications:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Required&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bachelor\u2019s degree in Computer Science, Software Engineering, or related engineering and technical field.&lt;/li&gt;&lt;li&gt;3+ years of development experience in front end development.&lt;/li&gt;&lt;li&gt;Skilled with HTML, CSS, JS.&lt;/li&gt;&lt;li&gt;Basic familiarity with object-oriented programming concepts and technologies.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Preferred&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Experience with front-end frameworks such as React and Vue.&lt;/li&gt;&lt;li&gt;Experience with Agile development.&lt;/li&gt;&lt;li&gt;Some experience with a major cloud provider such as Azure.&lt;/li&gt;&lt;li&gt;Skill in understanding and consuming RESTful APIs.&lt;/li&gt;&lt;li&gt;Knowledge of continuous integration is an advantage.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T15:13:56.000Z"
+  },
+  "company": {
+    "name": "VantageLinks, LLC",
+    "link": "https://www.linkedin.com/company/vantagelinks-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": "Web Developer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greater St. Louis",
+    "region": null,
+    "postal_code": "63101",
+    "street_address": null,
+    "latitude": 38.62262,
+    "longitude": -90.192986
+  }
+}

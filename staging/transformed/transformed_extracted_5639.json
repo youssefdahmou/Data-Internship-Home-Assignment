@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Computer Software,Program Development",
+    "description": "&lt;strong&gt;&lt;u&gt;Minimum Qualifications&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Master's degree in statistics, economics,operations research, engineering, or related field&lt;/li&gt;&lt;li&gt;4+ years of experience in MMM, measurement, A/Btesting, marketing strategy &amp;amp; analytics&lt;/li&gt;&lt;li&gt;Proficient coding skills (Python/SQL) anddatabase knowledge&lt;/li&gt;&lt;li&gt;Extensive experience with predictive modelingalgorithms&lt;/li&gt;&lt;li&gt;Strong project management skills&lt;/li&gt;&lt;li&gt;Communicate technical material to a range ofaudiences and to \u2018tell a story\u2019 that provides insight into the business&lt;/li&gt;&lt;li&gt;You have a passion for working in a fast-pacedagile environment.&lt;/li&gt;&lt;li&gt;A collaborative mindset and sense of curiosity&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-24T01:03:48.000Z"
+  },
+  "company": {
+    "name": "Resiliency LLC",
+    "link": "https://www.linkedin.com/company/resiliencyllc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": "Data Scientist"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Bruno",
+    "region": "CA",
+    "postal_code": "94067",
+    "street_address": null,
+    "latitude": 37.627277,
+    "longitude": -122.416145
+  }
+}

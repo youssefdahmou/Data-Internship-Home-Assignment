@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist / Machine Learning Engineer (remote)",
+    "industry": "Information Technology and Services",
+    "description": "Looking for a &lt;strong&gt;data scientist / machine learning engineer &lt;/strong&gt;to join us to work models based on the construction data + public data sets that would help to build The Internet in US rural areas where, today, people have poor service, or no service at all.&lt;br&gt;&lt;ul&gt;&lt;li&gt;learning business&lt;/li&gt;&lt;li&gt;converting business to technical ideas&lt;/li&gt;&lt;li&gt;converting these ideas to computer programs and models&lt;/li&gt;&lt;/ul&gt; &lt;strong&gt;Three Must Have Technical Skill Sets&lt;br&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;fast.ai / PyTorch&lt;/li&gt;&lt;li&gt;Python / Clojure&lt;/li&gt;&lt;li&gt;pandas&lt;/li&gt;&lt;/ul&gt; &lt;strong&gt;Three \u201cNice to have\u201d Technical Skills&lt;br&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;scikit-learn&lt;/li&gt;&lt;li&gt;deep learning&lt;/li&gt;&lt;li&gt;data visualization (not via packaged software, but via libs like \u201cseaborn\u201d, \u201cggplot\u201d, etc.)&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-10T08:20:29.000Z"
+  },
+  "company": {
+    "name": "inSync Staffing",
+    "link": "https://www.linkedin.com/company/insync-staffing"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Data Scientist / Machine Learning Engineer (remote)"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Roswell",
+    "region": "GA",
+    "postal_code": "30076",
+    "street_address": null,
+    "latitude": 34.021652,
+    "longitude": -84.36167
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "&lt;p&gt;&lt;strong&gt;About Mutually Human&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Mutually Human is a leading custom software and application development company with innovation at its core. The Company partners with its clients to develop and deliver cutting-edge customized software solutions that are integral to its client\u2019s core business operations, from complex software solutions designed to streamline and automate workflow to web and mobile applications that enable business scale and improve customer experiences.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Software Engineer&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We are looking for an experienced software engineer with a track record of creating high-quality software. You should have solid experience in multiple languages. However, in order to be a good fit for Mutually Human, you should be flexible, adaptable, and willing to learn new frameworks, technologies, languages, and techniques so you can adapt to the needs of our clients.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Essential Responsibilities&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Architect and create high-quality software (mainly web and mobile applications) that meets the needs of its users and helps organizations reach their goals.&lt;/li&gt;&lt;li&gt;Collaborate with the Product Manager, Designer, and other Developers to ensure successful delivery of quality software to our clients.&lt;/li&gt;&lt;li&gt;Willing to learn new frameworks, technologies, languages, and techniques so that you are able to adapt to the changing needs of our clients. Here are a few of the tools we commonly work with:&lt;/li&gt;&lt;li&gt;HTML/CSS/JavaScipt&lt;/li&gt;&lt;li&gt;React&lt;/li&gt;&lt;li&gt;Ionic&lt;/li&gt;&lt;li&gt;Ruby on Rails&lt;/li&gt;&lt;li&gt;Automate tests to the extent necessary to maintain systems that are easy to understand and change.&lt;/li&gt;&lt;li&gt;Quickly and efficiently learn our client\u2019s domain, existing systems, strategy, and user needs.&lt;/li&gt;&lt;li&gt;Deliver solutions for our clients within the time and budget constraints of the project. We look to our developers to provide feedback and solutions to ensure we are investing in the right features for our clients to achieve their goals.&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T19:44:04.000Z"
+  },
+  "company": {
+    "name": "Mutually Human",
+    "link": "https://www.linkedin.com/company/mutually-human-software"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Software Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Grand Rapids",
+    "region": "MI",
+    "postal_code": "49516",
+    "street_address": null,
+    "latitude": 42.96546,
+    "longitude": -85.67017
+  }
+}

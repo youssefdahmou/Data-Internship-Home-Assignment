@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Software Engineer / Senior - Lead",
+    "industry": "Staffing and Recruiting",
+    "description": "An ecommerce tech company in Chicago is looking to bring on a hybrid Software &amp;amp; Machine Learning Engineer to work on a variety of computer vision and NLP projects. The role is looking for someone who is very comfortable in Python programming and building out Machine Learning models from scratch, as well as someone who can help deploy their models into production.&lt;br&gt;&lt;br&gt;This role needs someone who not only has used Machine learning, but also someone who comes from a strong computer engineering background to be able to work closely with the software developers on the full life cycle of the data projects.&lt;br&gt;&lt;br&gt;This is a true hybrid role between engineering and Machine Learning/Deep Learning- so if you're looking to take on the next step in your career make sure to apply today!&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;Required Skills &amp;amp; Experience&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt; &lt;li&gt;4+ years professional experience in building web applications, backend infrastructure, data pipelines, and or machine learning models&lt;/li&gt; &lt;li&gt;Experience with Python, Scala, Java, or Go programming&lt;/li&gt; &lt;li&gt;Building data pipelines in PySpark or Spark and scheduling with Airflow&lt;/li&gt; &lt;li&gt;PyData tools like Pandas, Numpy, SkLearn, SciPy, etc.&lt;/li&gt; &lt;li&gt;Deep Learning tools such as PyTorch or Tensorflow&lt;/li&gt; &lt;li&gt;Strong understanding and experience in engineering&lt;/li&gt; &lt;li&gt;Bachelor's Degree in C.S. or similar&lt;/li&gt; &lt;li&gt;Cloud Technologies such as GCP or AWS&lt;/li&gt; &lt;br&gt;&lt;br&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Desired Skills &amp;amp; Experience&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt; &lt;li&gt;ML Ops tools such as ML flow and Kubeflow and distributed model training&lt;/li&gt; &lt;li&gt;Kafka, Kinesis, or similar&lt;/li&gt; &lt;li&gt;Experience as a Software or Data Engineer prior to Machine Learning&lt;/li&gt; &lt;li&gt;Experience deploying your own models&lt;/li&gt; &lt;br&gt;&lt;br&gt;&lt;/ul&gt;The Offer&lt;br&gt;&lt;ul&gt; &lt;li&gt;Competitive Salary: Up to $120-190K/year, DOE&lt;/li&gt; &lt;br&gt;&lt;br&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;You Will Receive The Following Benefits&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt; &lt;li&gt;Competitive Medical &amp;amp; Health Benefits package&lt;/li&gt; &lt;li&gt;Educational Reimbursement&lt;/li&gt; &lt;li&gt;Collaborative inclusive culture&lt;/li&gt; &lt;li&gt;401(k) with match&lt;/li&gt; &lt;li&gt;Annual bonus&lt;/li&gt; &lt;li&gt;Unlimited and encouraged PTO&lt;/li&gt; &lt;li&gt;Free snacks and beverages&lt;/li&gt; &lt;li&gt;Flexible work schedule&lt;/li&gt; &lt;li&gt;Stock options&lt;/li&gt; &lt;br&gt;&lt;br&gt;&lt;/ul&gt;Applicants must be currently authorized to work in the United States on a full-time basis now and in the future. This position does not offer sponsorship. No C2C or 3rd parties please.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Posted By:&lt;/strong&gt; Sydney Weaver",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-27T20:19:20.000Z"
+  },
+  "company": {
+    "name": "Motion Recruitment",
+    "link": "https://www.linkedin.com/company/motion-recruitment-partners"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": "Machine Learning Software Engineer / Senior - Lead"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

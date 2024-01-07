@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Scientist",
+    "industry": "Biotechnology",
+    "description": "&lt;strong&gt;We are creating a technology centric, R&amp;amp;D incubator in the Biotech space and are looking for a fully remote Senior Data Scientist!!&lt;br&gt;&lt;br&gt;&lt;/strong&gt;This Jobot Job is hosted by Matt Gennari&lt;br&gt;&lt;br&gt;Are you a fit? Easy Apply now by clicking the \"Apply\" button and sending us your resume.&lt;br&gt;&lt;br&gt;Salary $140,000 - $180,000 per year&lt;br&gt;&lt;br&gt;&lt;strong&gt;A Bit About Us&lt;br&gt;&lt;br&gt;&lt;/strong&gt;We are a 20-person Biotechnology startup that is focused on creating an R&amp;amp;D incubator that creates innovative solutions to sustainably feed, clothe and keep health the growing world population. We integrate and create cutting edge and novel advances in synthetic biology, data sciences, and analytical systems and are looking for a Senior Data Scientist who wants to be part of a sustainable and ethical company where&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;Why join us?&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt; Extremely competitive base (Up to $180K depending on experience)&lt;/li&gt;&lt;li&gt; 10% Bonus every year&lt;/li&gt;&lt;li&gt; Profit-Sharing&lt;/li&gt;&lt;li&gt; Full Healthcare Benefits&lt;/li&gt;&lt;li&gt; Fully Remote&lt;/li&gt;&lt;li&gt; The chance to get in on the ground floor with a growing startup!&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;Job Details&lt;br&gt;&lt;br&gt;&lt;/strong&gt;We are looking for someone to drive the development and implementation of data analysis systems at the intersection of ML and BIology. You will be a part of a team engaged in cutting-edge genetic engineering with a custom computational platform. You will also develop ML algorithms and integrate knowledge of biological models and databases with ML algorithms to provide recommendations for biological engineering.&lt;br&gt;&lt;br&gt;If you have a strong background in Python, Machine Learning, and Statistics, please reach out!&lt;br&gt;&lt;br&gt;Interested in hearing more? Easy Apply now by clicking the \"Apply\" button.&lt;br&gt;&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-05T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Jobot",
+    "link": "https://www.linkedin.com/company/jobot"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Senior Data Scientist"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Pleasanton",
+    "region": "CA",
+    "postal_code": "94588",
+    "street_address": null,
+    "latitude": 37.658436,
+    "longitude": -121.877
+  }
+}

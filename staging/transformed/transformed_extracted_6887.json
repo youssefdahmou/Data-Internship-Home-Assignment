@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Financial Services",
+    "description": "&lt;p&gt;Selby Jennings is working with a Dallas based investment manager on an incredibly exciting opportunity. They are looking to bring on ML/Data Engineers with a focus on Natural Language Processing and building ML algorithms.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;You'd be one of the first hires in their Data Innovation and Insights team giving you the opportunity to take ownership and make a tangible impact on the firm. Further details to come upon your application.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;What you have:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;1-5 years of experience&lt;/li&gt;&lt;li&gt;Strong programming experience in Python &lt;/li&gt;&lt;li&gt;Extensive experience in Natural Language Processing&lt;/li&gt;&lt;li&gt;Knowledge of regressions, classification algorithms, decision trees, random forests, and neural networks&lt;/li&gt;&lt;li&gt;Data scrubbing/cleaning experience&lt;/li&gt;&lt;li&gt;Knowledge of data streaming, Tensorflow, Spark, Kafka, and AWS are nice to have&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-31T22:12:13.000Z"
+  },
+  "company": {
+    "name": "Selby Jennings",
+    "link": "https://uk.linkedin.com/company/selby-jennings"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": "Machine Learning Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas-Fort Worth Metroplex",
+    "region": null,
+    "postal_code": "75049",
+    "street_address": null,
+    "latitude": 32.7513,
+    "longitude": -97.08263
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services",
+    "description": "&lt;p&gt;&lt;strong&gt;&lt;u&gt;Responsibilities:&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Suitable candidates will be part of Wipro Digital-Intelligent Enterprise practice .The job requires candidates to be proficient in leading a team of ML and NLP developers. Design and develop AI solutions to address business process automation challenges by applying Machine Learning models, Deep Learning, Classification models, statistical methods and NLU/NLP&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Skills&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;&lt;span class=\"ql-cursor\"&gt;&lt;/span&gt;&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Strong Python 2.7 or above programming skills, usage of open source libraries&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Experience building AI based automation solutions using platforms like IBM Watson/AWS Sagemaker/Azure ML/ Google APIs etc&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Applying innovative ideas to extract information from structured and unstructured document images&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Proficient in applying NLP techniques to process unstructured data content&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Proficient in modeling techniques such as Entity Extraction, Sequential Modelling (CRF, LSTM etc.) &lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Proficient with Machine learning (Supervised and UnSupervised) algorithms, Clustering, Classification, PCA, Fisher projections and other algorithm Kmeans, SVM, Random Forest.&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Proficient with Word Embeddings (Glove, Word2Vec).&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Team Leading capabilities&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Effective communication skills&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Agile based development methodology&lt;/p&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Flexibility for Short Term travels to Client locations.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T10:19:51.000Z"
+  },
+  "company": {
+    "name": "Wipro Technologies",
+    "link": "https://in.linkedin.com/company/wiprotechnologiessjp"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Machine Learning Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "IN",
+    "locality": "Bengaluru",
+    "region": null,
+    "postal_code": "577566",
+    "street_address": null,
+    "latitude": 12.976747,
+    "longitude": 77.57528
+  }
+}

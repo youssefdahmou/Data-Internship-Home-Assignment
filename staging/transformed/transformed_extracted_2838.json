@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Financial Services,Computer Software,Internet",
+    "description": "The Opportunity&lt;br&gt;&lt;br&gt;Digits is hiring passionate, collaborative, customer-driven engineers who share in our belief that modern business software can be intelligent, fast, fluid, beautiful, and even joyful to use.&lt;br&gt;&lt;br&gt;We believe that small businesses everywhere deserve the same cutting-edge technology that is currently available only to the largest tech companies, and that recent advances in deep learning have unlocked a new chapter in financial software and business operations.&lt;br&gt;&lt;br&gt;We leverage state-of-the-art deep learning to solve critical customer problems, while investing heavily in seamless, automated MLOps infrastructure to allow our ML engineers to stay focused on innovative projects. We prioritize a high-ownership, low-overhead approach to machine learning, where you'll be expected to build, launch, and operate ML projects end-to-end.&lt;br&gt;&lt;br&gt;Our team has experience shipping products at massive scale, with backgrounds at Crashlytics, Twitter, Google, Airbnb, and many others, and we're constantly learning and exploring new technologies and techniques in our quest to ship amazing business software powered by machine learning.&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;What You'll Bring&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;2+ years of experience developing and training models in either PyTorch or TensorFlow&lt;/li&gt;&lt;li&gt;Proficiency with deploying and maintaining machine learning models in production&lt;/li&gt;&lt;li&gt;Proficiency with Transformer models and/or Natural Language Processing&lt;/li&gt;&lt;li&gt;Proficiency with relational databases and SQL&lt;/li&gt;&lt;li&gt;Proficiency with Natural Language Processing, Transformer models and/or Embedding Generation&lt;/li&gt;&lt;li&gt;Familiarity with test-driven development &lt;/li&gt;&lt;li&gt;Familiarity with Git and GitHub&lt;/li&gt;&lt;li&gt;Familiarity with Google Cloud or AWS machine learning products&lt;/li&gt;&lt;li&gt;Desire to work remotely full-time (from home or a co-working space)&lt;/li&gt;&lt;li&gt;Excellent spoken and written communication skills (English)&lt;/li&gt;&lt;li&gt;Obsession for delighting customers&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Nice-to-haves&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Experience in one or more areas: Knowledge Graphs, Probabilistic ML, ML Privacy, Semi-Supervised Model Training, MLOps&lt;/li&gt;&lt;li&gt;Familiarity with Kubernetes or container orchestration&lt;/li&gt;&lt;li&gt;Familiarity with TensorFlow Extended, Kubeflow Pipelines or other MLOps tooling&lt;/li&gt;&lt;li&gt;Educational background in machine learning or artificial intelligence&lt;/li&gt;&lt;li&gt;Experience with or interest in analytics dashboards&lt;/li&gt;&lt;li&gt;Experience with or interest in finance/accounting&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;Get in touch!&lt;br&gt;&lt;br&gt;If you're excited to push the bounds on what people imagine financial software can be, we'd love to talk!",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T23:13:10.000Z"
+  },
+  "company": {
+    "name": "Digits",
+    "link": "https://www.linkedin.com/company/digits-financial"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": "Machine Learning Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "End User Support Specialist II",
+    "industry": "Financial Services",
+    "description": "&lt;br&gt;&lt;strong&gt;&lt;u&gt;End User Support Specialist II&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;strong&gt;Chicago, IL&lt;br&gt;&lt;br&gt;&lt;/strong&gt;#WeAreTradeStation&lt;br&gt;&lt;br&gt;TradeStation is an online brokerage firm seeking to level the playing field for self-directed investors and traders, empowering them to claim their individual financial edge. We have built a team of amazing people who work together in a high-performance culture to provide our clients with exceptional products and services. We offer a collaborative and flexible work environment, competitive salaries, comprehensive benefits and a generous PTO policy.&lt;br&gt;&lt;br&gt;We are seeking an End User Support Specialist who will provide assistance and consultation to all users. The Specialist may perform help desk functions and training, provide direct user support and guidance, and assist with technology planning. Specialists at this level typically provide advanced technical support on hardware and software applications. The Specialist will respond to telephone calls, email, and personnel requests for technical support as well as track and monitor the problem to ensure a timely resolution.&lt;br&gt;&lt;br&gt;&lt;u&gt;&lt;strong&gt;ESSENTIAL JOB FUNCTIONS&lt;/strong&gt;&lt;/u&gt;:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Maintain and upkeep assigned applications (ex. SCCM, Druva, Jamf, etc.)&lt;/li&gt;&lt;li&gt;Support end-users with technical questions (Hardware or software)&lt;/li&gt;&lt;li&gt;Assist in the development of streamlined procedures to ensure effective IT Customer Services assistance&lt;/li&gt;&lt;li&gt;Act as an escalation for the Support Specialist I for technical issues and customer service issues&lt;/li&gt;&lt;li&gt;Serve as liaison between system/network engineer staff and end-users to resolve customer/user problems and concerns&lt;/li&gt;&lt;li&gt;Explain computing concepts to non-technical staff&lt;/li&gt;&lt;li&gt;Assist in the deployment and support of telecommunication devices&lt;/li&gt;&lt;li&gt;Intermediate level administration of Active Directory (Create or modify security groups, update user information, etc.)&lt;/li&gt;&lt;li&gt;Assist with departmental projects&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;u&gt;&lt;strong&gt;KNOWLEDGE, SKILLS &amp;amp; ABILITIES&lt;/strong&gt;&lt;/u&gt;:&lt;br&gt;&lt;ul&gt;&lt;li&gt;In-depth understanding of desktop operating systems and hardware configurations (Windows OS and macOS) including system deployment&lt;/li&gt;&lt;li&gt;General understanding of network concepts&lt;/li&gt;&lt;li&gt;Intermediate knowledge level of Active Directory&lt;/li&gt;&lt;li&gt;Intermediate knowledge of PowerShell scripting.&lt;/li&gt;&lt;li&gt;Ability to work independently in local and/or remote locations&lt;/li&gt;&lt;li&gt;Ability to prioritize multiple tasks and projects as needed.&lt;/li&gt;&lt;li&gt;Ability to present computing concepts to technical and non-technical staff and rely on his/her experience and judgment to plan and accomplish goals&lt;/li&gt;&lt;li&gt;Knowledge of enterprise software services (ex. Druva, SCCM, Jamf, CrowdStrike, McAfee, Office 365, OneDrive)&lt;/li&gt;&lt;li&gt;Knowledge of commonly-used concepts, practices, and procedures in more complex help desk support functions&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;u&gt;&lt;strong&gt;EDUCATION &amp;amp; EXPERIENCE&lt;/strong&gt;&lt;/u&gt;:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Bachelor\u2019s Degree in a related area or Associates Degree and equivalent related experience&lt;/li&gt;&lt;li&gt;3-5 years experience in the computer field.&lt;/li&gt;&lt;li&gt;Microsoft certification is required (Minimum MCP)&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T05:34:59.000Z"
+  },
+  "company": {
+    "name": "TradeStation",
+    "link": "https://www.linkedin.com/company/tradestation"
+  },
+  "education": {
+    "required_credential": "associate degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": "End User Support Specialist II"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

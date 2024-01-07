@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Software",
+    "description": "&lt;p&gt;**Must be local to Phoenix or willing to relo \u2013 remote until at least October**&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;span class=\"ql-cursor\"&gt;&lt;/span&gt;Must Haves: &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;-3-5 years\u2019 experience with Python or Java development and an emphasis in Machine Learning (R, mathematical modeling, statistics)&lt;/p&gt;&lt;p&gt;-Bachelor\u2019s Degree in Computer Science or related field &lt;/p&gt;&lt;p&gt;-Hands on experience with libraries such as Spark, Splunk, Pandas, NumPy, or Sickit-learn &lt;/p&gt;&lt;p&gt;-Strong understanding and experience having worked in a Linux environment &lt;/p&gt;&lt;p&gt;-3-5 years\u2019 experience in building and integrating APIs &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Plusses: &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;-Master\u2019s Degree in Computer Science or related field &lt;/p&gt;&lt;p&gt;-Background in Linux administration &lt;/p&gt;&lt;p&gt;-Knowledge of WebSphere, JBose, or NodeJS&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Day-To-Day:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An employer in North Phoenix is looking for a Python/Machine Learning Engineer to join their team. This individual will be on the Site Reliability Team in which they are in charge of mission critical applications that are used by millions for a client facing financial website. This individual should be comfortable working in an environment with strict performance requirements and be confident in their python and understanding of machine learning. This team is working to implement an \u201cAutomation First\u201d approach in the SRE space. This engineer should have an understanding and be able to architect and conceptualize critical applications in a machine learning space. &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-12T23:11:39.000Z"
+  },
+  "company": {
+    "name": "Insight Global",
+    "link": "https://www.linkedin.com/company/insight-global"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": "Machine Learning Engineer"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 50,
+    "max_value": 55,
+    "unit": "HOUR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Phoenix",
+    "region": "AZ",
+    "postal_code": "85009",
+    "street_address": null,
+    "latitude": 33.448204,
+    "longitude": -112.072586
+  }
+}

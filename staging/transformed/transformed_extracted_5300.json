@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "AI/ML - Sr. Software Engineer, Siri Understanding (Private Learning)",
+    "industry": "Consumer Electronics",
+    "description": "&lt;br&gt;&lt;strong&gt;Summary&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Play a part in the next revolution in human-computer interaction. Contribute to a product that is redefining mobile computing. Create groundbreaking technology for mobile devices, spoken language, big data, and artificial intelligence systems. And work with the people who created the intelligent assistant that helps millions of people get things done \u2014 just by asking. Join the Siri AI/ML team at Apple.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Key Qualifications&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Expert knowledge and experience in one or more languages such as Swift, Objective-C, C++, Scala or Java&lt;br&gt;&lt;br&gt;&lt;br&gt;Must have a solid understanding of the software development process, including unit testing and release management&lt;br&gt;&lt;br&gt;&lt;br&gt;Possess excellent software architecture and design skills. &lt;br&gt;&lt;br&gt;&lt;br&gt;Must be able to brainstorm and effectively communicate technology ideas and issues&lt;br&gt;&lt;br&gt;&lt;br&gt;Enthusiasm for quality, attention to detail, and overall customer experience&lt;br&gt;&lt;br&gt;&lt;br&gt;Must have excellent cross team collaboration skills&lt;br&gt;&lt;br&gt;&lt;br&gt;Strong grasp of Apple developer tools and iOS SDK, preferably in a production environment&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Description&lt;br&gt;&lt;/strong&gt; &lt;br&gt;The goal of the Siri Machine Learning team is to take Siri to the next level of intelligence and accuracy. Your tasks will range from designing and implementing performant solutions to run machine learning models on Apple devices to design APIs used by multiple organizations in Apple. We are looking for folks who want to invent the future of Siri and not afraid of challenges. The ideal engineer deals with ambiguity well, writes high quality code and is comfortable in contributing code to both legacy and new systems. You should be passionate about shipping machine learning model inference algorithms and related infrastructure into production. Excellent communication skills will be required to coordinate work across multiple teams to resolve issues.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Education &amp;amp; Experience&lt;br&gt;&lt;/strong&gt; &lt;br&gt;BS in Computer Science, Engineering, or equivalent industry experience&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Additional Requirements&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Experience developing low latency machine learning inference engines for models such as neural network is a plus&lt;br&gt;&lt;br&gt;&lt;br&gt;Experience with Conversational AI / Voice assistants, Search Engine ranking is a plus.&lt;br&gt;&lt;br&gt; &lt;br&gt;Role Number: 200224480&lt;br&gt;&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:33:14.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "AI/ML - Sr. Software Engineer, Siri Understanding (Private Learning)"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

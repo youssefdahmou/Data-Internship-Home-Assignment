@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer Software",
+    "description": "Dandy is hiring a team of topflight software engineers to build digital products and scale our managed marketplace. Responsibilities include building our core engineering infrastructure, including new product features and enhancements, working closely across different business functions, incorporating data from our operations, sales, and account management teams in order to craft elegant solutions to our most pressing challenges, and overall reinventing a broken experience and disrupting a legacy industry through novel and scalable product design.&lt;br&gt;&lt;br&gt;Our stack: TypeScript, NodeJS, NestJS, React/Redux, PostgreSQL&lt;br&gt;&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-30T17:06:54.000Z"
+  },
+  "company": {
+    "name": "Dandy",
+    "link": "https://www.linkedin.com/company/dandypet"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Software Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

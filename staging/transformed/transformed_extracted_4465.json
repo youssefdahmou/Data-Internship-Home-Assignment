@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior DevOps Engineer",
+    "industry": "Commercial Real Estate",
+    "description": "&lt;p&gt;Our CONFIDENTIAL, growth client&amp;nbsp;is looking for experienced DevOps and Site Reliability Engineers who are interested in working with a fast-growing team in building industry-leading real estate data services. You will be working on a small team using cutting edge technology and tools to build and support infrastructure for our diverse environment including customer facing applications, large scale data processing, and APIs.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Technologies:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Google Cloud (Compute, Storage, Networking)&lt;/li&gt;&lt;li&gt;Kubernetes&lt;/li&gt;&lt;li&gt;Helm&lt;/li&gt;&lt;li&gt;Terraform&lt;/li&gt;&lt;li&gt;CircleCI&lt;/li&gt;&lt;li&gt;Monitoring (DataDog or Stackdriver, StatusCake)&lt;/li&gt;&lt;li&gt;Linux&lt;/li&gt;&lt;li&gt;Bash&lt;/li&gt;&lt;li&gt;Python&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Application/Data Stack&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Airflow&lt;/li&gt;&lt;li&gt;Hasura&lt;/li&gt;&lt;li&gt;ETL processes&lt;/li&gt;&lt;li&gt;Database Development and support (Postgres, BigQuery, MongoDB)&lt;/li&gt;&lt;li&gt;GraphQL&lt;/li&gt;&lt;li&gt;Looker&lt;/li&gt;&lt;li&gt;Node.js,&lt;/li&gt;&lt;li&gt;React/Redux&lt;/li&gt;&lt;li&gt;Python&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;If you can articulate the value of CI/CD and Infrastructure-as-code (IAC) and have hands-on coding experience with infrastructure management automation in the cloud (GCP OR AWS), would look forward to reviewing your background. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Once you apply, we\u2019ll send you the full job spec, all company information and a highlight of their leadership team.&lt;/strong&gt;&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T22:18:21.000Z"
+  },
+  "company": {
+    "name": "Talentpair",
+    "link": "https://www.linkedin.com/company/talentpair"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Senior DevOps Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

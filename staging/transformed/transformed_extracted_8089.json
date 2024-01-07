@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "&lt;p&gt;&lt;strong&gt;Job Title:&lt;/strong&gt; Site Reliability Engineer&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 4 Months contract to hire&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; Remote&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Candidates who were SRE backgrounds with CI/CD focus&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;Going with an SLA, SLI, SLO approach where they talk about reliability&lt;/span&gt;&lt;/li&gt;&lt;li&gt;1 SRE to every 2-3 areas (1 in 25-30)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Skills:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Windows/Linux servers--on-prem legacy hardware/infrastructure/servers&lt;/li&gt;&lt;li&gt;Cloud--preferred (Azure ideally)&lt;/li&gt;&lt;li&gt;Network equipment (Cisco)&lt;/li&gt;&lt;li&gt;Knowing the difference between observability and monitoring&lt;/li&gt;&lt;li&gt;Observability: understand state of service/overall health of the system&amp;nbsp;&lt;/li&gt;&lt;li&gt;Monitoring: specific to this specific component of this server&lt;/li&gt;&lt;li&gt;Scripting helpful, but don\u2019t need a coder--they identify areas of improvement/do scripting for integrations into Splunk, but that's handled by higher level people on team&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-10-13T20:42:19.000Z"
+  },
+  "company": {
+    "name": "Pull Skill Technologies Inc.",
+    "link": "https://www.linkedin.com/company/pull-skill-technologies-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": "Site Reliability Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

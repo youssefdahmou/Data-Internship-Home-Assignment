@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "&lt;p&gt;The ideal candidate will be responsible for developing high-quality applications. They will also be responsible for designing and implementing testable and scalable code.&amp;nbsp;They will have to work in Dallas, Texas on location in our offices. Our offices in the Uptown / West Village area.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Develop quality software and web applications&lt;/li&gt;&lt;li&gt;Analyze and maintain existing software applications&lt;/li&gt;&lt;li&gt;Design highly scalable, testable code&lt;/li&gt;&lt;li&gt;Discover and fix programming bugs&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Full Stack Software abilities&lt;/li&gt;&lt;li&gt;Development experience with programming languages&lt;/li&gt;&lt;li&gt;SQL database or relational database skills&lt;/li&gt;&lt;li&gt;Vast experience with Ruby on Rails&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T23:16:39.000Z"
+  },
+  "company": {
+    "name": "ClikDone",
+    "link": "https://www.linkedin.com/company/clikdone"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Software Engineer"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 100000,
+    "max_value": 150000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas",
+    "region": "TX",
+    "postal_code": "75342",
+    "street_address": null,
+    "latitude": 32.777977,
+    "longitude": -96.79621
+  }
+}

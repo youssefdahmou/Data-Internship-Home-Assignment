@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Pharmaceuticals,Medical Devices",
+    "description": "&lt;p&gt;&lt;strong&gt;Location: South San Francisco, CA&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Duration: 6+ Months Contract&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;You will join the department of AI/Client within Research Biology. You will collaborate with scientists working on different areas of machine learning and the life sciences.&lt;/p&gt;&lt;p&gt;You will closely collaborate with machine learning scientists, computational chemists and bioinformaticians across departments in the organization.&lt;/p&gt;&lt;p&gt;You will develop and deploy deep learning methods for representation learning of small molecules and prediction of chemical properties.&lt;/p&gt;&lt;p&gt;The work will also involve software development, infrastructure and hardware optimizations, data pipelining, and innovations to implement robust AI solutions for real world use cases.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Demonstrated experience with deep learning frameworks and models (PyTorch is preferred).&lt;/p&gt;&lt;p&gt;Proficient in Python.&lt;/p&gt;&lt;p&gt;Demonstrated experience in software development, GPU acceleration, model optimization and scaling for multiple server nodes.&lt;/p&gt;&lt;p&gt;Excellent communication and collaboration skills.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;-MSc or PhD degree in a quantitative field (e.g. Computer Science, Computational Chemistry, Machine Learning, Statistics, Mathematics, Physics). &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;-Industry experience as data scientist or ML engineer in a healthcare company. &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;-Experience in deep learning for graph-based and/or sequence-based data. &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;-Experience in deep learning for small molecules.&lt;/strong&gt;&lt;/p&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-13T15:16:42.000Z"
+  },
+  "company": {
+    "name": "Tech Observer",
+    "link": "https://www.linkedin.com/company/tech-observer"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Machine Learning Engineer"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 120,
+    "max_value": 135,
+    "unit": "HOUR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "California",
+    "region": "United States",
+    "postal_code": "93266",
+    "street_address": null,
+    "latitude": 37.254673,
+    "longitude": -119.61728
+  }
+}

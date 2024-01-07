@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "NET Full Stack Developer",
+    "industry": "Information Technology and Services",
+    "description": "&lt;p&gt;&lt;strong&gt;** Eligibility to work in the U.S. without sponsorship (current or future) required&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;AUSTIN, TX or PENSACOLA, FL&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;As a Software Engineer, You will:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Build new applications with a consistent framework to insure testability and maintainability.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Work collaboratively with developers and product owners to decompose requirements into actionable tasks and insure timely features delivery.&lt;/li&gt;&lt;li&gt;Create technical design specifications and work with QA to align understanding of requirements in user stories and to develop system test plans.&lt;/li&gt;&lt;li&gt;Design and implement proof of concepts/components when required.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;What You'll Need:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bachelor's or Master\u2019s degree in Computer Science or related field.&lt;/li&gt;&lt;li&gt;Strong understanding of software design patterns, data structures, and algorithms.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;4+ years of tracking experience developing enterprise level systems using C# and .NET Framework.&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;2+ years of front-end MVVM development experience in WPF.&lt;/strong&gt; Experience with MVVM frameworks such as Prism or Caliburn Micro. Knowledge of UI toolkits such as DevExpress, Infragistics, Telerik is a plus.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;2+ years of SQL and relational database design or experience developing .NET applications with an RDBMS&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;Good understanding of SOLID principles and how to develop clean, object-oriented, error-tolerant code using TDD and a unit testing framework such as MSTest, NUnit, or XUnit.&lt;/li&gt;&lt;li&gt;Experience working with Agile/Scrum methodologies.&lt;/li&gt;&lt;li&gt;Experience with source control tools such as Git.&lt;/li&gt;&lt;li&gt;Demonstrate a degree of creativity and problem-solving skills.&lt;/li&gt;&lt;li&gt;Excellent communications skills - facilitation, negotiation.&lt;/li&gt;&lt;li&gt;Good team player, hungry and self-starter that can work well in a team environment, proactive issue resolution with a positive attitude.&lt;/li&gt;&lt;li&gt;Have passion for learning new technologies and enhancing existing skills.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Preferred:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Experience with continuous integration, build processes and deployment tools like Azure DevOps, Jenkins, Teamcity, Octopus Deploy, docker/containers, etc.&lt;/li&gt;&lt;li&gt;Familiar with SQL Server Reporting Services (SSRS)&lt;/li&gt;&lt;li&gt;Experience with Windows Communication Foundation (WCF) or gRPC&amp;nbsp;is a plus&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T22:53:38.000Z"
+  },
+  "company": {
+    "name": "Olson Resources",
+    "link": "https://www.linkedin.com/company/olsonresources"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": "NET Full Stack Developer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "Texas Metropolitan Area",
+    "postal_code": "78723",
+    "street_address": null,
+    "latitude": 30.276316,
+    "longitude": -97.70931
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services",
+    "description": "&lt;ul&gt;&lt;li&gt;5+ years designing software and coding professionally&lt;/li&gt;&lt;li&gt;Computer Science degree preferred&lt;/li&gt;&lt;li&gt;An interest in the blockchain and cryptocurrency space&lt;/li&gt;&lt;li&gt;Proficient with Java&lt;/li&gt;&lt;li&gt;Proficient with a scripting language such as Python, Nodejs and/or PHP&lt;/li&gt;&lt;li&gt;Comfortable and proficient in a Linux terminal is required&lt;/li&gt;&lt;li&gt;Experience building and testing microservices with REST, preferably in Java&lt;/li&gt;&lt;li&gt;Capable of taking a new feature from the software design stage, through the development process, and ship it to production&lt;/li&gt;&lt;li&gt;Broad knowledge of SQL and relational database design&lt;/li&gt;&lt;li&gt;Some knowledge of the mechanics of applied cryptography including hashing, randomization, public-key encryption, symmetric encryption, and elliptic curves&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-13T15:30:23.000Z"
+  },
+  "company": {
+    "name": "Zemantics Inc.",
+    "link": "https://www.linkedin.com/company/zemantics-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Software Engineer"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 120,
+    "max_value": 125,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services",
+    "description": "Job Title: Machine Learning Engineer&lt;br&gt;&lt;br&gt;Location: South San Francisco, CA&lt;br&gt;&lt;br&gt;Duration: Long Term&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;Skills&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;Demonstrated experience with deep learning frameworks and models (PyTorch is preferred).&lt;br&gt;&lt;br&gt;Proficient in Python.&lt;br&gt;&lt;br&gt;Demonstrated experience in software development, GPU acceleration, model optimization and scaling for multiple server nodes.&lt;br&gt;&lt;br&gt;Excellent communication and collaboration skills.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T08:11:04.000Z"
+  },
+  "company": {
+    "name": "SynapOne",
+    "link": "https://www.linkedin.com/company/synaptein-solutions-incorporated"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Machine Learning Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "McLean",
+    "region": "VA",
+    "postal_code": "22101",
+    "street_address": null,
+    "latitude": 38.93759,
+    "longitude": -77.18378
+  }
+}

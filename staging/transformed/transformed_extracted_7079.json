@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "&lt;p&gt;SFOX is looking for a Site Reliability Engineer passionate about blockchain based financial technology. We are looking for someone who shares our values, is a team player but can work independently, and who thrives in a dynamic environment.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In this role, you will build and maintain a real-time trading infrastructure alongside the backend and frontend engineers. The ideal candidate for this position is a tool builder. We are looking for a strong engineer who is passionate about applying that skill set to problems related to operations and system administration.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;What you'll do&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Develop and maintain an SLA and error budget for hundreds of microservices&lt;/li&gt;&lt;li&gt;Engineer services aimed at infrastructure automation and high availability&lt;/li&gt;&lt;li&gt;Own and improve SFOX\u2019s continuous integration and deployment processes&lt;/li&gt;&lt;li&gt;Develop and maintain infrastructure and security strategy&lt;/li&gt;&lt;li&gt;Analyze potential risks of downtime and develop systems that will eliminate the issue&lt;/li&gt;&lt;li&gt;Work alongside the engineering team to improve the quality of their code &amp;amp; systems&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;About you&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Undergraduate Degree in Computer Science and Engineering, or equivalent, required. Masters degree is a plus.&lt;/li&gt;&lt;li&gt;Five years of experience maintaining high availability services&lt;/li&gt;&lt;li&gt;Extensive experience with AWS, cloudflare, kubernetes, docker, and linux&lt;/li&gt;&lt;li&gt;Working knowledge of Google App Engine, kops, cloudformation, terraform, and circleci&lt;/li&gt;&lt;li&gt;Knowledge of security best practices&lt;/li&gt;&lt;li&gt;Experience with Bash, Python, YAML, Configuration and Secret Management&lt;/li&gt;&lt;li&gt;Intimate knowledge of building and maintaining database clusters, caches and proxies (redis, nginx, etc)&lt;/li&gt;&lt;li&gt;Passion for innovation, automation and for working in early stage startups&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;span class=\"ql-cursor\"&gt;&lt;/span&gt;We love&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Experience working with trading and market data&lt;/li&gt;&lt;li&gt;Experience in high-frequency or algorithmic trading&lt;/li&gt;&lt;li&gt;Experience in trading digital currency&lt;/li&gt;&lt;li&gt;Knowledge of computational mathematics, statistics, and machine learning&lt;/li&gt;&lt;li&gt;Understanding of digital currency trading market&lt;/li&gt;&lt;li&gt;Interest in Bitcoin, digital currency, and distributed ledger technology&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T15:39:48.000Z"
+  },
+  "company": {
+    "name": "SFOX",
+    "link": "https://www.linkedin.com/company/sfox"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Site Reliability Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "California",
+    "region": "United States",
+    "postal_code": "93266",
+    "street_address": null,
+    "latitude": 37.254673,
+    "longitude": -119.61728
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer II, Uber Freight",
+    "industry": "Computer Software,Consumer Services,Information Technology and Services",
+    "description": "&lt;strong&gt;&lt;u&gt;What You'll Do&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;As a Fullstack Software Engineer on Freight, you will be tasked with creating scalable architecture, fullstack features, algorithms, systems, and applications that power our independent drivers, shippers, sales and operations teams, that work to transport freight across the country. You will be developing scalable backend microservices, creating React based frontend components and experiences, and partnering with Product and Product Operations. You will be working on automating inefficiencies and helping drive ways to scale the business. Additionally, you will be breaking monolith into microservices.&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;About The Role&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;Freight Engineering is tasked with creating the algorithms, systems, applications that power our independent drivers, sales and operations teams, and shippers that need to transport freight across the country. Comprised of Uber veterans and newcomers, we are looking for candidates who share our enthusiasm for disrupting today's toughest challenges in transportation. We are a Customer Obsessed team, and care deeply about our users, continually looking for opportunities to improve their lives.&lt;br&gt;&lt;br&gt;The Carrier Experience team builds applications and products for the Carriers and Drivers that haul with Uber Freight. The team must keep in-mind the demands of the role, and how to make life easier during the trip, and reduce the administrative steps that accompany each load. Carrier Experience is a cross-functional team comprised of Backend, Android, iOS, and Web engineers.&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;Basic Qualifications&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Minimum of 3+ years experience&lt;/li&gt;&lt;li&gt;Experience developing Web based applications&lt;/li&gt;&lt;li&gt;Experience developing backend microservices (Golang, Java or Node.js) and how they interface with storage systems.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Preferred Qualifications&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;CS degree or equivalent experience&lt;/li&gt;&lt;li&gt;Experience working on React/Redux&lt;/li&gt;&lt;li&gt;Knowledge of distributed systems&lt;/li&gt;&lt;li&gt;Product development experience&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T22:22:32.000Z"
+  },
+  "company": {
+    "name": "Uber",
+    "link": "https://www.linkedin.com/company/uber-com"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": "Software Engineer II, Uber Freight"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Anselmo",
+    "region": "CA",
+    "postal_code": "94960",
+    "street_address": null,
+    "latitude": 37.975376,
+    "longitude": -122.56184
+  }
+}

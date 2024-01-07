@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer - Marketing",
+    "industry": "Marketing and Advertising",
+    "description": "&lt;p&gt;A leading tech company in Boston is looking for experienced Data Scientists to join their team. As a lead Data Scientist here, you will enhance customer experience and drive business. You will work on customer facing data problems and develop Machine Learning models put into production.&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt; &lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;You will:&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Work across teams to drive algorithmic decision making&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Build and extend Machine Learning frameworks for scalable model training and deployment&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Serve as a technical leader for members of your team&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt; &lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;About you:&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;5+ years in industry as a Data Scientist, Machine Learning Engineer, or Software Developer&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Advanced degree in a quantitative field&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Strong Python programming&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Ability to build and deploy advanced Machine Learning software&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Strong communication skills - ability to communicate with business leaders&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Interest in deploying machine learning models as a scalable service&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt; &lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;If this sounds like you, please apply to learn more! References will be collected upon contact&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Sthree US is acting as an Employment Agency in relation to this vacancy.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt; &lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;EOE Statement: &lt;/strong&gt;Specialist Staffing Group is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status.&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt; &lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;span&gt;&lt;em&gt;&lt;strong&gt;To find out more about Huxley please visit www.huxley.com&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-16T00:00:42.000Z"
+  },
+  "company": {
+    "name": "Huxley",
+    "link": "https://uk.linkedin.com/company/huxley"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Machine Learning Engineer - Marketing"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

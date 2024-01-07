@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Linux System Engineer II",
+    "industry": "Information Technology and Services,Telecommunications,Financial Services",
+    "description": "DISH is a Fortune 250 company with more than $13 billion in annual revenue that continues to redefine the communications industry. Our legacy is innovation and a willingness to challenge the status quo, including reinventing ourselves. We disrupted the pay-TV industry in the mid-90s with the launch of the DISH satellite TV service, taking on some of the largest U.S. corporations in the process, and grew to be the fourth-largest pay-TV provider. We are doing it again with the first live, internet-delivered TV service \u2013 Sling TV \u2013 that bucks traditional pay-TV norms and gives consumers a truly new way to access and watch television.&lt;br&gt;&lt;br&gt;&lt;strong&gt; This role can be in either Cheyenne, WY or Gilbert, AZ &lt;br&gt;&lt;br&gt;&lt;/strong&gt;DISH is seeking an innovative and passionate Linux Engineer to join a team that manages the on-premise hardware/virtualization/OS/applications for the DISH Network conditional access systems. This position provides an opportunity to learn Docker and Kubernetes administration.&lt;br&gt;&lt;br&gt;&lt;strong&gt; Primary Responsibilities: &lt;br&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt; Administer and manage server hardware, virtualization, and Linux OSs &lt;/li&gt;&lt;li&gt; Ensure high availability of conditional access applications in dev/test/prod environments &lt;/li&gt;&lt;li&gt; Work with engineering teams to deploy new features and upgrades &lt;/li&gt;&lt;li&gt; Manage system monitoring and alerting tools &lt;/li&gt;&lt;li&gt; Create and maintain technical documents and procedures &lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt; Required Qualifications: &lt;br&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt; BS in Computer Science or a related technical degree, or equivalent combination of education and experience &lt;/li&gt;&lt;li&gt; 3+ years experience performing Linux system administration &lt;/li&gt;&lt;li&gt; 3+ years working in a virtualized (VMware) Linux server environment &lt;/li&gt;&lt;li&gt; Scripting proficiency: Bash, Python, etc. &lt;/li&gt;&lt;li&gt; Strong critical thinking, decision making, and problem-solving skills &lt;/li&gt;&lt;li&gt; Strong desire to automate tasks &lt;/li&gt;&lt;li&gt; Excellent written and verbal communication skills &lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt; Preferred Qualifications: &lt;br&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt; Experience with Docker/Kubernetes &lt;/li&gt;&lt;li&gt; Experience with SaltStack, ArgoCD, Helm &lt;/li&gt;&lt;li&gt; Experience with Active Directory/Centrify &lt;/li&gt;&lt;li&gt; Experience with system performance tuning/testing &lt;/li&gt;&lt;li&gt; Familiarization with Scaled Agile/Scrum methodologies &lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;#DICE_VP&lt;br&gt;&lt;br&gt;Compensation: $55,800.00/Yr. - $87,450.00/Yr.&lt;br&gt;&lt;br&gt;From versatile health perks to new career opportunities, check out our benefits on our careers website .&lt;br&gt;&lt;br&gt;Employment is contingent on Successful completion of a pre-employment screen, which may include a drug test.&lt;br&gt;&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T02:05:10.000Z"
+  },
+  "company": {
+    "name": "DISH Network",
+    "link": "https://www.linkedin.com/company/dish-network"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": "Linux System Engineer II"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cheyenne",
+    "region": "WY",
+    "postal_code": "82003",
+    "street_address": null,
+    "latitude": 41.14024,
+    "longitude": -104.8188
+  }
+}

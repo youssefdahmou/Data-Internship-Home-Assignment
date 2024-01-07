@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "&lt;p&gt;Lakarya is Hiring for one our Clients&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Position: Data Scientist /Data Analyst&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Location: Highpoint, NC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Job type: Long term Contract&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Job Description&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Manage administration and supervise the development of logistics policies and programs to ensure they meet the changing conditions in program requirements.&lt;/li&gt;&lt;li&gt;Prepare and present membership changes to large audience including senior staff using PowerPoint.&lt;/li&gt;&lt;li&gt;Develop reports using IBM Cognos as part of the migration of a particular customer.&lt;/li&gt;&lt;li&gt;Coded/Maintain a SAS program including embed SQL written by consultants for use in manual claim forecasting.&lt;/li&gt;&lt;li&gt;Analyze the existing BO universe and provide the guidelines to migrate and implementation effect of Cognos.&lt;/li&gt;&lt;li&gt;Develop dashboards and trend reports that keep track of utilization volume, cost, and quality performance.&lt;/li&gt;&lt;li&gt;Serve as project officer/team leader; provide direction and guidance to contractors and support to DoD personnel.&lt;/li&gt;&lt;li&gt;Involve in development for highly complicate reports, scorecards and dashboards for a specific business needs and performance improvement.&lt;/li&gt;&lt;li&gt;Develop routine SAS macros to create tables, graphs and listings for inclusion in reports and maintain existing ones.&lt;/li&gt;&lt;li&gt;Devise new improve procedure (by use of VBA) to create campus tables that saves time and ensures accuracy.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Job Types: Full-time, Contract&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T14:50:10.000Z"
+  },
+  "company": {
+    "name": "Lakarya",
+    "link": "https://www.linkedin.com/company/lakarya"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Data Scientist"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greensboro--Winston-Salem--High Point Area",
+    "region": null,
+    "postal_code": "27401",
+    "street_address": null,
+    "latitude": 36.076633,
+    "longitude": -79.79478
+  }
+}

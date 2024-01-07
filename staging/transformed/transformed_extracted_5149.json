@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Consumer Electronics",
+    "description": "&lt;br&gt;&lt;strong&gt;Summary&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Come help us build the next generation cloud platform to support internet services across Apple. Our software provides storage at massive scale and with high reliability to product teams at Apple. We are looking for a software engineer to join our collaborative and friendly team to help us develop large scale services and infrastructure.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Key Qualifications&lt;br&gt;&lt;/strong&gt; &lt;br&gt;A track-record and proven experience as a distributed systems software developer.&lt;br&gt;&lt;br&gt;Deep knowledge of non-blocking (asynchronous) and thread-safe programming, ideally in Java.&lt;br&gt;&lt;br&gt;Experience building, launching and operating infrastructure at scale.&lt;br&gt;&lt;br&gt;Understanding of database systems and distributed consistency algorithms a plus.&lt;br&gt;&lt;br&gt;Knowledge of continuous integration, testing methodologies, TDD development methodologies.&lt;br&gt;&lt;br&gt;Understanding of file system handling on Linux a plus.&lt;br&gt;&lt;br&gt;Understanding of C++ libraries and JNI integration a plus.&lt;br&gt;&lt;br&gt;Some exposure to structured or unstructured storage and caching.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Description&lt;br&gt;&lt;/strong&gt; &lt;br&gt;We are building a distributed, ordered key-value database to support critical infrastructural systems and frameworks. These form the platform upon which many iCloud and other backend systems at Apple are built. The team is responsible for the next generation platform that will power Apple's infrastructural services. The database will have huge scale and store petabytes of data. We are looking for an experienced developer with a desire to learn to join as a member of this collaborative and friendly team. This person will have individual responsibility and influence over the direction the backend of many critical Apple internet services. The features shipped by this candidate will impact hundreds of millions of users of Apple products.&lt;br&gt;&lt;br&gt;-&lt;br&gt;&lt;br&gt;Responsibilities will include:&lt;br&gt;&lt;br&gt;-&lt;br&gt;&lt;br&gt;Design, build and maintain software &amp;amp; services to improve the feature set, availability, scalability and security of Apple's internal cloud infrastructure.&lt;br&gt;&lt;br&gt;Use proven testing methodology to assure system stability and performance.&lt;br&gt;&lt;br&gt;-&lt;br&gt;&lt;br&gt;Minimum requirements:&lt;br&gt;&lt;br&gt;-&lt;br&gt;&lt;br&gt;A bachelors degree in computer science or work equivalence.&lt;br&gt;&lt;br&gt;At least 5 years experience writing product quality code for a product or service. 10 or more years experience is a plus.&lt;br&gt;&lt;br&gt;At least 3 years experience with operating and shipping features for distributed systems.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Education &amp;amp; Experience&lt;br&gt;&lt;/strong&gt; &lt;br&gt;BS or MS in Computer Science or equivalent industry experience.&lt;br&gt;&lt;br&gt; &lt;br&gt;Role Number: 200267212&lt;br&gt;&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T14:45:29.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": "Software Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

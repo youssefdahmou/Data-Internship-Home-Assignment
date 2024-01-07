@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer",
+    "industry": "",
+    "description": "DESCRIPTION:             &lt;br&gt;\u2022\tThese contingent workers will work closely with full-time research scientists and software engineers who are leading&lt;br&gt;\u2022\tcomputer vision research projects to ensure that the process runs smoothly, and that data annotation quality remains high to&lt;br&gt;\u2022\ttrain state-of-the-art machine learning models. Duties include:&lt;br&gt;\u2022\tData wrangling: writing data pipelines to upload annotations automatically; running existing ML models on large volumes of&lt;br&gt;\u2022\tdata; ad-hoc data analysis / visualization&lt;br&gt;&lt;br&gt;Annotation task and vendor management: &lt;br&gt;\u2022\tcreating data annotation guidelines; curating ideal \u201cgold standard\u201d examples for annotators.&lt;br&gt;\u2022\tmanaging back-and-forth communications with annotators; reviewing annotation quality to identify themes and&lt;br&gt;\u2022\trelaying appropriate feedback to annotation vendors.&lt;br&gt;&lt;br&gt;Skills required:&lt;br&gt;\u2022\tSQL, Python, Linux command line (Bash)&lt;br&gt;\u2022\tVery high attention to detail for managing large, complex annotation efforts&lt;br&gt;\u2022\tGood written communication skills to coordinate with annotators and team members&lt;br&gt;\u2022\t2+ years\u2019 work experience, including experience working with customer teams&lt;br&gt;&lt;br&gt;Top must-have HARD skills:&lt;br&gt;\u2022\tSQL and Python is a need&lt;br&gt;\u2022\tLinux command line&lt;br&gt;&lt;br&gt;Top 3 good-to-have skills:&lt;br&gt;\u2022\tGreat communication&lt;br&gt;\u2022\tUnderstanding of AI models would be great&lt;br&gt;&lt;br&gt;Interview Loop/Process&lt;br&gt;\u2022\t2 coding interviews and 1 general interview&lt;br&gt;\u2022\tPDF homework-offline analysis, will submit the answers along with their resume&lt;br&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-10-05T17:14:20.000Z"
+  },
+  "company": {
+    "name": "SGS Consulting",
+    "link": "https://www.linkedin.com/company/sgs-consulting"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": "Data Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Menlo Park",
+    "region": "CA",
+    "postal_code": "94029",
+    "street_address": null,
+    "latitude": 37.45322,
+    "longitude": -122.18322
+  }
+}

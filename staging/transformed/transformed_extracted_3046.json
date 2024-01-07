@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Simulation Technology - New College Grad",
+    "industry": "Computer Hardware,Computer Software,Consumer Electronics",
+    "description": "Intelligent machines powered by AI computers that can learn, reason and interact with people are no longer science fiction. Today, a self-driving car powered by AI can meander through a country road at night and find its way. An AI-powered robot can learn motor skills through trial and error. This is truly an outstanding time. The era of AI has begun. At NVIDIA, simulation is at the core of everything we do. NVIDIA GPUs and NVIDIA expertise are paving the way for simulation technology to shape the future. By joining our team you will directly contribute to an exciting field surely to change our way of life.&lt;br&gt;&lt;br&gt;We are now looking for a Software Engineer (New College Grad) for our Robotics/AV Simulation team!&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;What You Will Be Doing&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Work closely with simulation engineers, robotics researchers, and artists to define and deliver a simulation environment that accelerates robotics and autonomous vehicle development.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;You Will Help Build Production-quality Software That&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Simulates, trains and tests different types of robots, vehicles, and scales from the edge to the cloud.&lt;/li&gt;&lt;li&gt;Simulates different physical sensors (camera, lidar, IMU), vehicle and rigid/soft body dynamics.&lt;/li&gt;&lt;li&gt;Generates synthetic data (segmentation, bounding boxes, labels, etc.) for perception, navigation and manipulation training.&lt;/li&gt;&lt;li&gt;Ensures transfer learning from simulation to physical robots.&lt;/li&gt;&lt;li&gt;Provides a simulation environment to develop intelligent machines that can work closely with people in a safe collaborative manner.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;What We Need To See&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;PhD, Master's, or Bachelor's degree in Computer Science, Applied Math, or related field (or equivalent experience).&lt;/li&gt;&lt;li&gt;Software development skills (C++, Python).&lt;/li&gt;&lt;li&gt;Strong mathematical fundamentals, including linear algebra and calculus.&lt;/li&gt;&lt;li&gt;Experience with game/physics engine development.&lt;/li&gt;&lt;li&gt;Ambitious to deliver, eager to learn new things, and strong communication skills.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Ways To Stand Out From The Crowd&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Experience with ROS, OpenDRIVE, physics simulation software, sensor simulation, computer graphics, version control.&lt;/li&gt;&lt;li&gt;Background with Docker, Scalable Cloud, AWS, Kubernetes deployments.&lt;/li&gt;&lt;li&gt;Experience with shipping and supporting software products.&lt;/li&gt;&lt;li&gt;Familiar with AI concepts: Supervised Learning, Reinforcement Learning.&lt;/li&gt;&lt;li&gt;Background with data-parallel and/or accelerated computing (CUDA, OpenCL).&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;NVIDIA is widely considered to be one of the technology world\u2019s most desirable employers. We have some of the most forward-thinking and talented people in the world working for us. If you're creative and have a passion for developing and shipping groundbreaking products, we want to hear from you!&lt;br&gt;&lt;br&gt;NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression , sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.&lt;br&gt;&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T06:18:14.000Z"
+  },
+  "company": {
+    "name": "NVIDIA",
+    "link": "https://www.linkedin.com/company/nvidia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Software Engineer, Simulation Technology - New College Grad"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Santa Clara",
+    "region": "CA",
+    "postal_code": "95050",
+    "street_address": null,
+    "latitude": 37.352394,
+    "longitude": -121.95308
+  }
+}

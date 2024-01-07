@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services",
+    "description": "&lt;p&gt;&lt;strong&gt;Position: Data Scientist&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Location: Irvine, CA (4-10 days onsite a month)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Length: Contract to HIRE or Full Time&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Salary: 110-140k + 10% Bonus Potential+ Benefits&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Must Have: SQL, Python&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;The Data Scientist works independently on all phases of an analytics project. The scope of work includes the data analysis and preparation, model development, and the presentation of results and recommendations to stakeholders.&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;PRIMARY DUTIES/KEY RESPONSIBILITES:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Work independently on all phases of an analytics project, including formulation, research, development, implementation, testing, and maintenance.&lt;/li&gt;&lt;li&gt;Assist with problem formulation and the selection of an appropriate methodology.&lt;/li&gt;&lt;li&gt;Present findings and recommendations to stakeholders.&lt;/li&gt;&lt;li&gt;Maintain an awareness of trends in the field; research and suggest new methodologies.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Qualifications:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;BS/BA with 5 years\u2019 experience&lt;/li&gt;&lt;li&gt;Degree in Statistics, Operations Research, Applied Mathematics, Computer Science, Economics, or related quantitative field.&lt;/li&gt;&lt;li&gt;Proven experience applying descriptive, predictive, and prescriptive statistics to real-world problems.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Experience querying relational databases using SQL.&lt;/li&gt;&lt;li&gt;Ability to develop and maintain production-ready code.&lt;/li&gt;&lt;li&gt;Experience working with Amazon Web Services (AWS) strongly preferred.&lt;/li&gt;&lt;li&gt;The ability to present findings clearly and concisely to team members and data science leadership.&lt;/li&gt;&lt;li&gt;Experience creating compelling data visualizations strongly preferred.&lt;/li&gt;&lt;li&gt;Strong problem-solving skills with an emphasis on product development.&lt;/li&gt;&lt;li&gt;A drive to learn and master new technologies and techniques.&lt;/li&gt;&lt;li&gt;The ability and inclination to coach junior staff.&lt;/li&gt;&lt;li&gt;Expertise in one or more of the following strongly preferred:&lt;/li&gt;&lt;li&gt;Generalized linear models, time series models, forecasting techniques, cluster analysis, and principle component analysis.&lt;/li&gt;&lt;li&gt;Linear and mixed integer optimization, discrete event simulation, heuristic methods, and network flow analysis.&lt;/li&gt;&lt;li&gt;Machine Learning: Selecting, tuning, and implementing a variety of common supervised and unsupervised models, including decision trees, nearest neighbor models, and neural nets; and several standard ML libraries, such as scikit-learn, TensorFlow, or similar.&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T19:29:45.000Z"
+  },
+  "company": {
+    "name": "Apex Systems",
+    "link": "https://www.linkedin.com/company/apex-systems"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Data Scientist"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 110000,
+    "max_value": 140000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Irvine",
+    "region": "CA",
+    "postal_code": "92717",
+    "street_address": null,
+    "latitude": 33.68591,
+    "longitude": -117.82472
+  }
+}

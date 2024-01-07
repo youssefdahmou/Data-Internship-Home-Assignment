@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Full Stack Engineer",
+    "industry": "Information Technology and Services,Computer Software,Staffing and Recruiting",
+    "description": "Full-Stack Software Engineer&lt;br&gt;&lt;br&gt;Dedham MA - Hybrid&lt;br&gt;&lt;br&gt;Full-time&lt;br&gt;&lt;br&gt;Senior Full Stack Software Engineer will contribute to the design and build of software architecture and product suite and must have an understanding of large-scale, real-time integrations with external systems and user facing applications. Please send an update resume to Chris McMillan at cmcmillan@alexandertg.com&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;The Role&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt; A hands-on contributor for the development of full application stack and bring best practices to coding, performance, release, testing and automation.&lt;/li&gt;&lt;li&gt; Utilize cloud-native architectures to deliver resilient, high-availability services&lt;/li&gt;&lt;li&gt; Work on definition and execution of security standards and compliance&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Requirements&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt; 5+ year of full-stack scale web application development&lt;/li&gt;&lt;li&gt; 2+ of architecture exp.&lt;/li&gt;&lt;li&gt; AWS experience&lt;/li&gt;&lt;li&gt; Must have React.js experience&lt;/li&gt;&lt;li&gt; Experience with Python, JavaScript, Node.js&lt;/li&gt;&lt;li&gt; Built scalable RESTful APIs with a framework i.e. Django, Falcon, Flask, Spring Boot&lt;/li&gt;&lt;li&gt; Experience with SQL and relational databases (Aurura DB/MySQL)&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;Please send an updated resume to Chris McMillan at cmcmillan@alexandertg.com&lt;br&gt;&lt;br&gt;*MONATG*&lt;br&gt;&lt;br&gt;ATG456&lt;br&gt;&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T05:16:36.000Z"
+  },
+  "company": {
+    "name": "Alexander Technology Group",
+    "link": "https://www.linkedin.com/company/alexander-technology-group"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Senior Full Stack Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dedham",
+    "region": "MA",
+    "postal_code": "02026",
+    "street_address": null,
+    "latitude": 42.246567,
+    "longitude": -71.17429
+  }
+}

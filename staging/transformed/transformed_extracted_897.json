@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services",
+    "description": "&lt;p&gt;&lt;strong&gt;JOB DESCRIPTION&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Apply advanced machine learning, deep learning and NLP/NLU techniques to build cutting edge AI applications&lt;/li&gt;&lt;li&gt;Use effective text representation techniques to develop useful features&lt;/li&gt;&lt;li&gt;Write production-ready code in Python, applying coding and OOP best practices&lt;/li&gt;&lt;li&gt;Develop and deliver software using Python and various AI related libraries, applying the corporate SDLC and support continuous integration and continuous deployment of the micro-services. Use containerization, orchestration, DevOps for faster delivery and easier maintenance&lt;/li&gt;&lt;li&gt;Define and implement evaluation strategies for each required functionality, demonstrate applicability and performance of the delivered application, and communicate clearly on its limits&lt;/li&gt;&lt;li&gt;Collaborate with the various teams,&amp;nbsp;present plans, ideas and deliverables.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Job Qualification:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bachelor\u2019s degree in computer science, mathematics, or related field&lt;/li&gt;&lt;li&gt;At least one year of experience as a natural language processing engineer&lt;/li&gt;&lt;li&gt;Knowledge of data structures, semantic extraction, and modelling&lt;/li&gt;&lt;li&gt;Knowledge of text representation (e.g., n-grams, sentiment analysis, bag of words, etc.)&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-16T14:21:08.000Z"
+  },
+  "company": {
+    "name": "Wipro Limited",
+    "link": "https://in.linkedin.com/company/wipro"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": "Machine Learning Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "California",
+    "region": "United States",
+    "postal_code": "93266",
+    "street_address": null,
+    "latitude": 37.254673,
+    "longitude": -119.61728
+  }
+}

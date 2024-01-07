@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "C# WPF Developer",
+    "industry": "Staffing and Recruiting",
+    "description": "&lt;p&gt;The ideal candidate will be developing business software solutions for complex and large-scale projects&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;C#, WPF, Winforms, Angular&lt;/li&gt;&lt;li&gt;7 Years of Experience&lt;/li&gt;&lt;li&gt;SQL database or relational database skills&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-25T17:41:01.000Z"
+  },
+  "company": {
+    "name": "Planet Technology",
+    "link": "https://www.linkedin.com/company/the-planet-technology"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": "C# WPF Developer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

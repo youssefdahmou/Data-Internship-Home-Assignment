@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Entertainment",
+    "description": "&lt;strong&gt;&lt;u&gt;Company Overview&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;WarnerMedia is a powerful portfolio of iconic entertainment, news, and sports brands. We bring people, technology, and the world\u2019s best storytellers together to drive culture and meaningful connection. We believe the enduring power of stories can open our eyes to the world, to each other, and to new and different perspectives.&lt;br&gt;&lt;br&gt;WB Technology combines Warner Bros.\u2019 industry-leading technologists and disciplines to ensure global alignment with business strategy and accelerated delivery of innovative technology solutions studio- and industry-wide. From pre-production through archiving, the WBT organization will provide critical business and technology intelligence and services to all Studio business units. WBT manages the Studio\u2019s enterprise systems and solutions, emerging platforms, information security, consumer intelligence, content mastering and delivery, and more.&lt;br&gt;&lt;br&gt;Join us. Shape your story here.&lt;br&gt;&lt;br&gt;&lt;strong&gt;The Job&lt;br&gt;&lt;br&gt;&lt;/strong&gt;Warner Bros. Entertainment Inc. seeks a Software Engineer for the DigOpsProdEng: B2B Applications department.&lt;br&gt;&lt;br&gt;&lt;strong&gt;The Daily&lt;br&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Work with a team of highly motivated developers to effectively implement solutions and delivery production quality applications that are highly supportable and maintainable&lt;/li&gt;&lt;li&gt;Overall responsibility for design, code quality, and deployments&lt;/li&gt;&lt;li&gt;Troubleshoot and fix bugs, security vulnerabilities, and operational issues&lt;/li&gt;&lt;li&gt;Participate in software development projects using an Agile process and tools&lt;/li&gt;&lt;li&gt;Partner with internal and external teams to understand business and technical requirements to document technical specifications&lt;/li&gt;&lt;li&gt;Work with other software engineers to build front end components using JavaScript and JavaScript frameworks.&lt;/li&gt;&lt;li&gt;Integrate JavaScript components with microservices/RESTful APIs.&lt;/li&gt;&lt;li&gt;Understand state management and state management tools like Redux.&lt;/li&gt;&lt;li&gt;Design and create responsive web pages for a variety of platforms.&lt;/li&gt;&lt;li&gt;Integrate JavaScript components with external technologies.&lt;/li&gt;&lt;li&gt;Collaborate with API developers to build data-driven microservices.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;The Essentials&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Experience using JavaScript frameworks such as React, ReactNative, Angular and VideoJS to build components that integrate with RESTful APIs.&lt;/li&gt;&lt;li&gt;Experience using web-based technologies such as Typescript, HTML, CSS and JSON.&lt;/li&gt;&lt;li&gt;Experience designing and building responsive web pages.&lt;/li&gt;&lt;li&gt;Experience using JavaScript testing tools or frameworks like React Testing Library, Jest, Mocha or Jasmine.&lt;/li&gt;&lt;li&gt;Experience using Redux as the state container for your JavaScript apps.&lt;/li&gt;&lt;li&gt;Experience building reusable JavaScript components and High Order Components.&lt;/li&gt;&lt;li&gt;Experience working with container technologies like Docker.&lt;/li&gt;&lt;li&gt;Experience developing microservices using languages like Python, C#, Go, Java, NodeJS.&lt;/li&gt;&lt;li&gt;Using REST\u202fAPIs is a plus.&lt;/li&gt;&lt;li&gt;UX experience is helpful.&lt;/li&gt;&lt;li&gt;Git or Github in a CI/CD development workflow is a plus &lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;The Perks&lt;br&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Exclusive WarnerMedia events and advance screenings&lt;/li&gt;&lt;li&gt;Paid time off every year to volunteer for eligible employees&lt;/li&gt;&lt;li&gt;Access to well-being tools, resources, and freebies&lt;/li&gt;&lt;li&gt;Access to in-house learning and development resources&lt;/li&gt;&lt;li&gt;Part of the WarnerMedia family of powerhouse brands&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;Warner Media, LLC and its subsidiaries are equal opportunity employers. Qualified candidates will receive consideration for employment without regard to race, color, religion, national origin, gender, sexual orientation, gender identity or expression, age, mental or physical disability, and genetic information, marital status, citizenship status, military status, protected veteran status or any other category protected by law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-15T13:51:15.000Z"
+  },
+  "company": {
+    "name": "WarnerMedia",
+    "link": "https://www.linkedin.com/company/warnermedia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Software Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Burbank",
+    "region": "CA",
+    "postal_code": "91504",
+    "street_address": null,
+    "latitude": 34.182053,
+    "longitude": -118.30747
+  }
+}

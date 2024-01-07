@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": null,
+    "industry": null,
+    "description": null,
+    "employment_type": null,
+    "date_posted": null
+  },
+  "company": {
+    "name": null,
+    "link": null
+  },
+  "education": {
+    "required_credential": null
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": null,
+    "locality": null,
+    "region": null,
+    "postal_code": null,
+    "street_address": null,
+    "latitude": null,
+    "longitude": null
+  }
+}

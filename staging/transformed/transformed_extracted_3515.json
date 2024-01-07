@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Hospital &amp; Health Care",
+    "description": "&lt;p&gt;Job Title: Data Scientist&lt;/p&gt;&lt;p&gt;Location: Dallas, TX&lt;/p&gt;&lt;p&gt;Job type: Long term W2&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Skills: R, Python, SQL, Healthcare industry experience.&lt;/p&gt;&lt;p&gt;What we\u2019re looking for...&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;A Master's Degree in Computer Science, Statistics, Math, Economics, Engineering, Data Science, or related field.&lt;/li&gt;&lt;li&gt;Experience using statistical computer languages (R, Python, SQL, etc.) to manipulate data and draw insights from large data sets.&lt;/li&gt;&lt;li&gt;Knowledge and experience in statistical and data mining techniques: GLM/Regression, Random Forest, Boosting, Trees, text mining, social network analysis, etc.&lt;/li&gt;&lt;li&gt;Experience creating and using advanced machine learning algorithms and statistics: regression, simulation, scenario analysis, modeling, clustering, decision trees, neural networks, etc.&lt;/li&gt;&lt;li&gt;Excellent problem solving and critical thinking capabilities.&lt;/li&gt;&lt;li&gt;Experience in large-scale data science projects and delivering from end to end.&lt;/li&gt;&lt;li&gt;Strong problem-solving skills with an emphasis on product development.&lt;/li&gt;&lt;li&gt;Excellent written and verbal communication skills for coordinating across teams.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-13T16:08:40.000Z"
+  },
+  "company": {
+    "name": "Ebusiness Technologies Corp.",
+    "link": "https://www.linkedin.com/company/ebusiness-technologies-corp"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Data Scientist"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas-Fort Worth Metroplex",
+    "region": null,
+    "postal_code": "75049",
+    "street_address": null,
+    "latitude": 32.7513,
+    "longitude": -97.08263
+  }
+}

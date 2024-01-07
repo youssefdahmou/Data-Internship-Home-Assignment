@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "&lt;p&gt;&lt;strong&gt;100% remote, Contract to Hire, W2 only&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;The #1 online wine retail store desires passionate Site Reliability Engineers who are fascinated with improving the customer experience by helping them discover great wines from all over the world.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Envisioned yourself yourself joining the team? Cheers, innovators!&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Top Skills' Details&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;AWS Cloud \u2013 setting up cloud formations, security groups, cloud watch metrics&lt;/li&gt;&lt;li&gt;Terraform &amp;amp; Kubernetes&lt;/li&gt;&lt;li&gt;Automation/CM with Ansible and Chef-Python Coding required&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Responsibilities will include, but not be limited to:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Development of new applications and tools to automate key portions of our production infrastructure&lt;/li&gt;&lt;li&gt;Development of solutions for the automation of system provisioning and deployment&lt;/li&gt;&lt;li&gt;Research and implementation of new monitoring systems&lt;/li&gt;&lt;li&gt;Develop and deploy new tools for the automation of configuration management processes&lt;/li&gt;&lt;li&gt;Build internal tools for centralized infrastructure management&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-27T19:54:49.000Z"
+  },
+  "company": {
+    "name": "TEKsystems",
+    "link": "https://www.linkedin.com/company/teksystems"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Site Reliability Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

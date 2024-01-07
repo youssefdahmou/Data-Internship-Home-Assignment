@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Health, Wellness and Fitness",
+    "description": "&lt;p&gt;Withings revolutionized connected health by launching the world's first Wi-Fi scale in 2009. Our award-winning ecosystem includes beautifully designed, easy to use connected devices for monitoring blood pressure, weight, activity, sleep, temperature, and more.&lt;/p&gt;&lt;p&gt;Our devices are now used in diabetes prevention and weight-loss programs, remote patient monitoring, and university-led clinical studies. They are key enabling technologies to support our partners\u2019 strategies, providing the accuracy, reliability, and portability they need in order for their programs to be successful. Join us in our mission of preventive health!&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Job Summary&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We are seeking a skilled and experienced candidate to join our Platform Operations team as Site Reliability Engineer (SRE). The Platform Operations team is responsible for ensuring that our platform is fast and stable for the millions of active devices it serves around the globe, while remaining agile and scalable in order to meet future demand. We accomplish this through adherence to principles of observability, automation, and choosing the right tool to tackle each problem.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;To optimize performance and efficiency, we use a hybrid baremetal+cloud infrastructure, controlling as much of the stack as we reasonably can. We adapt our platform and database architecture very frequently to support and enable our growth.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Day-to-day, responsibilities and duties may include:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Supporting the availability and speed of our production applications&lt;/li&gt;&lt;li&gt;Solving alerts and decreasing manual tasks by increasing automation&lt;/li&gt;&lt;li&gt;Database management (debugging, upgrades)&lt;/li&gt;&lt;li&gt;Improvement of continuous integration pipelines&lt;/li&gt;&lt;li&gt;Web-services troubleshooting and performance improvement&lt;/li&gt;&lt;li&gt;Additional operational responsibilities&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;REQUIREMENTS&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Servers: Ubuntu (KVM, LXC and physical host)&lt;/li&gt;&lt;li&gt;Cloud: AWS, GCP and OVH&lt;/li&gt;&lt;li&gt;Databases: Cassandra/ScyllaDB, PostgreSQL, MySQL, Riak, Redis Cluster&lt;/li&gt;&lt;li&gt;Configuration Management: Ansible, Terraform&lt;/li&gt;&lt;li&gt;Languages: Python, PHP and Bash&lt;/li&gt;&lt;li&gt;Bachelor\u2019s Degree or higher in Computer Science (or equivalent experience)&lt;/li&gt;&lt;li&gt;Must have a valid passport and be able to travel internationally up to 10% of the time&lt;/li&gt;&lt;li&gt;Leading candidates will understand and adhere to the principles of site reliability engineering (shared ownership, work reduction through automation, operations through software) and be ready to enthusiastically meet the challenges of supporting high performance, high availability applications in a 24/7 real-time, heavy traffic environment. If that sounds like the challenge you are looking for, please get in touch !&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;BENEFITS&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Health Care Plan (Medical, Dental &amp;amp; Vision)&lt;/li&gt;&lt;li&gt;Retirement Plan (401k)&lt;/li&gt;&lt;li&gt;Life Insurance (Basic, Voluntary &amp;amp; AD&amp;amp;D)&lt;/li&gt;&lt;li&gt;Paid Time Off (Vacation, Sick &amp;amp; Public Holidays)&lt;/li&gt;&lt;li&gt;Family Leave (Maternity, Paternity)&lt;/li&gt;&lt;li&gt;Short Term &amp;amp; Long Term Disability&lt;/li&gt;&lt;li&gt;Training &amp;amp; Development&lt;/li&gt;&lt;li&gt;Free Food &amp;amp; Snacks&lt;/li&gt;&lt;li&gt;Wellness Reimbursement&lt;/li&gt;&lt;li&gt;Healthcare &amp;amp; Dependent Care FSA&lt;/li&gt;&lt;li&gt;Commuter FSA&lt;/li&gt;&lt;li&gt;Bike-to-work benefit&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T09:38:13.000Z"
+  },
+  "company": {
+    "name": "Withings",
+    "link": "https://fr.linkedin.com/company/withings"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Site Reliability Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

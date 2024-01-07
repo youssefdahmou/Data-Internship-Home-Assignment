@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "",
+    "description": "&lt;p&gt;Hands on Machine Learning engineer to develop AI/ML empowered Data Privacy and Synthetic Fraud products.&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-15T20:26:52.000Z"
+  },
+  "company": {
+    "name": "Data Safeguard Inc.",
+    "link": "https://www.linkedin.com/company/datasafeguard"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Machine Learning Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Santa Clara",
+    "region": "CA",
+    "postal_code": "95050",
+    "street_address": null,
+    "latitude": 37.352394,
+    "longitude": -121.95308
+  }
+}

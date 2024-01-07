@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Apple Pay",
+    "industry": "Consumer Electronics",
+    "description": "&lt;br&gt;&lt;strong&gt;Summary&lt;br&gt;&lt;/strong&gt; &lt;br&gt;At Apple, new ideas have a way of becoming phenomenal products, services, and customer experiences very quickly. Imagine what you could do here. Bring passion and dedication to your job and there\u2019s no telling what you could accomplish.&lt;br&gt;&lt;br&gt;&lt;br&gt;The Apple Pay Server team is a rare engineering group within Apple. We provide critical services for the company across every product line. From manufacturing to customer facing, our services span across the entire lifecycle of most Apple hardware. By designing and implementing services that are tightly coupled with hardware, we support the ongoing need to improve security of customer\u2019s sensitive data (financial or otherwise) and privacy. Many of our services are seen in the iOS Security Guide and are publicly discussed on Internet forums.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Key Qualifications&lt;br&gt;&lt;/strong&gt; &lt;br&gt;2-5+ years experience in server software programming using Java&lt;br&gt;&lt;br&gt;Experienced in designing &amp;amp; developing highly scalable applications, RESTful web services&lt;br&gt;&lt;br&gt;Detailed knowledge of relational and non-relational databases&lt;br&gt;&lt;br&gt;Expertise in test-driven development&lt;br&gt;&lt;br&gt;Proven track record of successful product delivery&lt;br&gt;&lt;br&gt;Exceptional analytical and problem solving skills across large ecosystems&lt;br&gt;&lt;br&gt;Demonstrated ability to think criticality and quickly learn new technologies&lt;br&gt;&lt;br&gt;Strong communication, collaboration &amp;amp; interpersonal skills&lt;br&gt;&lt;br&gt;iOS and macOS familiarity preferred&lt;br&gt;&lt;br&gt;Experience in payment industry is a plus&lt;br&gt;&lt;br&gt;Expertise in identity management is a huge plus&lt;br&gt;&lt;br&gt;Experience/understanding of security &amp;amp; cryptography is a plus&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Description&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Imagine the freedom of a startup with the funding and laser focus of the most valuable company in the world. &lt;br&gt;&lt;br&gt;&lt;br&gt;As a Software Engineer on the Apple Pay Server team:   &lt;br&gt;&lt;br&gt;\u2022 You will participate in initiatives that are essential to the success of upcoming product launches and product security initiatives.  &lt;br&gt;&lt;br&gt;\u2022 You will get the opportunity to lead a small group of engineers working on product features.  &lt;br&gt;&lt;br&gt;\u2022 You will develop the next generation of cloud support that powers Apple Pay.  &lt;br&gt;&lt;br&gt;\u2022 You will be responsible for designing and developing large scale platforms that can support future Apple Pay functionality.  &lt;br&gt;&lt;br&gt;\u2022 You will have the opportunity to explore and contribute to a wide range of technologies.  &lt;br&gt;&lt;br&gt;\u2022 You will work collaboratively with Apple\u2019s iOS Engineering team, NFC team, security team, and external partners to define the next hot feature of Apple Pay.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Education &amp;amp; Experience&lt;br&gt;&lt;/strong&gt; &lt;br&gt;BS or MS in Computer Science/Engineering or equivalent practical experience&lt;br&gt;&lt;br&gt; &lt;br&gt;Role Number: 200215817&lt;br&gt;&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T17:09:19.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": "Software Engineer, Apple Pay"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

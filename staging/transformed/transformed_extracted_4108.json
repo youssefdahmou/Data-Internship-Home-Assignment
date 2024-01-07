@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Scala Engineer",
+    "industry": "Information Technology and Services,Banking,Financial Services",
+    "description": "&lt;p&gt;&lt;strong&gt;Java (Functional Scala) Engineer&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;New York City, NY and San Francisco, CA&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;6+Months&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Strong experience with functional programming languages: Scala, Clojure, Haskell, or Common Lisp&lt;/p&gt;&lt;p&gt;Experience with one or more functional libraries (or similar): ZIO, Cats, and/or Monix&lt;/p&gt;&lt;p&gt;Experience with cloud computing (AWS, Microsoft Azure, Google Cloud)&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Day to day responsibilities&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This role will contribute to building a modern system of record platform for financial data, including software development, code reviews, design discussions, work planning and prioritization.&amp;nbsp;The platform is written in functional Scala and extensively utilizes&lt;/p&gt;&lt;p&gt;the ZIO library.&amp;nbsp;The role would also involve&amp;nbsp;mentoring less-experienced team members in functional&amp;nbsp;Scala and software development techniques and best practices.&amp;nbsp;Business hour on-call support and troubleshooting are also part of the role.&lt;/p&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-17T23:24:31.000Z"
+  },
+  "company": {
+    "name": "Pyramid Consulting, Inc",
+    "link": "https://www.linkedin.com/company/pyramid-consulting"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Scala Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Apple Pay",
+    "industry": "Consumer Electronics",
+    "description": "&lt;br&gt;&lt;strong&gt;Summary&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Apple Pay Server Engineering is the place to be if you are interested in working on awesome technology that is used by millions of people every single day! As part of the Apple Pay Server Engineering team, you will have the opportunity to explore and contribute to a wide variety of interesting projects within Apple Pay. If you meet the key qualifications and you are self-driven, enthusiastic, highly-motivated, and you want to make an impact, we'd love to hear from you!&lt;br&gt;&lt;br&gt;&lt;br&gt;*We're open to candidates for the following campuses: NYC, Austin or Cupertino*&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Key Qualifications&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Minimum 5+ years relevant industry experience&lt;br&gt;&lt;br&gt;Experience writing server software in Java or C/C++ or C#&lt;br&gt;&lt;br&gt;Experience/Knowledge working on highly scalable applications and RESTful web services&lt;br&gt;&lt;br&gt;Knowledge of databases both SQL and NoSQL&lt;br&gt;&lt;br&gt;Familiarity with scalability and performance issues&lt;br&gt;&lt;br&gt;Understand software development process from inception to delivery of code to production&lt;br&gt;&lt;br&gt;Strong Computer Science background&lt;br&gt;&lt;br&gt;Interest in payment industry&lt;br&gt;&lt;br&gt;Experience/understanding of security and cryptography (not mandatory)&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Description&lt;br&gt;&lt;/strong&gt; &lt;br&gt;- Responsible for designing and developing highly reliable, scalable server platforms with attention to detail &lt;br&gt;&lt;br&gt;- Follow our software development process including writing unit tests, perform code reviews etc. &lt;br&gt;&lt;br&gt;- Ability to learn and apply new technologies quickly &lt;br&gt;&lt;br&gt;- Work effectively with cross-functional teams to develop features &lt;br&gt;&lt;br&gt;- Provide support for production deployments &lt;br&gt;&lt;br&gt;- Demonstrate ability to deliver results on time with high quality&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Education &amp;amp; Experience&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Bachelor in Computer Science or equivalent&lt;br&gt;&lt;br&gt; &lt;br&gt;Role Number: 200238369&lt;br&gt;&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T06:33:49.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Software Engineer, Apple Pay"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

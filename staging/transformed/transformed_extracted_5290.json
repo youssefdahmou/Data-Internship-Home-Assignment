@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "System Software Engineer, Platform Architecture",
+    "industry": "Consumer Electronics",
+    "description": "&lt;br&gt;&lt;strong&gt;Summary&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Imagine what you could do here. At Apple, new ideas have a way of becoming extraordinary products very quickly. Bring passion and dedication to your job and there's no telling what we can accomplish together. &lt;br&gt;&lt;br&gt;&lt;br&gt;Do you love crafting elegant solutions to highly complex challenges? Can you intrinsically see the importance of every detail? At Apple, our Platform Architecture group is responsible for connecting our hardware and software into one unified system. Join this team, and you'll collaborate with engineers across Apple to build and deploy forward-looking prototype systems that contribute to the development of our world renowned hardware and software architecture.&lt;br&gt;&lt;br&gt;&lt;br&gt;You and your team will confirm that every product we make performs exactly as intended. Together, our work will be the reason millions of customers feel that they can trust our devices every single day.&lt;br&gt;&lt;br&gt;&lt;br&gt;Apple\u2019s Platform Architecture group is seeking a System Software Engineer, who will develop novel technologies for modeling and analyzing large compute systems. You will work with our world leading silicon engineering teams on next generation chips, which end up in the hands of millions of users worldwide.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Key Qualifications&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Excellent C/C++ and parallel programming skills required&lt;br&gt;&lt;br&gt;Experience developing multi-threaded and multi-process applications required&lt;br&gt;&lt;br&gt;Experience developing Python performance analysis tools preferred&lt;br&gt;&lt;br&gt;Experience developing performance analysis tools and libraries strongly preferred&lt;br&gt;&lt;br&gt;Experience developing embedded software of device drivers strongly preferred&lt;br&gt;&lt;br&gt;Experience with SOC interconnect modeling strongly preferred.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Description&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Design and develop software components used in a multi-threaded performance simulator&lt;br&gt;&lt;br&gt;&lt;br&gt;Support various groups (software, architecture, verification, validation) in use of this new technology&lt;br&gt;&lt;br&gt;&lt;br&gt;Work independently and manage deliverables to different teams&lt;br&gt;&lt;br&gt;&lt;br&gt;Excellent communication, analytical and documentation skills required&lt;br&gt;&lt;br&gt;&lt;br&gt;Occasional travel to development groups in the US and overseas.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Education &amp;amp; Experience&lt;br&gt;&lt;/strong&gt; &lt;br&gt;BS/MS in CE or CS plus 5 years of relevant experience&lt;br&gt;&lt;br&gt; &lt;br&gt;Role Number: 200215679&lt;br&gt;&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:34:21.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "System Software Engineer, Platform Architecture"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

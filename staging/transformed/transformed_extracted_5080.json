@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "",
+    "description": "&lt;br&gt;&lt;p&gt;&lt;strong&gt;THIS IS AN INTERNSHIP ROLE!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;At Paravijjyan we are working to build a platform that would help people do mindfulness practices whenever and wherever they want just by using their mobile phones. We have already AI recognition systems that would predict your accuracy while doing yoga better than a physical trainer that too at the comfort of your own home. We have several other features including Astrology , Meditation and diet recommendation(just by clicking a snap!).&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Qualifications:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Strong hands-on development experience with Python.&lt;/li&gt;&lt;li&gt;Experience working with Firebase.&lt;/li&gt;&lt;li&gt;Experience with Tensorflow.&lt;/li&gt;&lt;li&gt;Working knowledge of Git, Continuous Integration, and other supporting systems&lt;/li&gt;&lt;li&gt;Ability to work in an agile work environment where team members are remote.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Nice to have&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Experience using Posenet/BlazePose/similar models.&lt;/li&gt;&lt;li&gt;Experience applying machine learning for Gesture and Real-time detection.&lt;/li&gt;&lt;li&gt;Experience using Flutter.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Perks&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Learn and work with like-minded people&lt;/li&gt;&lt;li&gt;Letter of Recommendation&lt;/li&gt;&lt;li&gt;Opportunity to turn Full time!&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "INTERN",
+    "date_posted": "2021-08-20T19:04:38.000Z"
+  },
+  "company": {
+    "name": "Paravijjyan",
+    "link": "https://www.linkedin.com/company/paravijjyan"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Machine Learning Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

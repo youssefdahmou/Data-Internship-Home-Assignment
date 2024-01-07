@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Banking,Financial Services,Investment Banking",
+    "description": "Locations: VA - McLean, United States of America, McLean, Virginia&lt;br&gt;&lt;br&gt;Machine Learning Engineer&lt;br&gt;&lt;br&gt;Job Category - Information Technology, Engineering, Technology Explorers, Technology Explorers",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T17:19:17.000Z"
+  },
+  "company": {
+    "name": "Capital One",
+    "link": "https://www.linkedin.com/company/capital-one"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Machine Learning Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "McLean",
+    "region": "VA",
+    "postal_code": "22101",
+    "street_address": null,
+    "latitude": 38.93759,
+    "longitude": -77.18378
+  }
+}

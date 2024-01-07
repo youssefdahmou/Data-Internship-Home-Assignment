@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "Information Technology and Services",
+    "description": "&lt;p&gt;Our healthcare client is looking for a Senior Software Engineer to join their team! &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;The Project: Working on a service layer that converts native API mostly built in JSON format to a HL7 FHIR API to interconnect health systems.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Your Background: Experience developing software with Java. FHIR knowledge is a plus&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Job Responsibilities:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Serve as a senior software developer for the software platform developing FHIR-based REST APIs.&lt;/li&gt;&lt;li&gt;Allocated time, on average:&lt;/li&gt;&lt;li&gt;75% of the time coding&lt;/li&gt;&lt;li&gt;25% of the time collaborating with solution architects/BA/QA on overall software implantation design and best practices&lt;/li&gt;&lt;li&gt;Provide input on software solution designs&lt;/li&gt;&lt;li&gt;Work across all teams as a subject matter expect&lt;/li&gt;&lt;li&gt;Mentor junior software developers on coding designs and best practices&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Required Skills:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;6+ years of experience with hands on development with C# or Java&lt;/li&gt;&lt;li&gt;8+ years of experience dev&lt;/li&gt;&lt;li&gt;2+ years of experience EHR clinical integrations&lt;/li&gt;&lt;li&gt;2+ years of experience with integrating services into a cloud architecture&lt;/li&gt;&lt;li&gt;2+ years of experience working with Docker containers&lt;/li&gt;&lt;li&gt;Experience working in Agile environment&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;We cannot provide sponsorship upon conversion&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;What skills/attributes are preferred (will set a candidate apart)?&lt;/p&gt;&lt;ul&gt;&lt;li&gt;2+ years of experience with good understanding on FHIR standard&lt;/li&gt;&lt;li&gt;2+ years of experience developing RESTFUL APIs&lt;/li&gt;&lt;li&gt;The ability to execute existing queries as well as write SQL queries of varying complexity&lt;/li&gt;&lt;li&gt;Experience with GIT for code repository&lt;/li&gt;&lt;li&gt;Experience with Jenkins for deployment automation&lt;/li&gt;&lt;li&gt;Understanding of software development processes and methodologies&lt;/li&gt;&lt;li&gt;Collaborate in team environment&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-25T17:37:32.000Z"
+  },
+  "company": {
+    "name": "Apex Systems",
+    "link": "https://www.linkedin.com/company/apex-systems"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": "Senior Software Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Raleigh",
+    "region": "NC",
+    "postal_code": "27699",
+    "street_address": null,
+    "latitude": 35.781303,
+    "longitude": -78.64168
+  }
+}

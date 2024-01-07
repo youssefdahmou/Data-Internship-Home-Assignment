@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (Security) ",
+    "industry": "Information Technology and Services,Computer &amp; Network Security,Computer Software",
+    "description": "&lt;p&gt;A new, quirky function of Security SRE instead of a SecEng team.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;You\u2019re going to be responsible for identifying and exploring various types of risk throughout varied architecture and applications, seeking out threats and building solutions to a range of complex problems. What does this mean in simple terms? You\u2019re going to sit within the engineering team, looking at every single platform to understand how things can be better. From a reliability and security point of view.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;You\u2019ll report to the Chief Security Officer, but you\u2019ll constantly speak to the Head of SRE and development teams to come up with creative solutions to potential and current problems. You\u2019ll automate as much as you can, most likely in Go, or Kotlin, but you don\u2019t need to be an expert in either, as long as you\u2019re a strong coder.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;All applications run on Linux in the Cloud, so you\u2019ll need to know your way around Linux and most likely you\u2019ve worked with Kubernetes and AWS too.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;A security mindset is of course a must have. Why do systems fail? How are system vulnerabilities exploited? And most importantly, how can you find them before someone else does?&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;You\u2019re going to be joining a company who are aiming to create the future of the financial system. With $200m+ of recent investment, they\u2019re now in ultra scale-up mode. This position is open to junior of senior hires, so whether you\u2019ve got 2 or 20 years experience, if you want to get in early with a potential gamechanger in the fintech/digital asset world, this could be for you.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Salaries are going to be dependent on your experience, but we\u2019re realistically talking about a range between \u00a3100-160k. It\u2019s a fully remote environment, with the engineering team spread across the world \u2013 a completely modern approach to technology.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;If you love blockchain and crypto \u2013 this could be the perfect match for you.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Not got an up-to-date CV but keen? Not a problem. We can work on building a new CV together, just like you\u2019re going to work on building the future of fintech.&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-11T13:40:39.000Z"
+  },
+  "company": {
+    "name": "Saragossa",
+    "link": "https://uk.linkedin.com/company/saragossa"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Site Reliability Engineer (Security) "
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco Bay Area",
+    "region": null,
+    "postal_code": "94112",
+    "street_address": null,
+    "latitude": 37.39271,
+    "longitude": -122.042
+  }
+}

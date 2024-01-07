@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "AI/ML - Machine Learning Researcher, MIND",
+    "industry": "Consumer Electronics",
+    "description": "&lt;br&gt;&lt;strong&gt;Summary&lt;br&gt;&lt;/strong&gt; &lt;br&gt;We are looking for outstanding researchers to work on ambitious artificial intelligence projects that will advance the field and shape intelligence in future Apple products. As a team, we are working to define and solve the hardest problems in machine learning, computer vision, NLP, and speech recognition. Our roots are in research, which means at our core, we value learning, intellectual curiosity, and exploration.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Key Qualifications&lt;br&gt;&lt;/strong&gt; &lt;br&gt;In-depth expertise in machine learning research &lt;br&gt;&lt;br&gt;&lt;br&gt;Domain expertise in one or more of computer vision, audio processing, NLP, optimization, or computer graphics fields.&lt;br&gt;&lt;br&gt;&lt;br&gt;Strong mathematical background in linear algebra and statistics.&lt;br&gt;&lt;br&gt;&lt;br&gt;Publication record in relevant venues (e.g. NeurIPS, ICML, ICLR, CVPR, ICCV, ECCV, ACL, SIGGRAPH).&lt;br&gt;&lt;br&gt;&lt;br&gt;Proficient in Python and C/C++. CUDA or other GPGPU is a plus.&lt;br&gt;&lt;br&gt;&lt;br&gt;Expertise in working with at least one deep learning framework, for example, PyTorch, TensorFlow&lt;br&gt;&lt;br&gt;&lt;br&gt;Strong interpersonal skills and ability to collaborate in a diverse environment&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Description&lt;br&gt;&lt;/strong&gt; &lt;br&gt;As a Machine Learning Researcher on this team, you will:&lt;br&gt;&lt;br&gt;&lt;br&gt;-  Work on some of the most ambitious technical problems on data and compute efficient machine learning&lt;br&gt;&lt;br&gt;&lt;br&gt;-  Research novel AI solutions that will impact future Apple products&lt;br&gt;&lt;br&gt;&lt;br&gt;-  Collaborate with world-class machine learning researchers and engineers to bring research ideas to production &lt;br&gt;&lt;br&gt;&lt;br&gt;-  Publish and present your work in world-class scientific venues in machine learning field &lt;br&gt;&lt;br&gt;&lt;br&gt;-  Provide technical mentorship and guidance&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Education &amp;amp; Experience&lt;br&gt;&lt;/strong&gt; &lt;br&gt;PhD in Computer Science or a related field&lt;br&gt;&lt;br&gt; &lt;br&gt;Role Number: 200246707&lt;br&gt;&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-12T03:10:08.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "AI/ML - Machine Learning Researcher, MIND"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

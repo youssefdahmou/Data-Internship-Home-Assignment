@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Founding Software Engineer",
+    "industry": "",
+    "description": "&lt;p&gt;We are looking for a well-rounded engineer to join us in building our low-code platform from the ground up. You\u2019ll solve hard problems and help shape the future of our company.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;We\u2019re founded by two former Google engineers and graduated from YC\u2019s W21 batch. We recently featured at Google I/O and have an incredible list of supporters and advisors.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;What You Will Work On&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Spec, design, and build functionality in FlutterFlow.&lt;/li&gt;&lt;li&gt;Help us decide what to build next. You will partner with our founders and team to identify and prioritize new features.&lt;/li&gt;&lt;li&gt;Write code that writes code! We work in an interesting and challenging space that few people get to work on.&lt;/li&gt;&lt;li&gt;Talk to customers to understand their needs.&lt;/li&gt;&lt;li&gt;Be the right hand to our CTO. Help solve complex problems and mentor more junior team members.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Who you are&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;4+ years of proffesional experience as a Software Engineer.&lt;/li&gt;&lt;li&gt;You write high-quality code that is readable and reliable.&lt;/li&gt;&lt;li&gt;You have a start-up mentality. You understand shipping a feature early and learning from the result is more important than perfecting it.&lt;/li&gt;&lt;li&gt;Self-starter who likes to take initiative.&lt;/li&gt;&lt;li&gt;You are more interested in getting to the right answer than being right.&lt;/li&gt;&lt;li&gt;You are driven and derive a sense of purpose from building something that matters.&lt;/li&gt;&lt;li&gt;You are always willing to roll up your sleeves and pitch in when the team needs help.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bonus Points&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;1+ years of experience with Flutter and Dart&lt;/li&gt;&lt;li&gt;Experience with Firebase&lt;/li&gt;&lt;li&gt;Experience with mobile app development&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Live anywhere in the US&lt;/li&gt;&lt;li&gt;Generous salary and equity package&lt;/li&gt;&lt;li&gt;Flexible Vacation / Sick Leave&lt;/li&gt;&lt;li&gt;Flexible work hours&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;About Us&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We are building a low-code platform to dramatically improve how mobile applications are built. What used to take months of development time, can now be built within hours and days.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;We\u2019re founded by two former Google engineers and graduated from YC\u2019s W21 batch. We recently featured at Google I/O and have an incredible list of supporters and advisors.&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T22:33:11.000Z"
+  },
+  "company": {
+    "name": "FlutterFlow",
+    "link": "https://www.linkedin.com/company/flutterflow"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": "Founding Software Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "United States",
+    "postal_code": "13856",
+    "street_address": null,
+    "latitude": 42.93923,
+    "longitude": -75.62005
+  }
+}

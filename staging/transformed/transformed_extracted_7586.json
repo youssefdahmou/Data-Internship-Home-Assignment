@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Web Developer",
+    "industry": "Information Technology and Services",
+    "description": "&lt;p&gt;Title: Web Developer&lt;/p&gt;&lt;p&gt; Location: New York Metro Area, NY&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt; Additional Notes:&lt;/p&gt;&lt;p&gt; \u2022 Backfill position&lt;/p&gt;&lt;p&gt; \u2022 Contract may extend up to 24 months&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt; Must Haves: Minimum 5+ years of experience&lt;/p&gt;&lt;p&gt; \u2022 JavaScript - 5 years, mandatory&lt;/p&gt;&lt;p&gt; \u2022 Web Framework \u2013 React strongly preferred&lt;/p&gt;&lt;p&gt; \u2022 Typescript&lt;/p&gt;&lt;p&gt; \u2022 Strong communication&lt;/p&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-10-05T17:37:43.000Z"
+  },
+  "company": {
+    "name": "Euclid Innovations",
+    "link": "https://www.linkedin.com/company/euclid-innovations-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Web Developer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "United States",
+    "postal_code": "13856",
+    "street_address": null,
+    "latitude": 42.93923,
+    "longitude": -75.62005
+  }
+}

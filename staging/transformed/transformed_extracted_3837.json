@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Computer Software",
+    "description": "Job Title: Site Reliability Engineer&lt;br&gt;&lt;br&gt;Reports To: Site Reliability Engineering Manager&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;Job Duties&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt; Work collaboratively with software engineering to specify, deploy, and operate our systems. &lt;/li&gt;&lt;li&gt; Help automate \u201call the things\u201d and streamline our operations and processes. &lt;/li&gt;&lt;li&gt; Build and maintain tools for deployment, monitoring and operations. &lt;/li&gt;&lt;li&gt; Troubleshoot and resolve issues in our dev, test and production environments. &lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Technical Skill Requirements&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt; Knowledge of and experience with Amazon Web Services and Microsoft Azure infrastructure configuration and maintenance. This includes the ability to perform basic maintenance, troubleshoot instance and networking issues, and create new infrastructure using the UI, CLI, and via IaC (infrastructure as code). &lt;/li&gt;&lt;li&gt; Ability to perform Linux systems administration. Including system updates, restarts, performance monitoring and troubleshooting. &lt;/li&gt;&lt;li&gt; Ability to use puppet and other tools for system deployment and configuration management. &lt;/li&gt;&lt;li&gt; Ability to use terraform, cloudformation, or other tools for infrastructure deployment and management (IaC). &lt;/li&gt;&lt;li&gt; Ability to effectively use git for day-to-day tasks involving DevOps, configuration management, and infrastructure as code development. &lt;/li&gt;&lt;li&gt; Understanding of core Internet services and protocols, such as DNS, email, and web services. &lt;/li&gt;&lt;li&gt; Understanding of programming languages used in web applications, such as Python, Ruby, and PHP. &lt;/li&gt;&lt;li&gt; Understanding of database technologies and management, including MySQL and Postgres. &lt;br&gt;&lt;/li&gt;&lt;/ul&gt;Ability to interact with other teams and/or customers in a professional manner.&lt;br&gt;&lt;br&gt;https://www.forsta.com/privacy.html&lt;br&gt;&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-14T05:28:16.000Z"
+  },
+  "company": {
+    "name": "Forsta",
+    "link": "https://www.linkedin.com/company/forstainfo"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Site Reliability Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Portland",
+    "region": "OR",
+    "postal_code": "97268",
+    "street_address": null,
+    "latitude": 45.516018,
+    "longitude": -122.68143
+  }
+}

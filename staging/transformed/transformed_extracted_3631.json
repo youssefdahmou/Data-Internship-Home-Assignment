@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Health, Wellness and Fitness",
+    "description": "**100% Remote (Franklin, TN/Minneapolis, MN preferred)**&lt;br&gt; &lt;br&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;We are looking for mid-level engineers who will be working for the Commercial Data Engineering Team. The team works with payment integrity and implementing new clients. This person will be tasked with loading client data into the client systems after it has been transformed and enriched by another internal application called DataPoint. This team is the bridge between DataPoint and the client downstream systems. The application sends data to a prepay system and maps, transforms, and distributes this.&lt;br&gt; &lt;br&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;br&gt;- Undergraduate degree or equivalent work experience&lt;br&gt;- A year of practical experience of developing solutions hosting within key major cloud providers such as OpenShift, Kubernetes, AWS, GCP, and Azure&lt;br&gt;- 4+ years in the software engineering profession with demonstrated success designing and building high-quality, commercial software applications&lt;br&gt;- 2+ years working with data loading strategies&lt;br&gt;- 2+ years of development experience using Java or open-source technologies&lt;br&gt;- 2+ years developing Restful APIs&lt;br&gt;- 2+ years working with CI/CD&lt;br&gt;- Expert in SQL technologies across different platforms, i.e Oracle, MSSQL, MySQL, etc&lt;br&gt; &lt;br&gt; &lt;br&gt;&lt;strong&gt;Must Haves:&lt;/strong&gt;&lt;br&gt;- NodeJS and APIs&lt;br&gt;- Java/JavaScript&lt;br&gt;- SQL or PL/SQL&lt;br&gt;- Familiarity with CI/CD (Jenkins)&lt;br&gt;- GitHub&lt;br&gt; &lt;br&gt; &lt;br&gt;&lt;strong&gt;Plusses:&lt;/strong&gt;&lt;br&gt;- Experience with Docker/Kubernetes&lt;br&gt;- Experience with the Cloud (Azure specifically)&lt;br&gt;&lt;br&gt;- Someone with an opensource mindset&lt;br&gt;&lt;br&gt;Restful APIs,CI/CD,NodeJS ,SQL ,PL/SQL,Jenkins,GitHub,Docker/Kubernetes,Cloud ,data loading strategies,Java,JavaScript,Agile/SAFE,Oracle,MS SQL,MySQL",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T13:38:52.000Z"
+  },
+  "company": {
+    "name": "Collabera Inc.",
+    "link": "https://www.linkedin.com/company/collabera"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": "Software Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Franklin",
+    "region": "TN",
+    "postal_code": "37064",
+    "street_address": null,
+    "latitude": 35.923653,
+    "longitude": -86.86783
+  }
+}

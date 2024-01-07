@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Engineering Coordinator",
+    "industry": "Oil &amp; Energy",
+    "description": "&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;Guide certification samples for UL, FCC etc through manufacturing and test processes&lt;/li&gt;&lt;li&gt;Work with cross functional groups (Engineering, Operations, Manufacturing)&lt;/li&gt;&lt;li&gt;Must be able to lift 50 lbs- our units are heavy and bulky&lt;/li&gt;&lt;li&gt;Coordinate prototype builds with local PCB and PCBA houses&lt;/li&gt;&lt;li&gt;Will create part numbers in PLM system for legacy products - ARENA preferred/highly desirable&lt;/li&gt;&lt;li&gt;Organize and manage engineering inventories for new product development projects&lt;/li&gt;&lt;li&gt;Track sample shipments and incoming material for traceability&lt;/li&gt;&lt;li&gt;Track QA inspections in spreadsheet and publish monthly so defect patterns are summarized&lt;/li&gt;&lt;li&gt;RMA of lab equipment as needed&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Experience:&lt;/strong&gt;Experience with PCBs and PCBAs,&lt;/li&gt;&lt;li&gt;Some work in the test and validation (highly desirable)&lt;/li&gt;&lt;li&gt;Familiar with PLMs systems \u2013 MS Office Suite (Excel)&lt;/li&gt;&lt;li&gt;Understands BOMs, ECO\u2019s and part creation&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Soft Skills:&lt;/strong&gt;Self starter, eager, motivated and highly organized&lt;/li&gt;&lt;li&gt;Good command of English language&lt;/li&gt;&lt;li&gt;Attention to detail- has a sense of urgency&lt;/li&gt;&lt;li&gt;Comfortable in a high powered environment&lt;/li&gt;&lt;li&gt;Organize lab space-&amp;nbsp;tidy work space expected, hands on and can keep a neatly organized work space&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-25T17:24:08.000Z"
+  },
+  "company": {
+    "name": "Planet Forward",
+    "link": "https://www.linkedin.com/company/planet-forward"
+  },
+  "education": {
+    "required_credential": null
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Engineering Coordinator"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Carlos",
+    "region": "CA",
+    "postal_code": "94071",
+    "street_address": null,
+    "latitude": 37.503735,
+    "longitude": -122.26493
+  }
+}

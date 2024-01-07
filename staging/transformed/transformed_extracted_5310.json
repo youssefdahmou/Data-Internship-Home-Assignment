@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Graphics Software Engineer",
+    "industry": "Consumer Electronics",
+    "description": "&lt;br&gt;&lt;strong&gt;Summary&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Are you ready to explore a new technology and product space with a hardworking and collaborative team? Apple's Technology Development Group is seeking developers skilled in building high performance interactive 3D simulation software. This team is building the core foundational platform for some of Apple's most advanced technologies including the augmented reality (AR) and virtual reality (VR) support offered in ARKit and Metal 2. As a member of our creative organization, you will have a uniquely rewarding opportunity to craft future products that will delight and inspire millions of people every single day.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Key Qualifications&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Good programming skills and knowledge of C++&lt;br&gt;&lt;br&gt;Extensive experience with at least one of the graphics APIs (Metal, OpenGL, Direct3D, Console, etc.)&lt;br&gt;&lt;br&gt;3D math skills (linear algebra).&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Description&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Apple makes the newest technologies accessible to create amazing user experiences. You will have the opportunity to develop prototypes at the state-of-the-art of technology to find the best experiences for our products. We work closely with Apple's Human Interface design team to define the next generation of computing. The candidate for this role will be comfortable working in a dynamic and creative environment. Engineers are expected to work quickly and smartly to help determine the viability of ideas and technologies. You will need a keen understanding of 3D applications and an ambition to explore a new world of uncharted possibilities. You will work closely with artists, designers, and engineers to define and prove new application concepts.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Education &amp;amp; Experience&lt;br&gt;&lt;/strong&gt; &lt;br&gt;BS/MS in Computer Science or equivalent experience&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Additional Requirements&lt;br&gt;&lt;/strong&gt; &lt;br&gt;-  Understanding of GPU HW pipeline and experience with GPU performance analysis and optimizations&lt;br&gt;&lt;br&gt;-  Ability to work collaboratively to improve architecture and code&lt;br&gt;&lt;br&gt;&lt;br&gt;Apple is an equal opportunity employer that is committed to inclusion and diversity. We take affirmative action to ensure equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics.&lt;br&gt;&lt;br&gt; &lt;br&gt;Role Number: 200102331&lt;br&gt;&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:36:57.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Graphics Software Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr Manufacturing SDE",
+    "industry": "",
+    "description": "&lt;ul&gt;&lt;li&gt;Solid (5+ years) of programming experience using C#. 3+ years of development experience on the .NET platform and Windows Services&lt;/li&gt;&lt;li&gt;Hardware Software integration&lt;/li&gt;&lt;li&gt;Prior experience working in a Manufacturing or Test Engineering environments&lt;/li&gt;&lt;li&gt;Excellent Communication skills. Ability to lead and represent SW team, collaborate with cross functional stakeholders, and troubleshoot complex SW issues&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T17:28:56.000Z"
+  },
+  "company": {
+    "name": "CSI Interfusion",
+    "link": "https://www.linkedin.com/company/csi-interfusion"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Sr Manufacturing SDE"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Redmond",
+    "region": "WA",
+    "postal_code": "98073",
+    "street_address": null,
+    "latitude": 47.67491,
+    "longitude": -122.12399
+  }
+}

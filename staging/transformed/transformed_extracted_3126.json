@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Software",
+    "description": "Cushion is looking for a stellar Machine Learning Engineer to join us during this exciting phase of the company!&lt;br&gt;&lt;br&gt;We\u2019re growing, generating revenue, and announced our $2.8M Seed round on TechCrunch in 2019. In addition, we have been recognized by SXSW, Bloomberg, American Banker, Inc magazine, and more.&lt;br&gt;&lt;br&gt;This is a rare opportunity to join a startup as one of the first 20 employees and shape the product, strategy, and culture alongside the Founder and core team.&lt;br&gt;&lt;br&gt;Who we're looking for&lt;br&gt;&lt;br&gt;The core of what we're building at Cushion is a system that can perform intelligent financial actions on behalf of a consumer, better than they can.&lt;br&gt;&lt;br&gt;We are on the hunt to find a humble hard-working ML Engineer who is an outstanding engineer first and foremost (e.g. can build and deploy a web app from scratch if need be). This person must be able to not only extract insights from data and build ML models, but is also able to deploy their models into production without the help of other engineers.&lt;br&gt;&lt;br&gt;The ideal candidate is curious, driven, absolutely loves solving complex problems, is a pleasure to be around and work with, and has an intense bias towards making stuff happen.&lt;br&gt;&lt;br&gt;As an engineer at Cushion, you will&lt;br&gt;&lt;ul&gt;&lt;li&gt;\u270b have serious ownership - of the work that you do as well as your stake in the company&lt;/li&gt;&lt;li&gt;\ud83c\udfc3\u2642\ufe0f work in a fast-paced environment where an idea on Monday can become a live feature in the hands of users by Friday&lt;/li&gt;&lt;li&gt;\ud83d\udc69\ud83d\udcbb work on high-impact initiatives that will affect tens of thousands of customers (hopefully millions as we grow!)&lt;/li&gt;&lt;li&gt;\ud83d\ude80 be a major contributor in building and scaling a company&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;What we're looking for&lt;br&gt;&lt;br&gt;Based on our experience building teams at multiple companies, including Twitter, we're looking for candidates with the following background:&lt;br&gt;&lt;ul&gt;&lt;li&gt;A college degree in Computer Science, Computer Engineering, Math, or Physics&lt;/li&gt;&lt;li&gt;At least 4 years of full-time Software Engineering experience after getting your undergraduate degree&lt;/li&gt;&lt;li&gt;At least 2 years of Machine Learning experience&lt;/li&gt;&lt;li&gt;A track record of deploying ML models into production yourself&lt;/li&gt;&lt;li&gt;Experience with AI, NLP, ML&lt;/li&gt;&lt;li&gt;Experience with Python&lt;/li&gt;&lt;li&gt;Experience with relational databases and SQL&lt;/li&gt;&lt;li&gt;Experience deploying applications on AWS, Google Cloud, Azure, etc&lt;/li&gt;&lt;li&gt;Bonus: Prior startup experience&lt;/li&gt;&lt;li&gt;Bonus: Master's Degree or higher in Machine Learning&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;The salary range for this position is $120,000 - $180,000&lt;br&gt;&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T06:08:10.000Z"
+  },
+  "company": {
+    "name": "CUSHION AID",
+    "link": "https://www.linkedin.com/company/cushion-aid"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": "Machine Learning Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

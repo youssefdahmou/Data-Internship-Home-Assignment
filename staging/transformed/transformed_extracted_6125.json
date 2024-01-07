@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr Site Reliability Engineer",
+    "industry": "",
+    "description": "&lt;p&gt;The CRS Group is currently looking for a Site Reliability Engineer for one of our clients in the Riverwoods area. The CRS Group is a nationwide Staffing Firm who works primarily with Fortune 500 and Fortune 1000 corporations.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;The Site Reliability Engineer applies software engineering techniques and discipline to production operations to attack reliability and performance issues to fix them for good. SREs focus on availability, latency, performance, efficiency, change management, monitoring, emergency response and capacity planning of their services. SREs have an intense passion for finding and improving efficiencies with infrastructure, development, and deployment automation. As a SRE, you will lead the efforts of application deployment, reliability, scalability, availability and performance alongside the engineering and infrastructure teams. Site Reliability Engineers will work closely with our engineering teams to build mature, production-ready services and applications. As part of the SRE team, you will help define our standards for monitoring, alerting, scalability, and production-readiness. You will monitor and report on the uptime of our systems and services, the performance of our applications, and the capacity of our platform.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Job Duties:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Define SRE framework&lt;/li&gt;&lt;li&gt;Define reliable design patterns&lt;/li&gt;&lt;li&gt;Define canned reliability user stories for feature delivery&lt;/li&gt;&lt;li&gt;Define what looks good like for baseline&amp;nbsp;monitoring/alerting&lt;/li&gt;&lt;li&gt;Define scorecards, gates, technical debt oversight for organization&lt;/li&gt;&lt;li&gt;Define consistent problem management process, PIRs&lt;/li&gt;&lt;li&gt;Job descriptions, training, common language, definitions&lt;/li&gt;&lt;li&gt;Leading teams in developing SRE playbooks&lt;/li&gt;&lt;li&gt;Ensure reliability is built into new designs&lt;/li&gt;&lt;li&gt;Ensure canned reliability users\u2019 stories are executed for every feature&lt;/li&gt;&lt;li&gt;Perform design reviews of existing apps and production readiness reviews&lt;/li&gt;&lt;li&gt;Execute chaos testing&lt;/li&gt;&lt;li&gt;Identify operational functions that need to be automated&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Qualifications:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bachelor\u2019s degree Information Technology or equivalent experience&lt;/li&gt;&lt;li&gt;5+ years SRE experience in highly customer-focused environment&lt;/li&gt;&lt;li&gt;Proficiency in designing resilient app patterns&lt;/li&gt;&lt;li&gt;Expertise in 24x7 site monitoring and ability to own uptime &amp;amp; performance SLAs for large scale distributed systems&lt;/li&gt;&lt;li&gt;Expertise and operational experience at operating highly available, scalable, and fault-tolerant systems using container platforms&lt;/li&gt;&lt;li&gt;Familiarity with OS tuning, optimization and system requirements for vertical scaling&lt;/li&gt;&lt;li&gt;Proficiency in one or more general purpose programming languages&lt;/li&gt;&lt;li&gt;Expertise in automation tools experience&lt;/li&gt;&lt;li&gt;Strong leadership skills and ability to motivate team&lt;/li&gt;&lt;li&gt;Ability to drive change, and motivate engineers to develop simple solutions for complex operational challenges&lt;/li&gt;&lt;li&gt;Experience collaborating and partnering effectively with several other teams&lt;/li&gt;&lt;li&gt;Experience leading discussions with senior leadership, and are able to tailor the level of technical detail to suit audience&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;About&amp;nbsp;CRS Group:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Founded in 1994 as Computer Resource Solutions, The CRS Group is a privately held company with offices in Itasca, IL and downtown Chicago. CRSG provides staffing solutions to Fortune 500 companies by successfully managing their IT contingent workforce needs. We expanded our offerings to extend that same high-quality service to other business needs, including creative, marketing, finance, legal and HR.&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T08:22:58.000Z"
+  },
+  "company": {
+    "name": "CRS Group",
+    "link": "https://www.linkedin.com/company/crsgroup"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Sr Site Reliability Engineer"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 75,
+    "max_value": 75,
+    "unit": "HOUR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

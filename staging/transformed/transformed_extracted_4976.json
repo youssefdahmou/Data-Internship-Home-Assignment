@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "React/React Native Engineer",
+    "industry": "Information Technology and Services",
+    "description": "&lt;p&gt;Role: React/React Native Engineer&lt;/p&gt;&lt;p&gt;Location: Remote - USA&amp;nbsp;&lt;/p&gt;&lt;p&gt;Type: Fulltime&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Job Description&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We are looking for a React/React Native Engineer with strong problem-solving skills. This position will play a key role in the continued development of our products, which have real-life impacts on tens of thousands of people per year.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Excellent communication skills&lt;/li&gt;&lt;li&gt;A deep understanding of React&lt;/li&gt;&lt;li&gt;Deep experience with React Native&lt;/li&gt;&lt;li&gt;Experience with REST APIs&lt;/li&gt;&lt;li&gt;Experience with version control, preferably Git&lt;/li&gt;&lt;li&gt;Constantly strive to expand knowledge and stay current with new engineering tools&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Nice to Have/Want to Learn:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Native Mobile Application Development experience&lt;/li&gt;&lt;li&gt;Fastlane or other CI/CD Experience&lt;/li&gt;&lt;li&gt;Automated testing experience&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;If you are interested, please share a good time and your number for a short discussion. Alternatively, you could share your updated resume&amp;nbsp;at &lt;/em&gt;&lt;strong&gt;anosh.kumar@bayonesolutions.com&lt;/strong&gt;&lt;em&gt;&amp;nbsp;or call me at&amp;nbsp;&lt;/em&gt;&lt;strong&gt;(925) 218-2347&lt;/strong&gt;&lt;em&gt;. Looking forward to hearing from you!&lt;/em&gt;&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T22:57:57.000Z"
+  },
+  "company": {
+    "name": "BayOne Solutions",
+    "link": "https://www.linkedin.com/company/bayone-solutions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "React/React Native Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

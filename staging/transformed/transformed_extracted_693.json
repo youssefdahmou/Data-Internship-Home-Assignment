@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "&lt;strong&gt;&lt;u&gt;Description&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;Associate Technology and Innovation (ATI) is a Customer Service organization enabling Amazon to become Earth\u2019s most customer-centric company by efficiently building services, products and programs that deliver exceptional customer and employee experiences anywhere at scale. As a Data Scientist on the ATI Science team, you will have the opportunity to build and deploy game changing data science and machine learning solutions that deliver exceptional Associate experiences.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;Basic Qualifications&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt; Bachelor\u2019s degree in Statistics, Applied Math, Operations Research, Economics, Engineering or a related quantitative field with three years of working experience as a Data Scientist&lt;/li&gt;&lt;li&gt; Experience in SQL, R, Python, or another scripting language&lt;/li&gt;&lt;li&gt; Track record of diving into data to discover hidden patterns and of conducting error/deviation analysis.&lt;/li&gt;&lt;li&gt; Knowledge of various machine learning techniques and key parameters that affect their performance.&lt;/li&gt;&lt;li&gt; Excellent written and verbal communication skills for both technical and non-technical audiences.&lt;/li&gt;&lt;li&gt; Strong troubleshooting and problem-solving skills&lt;/li&gt;&lt;li&gt; Extensive knowledge and practical experience in one or more of the following areas: machine learning, statistics, NLP, deep learning&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Preferred Qualifications&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt; Master\u2019s degree in Statistics, Applied Math, Operations Research, Economics, Engineering or a related quantitative field&lt;/li&gt;&lt;li&gt; 5+ years of experience in data science&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;Company&lt;/strong&gt; - Amazon.com Services LLC&lt;br&gt;Job ID: A1603329",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-13T13:38:34.000Z"
+  },
+  "company": {
+    "name": "Amazon",
+    "link": "https://www.linkedin.com/company/amazon"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Data Scientist"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

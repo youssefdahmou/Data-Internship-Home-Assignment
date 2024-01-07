@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "WiFi Software Engineer",
+    "industry": "Consumer Electronics",
+    "description": "&lt;br&gt;&lt;strong&gt;Summary&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Join our Sensing and Connectivity team and drive innovation that matters! We build and seamlessly integrate technologies that enrich people\u2019s lives and deliver the best user-experience. &lt;br&gt;&lt;br&gt;&lt;br&gt;As part of the WiFi software development team, we make decisions that influence the connectivity experience on products people use every single day, across the world. Are you a software development enthusiast? Are you passionate about internet-enabled devices and networking protocols? Do you want to learn more about WiFi and other wireless technologies? If your answer is yes, we may have the job for you.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Key Qualifications&lt;br&gt;&lt;/strong&gt; &lt;br&gt;BA/BS in Computer Engineering, Computer Science, or equivalent experience.&lt;br&gt;&lt;br&gt;&lt;br&gt;Knowledge of data structures and their applications &lt;br&gt;&lt;br&gt;&lt;br&gt;Experience developing software using C/C+, Objective-C, or Java&lt;br&gt;&lt;br&gt;&lt;br&gt;Strong competence and experience in Layer 2, Layer 3 networking, QoS&lt;br&gt;&lt;br&gt;&lt;br&gt;Strong analytical and problem-solving skills.&lt;br&gt;&lt;br&gt;&lt;br&gt;Excellent analytical, programming and debugging skills&lt;br&gt;&lt;br&gt;&lt;br&gt;Thrive in a collaborative environment and can clearly communicate while driving multiple projects across teams&lt;br&gt;&lt;br&gt;&lt;br&gt;Passionately hardworking and inquisitive, and seek to tackle everyday problems in innovative ways&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Description&lt;br&gt;&lt;/strong&gt; &lt;br&gt;As WiFi team member, you'll be responsible for crafting, developing and optimizing WiFi networking subsystem software across Apple products including iPhone, Mac, Apple Watch and Apple TV.&lt;br&gt;&lt;br&gt;&lt;br&gt;You will also be working across software stacks (Frameworks and API, UI, OS services, and drivers) to maintain and productize features collaboratively with the hardware and software teams within all of Apple.&lt;br&gt;&lt;br&gt;&lt;br&gt;You will be encouraged to own, drive and execute the full software development cycle - from the ideation, design, implementation, to testing and measuring the success of the feature you develop. We want you to make intelligent compromises between several contradictory factors such as ease of use, performance and efficiency.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Education &amp;amp; Experience&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Bachelor's degree in Computer Science or equivalent.&lt;br&gt;&lt;br&gt;&lt;br&gt;Master's Degree preferred.&lt;br&gt;&lt;br&gt; &lt;br&gt;Role Number: 200242162&lt;br&gt;&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:29:56.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "WiFi Software Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

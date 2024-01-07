@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Staffing and Recruiting,Human Resources",
+    "description": "Role &amp;amp; Responsibilities&lt;br&gt;&lt;ul&gt;&lt;li&gt; Monitoring and Tracing&lt;/li&gt;&lt;li&gt; Performance monitoring&lt;/li&gt;&lt;li&gt; Deploy systems in production&lt;/li&gt;&lt;li&gt; Documenting reviews&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Skills &amp;amp; Qualifications&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt; AWS&lt;/li&gt;&lt;li&gt; Lambda&lt;/li&gt;&lt;li&gt; Microservers&lt;/li&gt;&lt;li&gt; CI/CD Pipeline Experience&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Benefits&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt; Standard benefits&lt;/li&gt;&lt;li&gt; Remote&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T21:19:44.000Z"
+  },
+  "company": {
+    "name": "Jefferson Frank",
+    "link": "https://www.linkedin.com/company/jefferson-frank"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Site Reliability Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Denver",
+    "region": "CO",
+    "postal_code": "80247",
+    "street_address": null,
+    "latitude": 39.738453,
+    "longitude": -104.984856
+  }
+}

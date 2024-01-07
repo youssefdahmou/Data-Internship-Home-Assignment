@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Lead Software Engineer (Python) ($175-225k), 100% remote",
+    "industry": "Computer Software",
+    "description": "&lt;p&gt;&lt;strong&gt;Lead Software Engineer, (Python), &lt;/strong&gt;($175-225k), 100% remote.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;ABOUT US:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Fast-Growing, Disruptive SaaS in Fintech,&lt;/li&gt;&lt;li&gt;Silicon Valley Startup, $120M Series-B, Profitable,&lt;/li&gt;&lt;li&gt;Proven Industry Veteran Execs with very successful exits&lt;/li&gt;&lt;li&gt;Excellent Pay, Benefits, Equity, 100% remote, telecommute.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;ABOUT YOU:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;10+ years of Professional Backend Software Engineering&lt;/li&gt;&lt;li&gt;Strong Python, API Development, REST, AWS&lt;/li&gt;&lt;li&gt;Distributed Systems, Highly Scalable Systems,&lt;/li&gt;&lt;li&gt;Excellent Collaboration skills, Team Lead skills&lt;/li&gt;&lt;li&gt;Excited to build our core Payments Platform eventually used by millions&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Nice to have:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;High traffic Backend Development for Consumer Web (nice to have)&lt;/li&gt;&lt;li&gt;Startup experience (nice to have)&lt;/li&gt;&lt;li&gt;Payments Processing experience&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-11T23:46:23.000Z"
+  },
+  "company": {
+    "name": "Walter Bacon, Inc.",
+    "link": "https://www.linkedin.com/company/walter-bacon-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": "Lead Software Engineer (Python) ($175-225k), 100% remote"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 170000,
+    "max_value": 225000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York City Metropolitan Area",
+    "region": null,
+    "postal_code": "10021",
+    "street_address": null,
+    "latitude": 40.748295,
+    "longitude": -73.98556
+  }
+}

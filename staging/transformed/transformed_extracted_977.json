@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Test Engineer",
+    "industry": "Management Consulting",
+    "description": "&lt;strong&gt;&lt;u&gt;Description&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;Our client has an urgent need for a software test engineer to join their team right away. This individual will be working in their consumer mobile application products group. This individual will be developing test tools for the SW Testers to utilize. They will be writing the automation code in Python and will be testing it and giving feedback to the team on how it performs.&lt;br&gt;&lt;ul&gt;&lt;li&gt; Designs, develops, and implements test plans, and test cases/scripts for complete and complex frameworks, systems, and products&lt;/li&gt;&lt;li&gt; Tests advanced software systems to ensure compliance with system specifications and system interoperability&lt;/li&gt;&lt;li&gt; Identifies, analyzes and resolves software issues&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Must Haves&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;strong&gt;Additional Skills &amp;amp; Qualifications:&lt;br&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt; Bachelor\u2019s degree in Computer Science, Electrical Engineering or related discipline&lt;/li&gt;&lt;li&gt; Minimum of 2 years of experience&lt;/li&gt;&lt;li&gt; Uses skills as a seasoned, experienced professional in systems testing of software products&lt;/li&gt;&lt;li&gt;Must have coding experience utilizing python.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;About Actalent&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;Actalent connects passion with purpose. Our scalable talent solutions and services capabilities drive value and results and provide the expertise to help our customers achieve more. Every day, our experts around the globe are making an impact. We\u2019re supporting critical initiatives in engineering and sciences that advance how companies serve the world. Actalent promotes consultant care and engagement through experiences that enable continuous development. Our people are the difference. Actalent is an operating company of Allegis Group, the global leader in talent solutions.&lt;br&gt;&lt;br&gt;The company is an equal opportunity employer and will consider all applications without regards to race, sex, age, color, religion, national origin, veteran status, disability, sexual orientation, gender identity, genetic information or any characteristic protected by law.&lt;br&gt;&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-13T17:22:44.000Z"
+  },
+  "company": {
+    "name": "Actalent",
+    "link": "https://www.linkedin.com/company/actalentservices"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": "Software Test Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Park Ridge",
+    "region": "IL",
+    "postal_code": "60068",
+    "street_address": null,
+    "latitude": 42.011005,
+    "longitude": -87.83587
+  }
+}

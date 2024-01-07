@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (Machine Learning)",
+    "industry": "Banking,Financial Services,Investment Banking",
+    "description": "314 Main Street (21020), United States of America, Cambridge, Massachusetts&lt;br&gt;&lt;br&gt;Software Engineer (Machine Learning)&lt;br&gt;&lt;br&gt;&lt;strong&gt;(IC) Lead Machine Learning Engineer &lt;br&gt;&lt;br&gt;&lt;/strong&gt;As a Capital One Machine Learning Engineer, you'll be part of an Agile team dedicated to productionizing machine learning applications and systems at scale. You'll participate in the detailed technical design, development, and implementation of machine learning applications using existing and emerging technology platforms. Working within an Agile environment, you\u2019ll serve as a technical lead, helping guide machine learning architectural design decisions, developing and reviewing model and application code, and ensuring high availability and performance of our machine learning applications. You'll have the opportunity to continuously learn and apply the latest innovations and best practices in machine learning engineering. You\u2019ll also mentor other engineers and develop your technical knowledge and skills to keep Capital One at the cutting edge of technology.&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;What You\u2019ll Do In The Role&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Deliver ML software models and components that solve real-world business problems, while working in collaboration with the Product and Data Science teams.&lt;/li&gt;&lt;li&gt;Solve complex problems by writing and testing application code, developing and validating ML models, and automating tests and deployment.&lt;/li&gt;&lt;li&gt;Collaborate as part of a cross-functional Agile team to create and enhance software that enables state-of-the-art, next generation big data and machine learning applications.&lt;/li&gt;&lt;li&gt;Leverage cloud-based architectures and technologies to deliver optimized ML models at scale.&lt;/li&gt;&lt;li&gt;Construct optimized data pipelines to feed ML models.&lt;/li&gt;&lt;li&gt;Use programming languages like Python, Scala, or Java.&lt;/li&gt;&lt;li&gt;Leverage continuous integration and continuous deployment best practices, including test automation and monitoring, to ensure successful deployment of ML models and application code.&lt;/li&gt;&lt;li&gt;Advocate for software and machine learning engineering best practices.&lt;/li&gt;&lt;li&gt;Function as a technical lead.&lt;/li&gt;&lt;li&gt;Mentor junior ML engineering talent.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Basic Qualifications&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Bachelor\u2019s degree.&lt;/li&gt;&lt;li&gt;At least 6 years of experience designing and building data-intensive solutions using distributed computing.&lt;/li&gt;&lt;li&gt;At least 4 years of experience programming with Python, Scala, or Java.&lt;/li&gt;&lt;li&gt;At least 2 years of experience building, scaling, and optimizing ML systems.&lt;/li&gt;&lt;li&gt;At least 1 year of experience with the full ML development lifecycle using modern technology in a business critical setting.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Preferred Qualifications&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Master's or doctoral degree in computer science, electrical engineering, mathematics, or a similar field.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;Job Category - Engineering, Technology Explorers, Information Technology, Technology Explorers",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T05:18:40.000Z"
+  },
+  "company": {
+    "name": "Capital One",
+    "link": "https://www.linkedin.com/company/capital-one"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": "Software Engineer (Machine Learning)"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cambridge",
+    "region": "MA",
+    "postal_code": "02239",
+    "street_address": null,
+    "latitude": 42.36525,
+    "longitude": -71.10502
+  }
+}

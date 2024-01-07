@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "BASIC QUALIFICATIONS:  &lt;br&gt;Four-year college degree in Information Technology, Information Security, related field or equivalent work experience &lt;br&gt;Experience with SQL Server: Stored procedures, Server Replication, Transactional Replication &lt;br&gt;Five years of experience in a large enterprise in an engineering or delivery role &lt;br&gt;Experience with Azure: Azure Service Fabric, Azure Functions, Service Bus, Azure Storage services like Cosmos &lt;br&gt;Experience in one of these languages: C, C#, .NET Technologies, JavaScript, Typescript &lt;br&gt;Five years of experience working with scripting languages and other automation tools, e.g., PowerShell, etc. &lt;br&gt;Excellent analytical ability and communications skills &lt;br&gt;Interpersonal relationship skills &lt;br&gt;Ability to manage multiple tasks simultaneously\u202f ",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T12:45:24.000Z"
+  },
+  "company": {
+    "name": "ATD Technology, LLC., a full-service Staffing &amp; Recruiting Agency",
+    "link": "https://www.linkedin.com/company/atd-technology-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Site Reliability Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Pittsburgh",
+    "region": "PA",
+    "postal_code": "15235",
+    "street_address": null,
+    "latitude": 40.44217,
+    "longitude": -79.99496
+  }
+}

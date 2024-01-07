@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Embedded Software Engineer",
+    "industry": "Semiconductors",
+    "description": "&lt;p&gt;&lt;strong&gt;Job Description:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Minimum Qualifications&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;- Bachelor's degree in Engineering, Information Systems, Computer Science, or related field.&lt;/p&gt;&lt;p&gt;- 1+ years\u2019 experience with Programming Language such as C, C++, Java, Python, etc.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Preferred Qualifications&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Industry experience in the following:&lt;/p&gt;&lt;p&gt;- Software development and System Architecture on Arm based RTOS platforms.&lt;/p&gt;&lt;p&gt;- Android or other High level OS for Mobile, Compute, IoT or Automotive products ( e.g. Android, Linux, Windows etc.).&lt;/p&gt;&lt;p&gt;- Software version control systems (such as GIT, Perforce etc.) for large scale software development.&lt;/p&gt;&lt;p&gt;- C /C++ programming and debug experience&lt;/p&gt;&lt;p&gt;- Software development for embedded platform.&lt;/p&gt;&lt;p&gt;- One or more of the following Modem protocols: EVDO/WCDMA/LTE/5G system architecture&lt;/p&gt;&lt;p&gt;- RTOS software development&lt;/p&gt;&lt;p&gt;- Scripting language such as Perl or Python.&lt;/p&gt;&lt;p&gt;- Multimedia (Audio, Video, Camera) software development/debug/integration.&lt;/p&gt;&lt;p&gt;- Understanding of ARM processor family and software development on ARM processors.&lt;/p&gt;&lt;p&gt;- Understanding of Bluetooth , Wifi ( 802.11 family) drivers and protocol.&lt;/p&gt;&lt;p&gt;- Embedded system debugging skills (Jtag based).&lt;/p&gt;&lt;p&gt;- Familiarity with modem log analysis (e.g. WCDMA, LTE, 4g, 5g etc.)&lt;/p&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-25T17:31:53.000Z"
+  },
+  "company": {
+    "name": "ManpowerGroup",
+    "link": "https://www.linkedin.com/company/manpowergroup"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": "Embedded Software Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

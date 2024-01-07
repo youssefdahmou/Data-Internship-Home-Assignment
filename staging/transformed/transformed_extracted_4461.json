@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Cloud Engineer",
+    "industry": "",
+    "description": "P.S. Kindly apply only if you are ELIGIBLE to work in Canada. We do not provide sponsorship/ Visa services.&lt;br&gt;&lt;br&gt;The Cloud Engineer may be responsible for but is not limited to;&lt;br&gt;&lt;br&gt;Programming experience in one or more programming languages (Java, C/C++, C#, Objective C, Python, JavaScript).&lt;br&gt;Development experience including experience with new DevOps tools and methods AND/OR Agile Development.&lt;br&gt;Experience with one or more Infrastructure as Code tools such as Cloud Formation, Deployment Manager, Terraform, Ansible&lt;br&gt;Experience in software systems design, with experience in architecting distributed systems&lt;br&gt;Experience in architecting, developing and/or maintaining production-grade systems&lt;br&gt;Experience in virtualization, multi-tenant cloud infrastructures, storage systems and content delivery networks&lt;br&gt;Strong development experience and delivery history in key scripting languages (Ruby, Python, Powershell, Groovy) or another common programming language&lt;br&gt;Proven experience with a cloud provider (AWS, Google Cloud, Microsoft Azure)",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-18T22:15:04.000Z"
+  },
+  "company": {
+    "name": "Querentia",
+    "link": "https://ca.linkedin.com/company/querentia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Cloud Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "CA",
+    "locality": "Greater Toronto Area",
+    "region": "Canada",
+    "postal_code": "L0B1A0",
+    "street_address": null,
+    "latitude": 43.68814,
+    "longitude": -79.621994
+  }
+}

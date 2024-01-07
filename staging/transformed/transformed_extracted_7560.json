@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "AWS Data Engineer",
+    "industry": "Information Technology and Services,Computer &amp; Network Security,Information Services",
+    "description": "&lt;p&gt;&lt;strong&gt;AWS Data Developer&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Location: McLean; VA (Fortune 500 client)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;2 Days ONSITE after Pandemic&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;12 Months Contract&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;AWS Data Developer&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;We are migrating the legacy based platform into cloud Solution (Hadoop to AWS migration). Refactoring the Compute into AWS where we have Kubernetes container based solutions.&lt;/li&gt;&lt;li&gt;5+ years of experience in software development including design, coding, testing, and support&lt;/li&gt;&lt;li&gt;3+ years of Cloud infrastructure experience working with one or more of the following Amazon Web Services (AWS) Cloud services: EC2, EMR, ECS, S3, SNS, SQS, Cloud Formation, Cloud watch, Lambda&lt;/li&gt;&lt;li&gt;Hands-on experiences with Python and PySpark&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li&gt;Hadoop and AWS - must have hands-on experience with development, not administration.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Python is a must have with Spark/PySpark.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Kubernetes knowledge is nice to have&lt;/li&gt;&lt;/ol&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-10-05T17:31:26.000Z"
+  },
+  "company": {
+    "name": "Technology Ventures",
+    "link": "https://www.linkedin.com/company/technology-ventures"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "AWS Data Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "McLean",
+    "region": "VA",
+    "postal_code": "22101",
+    "street_address": null,
+    "latitude": 38.93759,
+    "longitude": -77.18378
+  }
+}

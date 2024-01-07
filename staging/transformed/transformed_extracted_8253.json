@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "Hello,&lt;br&gt; &lt;br&gt;Greetings!&lt;br&gt; &lt;br&gt;This is Akash Kumar from VBeyond Corp.  We are a global recruitment company with specialization in of hiring of IT professionals.  One of our clients is looking for Sr. Site Reliability Engineer&lt;br&gt;in 100% REMOTE&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Title : Sr. Site Reliability Engineer&lt;br&gt;&lt;br&gt;Location : 100% REMOTE&lt;br&gt;&lt;br&gt;Full time&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Job Description :&lt;br&gt;&lt;br&gt;&lt;br&gt;\u2022             Multi-Cloud operations and support following industry best practices (e.g. AWS Well-Architected Framework) and direct experience in at-scale administration, troubleshooting, and issue remediation in Public and Regulated Cloud Environments (AWS, AWS GovCloud, GCP, Azure, Azure-Jedi)&lt;br&gt;\u2022             3+ years CI/CD and Infrastructure Automation Experience with common platforms (Jenkins, Spinnaker, GitOps) and scripting (Terraform, Pulimi, CloudFormation, Ansible, Helm, Python)&lt;br&gt;\u2022             Self-motivated individual who is interested in expanding their knowledge and skillset while improving on processes, procedures, and approaches that benefit the organization&lt;br&gt;\u2022             A thoughtful individual who strives to find the best possible solutions to problems and the follow-through to see them from idea to execution&lt;br&gt;\u2022             Reliable team player, yet able to work independently, with strong interpersonal and communication skills. &lt;br&gt;\u2022             At least 2 years of hands-on experience in Docker &amp; Kubernetes, familiarity with KOPS is an advantage&lt;br&gt;\u2022             Experience with Big Data domain technologies such as HDFS, S3, BSpark, BFlink, Presto, Kafka is essential, and deep knowledge is a strong advantage&lt;br&gt;\u2022             Team player, yet able to work independently, with interpersonal and communication skills. &lt;br&gt;I would appreciate if you could reach out on my below mentioned contact coordinates, should the position be of interest to you. &lt;br&gt;Have a great day ahead!&lt;br&gt;&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-14T21:28:57.000Z"
+  },
+  "company": {
+    "name": "VBeyond Corporation",
+    "link": "https://www.linkedin.com/company/vbeyond-corporation"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": "Site Reliability Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mountain View",
+    "region": "CA",
+    "postal_code": "94040",
+    "street_address": null,
+    "latitude": 37.39008,
+    "longitude": -122.08139
+  }
+}

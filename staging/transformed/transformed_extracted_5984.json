@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "",
+    "description": "&lt;p&gt;Oda processes thousands of real estate images every day to better understand and serve to different audiences with evolving interests and tastes. As a machine learning engineer in our team, you'll help build and scale our cutting-edge Oda Optimization image processing and recommendation pipeline.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;What you'll do:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Develop &amp;amp; Train &amp;amp; Monitor deep learning models to improve various Oda products.&lt;/li&gt;&lt;li&gt;Collect &amp;amp; Clean &amp;amp; Generate custom datasets for DL/ML model training.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Design and implement software solutions to improve our image processing pipeline to personalize services to different clients.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;What we're looking for:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;2+ years of industry experience&lt;/li&gt;&lt;li&gt;BS or MS in Computer Science, Statistics or related field&lt;/li&gt;&lt;li&gt;Experience working with CNN, Autoencoder and Transformer architectures&amp;nbsp;&lt;/li&gt;&lt;li&gt;Expertise in Pytorch / Tensorflow or other GPU APIs&lt;/li&gt;&lt;li&gt;Hands-on experience with data processing pipelines, databases and large scale machine learning systems&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Nice to have:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Background in recommendation or computational advertising&lt;/li&gt;&lt;li&gt;Working knowledge of Reinforcement Learning Algorithms.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T07:21:57.000Z"
+  },
+  "company": {
+    "name": "Oda Studio",
+    "link": "https://www.linkedin.com/company/odastudio"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": "Machine Learning Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "TR",
+    "locality": "T\u00fcrkiye",
+    "region": null,
+    "postal_code": null,
+    "street_address": null,
+    "latitude": 38.989094,
+    "longitude": 35.433243
+  }
+}

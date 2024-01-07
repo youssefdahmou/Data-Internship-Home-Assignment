@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Web",
+    "industry": "Computer Games",
+    "description": "&lt;p&gt;&lt;strong&gt;Who we are:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;SuperDraft is a New Hampshire and Las Vegas based company that is focused on paid entry and free to play daily fantasy and sports betting in the U.S. The Company has developed several unique game modes and features that appeal to both casual and hardcore sports fans and fantasy players.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Who you are:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;You'll be a creative contributor to the entire Agile development lifecycle, from design and implementation to testing and monitoring.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;What you\u2019ll do:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Write clean, well-organized, testable and reusable JavaScript and Typescript&lt;/li&gt;&lt;li&gt;Build performant, well-tested User Interface components in React and Redux&lt;/li&gt;&lt;li&gt;Improve performance by identifying and fixing bottlenecks using industry standard patterns and practices&lt;/li&gt;&lt;li&gt;Participate in product spec reviews, technical design reviews, and code reviews&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;What you\u2019ll bring:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Excellent verbal and written communication skills&lt;/li&gt;&lt;li&gt;Understanding of JavaScript development best practices (ES6 preferred).&lt;/li&gt;&lt;li&gt;2+ years' experience working with modern frontend frameworks (React, SASS, etc.)&lt;/li&gt;&lt;li&gt;Experience with common tools like Webpack, npm and Jest.&lt;/li&gt;&lt;li&gt;Experience building reusable components with an eye towards responsive design&lt;/li&gt;&lt;li&gt;Experience translating product requirements into technical specifications.&lt;/li&gt;&lt;li&gt;Bachelor's degree in a technical major or equivalent work experience&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;What we\u2019ll love:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Experience with React hooks&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;What we\u2019ll bring:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;SuperDraft is an equal opportunity employer and does not discriminate based on race, gender, or sexual orientation.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Employees receive a competitive benefits package, including health insurance, paid vacation/sick leave, and stock options.&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T18:46:25.000Z"
+  },
+  "company": {
+    "name": "SuperDraft, Inc.",
+    "link": "https://www.linkedin.com/company/superdraftdfs"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": "Software Engineer, Web"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

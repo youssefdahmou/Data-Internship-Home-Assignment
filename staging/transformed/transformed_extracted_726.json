@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data science Engineer/ Data scientist",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Our client is looking for Data science Engineer Data scientist is long term project in Multiple Locations below is the detailed requirements.&lt;br&gt;&lt;br&gt;Job Title&lt;br&gt;&lt;br&gt;Data science Engineer Data scientist&lt;br&gt;&lt;br&gt;Location&lt;br&gt;&lt;br&gt;Multiple Locations&lt;br&gt;&lt;br&gt;Duration&lt;br&gt;&lt;br&gt;Long term&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;Job Description&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;Bachelor's degree in Computer science or equivalent, with minimum 10+ Years of relevant experience.&lt;br&gt;&lt;br&gt;Strong experience in Set up Data Science program&lt;br&gt;&lt;br&gt;Must have experience in Set-up Data Science process&lt;br&gt;&lt;br&gt;Should have prior experience in Manufacturing&lt;br&gt;&lt;br&gt;Product Quality domain, specifically in DIAPharma.&lt;br&gt;&lt;br&gt;You should Engage as a spot consultant on use cases.&lt;br&gt;&lt;br&gt;Demonstrate excellent communication skills including the ability to effectively communicate with internal and external customers.&lt;br&gt;&lt;br&gt;Ability to use strong industry knowledge to relate to customer needs and dissolve customer concerns and high level of focus and attention to detail.&lt;br&gt;&lt;br&gt;Strong work ethic with good time management with ability to work with diverse teams and lead meetings.",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-12T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Lorven Technologies Inc",
+    "link": "https://www.linkedin.com/company/lorventech"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": "Data science Engineer/ Data scientist"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

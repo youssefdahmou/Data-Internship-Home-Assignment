@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Commercial Real Estate,Information Technology and Services,Research",
+    "description": "Software Engineer&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;Job Description&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;CoStar delivers real-time, verified commercial real estate data that helps clients confidently spot great opportunities and make smart choices ahead of competitors. By combining the power of CoStar\u2019s independent research organization \u2013 the industry\u2019s largest \u2013 with global data delivery, software, and application solutions, clients can act on opportunities with confidence.&lt;br&gt;&lt;br&gt;CoStar\u2019s software developers build products that facilitate 86% of commercial real estate transactions in the United States. These transactions range from a small business owner leasing their first office space to a large multi-national buying a new headquarters campus. On any given day our developers are building products that manage nearly a trillion dollars of potential real estate transactions.&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;RESPONSIBILITIES (Bullet Points Outlining Top Requirements Of The Role)&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Build big, distributed, API-driven systems for tens of thousands of users&lt;/li&gt;&lt;li&gt;Produce bullet-proof code that is robust, efficient and maintainable; our primary tools are C#, .NET Framework, React, JavaScript, AngularJS, JSON, SQL Server&lt;/li&gt;&lt;li&gt;Drive and lead software design, development standards, code reviews.&lt;/li&gt;&lt;li&gt;Continually evaluate emerging technologies to identify opportunities, trends, and best practices that can be leveraged to strength CoStar\u2019s technology platform and develop practices.&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Qualifications&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;3+ years experience in a C# and .NET Framework&lt;/li&gt;&lt;li&gt;3+ years experience working in Javascript&lt;/li&gt;&lt;li&gt;Demonstrated experience in architecting, designing and building large scale distributed, services-oriented systems and web applications in an agile environment&lt;/li&gt;&lt;li&gt;3+ years data modeling experience&lt;/li&gt;&lt;li&gt;Bachelor\u2019s Degree&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;PREFERRED QUALIFCATIONS AND SKILLS (Nice To Haves)&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Strong communication skills (to both business and technical partners)&lt;/li&gt;&lt;li&gt;Bachelor\u2019s Degree &lt;/li&gt;&lt;li&gt;Knowledge of SQL experience&lt;/li&gt;&lt;li&gt;Data modeling experience from conceptual, logical and physical designs&lt;/li&gt;&lt;li&gt;Experience with RESTful web services&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;CoStar Group is an Equal Employment Opportunity Employer; we maintain a drug-free workplace and perform pre-employment substance abuse testing",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T05:10:08.000Z"
+  },
+  "company": {
+    "name": "CoStar Group",
+    "link": "https://www.linkedin.com/company/costar-group"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": "Software Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Richmond",
+    "region": "VA",
+    "postal_code": "23284",
+    "street_address": null,
+    "latitude": 37.54076,
+    "longitude": -77.43393
+  }
+}

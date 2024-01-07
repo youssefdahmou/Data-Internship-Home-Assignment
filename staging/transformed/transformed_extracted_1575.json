@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Automotive,Renewables &amp; Environment,Utilities",
+    "description": "&lt;strong&gt;Role&lt;br&gt;&lt;br&gt;&lt;/strong&gt;Tesla is looking for a strong Software Engineer to design and develop software for its current and next generations of Business Systems Applications. This position will be working with the Software Engineering team in Fremont, CA.&lt;br&gt;&lt;br&gt;The team will build the system used to supply material to the distribution and service centers. It will be built with the long-term vision of being a global system to manage warehouses for all Tesla business operations, which includes Vehicle Service and Energy Products. This will be a business-critical system essential to support the growth and mission of Tesla. The candidate will be working in Go, Angular, React, and MySQL.&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;Responsibilities&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt; &lt;li&gt;Design, implement and deliver end-to-end fully functional solutions.&lt;/li&gt; &lt;li&gt;Contribute relevant, clean, concise quality documentation to Tesla\u2019s knowledge base to support increase organizational information sharing.&lt;/li&gt; &lt;li&gt;Automating your repetitive development tasks.&lt;/li&gt; &lt;li&gt;Evangelize best practices in Software development and Software development lifecycle.&lt;/li&gt; &lt;br&gt;&lt;br&gt;&lt;/ul&gt;&lt;strong&gt;&lt;u&gt;Requirements&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt; &lt;li&gt;B.S. degree in Computer Science, IT or related fields&lt;/li&gt; &lt;li&gt;4+ years in Application Development&lt;/li&gt; &lt;li&gt;RESTful API Design &amp;amp; Implementation&lt;/li&gt; &lt;li&gt;Experience with Automated Testing&lt;/li&gt; &lt;li&gt;Web Frontend Development, using tools such as JavaScript, Angular, React, etc.&lt;/li&gt; &lt;li&gt;Backend Development, using tools such as Go, Java, Ruby, etc.&lt;/li&gt; &lt;li&gt;Database knowledge such as MySQL, Oracle, Postgres etc. &lt;/li&gt; &lt;li&gt;Experience working on business services software or enterprise software&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-02T07:44:07.000Z"
+  },
+  "company": {
+    "name": "Tesla",
+    "link": "https://www.linkedin.com/company/tesla-motors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": "Software Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fremont",
+    "region": "CA",
+    "postal_code": "94537",
+    "street_address": null,
+    "latitude": 37.5502,
+    "longitude": -121.98083
+  }
+}

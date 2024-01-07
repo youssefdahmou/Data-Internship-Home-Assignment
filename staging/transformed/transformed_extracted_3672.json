@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Financial Services",
+    "description": "&lt;p&gt;The &lt;strong&gt;Data Scientist&lt;/strong&gt; is responsible for providing data, analysis, statistical modeling, and machine learning capabilities to inform key business initiatives. This role will deliver models to optimize marketing spend, create personalized engagement, drive product, customer, and operations analytics for both our tax preparation and wealth management businesses.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;    &lt;strong&gt;ESSENTIAL DUTIES AND RESPONSIBILITIES&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;  &lt;/p&gt;&lt;p&gt;Major responsibilities of the position are listed below.&amp;nbsp;To perform the job successfully, the individual must be able to execute each essential duty satisfactorily. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.&amp;nbsp;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Develop statistical models to include LTV, lead scoring, segmentation, and churn to drive FP / Client engagement, retention and marketing spend optimization&lt;/li&gt;&lt;li&gt;Partner closely with Marketing, Product, BD, Growth and Operations teams to deliver analytical models / solutions aligned with business priorities &lt;/li&gt;&lt;li&gt;Build foundational analytics using modern data science techniques, machine learning and NLP&lt;/li&gt;&lt;li&gt;Support design and execution of A/B testing and experimentation&lt;/li&gt;&lt;li&gt;Perform end to end statistical modeling with a high level of accuracy:&lt;/li&gt;&lt;li&gt;Assembling and cleansing of data for modeling purposes.&lt;/li&gt;&lt;li&gt;Write and interpret complex SQL queries.&lt;/li&gt;&lt;li&gt;Model selection, build and testing&lt;/li&gt;&lt;li&gt;Partner with Data Engineering team to automate and deploy machine learning models.&lt;/li&gt;&lt;li&gt;Summarize and report key analytical findings and recommendations in both oral and written form to various technical and non-technical teams&lt;/li&gt;&lt;li&gt;Forward thinking mindset to continually evolve and drive predictive capabilities to inform key business decisions and drive action&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;\u00b7&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Other job duties as defined.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;strong&gt;Education and Experience&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;  &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bachelor\u2019s degree in a quantitative discipline (e.g. business, statistics, economics, physics, engineering); Master\u2019s degree preferred. &amp;nbsp;&lt;/li&gt;&lt;li&gt;Minimum of 2-5 years hands-on experience in analysis and modeling of large complex datasets; Wealth management or financial services experience preferred &lt;/li&gt;&lt;li&gt;Fluency in SQL and experience with Big Data&lt;/li&gt;&lt;li&gt;Expertise in a programming language (Python, R, SQL) for statistical analysis.&lt;/li&gt;&lt;li&gt;Expertise with statistical modeling techniques such as regression, classification, hypothesis testing and unsupervised learning&lt;/li&gt;&lt;li&gt;Hands-on experience with optimization, data mining or machine learning&lt;/li&gt;&lt;li&gt;Strong Excel and data visualization skills&lt;/li&gt;&lt;li&gt;Ability not just to retrieve and present data, but to draw conclusions and make recommendations&lt;/li&gt;&lt;li&gt;Experience working for a technology or internet company&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T15:20:26.000Z"
+  },
+  "company": {
+    "name": "Blucora",
+    "link": "https://www.linkedin.com/company/blucora"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": "Data Scientist"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas-Fort Worth Metroplex",
+    "region": null,
+    "postal_code": "75049",
+    "street_address": null,
+    "latitude": 32.7513,
+    "longitude": -97.08263
+  }
+}

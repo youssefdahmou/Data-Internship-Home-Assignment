@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "&lt;p&gt;Experienced software developer to create a UI on top of existing SDK and API\u2019s for new product development of spectro-radiometric instrumentation.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Proven experience creating a modern, effective UI for instrument control. Ease of use, visual appearance, presentation of data, and complex plotting features are critical.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Good communication skills and ability to document work&lt;/li&gt;&lt;li&gt;Results orientated individual able to work quickly and effectively to complete project on-time&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;u&gt;7 years related work experience&lt;/u&gt;&lt;/strong&gt; developing software to control scientific instrumentation and report empirical information.&lt;/li&gt;&lt;li&gt;Extensive experience in &lt;strong&gt;C#&lt;/strong&gt;, &lt;strong&gt;C++&lt;/strong&gt;, and &lt;strong&gt;Visual Studio&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;Additional experience working with Telerik UI for WinForms, Lua and Protobuf&lt;/li&gt;&lt;li&gt;Familiar with &lt;strong&gt;LabView&lt;/strong&gt;, &lt;strong&gt;Python&lt;/strong&gt; and &lt;strong&gt;MatLab&lt;/strong&gt; working environments a plus&lt;/li&gt;&lt;li&gt;Familiar with &lt;strong&gt;Linux&lt;/strong&gt; based operating system a plus&lt;/li&gt;&lt;li&gt;Strong testing and debugging skills&lt;/li&gt;&lt;li&gt;Experienced working in a &lt;strong&gt;Scrum Team/Sprints&lt;/strong&gt; development process&lt;/li&gt;&lt;li&gt;Working knowledge of &lt;strong&gt;GitHub&lt;/strong&gt; for source control and release&lt;/li&gt;&lt;li&gt;&lt;strong&gt;BS in Computer Science and/or Electrical Engineering&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T13:15:30.000Z"
+  },
+  "company": {
+    "name": "Actalent",
+    "link": "https://www.linkedin.com/company/actalentservices"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": "Software Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Orlando",
+    "region": "FL",
+    "postal_code": "32826",
+    "street_address": null,
+    "latitude": 28.586246,
+    "longitude": -81.188705
+  }
+}

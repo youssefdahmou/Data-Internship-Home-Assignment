@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Remote Senior Site Reliability Engineer, SRE / DevOps Engineer",
+    "industry": "Information Technology and Services,Computer Software",
+    "description": "&lt;strong&gt;Remote Unlimited PTO, latest frameworks, consistently voted best places to work!&lt;br&gt;&lt;br&gt;&lt;/strong&gt;This Jobot Job is hosted by Amber Heigerick&lt;br&gt;&lt;br&gt;Are you a fit? Easy Apply now by clicking the \"Apply\" button and sending us your resume.&lt;br&gt;&lt;br&gt;Salary $130,000 - $185,000 per year&lt;br&gt;&lt;br&gt;&lt;strong&gt;A Bit About Us&lt;br&gt;&lt;br&gt;&lt;/strong&gt;We are a leading financial technology company that is looking to add a Senior SRE / DevOps Engineer to our dynamic team! The team is crucial to building/deployment/monitoring automation of products for our cloud offering using cutting edge technologies.&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;Why join us?&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;/strong&gt;We've got an amazing track record of success and we foster ongoing innovation. So you get all the benefits of a proven, growing company, while enjoying a very entrepreneurial culture. We value being collaborative, open, respectful and at all levels of the organization -- this is our \"no jerks\" policy.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Job Details&lt;br&gt;&lt;br&gt;&lt;/strong&gt;The Senior Site Reliability Engineers / DevOps Enginner is a key member of our fast-growing and high-performing team;&lt;br&gt;&lt;ul&gt;&lt;li&gt;You will, research, define and architect solutions for Source Control, Build and Deployment automation, Continuous Integration, Environment Monitoring, and general developer tools and provide strategic and tactical directions.&lt;/li&gt;&lt;li&gt;Build software releases and testing new code; as an automation expert using tools that automate the development, testing and integration of software releases/fixes&lt;/li&gt;&lt;li&gt;Design, develop, and implement software that defines and evolves our infrastructure.&lt;/li&gt;&lt;li&gt;Troubleshoot production issues and coordinate with the development team to streamline code deployment.&lt;/li&gt;&lt;li&gt;Implement automation tools and frameworks (CI/CD pipelines).&lt;/li&gt;&lt;li&gt;Analyze code and communicate detailed reviews to development teams to ensure a marked improvement in applications and the timely completion of projects.&lt;/li&gt;&lt;li&gt;Collaborate with team members to improve the company's engineering tools, systems and procedures, and data security.&lt;/li&gt;&lt;li&gt;Optimize the company's computing architecture.&lt;/li&gt;&lt;li&gt;Kubernetes Google Kubernetes Engine, Helm/Flux, Gitops, and Rancher.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;Cloud Automation and Management Terraform, Cloud Formation, or Pulumi in any of GCP, AWS, or Azure. Experience building and enforcing IAM strategies.&lt;br&gt;&lt;br&gt;Configuration Management Saltstack, Chef, or Puppet.&lt;br&gt;&lt;br&gt;CI/CD Building CI/CD pipelines, especially Docker-based pipelines (e.g., CircleCI, Buddy.works, CodeFresh, Jenkins X, ArgoCD).&lt;br&gt;&lt;br&gt;Application Alerting and Monitoring ElasticSearch, Kibana, Prometheus, Grafana, Datadog&lt;br&gt;&lt;br&gt;Interested in hearing more? Easy Apply now by clicking the \"Apply\" button.&lt;br&gt;&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-07T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Jobot",
+    "link": "https://www.linkedin.com/company/jobot"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Remote Senior Site Reliability Engineer, SRE / DevOps Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Portland",
+    "region": "OR",
+    "postal_code": "97268",
+    "street_address": null,
+    "latitude": 45.516018,
+    "longitude": -122.68143
+  }
+}

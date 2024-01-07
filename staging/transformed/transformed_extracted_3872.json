@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Computer Software",
+    "description": "&lt;p&gt;&lt;strong&gt;Site Reliability Engineer Remote&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;12 Month Contract + extensions + conversion to full-time!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Project:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Demonware has a large number of products. They have written lots of small pieces of software they have written that\u2019s all custom. Have 30-40 production services that are running in AWS all need to be migrated to GCP.&amp;nbsp;Need ability to write GLUE Code and understand integration into open source products and propriety products written in their own code.&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Must haves:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;5+ years experience in a Devops/SRE role&lt;/li&gt;&lt;li&gt;Expert with Python development&lt;/li&gt;&lt;li&gt;Experience using Python to GLUE applications together&lt;/li&gt;&lt;li&gt;Experience with AWS&lt;/li&gt;&lt;li&gt;Experience with GCP &lt;/li&gt;&lt;li&gt;Strong experience with Kubernetes &lt;/li&gt;&lt;li&gt;Must have worked and written Helm Charts&lt;/li&gt;&lt;li&gt;YAML files&lt;/li&gt;&lt;li&gt;Kubernetes cluster deployments&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Day to Day: &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;This person will need an in-depth knowledge of complex systems with lots of unknowns. We need them to have the ability to look at the system and understand what decisions people have made in the past.&amp;nbsp;We will need them to have the ability to reason with complex systems and be able to reason and make decisions. This person needs to be able to look at infrastructure and reverse engineer problems in order to see decisions people have made and fix problems or reimplement that in a different place.&amp;nbsp;They do not need to be the decision makers but capable of understanding the problem and make informed decisions later down the road on different projects. They do not need to write software but instead have the ability to move complex software from a complex environment and move it to a different complex environment. Items like: de-bugging, troubleshooting, high scale looking at logs, understanding services at scale.&amp;nbsp;&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-12T18:20:48.000Z"
+  },
+  "company": {
+    "name": "Insight Global",
+    "link": "https://www.linkedin.com/company/insight-global"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Site Reliability Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Woodinville",
+    "region": "WA",
+    "postal_code": "98072",
+    "street_address": null,
+    "latitude": 47.754467,
+    "longitude": -122.16324
+  }
+}

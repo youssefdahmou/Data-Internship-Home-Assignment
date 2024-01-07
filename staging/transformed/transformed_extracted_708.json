@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist (Big Data Engineer)",
+    "industry": "Information Technology and Services,Financial Services,Hospital &amp; Health Care",
+    "description": "&lt;strong&gt;&lt;u&gt;Job Description&lt;br&gt;&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;strong&gt;Job Description...&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;u&gt;Required Skills&lt;br&gt;&lt;/u&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Experience in large-scale IT Project/Product delivery with at least 3 years of work experience in current data streaming, messaging, management, and database technologies&lt;/li&gt;&lt;li&gt;Ability to establish and always maintain effective and professional working relationships with others in the course and scope of conducting business&lt;/li&gt;&lt;li&gt;Excellent communication, problem-solving, and organizational skills&lt;/li&gt;&lt;li&gt;Strong data integrity, analytical, and multitasking skills&lt;/li&gt;&lt;li&gt;Graduation from an accredited four-year college or university with major coursework in Computer Science or Engineering&lt;/li&gt;&lt;li&gt;Experience creating producer and consumer applications with Kafka&lt;/li&gt;&lt;li&gt;Experience with designing and building data platforms&lt;/li&gt;&lt;li&gt;Experience in tuning and troubleshooting streaming/messaging platforms&lt;/li&gt;&lt;li&gt;Experience coding and scripting (Python, Java, Scala) and design experience&lt;/li&gt;&lt;li&gt;Experience with ELT methodologies and tools&lt;/li&gt;&lt;li&gt;Hands-on experience with AWS and/or Azure&lt;/li&gt;&lt;li&gt;Experience with KStreams and KSQL&lt;/li&gt;&lt;li&gt;Experience with designing and automating build and deployment solutions/process for data solutions&lt;/li&gt;&lt;li&gt;Familiarity with data visualization, warehouse, and analytics tools/platforms such as Qlick, SAS Viya, Kibana, Snowflake&lt;/li&gt;&lt;li&gt;Experience with streaming/messaging platforms (Kafka, MQ, RabbitMQ, Elk, Elasticsearch)&lt;/li&gt;&lt;li&gt;Basic knowledge of database technologies (PostgreSQL, Vertica, Redshift, etc.)&lt;/li&gt;&lt;/ul&gt; Able to work independently&lt;/strong&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-09T02:06:54.000Z"
+  },
+  "company": {
+    "name": "LanceSoft, Inc.",
+    "link": "https://www.linkedin.com/company/lancesoft"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": "Data Scientist (Big Data Engineer)"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

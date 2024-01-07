@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Modeler",
+    "industry": "Staffing and Recruiting",
+    "description": "&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;The EBDM Model Developer/ Analyst will function as part of the EBDM Model Development team. The role will primarily facilitate ongoing model validation efforts including, but not limited to: writing and executing model code; training, testing and validation of model performance against benchmark methods; data quality assessment; implementation of data preprocessing methods; reproducible workflow design; and documentation of methods, assumptions and outcomes. Analytical focus will provide insights into business processes, derived from model applications and involve communication of technical procedures to a wide audience with varying backgrounds.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Required Job Skills:&lt;/p&gt;&lt;p&gt;\u2022 Proficiency in Python programming and object oriented design&lt;/p&gt;&lt;p&gt;\u2022 Practical experience with large data analysis with multiple open source programming libraries (pandas, numpy, scikit-learn, scipy, statsmodels, as well as one of tensorflow/keras/pytorch)&lt;/p&gt;&lt;p&gt;\u2022 Hadoop, Apache Spark&lt;/p&gt;&lt;p&gt;\u2022 Neo4j and Cypher&lt;/p&gt;&lt;p&gt;\u2022 General statistics and probability&lt;/p&gt;&lt;p&gt;\u2022 Time series analysis, forecasting and anomaly detection&lt;/p&gt;&lt;p&gt;\u2022 Graph analytics/ network science&lt;/p&gt;&lt;p&gt;\u2022 Hands on advanced statistical modeling and/or machine learning model development in Python&lt;/p&gt;&lt;p&gt;\u2022 Experience with model design, implementation and evaluation of model performance&lt;/p&gt;&lt;p&gt;\u2022 Model validation procedures with knowledge of regulatory requirements in industry&lt;/p&gt;&lt;p&gt;\u2022 Quick learner with capacity for independent judgment and decision making&lt;/p&gt;&lt;p&gt;\u2022 Advanced Excel&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Desired Job Skills:&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;\u2022 Effective written and oral communication skills, especially in reference to explaining quantitative methodology for audiences of all technical backgrounds&lt;/p&gt;&lt;p&gt;\u2022 Degree in quantitative discipline involving computer science, engineering or statistics&lt;/p&gt;&lt;p&gt;\u2022 Jira/Agile&lt;/p&gt;&lt;p&gt;\u2022 PowerPoint&lt;/p&gt;&lt;ul&gt;&lt;li&gt;\u2022 SharePoint&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-18T22:02:48.000Z"
+  },
+  "company": {
+    "name": "ettain group",
+    "link": "https://www.linkedin.com/company/ettain-group"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Data Modeler"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Charlotte Metro",
+    "region": null,
+    "postal_code": "28209",
+    "street_address": null,
+    "latitude": 35.225204,
+    "longitude": -80.83933
+  }
+}

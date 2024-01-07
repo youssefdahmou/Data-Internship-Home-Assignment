@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "&lt;p&gt;&lt;strong&gt;Primary Skills:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;1. Good hands on experience on AWS Container Orchestration ( Kubernetes, ECS&lt;/p&gt;&lt;p&gt;)&lt;br&gt;2. Good to have knowledge of REST API, Spring Boot and Microservice architectur&lt;/p&gt;&lt;p&gt;e.&lt;br&gt;3. Experience on tools like bitbucket/GitHub, Postman, Swagg&lt;/p&gt;&lt;p&gt;er &lt;br&gt;4. Good to have knowledge of CI/CD pipeline like Bamboo, Jenki&lt;/p&gt;&lt;p&gt;ns. &lt;br&gt;5. Good knowledge and experience on AWS ECS Farget, Lambda, S3, CloudWatch, SQS/SNS, Dyna&lt;/p&gt;&lt;p&gt;moDB.&lt;br&gt;6. Experience on Distributed Traceability tools like HoneyComb, X-Ray, Splu&lt;/p&gt;&lt;p&gt;nk etc&lt;br&gt;7. Good knowledge and experience on Synthetic Monitoring, Performance tools like&lt;/p&gt;&lt;p&gt; JMeter&lt;br&gt;8. Good knowledge of SRE concepts like Resiliency, Availability, Circuit- Breaker , Chaos Testi&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;ng, SPOG&lt;br&gt;&lt;br&gt;Seconda&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;ry Skills:&lt;br&gt;1. Nice to have experience on Agile m&lt;/p&gt;&lt;p&gt;ethodology.&lt;br&gt;2. Nice to have Configuration Management tools (C&lt;/p&gt;&lt;p&gt;hef, Puppet)&lt;br&gt;3. Nice to have Infrastructure as Code (Terraform, Cl&lt;/p&gt;oudFormation)",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-10-14T21:53:26.000Z"
+  },
+  "company": {
+    "name": "Sky Solutions",
+    "link": "https://www.linkedin.com/company/sky-solutions-us"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Site Reliability Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Malvern",
+    "region": "PA",
+    "postal_code": "19355",
+    "street_address": null,
+    "latitude": 40.033436,
+    "longitude": -75.51271
+  }
+}

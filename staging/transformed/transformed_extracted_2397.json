@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Remote Application Support /Site Reliability Engineer",
+    "industry": "Information Services,Information Technology and Services,Financial Services",
+    "description": "&lt;p&gt;&lt;strong&gt;What you have: &lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;2-3+ years of systems and/or applications support in an enterprise environment.&lt;/li&gt;&lt;li&gt;Passion for learning, reliability, automation, orchestration and continual improvement.&lt;/li&gt;&lt;li&gt;Bachelor\u2019s degree in computer science or a related discipline, or equivalent experience.&lt;/li&gt;&lt;li&gt;Firm current Linux and Windows Server Administration experience.&lt;/li&gt;&lt;li&gt;Strong verbal and written communication skills.&lt;/li&gt;&lt;li&gt;Experience supporting middleware infrastructure (IIS, Tomcat,Websphere, etc).&lt;/li&gt;&lt;li&gt;Experience with Enterprise batch scheduling tools is a plus.&lt;/li&gt;&lt;li&gt;Experience with Continuous Delivery/Integration, Infrastructure as Code, Splunk, AppDynamics and Salt Stack a plus.&lt;/li&gt;&lt;li&gt;Experience in Agile methodologies, Kanban, CI/CD, Definition of Done and use of Atlassian Tools, Confluence, and Jira.&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-02T23:26:18.000Z"
+  },
+  "company": {
+    "name": "Mindlance",
+    "link": "https://www.linkedin.com/company/mindlance"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": "Remote Application Support /Site Reliability Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas-Fort Worth Metroplex",
+    "region": null,
+    "postal_code": "75049",
+    "street_address": null,
+    "latitude": 32.7513,
+    "longitude": -97.08263
+  }
+}

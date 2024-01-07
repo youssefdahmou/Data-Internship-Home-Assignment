@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "Role: Sr.Appain Developer / Appain Architect&lt;br&gt;Location: Irving TX or Tampa FL/&lt;br&gt;India - Pune,Chennai,Hyderabad&lt;br&gt;Or Mississauga, CA &lt;br&gt;Type of Hire : Fulltime Position&lt;br&gt;$120k-130k/annum. \u2013 can go higher salary for right candidates &lt;br&gt;&lt;br&gt;Job Detail &lt;br&gt;\u2022\tShould have worked on one or more end-to-end Appian BPM implementation (Design/Develop/Deploy/Package).&lt;br&gt;\u2022\tHands-on development on Appian (19x/20x) BPM applications.&lt;br&gt;\u2022\tExperience on Appian implementation knowing all aspects of Appian product and application methodology&lt;br&gt;\u2022\tExperience with Appian SAIL, Process Modeler, Rules, Expressions, Documents, Knowledge Center, Data Management through Complex Data Types XSDs and SQL queries, Custom plugin development.&lt;br&gt;\u2022\tGood understanding of Appian Objects such as Records, Sites, Actions, Expression Rules, Constants, Query Rules, SAIL Interfaces, CDTs, Process Models, Constants, Decisions, Integrations (Web API, Connected Systems etc), Data Stores, Groups, etc.\\&lt;br&gt;\u2022\tExperience with Agile software development practices&lt;br&gt;\u2022\tExcellent oral and written communication skills.&lt;br&gt;\u2022\tAppian Level 2 Certification is plus&lt;br&gt;\u2022\tShould be able to effectively contribute in the area of screen and workflow designs for moderate sized projects.&lt;br&gt;\u2022\tShould be able to leverage Appian technical documentation and Appian user community to build new prototypes as required.&lt;br&gt;\u2022\tCode, configure, debug, unit test, integration test and document application enhancements.&lt;br&gt;\u2022\tSupport the development of user guides for new projects and enhancements.&lt;br&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt;Regards, &lt;br&gt;Bala&lt;br&gt;bala.krishnan@scadea.com &lt;br&gt;Direct: 862-319-4010&lt;br&gt;Desk: 908.636.2727 Ext. 2215&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-13T21:17:59.000Z"
+  },
+  "company": {
+    "name": "Scadea Solutions, Inc.",
+    "link": "https://www.linkedin.com/company/scadea-solutions-inc-usa"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Software Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Irving",
+    "region": "TX",
+    "postal_code": "75063",
+    "street_address": null,
+    "latitude": 32.813877,
+    "longitude": -96.949936
+  }
+}

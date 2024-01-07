@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Biotechnology",
+    "description": "&lt;strong&gt;Data Scientist - Biotech&lt;br&gt;&lt;br&gt;&lt;/strong&gt;This Jobot Job is hosted by Kat Sarinas&lt;br&gt;&lt;br&gt;Are you a fit? Easy Apply now by clicking the \"Apply\" button and sending us your resume.&lt;br&gt;&lt;br&gt;Salary $120,000 - $180,000 per year&lt;br&gt;&lt;br&gt;&lt;strong&gt;A Bit About Us&lt;br&gt;&lt;br&gt;&lt;/strong&gt;We are revolutionizing biotech with our product that measures the eye's reflex.&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;Why join us?&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;/strong&gt;We are an exciting biotech start up that is looking to revolutionize the industry.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Job Details&lt;br&gt;&lt;br&gt;&lt;/strong&gt;Identify data sources, how to collect and prioritize.&lt;br&gt;&lt;br&gt;Process/Clean data.&lt;br&gt;&lt;br&gt;Integrate and store data.&lt;br&gt;&lt;br&gt;Look for correlation/trends/relation between data sets that allows for improved diagnosis, to measure treatment success, to refine therapies, etc.&lt;br&gt;&lt;br&gt;Use of machine learning, statistical modeling, and artificial intelligence.&lt;br&gt;&lt;br&gt;Measure and improve.&lt;br&gt;&lt;br&gt;Communicate actionable insights.&lt;br&gt;&lt;br&gt;Utilizes statistical software programs (e.g., SAS, R) to implement advanced statistical methodologies (e.g., longitudinal data analysis, survival analysis, Poisson regression, imputation methodologies and analyses with missing data) and verify underlying distributional assumptions&lt;br&gt;&lt;br&gt;&lt;strong&gt;Qualifications&lt;br&gt;&lt;br&gt;&lt;/strong&gt;Prior experience in biological sciences, pharmaceuticals, medical devices in entrepreneurial environment.&lt;br&gt;&lt;br&gt;A minimum of eight (8) years of experience conducting statistical analysis for clinical research projects. Master's or higher level degree in biostatistics, statistics, or a related field is required.&lt;br&gt;&lt;br&gt;Excellent verbal and written communication and interpersonal skills.&lt;br&gt;&lt;br&gt;Must be a self-starter, able to work independently and have the ability to coordinate multiple activities simultaneously in support of various projects&lt;br&gt;&lt;br&gt;Interested in hearing more? Easy Apply now by clicking the \"Apply\" button.&lt;br&gt;&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T21:07:54.000Z"
+  },
+  "company": {
+    "name": "Jobot",
+    "link": "https://www.linkedin.com/company/jobot"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": "Data Scientist"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Charleston",
+    "region": "SC",
+    "postal_code": "29492",
+    "street_address": null,
+    "latitude": 32.783062,
+    "longitude": -79.93444
+  }
+}

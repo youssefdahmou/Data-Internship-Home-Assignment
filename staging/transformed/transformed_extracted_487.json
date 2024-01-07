@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services",
+    "description": "&lt;p&gt;Our client is looking for a &lt;strong&gt;Machine Learning Engineer&lt;/strong&gt; to help them build and automate Chatbots for their SaaS product customer support.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Title: Machine Learning Engineer&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Key Skills:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;-2+ years of NLP experience (i.e. text classification, keyphrase extraction)&lt;/p&gt;&lt;p&gt;-5+ years of overall engineering experience&lt;/p&gt;&lt;p&gt;-&amp;nbsp;Solid Java Spring Boot knowledge for REST API integration&lt;/p&gt;&lt;p&gt;-CI/CD configuration&lt;/p&gt;&lt;p&gt;&lt;/p&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-13T16:22:04.000Z"
+  },
+  "company": {
+    "name": "K2 Partnering Solutions",
+    "link": "https://uk.linkedin.com/company/k2-partnering-solutions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Machine Learning Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

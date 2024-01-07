@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Computer Vision Algorithm Engineer",
+    "industry": "Consumer Electronics",
+    "description": "&lt;br&gt;&lt;strong&gt;Summary&lt;br&gt;&lt;/strong&gt; &lt;br&gt;The computer vision algorithm engineer will work in a small and dynamic team to design and implement cutting edge computer vision algorithms for Apple products.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Key Qualifications&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Solid fundamental Computer Vision methods and concepts&lt;br&gt;&lt;br&gt;Experience on computer vision shipping product development&lt;br&gt;&lt;br&gt;Solid C/C++ development skills&lt;br&gt;&lt;br&gt;Experience/knowledge in 3D graphics modeling (preferred)&lt;br&gt;&lt;br&gt;Experience/knowledge in large scale Machine Learning and Pattern Recognition (preferred)&lt;br&gt;&lt;br&gt;Experience/knowledge in software development on embedded platform (preferred)&lt;br&gt;&lt;br&gt;Team player&lt;br&gt;&lt;br&gt;Passion on cutting edge computer vision/machine learning technologies and product delivery&lt;br&gt;&lt;br&gt;Self motivated&lt;br&gt;&lt;br&gt;Excellent problem solving skills&lt;br&gt;&lt;br&gt;Excellent communication skills&lt;br&gt;&lt;br&gt;Can work under stress and uncertainty&lt;br&gt;&lt;br&gt;Fast learner&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Description&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Video engineering group is looking for a computer vision algorithm engineer. In this position, you will work together with similar minds in a unique development team where your skills and expertise will be put into the Apple products.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Education &amp;amp; Experience&lt;br&gt;&lt;/strong&gt; &lt;br&gt;PhD in Computer Vision or similar, alternatively a comparable industry career, with significant experience in state-of-the-art Computer Vision, Machine Learning and Pattern Recognition fields.&lt;br&gt;&lt;br&gt; &lt;br&gt;Role Number: 200171077&lt;br&gt;&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T20:15:59.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Computer Vision Algorithm Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

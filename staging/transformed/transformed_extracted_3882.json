@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "\u4eba\u6750",
+    "description": "&lt;p&gt;&lt;strong&gt;Must be located in Japan!!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Develop &lt;strong&gt;ML / NLP&lt;/strong&gt; applications on top of our core machine learning assets.&lt;/li&gt;&lt;li&gt;Architect and develop a scalable cloud AI service.&lt;/li&gt;&lt;li&gt;Application development on machine learning / deep learning assets&lt;/li&gt;&lt;li&gt;Design and construction of cloud architecture to provide AI services in a scalable manner&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Minimum Skill / Experience Required requirements&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Strong background in Computer Science or a related field&lt;/li&gt;&lt;li&gt;Extensive experiences in application development&lt;/li&gt;&lt;li&gt;Working experiences with &lt;strong&gt;AWS or other cloud platforms&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;Strong experiences with ML frameworks such as &lt;strong&gt;Scipy / Numpy, Scikit-Learn, Pandas, Tensorflow / Keras / PyTorch&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;Good working knowledge of machine learning models (linear regression, ensemble methods, boosting, &lt;strong&gt;RNN, CNN, GCN, GAN, etc&lt;/strong&gt;.)&lt;/li&gt;&lt;li&gt;Experiences with git, &lt;strong&gt;GitHub, CI / CD&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;Good communication skill&lt;/li&gt;&lt;li&gt;Computer&amp;nbsp;science or peripheral background-&lt;/li&gt;&lt;li&gt;Experience in application development&lt;/li&gt;&lt;li&gt;Experience in practical development on cloud platforms such as &lt;strong&gt;AWS&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;Understanding machine learning frameworks (&lt;strong&gt;Scipy / Numpy, Scikit-Learn, Pandas, Tensorflow / Keras / PyTorch&lt;/strong&gt;) &lt;/li&gt;&lt;li&gt;Sufficient Japanese or English Communication skills&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;** We have many other roles available from our clients, please feel free to share your updated resume and contact us for details.&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T06:47:51.000Z"
+  },
+  "company": {
+    "name": "Talisman Corporation",
+    "link": "https://jp.linkedin.com/company/talisman-corporation"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Machine Learning Engineer"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "JP",
+    "locality": "\u6771\u4eac",
+    "region": null,
+    "postal_code": null,
+    "street_address": null,
+    "latitude": 35.686962,
+    "longitude": 139.74947
+  }
+}

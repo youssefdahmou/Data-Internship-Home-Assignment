@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Join a team recognized for leadership, innovation and diversity&lt;br&gt;&lt;br&gt;Join a team that designs, develops and integrates highly complex software applications within Honeywell Aerospace. You will be an active and integral member of a team to achieve the completion of goals. You will also generate innovative solutions in work situations; trying different and novel ways to deal with problems and opportunities.&lt;br&gt;&lt;br&gt;Key Responsibilities&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Requirements and design&lt;/li&gt;&lt;li&gt;Software architecture and coding&lt;/li&gt;&lt;li&gt;Integration&lt;/li&gt;&lt;li&gt;Certification&lt;/li&gt;&lt;li&gt;Test&lt;/li&gt;&lt;li&gt;Feature Definition&lt;/li&gt;&lt;li&gt;Customer Support&lt;/li&gt;&lt;li&gt;Verification and Validation&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;YOU MUST HAVE&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Bachelors degree in Engineering or Computer Science&lt;/li&gt;&lt;li&gt;US Citizen due to contractual purposes. &lt;br&gt;&lt;/li&gt;&lt;/ul&gt;WE VALUE&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Understanding various software development lifecycle&lt;/li&gt;&lt;li&gt;Demonstrate the ability to develop efficient and high quality software&lt;/li&gt;&lt;li&gt;Knowledge of software configuration management and change management practices&lt;/li&gt;&lt;li&gt;Diverse and global teaming and collaboration&lt;/li&gt;&lt;li&gt;Effective communicator&lt;/li&gt;&lt;li&gt;Can quickly analyze, incorporate and apply new information and concepts&lt;/li&gt;&lt;li&gt;Ability to consistently make timely decisions even in the face of complexity, balancing systematic analysis with decisiveness&lt;/li&gt;&lt;li&gt;Ability to convey subtle or complex messages clearly, as appropriate for the topic and audience&lt;/li&gt;&lt;li&gt;Ability to code in multiple languages&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;Additional Information&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;JOB ID: &lt;/strong&gt;HRD131832&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Category: &lt;/strong&gt;Engineering&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Location: &lt;/strong&gt;1944 E Sky Harbor Circle,Phoenix,Arizona,85034,United States&lt;/li&gt;&lt;li&gt;Exempt&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;Early Career (ALL)&lt;br&gt;&lt;br&gt;Honeywell is an equal opportunity employer. Qualified applicants will be considered without regard to age, race, creed, color, national origin, ancestry, marital status, affectional or sexual orientation, gender identity or expression, disability, nationality, sex, or veteran status.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-23T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Honeywell",
+    "link": "https://www.linkedin.com/company/honeywell"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Software Engineer I"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Phoenix",
+    "region": "AZ",
+    "postal_code": "85009",
+    "street_address": null,
+    "latitude": 33.448204,
+    "longitude": -112.072586
+  }
+}

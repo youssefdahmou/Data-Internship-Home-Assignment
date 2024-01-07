@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer, Human Understanding",
+    "industry": "Consumer Electronics",
+    "description": "&lt;br&gt;&lt;strong&gt;Summary&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Proactive Intelligence is at the heart of an intelligent system experience that understands you and anticipates your needs. We are building an on-device personal and contextual intelligence platform that will benefit the millions of people who use Apple devices every day. We want your help to use state-of-the-art, privacy-preserving machine learning to solve problems like predicting what app you will launch next, understanding whether you are working or relaxing, and inferring durable facts about you that can be used for greater personalization throughout the system.&lt;br&gt;&lt;br&gt;&lt;br&gt;As a part of this team, you will touch various parts of our codebase, from researching and experimenting with new ideas to implementing and optimizing models to run on resource-constrained devices. You will have the opportunity to teach and learn from others and grow in our close-knit, growing team.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Key Qualifications&lt;br&gt;&lt;/strong&gt; &lt;br&gt;Experience using machine learning techniques for classification, regression, ranking, or recommendation problems&lt;br&gt;&lt;br&gt;Experience building predictive models for recommendations or personalization using standard tools like Keras/TensorFlow/Pytorch, scikit-learn, or similar frameworks&lt;br&gt;&lt;br&gt;3+ years of proven experience building large-scale software systems&lt;br&gt;&lt;br&gt;Experience in resource constrained computing (embedded systems or mobile development) is a plus&lt;br&gt;&lt;br&gt;Experience in compiled languages C, C++, Java, Objective-C, or Swift is a plus&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Description&lt;br&gt;&lt;/strong&gt; &lt;br&gt;You will bring your expertise and passion for solving challenging, real-world problems into our growing team that operates like a startup within Apple. Our vision is to build a unified on-device personal and contextual intelligence platform, including developing a personal knowledge graph. We collaborate with many different teams at Apple to build groundbreaking technology that enables surprising and delightful experiences for billions of people.&lt;br&gt;&lt;br&gt;&lt;br&gt;We are looking for a Machine Learning Engineer who can solve novel problems in areas including personalization, recommendations, predictions, information extraction, and performance optimization to build and optimize features used by millions of people worldwide. As part of this quickly growing team, you\u2019ll build state-of-the-art, on-device, privacy preserving, and performant intelligent systems. You should be someone with an expertise in machine learning who can play a key role in defining our team\u2019s machine learning approach. To succeed, you are a strong problem solver with proven agility to work across multiple codebases, teams, and organizations.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;strong&gt;Education &amp;amp; Experience&lt;br&gt;&lt;/strong&gt; &lt;br&gt;MS in Computer Science or equivalent practical experience&lt;br&gt;&lt;br&gt; &lt;br&gt;Role Number: 200279282&lt;br&gt;&lt;br&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-29T09:28:58.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": "Machine Learning Engineer, Human Understanding"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}
