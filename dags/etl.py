@@ -1,25 +1,23 @@
 from datetime import timedelta, datetime
 import os
+import requests as re
 import json
 import pandas as pd 
-from airflow.operators.python_operator import PythonOperator
+from airflow.operators.python import PythonOperator
 from airflow.providers.sqlite.hooks.sqlite import SqliteHook
 from airflow.decorators import dag, task
 from airflow.providers.sqlite.hooks.sqlite import SqliteHook
-from airflow.providers.sqlite.operators.sqlite import SqliteOperator
+from airflow.providers.common.sql.operators.sql import SQLExecuteQueryOperator
+from airflow.utils.dates import days_ago
+
+import logging
 
 
+logging.basicConfig(level=logging.DEBUG)
 extracted_dir = os.path.join(os.path.dirname(__file__), '..',  'staging', 'extracted')
 
 
-TABLES_CREATION_QUERY = """CREATE TABLE IF NOT EXISTS job (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    title VARCHAR(225),
-    industry VARCHAR(225),
-    description TEXT,
-    employment_type VARCHAR(125),
-    date_posted DATE
-);
+TABLES_CREATION_QUERY = """CREATE TABLE IF NOT EXISTS job (id INTEGER PRIMARY KEY AUTOINCREMENT,title VARCHAR(225),industry VARCHAR(225),description TEXT,employment_type VARCHAR(125),date_posted DATE);
 
 CREATE TABLE IF NOT EXISTS company (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -182,7 +180,7 @@ def transform(extracted_dir):
 @task()
 def load(transformed_dir):
     """Load transformed data to SQLite database."""
-    sqlite_hook = SqliteHook(sqlite_conn_id='sqlite_default')
+    sqlite_hook = SqliteHook(sqlite_conn_id='jobs')
 
     for filename in os.listdir(transformed_dir):
         if filename.endswith('.json'):
@@ -201,18 +199,26 @@ def load(transformed_dir):
 
 def insert_job(sqlite_hook, job_data):
     """Insert job data into the job table and return the job_id."""
-    query = """
-        INSERT INTO job (title, industry, description, employment_type, date_posted)
-        VALUES (?, ?, ?, ?, ?)
-    """
-    params = (
-        job_data['title'],
-        job_data['industry'],
-        job_data['description'],
-        job_data['employment_type'],
-        job_data['date_posted'],
-    )
-    return sqlite_hook.insert_rows(table='job', rows=[params])
+    query_max_id = "SELECT MAX(id) FROM job;"
+    try:
+        max_id = sqlite_hook.get_first(query_max_id)[0] or 0
+        job_data['id'] = max_id + 1
+        query_insert_job = """
+            INSERT INTO job (id, title, industry, description, employment_type, date_posted)
+            VALUES (?, ?, ?, ?, ?, ?)
+        """
+        params = (
+            job_data['id'],
+            job_data['title'],
+            job_data['industry'],
+            job_data['description'],
+            job_data['employment_type'],
+            job_data['date_posted'],
+        )
+        sqlite_hook.insert_rows(table='job', rows=[params])
+        return max_id + 1
+    except Exception as e:
+        raise Exception(f"Error inserting job data: {e}")
 
 def insert_company(sqlite_hook, job_id, company_data):
     """Insert company data into the company table."""
@@ -270,41 +276,50 @@ def insert_location(sqlite_hook, job_id, location_data):
 
 
 
+# ------------------------------------ task 4 : creating tables ------------------------------
+@task()
+def create_tables(query):
+    """Create all tables at once if they don't exist."""
+    sqlite_hook = SqliteHook(sqlite_conn_id='jobs')
+    try:
+        for statement in query.split(';'):
+            statement = statement.strip()
+            if statement:
+                sqlite_hook.run(statement)
+        return 'The tables are created successfully.'
+    except Exception as e:
+        raise Exception(f"Error creating tables: {e}")
+
 
 # -------------------------------------------------------- dags  management-------------------------
+
 
 DAG_DEFAULT_ARGS = {
     "depends_on_past": False,
     "retries": 3,
-    "retry_delay": timedelta(minutes=15)
+    "retry_delay": timedelta(minutes=0.000000001),
+    'start_date': days_ago(5)
 }
 
 @dag(
     dag_id="etl_dag",
     description="ETL LinkedIn job posts",
     tags=["etl"],
-    schedule_interval="@daily",
-    start_date=datetime(2024, 1, 2),
+    schedule="0 0 * * *",
     catchup=False,
     default_args=DAG_DEFAULT_ARGS
 )
-
 def etl_dag():
-    """ETL pipeline"""
-
-    create_tables = SqliteOperator(
-        task_id="create_tables",
-        sqlite_conn_id="sqlite_default",
-        sql=TABLES_CREATION_QUERY
-    )
+    create_tables2 = create_tables(TABLES_CREATION_QUERY)
 
     extracted_data = extract()
     transformed_data = transform(extracted_data)
-    load(transformed_data)
+    load_task = load(transformed_data)
 
-    create_tables >> extracted_data
-    extracted_data >> transformed_data
-    transformed_data >> load
+    # Use the set_downstream method to set task dependencies
+    create_tables2.set_downstream(extracted_data)
+    extracted_data.set_downstream(transformed_data)
+    transformed_data.set_downstream(load_task)
+etl_dag()
 
-
-etl_dag = etl_dag()
+# https://maxcotec.com/learning/how-to-create-a-dag-in-airflow/
